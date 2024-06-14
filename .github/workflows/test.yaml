@@ -40,15 +40,15 @@ jobs:
             country=$(echo "$file" | cut -d'/' -f4)
             filename=$(basename "$file")
             # Replace these variables with your SharePoint URL and client ID/secret
-            sharepoint_url="https://triconindia.sharepoint.com/sites/Europa}"
+            sharepoint_url="https://triconindia.sharepoint.com/sites/Europa"
             client_id="${{ secrets.CLIENT_ID }}"
             client_secret="${{ secrets.CLIENT_SECRET }}"
-           
             tenant_id="6ba04439-8b0e-43ee-ad26-c2ac9ef9e765"  # Replace with your Azure AD tenant ID
 
             # Get OAuth token
             oauth_token=$(curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=client_credentials&client_id=$client_id&client_secret=$client_secret&resource=$sharepoint_url" https://login.microsoftonline.com/$tenant_id/oauth2/token)
 
             # Upload file to SharePoint using cURL
-            curl -k -X POST -F "file=@$file" -H "accept: application/json;odata=verbose" -H "content-type: application/json;odata=verbose" -H "Authorization: Bearer $(echo $oauth_token | jq -r '.access_token')" $sharepoint_url/_api/web/getfolderbyserverrelativeurl('/Shared%20Documents')/Files/add(url='$country/$filename',overwrite=true)"
+            curl -k -X POST -F "file=@$file" -H "accept: application/json;odata=verbose" -H "content-type: application/json;odata=verbose" -H "Authorization: Bearer $(echo $oauth_token | jq -r '.access_token')" "$sharepoint_url/_api/web/getfolderbyserverrelativeurl('/Shared%20Documents')/Files/add(url='$country/$filename',overwrite=true)"
           done
+

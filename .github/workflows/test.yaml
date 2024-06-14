@@ -5,8 +5,7 @@ on:
     branches:
       - main
     paths:
-      - maps-topic-qa\Topics\Region**'
-      
+      - 'maps-topic-qa/Topics/Region/**'
 
 jobs:
   upload-to-s3:
@@ -20,7 +19,7 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1  
+          aws-region: us-east-1
 
       - name: Install AWS CLI
         run: |
@@ -29,12 +28,7 @@ jobs:
 
       - name: Upload Region Files to S3 with Prefixed Filenames
         run: |
-          for file in $(find maps-topic-qa\Topics\Region -type f); do
+          for file in $(find maps-topic-qa/Topics/Region -type f); do
             filename=$(basename "$file")
             aws s3 cp "$file" "s3://oxygen.xml/region/region_${filename}"
           done
-
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: us-east-1 

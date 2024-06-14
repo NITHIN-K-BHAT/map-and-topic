@@ -1,4 +1,4 @@
-name: Upload Region Files to S3
+name: Upload Region Files to S3 and SharePoint
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - 'maps-topic-qa/Topics/Region/**'
 
 jobs:
-  upload-to-s3:
+  upload-files:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -33,3 +33,25 @@ jobs:
             filename=$(basename "$file")
             aws s3 cp "$file" "s3://oxygen.xml/maps-topic-qa/Topics/Region/$country/${filename}"
           done
+
+      - name: Upload Files to SharePoint
+        run: |
+          CLIENT_ID="${{ secrets.CLIENT_ID }}"
+          CLIENT_SECRET="${{ secrets.CLIENT_SECRET }}"
+          DRIVE_ID="${{ secrets.DRIVE_ID }}"
+          SITE_ID="${{ secrets.SITE_ID }}"
+          FILE_PATH="maps-topic-qa/Topics/Region/yourfile.dita"
+
+          # Get OAuth2 Access Token
+          TOKEN_RESPONSE=$(curl -X POST \
+            -d "grant_type=client_credentials&client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&scope=https://graph.microsoft.com/.default" \
+            "https://login.microsoftonline.com/common/oauth2/v2.0/token")
+
+          ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r .access_token)
+
+          # Upload File to SharePoint
+          curl -X PUT \
+            -H "Authorization: Bearer $ACCESS_TOKEN" \
+            -H "Content-Type: text/plain" \
+            --data-binary "@$FILE_PATH" \
+            "https://graph.microsoft.com/v1.0/sites/$SITE_ID/drives/$DRIVE_ID/root:/Europa/$FILE_PATH:/content"

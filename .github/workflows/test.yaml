@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'maps-topic-qa/Topics/Region**'
+      - 'maps-topic-qa/topic/region/**'
 
 jobs:
   upload-to-s3:

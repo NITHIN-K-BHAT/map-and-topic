@@ -38,20 +38,29 @@ jobs:
         run: |
           CLIENT_ID="${{ secrets.CLIENT_ID }}"
           CLIENT_SECRET="${{ secrets.CLIENT_SECRET }}"
-          DRIVE_ID="${{ secrets.DRIVE_ID }}"
-          SITE_ID="${{ secrets.SITE_ID }}"
-          FILE_PATH="maps-topic-qa/Topics/Region/yourfile.dita"
+          TENANT_ID="${{ secrets.TENANT_ID }}"
+          SITE_NAME="Europa"
+          SITE_ID="431a40db-2230-435a-b2e8-a840482a228c"
+          DRIVE_ID="b!20AaQzAiWkOy6KhASCoijEiko1lHz8xHkoYjM70zcDXpsAgwU3puSolNN1VdApwP"
 
-          # Get OAuth2 Access Token
-          TOKEN_RESPONSE=$(curl -X POST \
-            -d "grant_type=client_credentials&client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&scope=https://graph.microsoft.com/.default" \
-            "https://login.microsoftonline.com/common/oauth2/v2.0/token")
+          # Assuming each file in Region folder should be uploaded
+          # Adjust if necessary
 
-          ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r .access_token)
+          for file in $(find maps-topic-qa/Topics/Region -type f); do
+            FILE_PATH="$file"
 
-          # Upload File to SharePoint
-          curl -X PUT \
-            -H "Authorization: Bearer $ACCESS_TOKEN" \
-            -H "Content-Type: text/plain" \
-            --data-binary "@$FILE_PATH" \
-            "https://graph.microsoft.com/v1.0/sites/$SITE_ID/drives/$DRIVE_ID/root:/Europa/$FILE_PATH:/content"
+            # Get OAuth2 Access Token
+            TOKEN_RESPONSE=$(curl -sX POST \
+              -d "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials&scope=https://graph.microsoft.com/.default" \
+              "https://login.microsoftonline.com/$TENANT_ID/oauth2/v2.0/token")
+
+            ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r .access_token)
+
+            # Upload File to SharePoint
+            curl -sX PUT \
+              -H "Authorization: Bearer $ACCESS_TOKEN" \
+              -H "Content-Type: application/json" \
+              --data "{\"@microsoft.graph.conflictBehavior\": \"replace\"}" \
+              --data-binary "@$FILE_PATH" \
+              "https://graph.microsoft.com/v1.0/sites/$SITE_ID/drives/$DRIVE_ID/items/root:/$FILE_PATH:/content"
+          done

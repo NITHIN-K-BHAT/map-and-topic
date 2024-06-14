@@ -42,7 +42,7 @@ jobs:
             sharepoint_url="https://triconindia.sharepoint.com/sites/Europa}"
             client_id="${{ secrets.CLIENT_ID }}"
             client_secret="${{ secrets.CLIENT_SECRET }}"
-            TenantID = "${{ secrets.TenantID }}"
+           
 
             # Get OAuth token
             oauth_token=$(curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=client_credentials&client_id=$client_id&client_secret=$client_secret&resource=$sharepoint_url" https://accounts.accesscontrol.windows.net/{{6ba04439-8b0e-43ee-ad26-c2ac9ef9e765}}/tokens/OAuth/2)

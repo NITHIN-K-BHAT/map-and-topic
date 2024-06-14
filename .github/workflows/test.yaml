@@ -30,8 +30,9 @@ jobs:
         run: |
           for file in $(find maps-topic-qa/Topics/Region -type f); do
             filename=$(basename "$file")
-            aws s3 cp "$file" "s3://oxygen.xml/region/region_${filename}" --acl public-read
+            aws s3 cp "$file" "s3://oxygen.xml/region/region_${filename}"
           done
+
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

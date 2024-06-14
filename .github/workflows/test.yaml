@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'topic/region/**'
+      - 'maps-topic-qa/topic/region/**'
 
 jobs:
   upload-to-s3:
@@ -26,12 +26,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y awscli
 
-      - name: List files in topic/region directory
-        run: ls -R topic/region/
+      - name: List files in maps-topic-qa/topic/region directory
+        run: ls -R maps-topic-qa/topic/region/
 
       - name: Upload Region Files to S3 with Prefixed Filenames
         run: |
-          for file in $(find topic/region -type f); do
+          for file in $(find maps-topic-qa/topic/region -type f); do
             filename=$(basename "$file")
             aws s3 cp "$file" "s3://oxygen.xml/region_${filename}"
           done

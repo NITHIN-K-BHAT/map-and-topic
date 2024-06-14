@@ -34,33 +34,40 @@ jobs:
             aws s3 cp "$file" "s3://oxygen.xml/maps-topic-qa/Topics/Region/$country/${filename}"
           done
 
-      - name: Upload Files to SharePoint
-        run: |
-          CLIENT_ID="${{ secrets.CLIENT_ID }}"
-          CLIENT_SECRET="${{ secrets.CLIENT_SECRET }}"
-          TENANT_ID="${{ secrets.TENANT_ID }}"
-          SITE_NAME="Europa"
-          SITE_ID="431a40db-2230-435a-b2e8-a840482a228c"
-          DRIVE_ID="b!20AaQzAiWkOy6KhASCoijEiko1lHz8xHkoYjM70zcDXpsAgwU3puSolNN1VdApwP"
-
-          # Assuming each file in Region folder should be uploaded
-          # Adjust if necessary
-
-          for file in $(find maps-topic-qa/Topics/Region -type f); do
-            FILE_PATH="$file"
-
-            # Get OAuth2 Access Token
-            TOKEN_RESPONSE=$(curl -sX POST \
-              -d "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials&scope=https://graph.microsoft.com/.default" \
-              "https://login.microsoftonline.com/$TENANT_ID/oauth2/v2.0/token")
-
-            ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r .access_token)
-
-            # Upload File to SharePoint
-            curl -sX PUT \
-              -H "Authorization: Bearer $ACCESS_TOKEN" \
-              -H "Content-Type: application/json" \
-              --data "{\"@microsoft.graph.conflictBehavior\": \"replace\"}" \
-              --data-binary "@$FILE_PATH" \
-              "https://graph.microsoft.com/v1.0/sites/$SITE_ID/drives/$DRIVE_ID/items/root:/$FILE_PATH:/content"
-          done
+          - name: Upload Files to SharePoint
+          run: |
+            CLIENT_ID="${{ secrets.CLIENT_ID }}"
+            CLIENT_SECRET="${{ secrets.CLIENT_SECRET }}"
+            TENANT_ID="${{ secrets.TENANT_ID }}"
+            SITE_NAME="Europa"
+            SITE_ID="431a40db-2230-435a-b2e8-a840482a228c"
+            DRIVE_ID="b!20AaQzAiWkOy6KhASCoijEiko1lHz8xHkoYjM70zcDXpsAgwU3puSolNN1VdApwP"
+        
+            # Assuming each file in Region folder should be uploaded
+            # Adjust if necessary
+        
+            for file in $(find maps-topic-qa/Topics/Region -type f); do
+              FILE_PATH="$file"
+        
+              # Get OAuth2 Access Token
+              TOKEN_RESPONSE=$(curl -sX POST \
+                -d "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials&scope=https://graph.microsoft.com/.default" \
+                "https://login.microsoftonline.com/$TENANT_ID/oauth2/v2.0/token")
+        
+              echo "Token Response: $TOKEN_RESPONSE"
+        
+              ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r .access_token)
+        
+              echo "Access Token: $ACCESS_TOKEN"
+        
+              # Upload File to SharePoint
+              UPLOAD_RESPONSE=$(curl -sX PUT \
+                -H "Authorization: Bearer $ACCESS_TOKEN" \
+                -H "Content-Type: application/json" \
+                --data "{\"@microsoft.graph.conflictBehavior\": \"replace\"}" \
+                --data-binary "@$FILE_PATH" \
+                "https://graph.microsoft.com/v1.0/sites/$SITE_ID/drives/$DRIVE_ID/items/root:/Europa/.dita:/content")
+        
+              echo "Upload Response: $UPLOAD_RESPONSE"
+            done
+        

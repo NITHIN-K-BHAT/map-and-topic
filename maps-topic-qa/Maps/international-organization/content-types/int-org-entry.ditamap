@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Int org entry</mainbooktitle>
+     </booktitle>
+     <chapter id="ituc.io" navtitle="International trade union confederation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ituc.io.dita" navtitle="International trade union confederation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="apec.io" navtitle="Asia pacific economic cooperation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/apec.io.dita" navtitle="Asia pacific economic cooperation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unctad.io" navtitle="United nations conference on trade and development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unctad.io.dita" navtitle="United nations conference on trade and development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ccasg.io" navtitle="Cooperation council for the arab states of the gulf">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ccasg.io.dita" navtitle="Cooperation council for the arab states of the gulf" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="eu.io" navtitle="European union">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wb02047.io.txt.dita" navtitle="European union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eu.io-activities-european-union.dita.dita" navtitle="Activities of the european union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eu.io-external-relations-european-union.dita.dita" navtitle="External relations of the european union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eu.io-finance.dita.dita" navtitle="Finance" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eu.io-european-union-fundamental-other-treaties.dita.dita" navtitle="European union fundamental and other treaties" keyscope="int-org-sectref" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="who.io" navtitle="World health organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/who.io.dita" navtitle="World health organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="idb.io" navtitle="Inter american development bank">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/idb.io.dita" navtitle="Inter american development bank" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="imf.io" navtitle="International monetary fund">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/imf.io.dita" navtitle="International monetary fund" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ce.io" navtitle="Council of europe">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ce.io.dita" navtitle="Council of europe" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="aiib.io" navtitle="Asian infrastructure investment bank">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/aiib.io.dita" navtitle="Asian infrastructure investment bank" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="asiandb.io" navtitle="Asian development bank">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/asiandb.io.dita" navtitle="Asian development bank" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un_firstsection.io" navtitle="General information, membership and principal organs">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/sl607024.dita" navtitle="General information, membership and principal organs" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-united-nations-information-centres-services.dita.dita" navtitle="United nations information centres" keyscope="int-org-sectref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-conferences.dita.dita" navtitle="Conferences" keyscope="int-org-section" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-system-wide-coherence.dita.dita" navtitle="System wide coherence" keyscope="int-org-section" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-finance.dita.dita" navtitle="Finance" keyscope="int-org-section" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-united-nations-publications.dita.dita" navtitle="United nations publications" keyscope="int-org-section" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-secretariat.dita.dita" navtitle="Secretariat" keyscope="int-org-entryref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-general-assembly.dita.dita" navtitle="General assembly" keyscope="int-org-entryref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-security-council.dita.dita" navtitle="Security council" keyscope="int-org-entryref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-united-nations-economic-social-council.dita.dita" navtitle="United nations economic and social council" keyscope="int-org-entryref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-international-court-justice.dita.dita" navtitle="International court of justice" keyscope="int-org-entryref" keys="int-org-entry" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_firstsection.io-trusteeship-council.dita.dita" navtitle="Trusteeship council" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ohchr.io" navtitle="Office of the united nations high commissioner for human rights">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ohchr.io.dita" navtitle="Office of the united nations high commissioner for human rights" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="bis.io" navtitle="Bank for international settlements">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/bis.io.dita" navtitle="Bank for international settlements" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="las.io" navtitle="League of arab states">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/las.io.dita" navtitle="League of arab states" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un-habitat.io" navtitle="United nations human settlements programme">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un-habitat.io.dita" navtitle="United nations human settlements programme" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="escwa.io" navtitle="Economic and social commission for western asia">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/escwa.io.dita" navtitle="Economic and social commission for western asia" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="oecd.io" navtitle="Organisation for economic co operation and development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/oecd.io.dita" navtitle="Organisation for economic co operation and development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="opec-fund.io" navtitle="Opec fund for international development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/opec-fund.io.dita" navtitle="Opec fund for international development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="isa.io" navtitle="International seabed authority">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/isa.io.dita" navtitle="International seabed authority" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="mercosur.io" navtitle="Southern common market">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/mercosur.io.dita" navtitle="Southern common market" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="pacific.io" navtitle="Pacific community">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/pacific.io.dita" navtitle="Pacific community" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="undoco.io" navtitle="United nations development coordination office">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/undoco.io.dita" navtitle="United nations development coordination office" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="au.io" navtitle="African union">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/au.io.dita" navtitle="African union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un-peace.io" navtitle="United nations peacekeeping">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un-peace.io.dita" navtitle="United nations peacekeeping" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="caricom.io" navtitle="Caribbean community">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/caricom.io.dita" navtitle="Caribbean community" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="amf.io" navtitle="Arab monetary fund">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/amf.io.dita" navtitle="Arab monetary fund" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="can.io" navtitle="Andean community">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/can.io.dita" navtitle="Andean community" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un_fundamentaltreaties.io" navtitle="United nations fundamental treaties">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_fundamentaltreaties.io.dita" navtitle="United nations fundamental treaties" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="eclac.io" navtitle="Economic commission for latin america and the caribbean">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eclac.io.dita" navtitle="Economic commission for latin america and the caribbean" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="escap.io" navtitle="Economic and social commission for asia and the pacific">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/escap.io.dita" navtitle="Economic and social commission for asia and the pacific" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un-peace-building.io" navtitle="United nations political missions and peacebuilding">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un-peace-building.io.dita" navtitle="United nations political missions and peacebuilding" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="nato.io" navtitle="North atlantic treaty organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/nato.io.dita" navtitle="North atlantic treaty organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ece.io" navtitle="Economic commission for europe">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ece.io.dita" navtitle="Economic commission for europe" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ocha.io" navtitle="Office for the coordination of humanitarian affairs">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ocha.io.dita" navtitle="Office for the coordination of humanitarian affairs" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="comesa.io" navtitle="Common market for eastern and southern africa">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/comesa.io.dita" navtitle="Common market for eastern and southern africa" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="icao.io" navtitle="International civil aviation organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/icao.io.dita" navtitle="International civil aviation organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unrwa.io" navtitle="United nations relief and works agency for palestine refugees in the near east">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unrwa.io.dita" navtitle="United nations relief and works agency for palestine refugees in the near east" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="oas.io" navtitle="Organization of american states">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/oas.io.dita" navtitle="Organization of american states" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="osce.io" navtitle="Organization for security and co operation in europe">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/osce.io.dita" navtitle="Organization for security and co operation in europe" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unoosa.io" navtitle="United nations office for outer space affairs">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unoosa.io.dita" navtitle="United nations office for outer space affairs" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="esa.io" navtitle="European space agency">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/esa.io.dita" navtitle="European space agency" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unfpa.io" navtitle="United nations population fund">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unfpa.io.dita" navtitle="United nations population fund" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="laia.io" navtitle="Latin american integration association">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/laia.io.dita" navtitle="Latin american integration association" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="undp.io" navtitle="United nations development programme">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/undp.io.dita" navtitle="United nations development programme" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="eca.io" navtitle="Economic commission for africa">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eca.io.dita" navtitle="Economic commission for africa" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="upu.io" navtitle="Universal postal union">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/upu.io.dita" navtitle="Universal postal union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="pif.io" navtitle="Pacific islands forum">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/pif.io.dita" navtitle="Pacific islands forum" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unoda.io" navtitle="United nations office for disarmament affairs">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unoda.io.dita" navtitle="United nations office for disarmament affairs" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="intcc.io" navtitle="International criminal court">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/intcc.io.dita" navtitle="International criminal court" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un-research.io" navtitle="United nations training and research institutes">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un-research.io.dita" navtitle="United nations training and research institutes" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ilo.io" navtitle="International labour organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ilo.io.dita" navtitle="International labour organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="opec.io" navtitle="Organization of the petroleum exporting countries">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/opec.io.dita" navtitle="Organization of the petroleum exporting countries" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="sica.io" navtitle="Central american integration system">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/sica.io.dita" navtitle="Central american integration system" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="icc.io" navtitle="International chamber of commerce">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/icc.io.dita" navtitle="International chamber of commerce" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="iaea.io" navtitle="International atomic energy agency">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/iaea.io.dita" navtitle="International atomic energy agency" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ida.io" navtitle="International development association (ida)">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ida.io.dita" navtitle="International development association (ida)" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="bsec.io" navtitle="Organization of the black sea economic cooperation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/bsec.io.dita" navtitle="Organization of the black sea economic cooperation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="itu.io" navtitle="International telecommunication union">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/itu.io.dita" navtitle="International telecommunication union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wfp.io" navtitle="World food programme">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wfp.io.dita" navtitle="World food programme" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ipu.io" navtitle="Inter parliamentary union">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ipu.io.dita" navtitle="Inter parliamentary union" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="afesd.io" navtitle="Arab fund for economic and social development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/afesd.io.dita" navtitle="Arab fund for economic and social development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ebrd.io" navtitle="European bank for reconstruction and development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ebrd.io.dita" navtitle="European bank for reconstruction and development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="sadc.io" navtitle="Southern african development community">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/sadc.io.dita" navtitle="Southern african development community" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="eco.io" navtitle="Economic cooperation organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/eco.io.dita" navtitle="Economic cooperation organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un-women.io" navtitle="United nations entity for gender equality and the empowerment of women">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un-women.io.dita" navtitle="United nations entity for gender equality and the empowerment of women" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wto.io" navtitle="World trade organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wto.io.dita" navtitle="World trade organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unodc.io" navtitle="United nations office on drugs and crime">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unodc.io.dita" navtitle="United nations office on drugs and crime" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ifad.io" navtitle="International fund for agricultural development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ifad.io.dita" navtitle="International fund for agricultural development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="adb.io" navtitle="African development bank">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/adb.io.dita" navtitle="African development bank" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="irc.io" navtitle="International red cross and red crescent movement">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/irc.io.dita" navtitle="International red cross and red crescent movement" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="un_otherorgs.io" navtitle="Other un and related organizations active in the region">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/un_otherorgs.io.dita" navtitle="Other un and related organizations active in the region" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ifc.io" navtitle="International finance corporation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ifc.io.dita" navtitle="International finance corporation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="imo.io" navtitle="International maritime organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/imo.io.dita" navtitle="International maritime organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="asean.io" navtitle="Association of southeast asian nations">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/asean.io.dita" navtitle="Association of southeast asian nations" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="islamdb.io" navtitle="Islamic development bank">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/islamdb.io.dita" navtitle="Islamic development bank" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wipo.io" navtitle="World intellectual property organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wipo.io.dita" navtitle="World intellectual property organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wtouro.io" navtitle="World tourism organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wtouro.io.dita" navtitle="World tourism organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="saarc.io" navtitle="South asian association for regional cooperation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/saarc.io.dita" navtitle="South asian association for regional cooperation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="oapec.io" navtitle="Organization of arab petroleum exporting countries">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/oapec.io.dita" navtitle="Organization of arab petroleum exporting countries" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unesco.io" navtitle="United nations educational, scientific and cultural organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unesco.io.dita" navtitle="United nations educational, scientific and cultural organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="ecowas.io" navtitle="Economic community of west african states">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/ecowas.io.dita" navtitle="Economic community of west african states" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wftu.io" navtitle="World federation of trade unions">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wftu.io.dita" navtitle="World federation of trade unions" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unep.io" navtitle="United nations environment programme">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unep.io.dita" navtitle="United nations environment programme" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="iom.io" navtitle="International organization for migration">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/iom.io.dita" navtitle="International organization for migration" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unhcr.io" navtitle="United nations high commissioner for refugees">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unhcr.io.dita" navtitle="United nations high commissioner for refugees" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unicef.io" navtitle="United nations children's fund">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unicef.io.dita" navtitle="United nations children's fund" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wcc.io" navtitle="World council of churches">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wcc.io.dita" navtitle="World council of churches" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="wmo.io" navtitle="World meteorological organization">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/wmo.io.dita" navtitle="World meteorological organization" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="oic.io" navtitle="Organization of islamic cooperation">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/oic.io.dita" navtitle="Organization of islamic cooperation" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="franc.io" navtitle="Franc zone">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/franc.io.dita" navtitle="Franc zone" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="igad.io" navtitle="Intergovernmental authority on development">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/igad.io.dita" navtitle="Intergovernmental authority on development" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="commonw.io" navtitle="The commonwealth">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/commonw.io.dita" navtitle="The commonwealth" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+     <chapter id="unclimate.io" navtitle="United nations climate change">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-entry/unclimate.io.dita" navtitle="United nations climate change" keyscope="int-org-entry" keys="int-org-entry" format="dita" />
+     </chapter>
+</bookmap>

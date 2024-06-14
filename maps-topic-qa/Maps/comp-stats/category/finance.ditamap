@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Finance</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.8" navtitle="Reserves of foreign exchange">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.8.dita"
+            navtitle="Reserves of foreign exchange"/>
+    </chapter>
+    <chapter id="stats.table.9" navtitle="Government expense">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.9.dita"
+            navtitle="Government expense"/>
+    </chapter>
+    <chapter id="stats.table.10" navtitle="Change in Consumer Price Indices">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.10.dita"
+            navtitle="Change in Consumer Price Indices"/>
+    </chapter>
+    <chapter id="stats.table.11" navtitle="GDP in purchasing-power parity valuation">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.11.dita"
+            navtitle="GDP in purchasing-power parity valuation"/>
+    </chapter>
+    <chapter id="stats.table.12" navtitle="GDP in current prices">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.12.dita"
+            navtitle="GDP in current prices"/>
+    </chapter>
+    <chapter id="stats.table.13" navtitle="Annual change in real GDP">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.13.dita"
+            navtitle="Annual change in real GDP"/>
+    </chapter>
+    <chapter id="stats.table.14" navtitle="GDP per head in current prices">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.14.dita"
+            navtitle="GDP per head in current prices"/>
+    </chapter>
+    <chapter id="stats.table.15" navtitle="GDP per head in purchasing-power parity valuation">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.15.dita"
+            navtitle="GDP per head in purchasing-power parity valuation"/>
+    </chapter>
+    <chapter id="stats.table.16" navtitle="Annual change in real GDP per head">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.16.dita"
+            navtitle="Annual change in real GDP per head"/>
+    </chapter>
+    <chapter id="stats.table.17" navtitle="Economic activities">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.17.dita"
+            navtitle="Economic activities"/>
+    </chapter>
+    <chapter id="stats.table.18" navtitle="Current account balance">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.18.dita"
+            navtitle="Current account balance"/>
+    </chapter>
+    <chapter id="stats.table.33" navtitle="Personal remittances from abroad">
+        <topicref href="../../../Topics/comp-stats/category/finance/stats.table.33.dita"
+            navtitle="Personal remittances from abroad"/>
+    </chapter>
+</bookmap>

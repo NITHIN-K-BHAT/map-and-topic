@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61916" sllink="SLSDOCRF" sllinkid="61915" slsdocid="57861" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="GR.DIR.200" id-root="gr.dir" iso="gr" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <dir-section id="GR.DIR.201" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Christianity</heading>
+                         <dir-section id="GR.DIR.623" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Eastern Orthodox Church</heading>
+                              <p>The Greek branch of the Eastern Orthodox Church is the officially established religion of the country, to which around 97% of the population profess adherence.</p>
+                              <p>Within the Greek state, there is also the semi-autonomous Church of Crete, which is under the spiritual jurisdiction of the Ecumenical Patriarchate of Constantinople (based in İstanbul, Türkiye).</p>
+                              <p>There are also four Metropolitan Sees of the Dodecanese, which are dependent on the Ecumenical Patriarchate, and, finally, the peninsula of Athos, which constitutes the region of the Holy Mountain (Mount Athos) and comprises 20 monasteries. These are dependent on the Ecumenical Patriarchate of Constantinople, but are autonomous and are safeguarded constitutionally.</p>
+                              <org-list>
+                                   <org-entryref id="SL2068735" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2068734" slsdocid="2068695" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.1184852591" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Orthodox Church of Greece</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Iasiou 1, 115 21 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 7272202</telephone>
+                                                  <email>contact@ecclesia.gr</email>
+                                                  <internet>www.ecclesia.gr</internet>
+                                             </address-block>
+                                             <found-date>1850</found-date>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2069005" sllink="SLSDOCRF" sllinkid="2069004" slsdocid="57837" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="GR.DIR.204" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Primate of Greece</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <verbatim-name>Ieronymos II (Liapis)</verbatim-name>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2069008" sllink="SLSDOCRF" sllinkid="2069007" slsdocid="57836" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="GR.DIR.206" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--sc 08.02.2022 https://www.ekathimerini.com/news/1176974/new-crete-archbishop-enthroned/-->
+                                             <!--Sc 19.01.2021 role group not confirmed-->
+                                             <dir-entry-name>Archbishop of Crete</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Archbishop</title>
+                                                            <surname>Eugenios</surname>
+                                                       </person-name>
+                                                       <person-note>whose See is based at Rethymno</person-note>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                         <dir-section id="GR.DIR.208" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Roman Catholic Church</heading>
+                              <p id="GR.DIR.210">Greece comprises four archdioceses (including two, Athens and Rhodes, directly responsible to the Holy See), four dioceses, the Apostolic Vicariate of Thessaloniki and an Apostolic Exarchate for adherents of the Byzantine Rite. There is also an Ordinariate for Armenian Catholics. There are an estimated 133,000 Roman Catholics in the country, over 2,500 adherents of the Byzantine Rite and a few hundred adherents of the Armenian Rite.</p>
+                              <!--nb 10 01 2024 Catholic stats https://www.catholicsandcultures.org/greece and other rite stats https://cathecclesia.gr/catholic-church-in-greece/-->
+                              <dir-section id="GR.DIR.209" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                                   <heading>Latin Rite</heading>
+                                   <org-list>
+                                        <org-entryref id="SL2685570" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2685569" slsdocid="58324" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="GR.DIR.211" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                                  <!--sc 19.01.2021 email confirmed at https://www.cathecclesia.gr/hellas/index.php/dioceses/diocese-of-syros/37-catholic-diocese-of-syros/catholic-diocese-of-syros role grup at https://www.cathecclesia.gr/hellas/index.php/bishops-conference-->
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bishops' Conference</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>G. Papandreou 15, 841 00 Syros</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(22) 81084782</telephone>
+                                                       <internet>cathecclesia.gr/the-catholic-bishops-conference</internet>
+                                                  </address-block>
+                                                  <found-date>1967</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Petros</forename>
+                                                                 <surname>Stephanou</surname>
+                                                            </person-name>
+                                                            <person-note>Bishop of Syros</person-note>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2588117" sllink="SLSDOCRF" sllinkid="2588116" slsdocid="1187351" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="GR.DIR.1110898271" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                                  <!--Sc 16.07.2021 https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2021/07/14/210714a.html-->
+                                                  <!--Sc 19.01.2021 info updated from https://www.cathecclesia.gr/hellas/index.php/bishops-conference/30-catholic-church-in-greece/catholic-church-in-greece-->
+                                                  <dir-entry-name>Archbishop of Athens</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Theodoros</forename>
+                                                                 <surname>Kontidis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Odos Homirou 9, 106 72 Athens</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(210) 3624311</telephone>
+                                                  </address-block>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2588121" sllink="SLSDOCRF" sllinkid="2588120" slsdocid="1187377" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="GR.DIR.1110898848" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                                  <!--sc 19.01.2021 info updated at https://www.cathecclesia.gr/hellas/index.php/dioceses/archdiocese-of-corfu/32-catholic-archdiocese-of-corfu/catholic-archdiocese-of-corfu-->
+                                                  <dir-entry-name>Archbishop of Corfu, Zante and Cefalonia</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Giorgios</forename>
+                                                                 <surname>Altouvas</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Montzeníkhou 3, 491 00 Kérkyra</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(26610) 30277</telephone>
+                                                       <fax>(26610) 31675</fax>
+                                                       <email>cathepco@otenet.gr</email>
+                                                  </address-block>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2588126" sllink="SLSDOCRF" sllinkid="2588125" slsdocid="1187387" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="GR.DIR.1110899103" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                                  <!--Sc 27.01.2021https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2021/01/25/210125c.html-->
+                                                  <!--Sc 19.01.2021 info udpated at https://www.cathecclesia.gr/hellas/index.php/dioceses/archdiocese-of-naxos-tinos/31-catholic-archdiocese-of-naxos-tinos/catholic-archdiocese-of-naxos-tinos-->
+                                                  <dir-entry-name>Archbishop of Naxos, Andros, Tinos and Mykonos</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Josif</forename>
+                                                                 <surname>Printezis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Pallada, POB 24, 842 00 Tinos</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(22830) 22382</telephone>
+                                                       <fax>(22830) 24769</fax>
+                                                       <email>web.kantam@gmail.com</email>
+                                                       <internet>kantam.gr</internet>
+                                                  </address-block>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2588133" sllink="SLSDOCRF" sllinkid="2588132" slsdocid="1187359" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="GR.DIR.1110898390" id-root="gr.dir" iso="gr" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                                  <!--nb 08 01 2024 vacant as per Catholic Hierarchy/ Arch. of Athens is Apost. Adm. for Rhodes-->
+                                                  <!--Sc 19.01.2021 info udpated at https://www.cathecclesia.gr/hellas/index.php/dioceses/archdiocese-of-rodos/36-catholic-archdiocese-of-rhodes/catholic-archdiocese-of-rhodes-->
+                                                  <dir-entry-name>Archbishop of Rhodes</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <vacancy />
+                                                       </person>
+                                                  </person-group>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Kathopouli 39, 85100 Rhodes</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(22410) 22305</telephone>
+                                                       <fax>(22410) 26688</fax>
+                                                  </address-block>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                                   <org-list>
+                                        <org-entryref id="SL2588138" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2588137" slsdocid="58318" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="GR.DIR.216" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                                  <!--nb 08 01 2024 vacant as per Catholic Hierarchy-->
+                                                  <!--Sc 19.01.2021 https://www.cathecclesia.gr/hellas/index.php/dioceses/apostolic-vivariate-of-thessalonica/41-apostolic-vicariate-of-thessalonica/apostolic-vicatiate-of-thessalonica-->
+                                                  <org-entry-head>
+                                                       <org-entry-name>Apostolic Vicariate of Thessaloniki</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          Kolokotroni 19
+                          <sc>b</sc>
+                          , 564 30 Stavroupolis-Thessaloniki
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(2310) 654256</telephone>
+                                                       <email>vicariatumthess@otenet.gr</email>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Apostolic Vicar</role>
+                                                       <person>
+                                                            <vacancy />
+                                                       </person>
+                                                  </role-group>
+                                                  <!--TP 13.03.2012 details from (i) http://www.cathecclesia.gr/hellas/index.php/dioceses/apostolic-vivariate-of-thessalonica/apostolic-administrator.html and (ii) http://www.cathecclesia.gr/hellas/index.php/dioceses/apostolic-vivariate-of-thessalonica.html-->
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                              <dir-section id="GR.DIR.217" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                                   <heading>Byzantine Rite</heading>
+                                   <org-list>
+                                        <org-entryref id="SL66376" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66375" slsdocid="58317" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="GR.DIR.218" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                                  <!--nb 08 01 2024 as per wiki, there were over 6k adherents in 2018 but could not verify-->
+                                                  <!--Sc 19.01.2021 https://www.catholic-hierarchy.org/diocese/dgrby.htmlhttps://www.cathecclesia.gr/hellas/index.php/dioceses/exarch-of-byzantine-rite-->
+                                                  <data-protection date-added="26.04.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Apostolic Exarchate for Greek Catholics of the Byzantine Rite</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Odos Akarnon 246, 112 53 Athens</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(210) 8670170</telephone>
+                                                       <fax>(210) 8677039</fax>
+                                                       <email>grcathex@hol.gr</email>
+                                                  </address-block>
+                                                  <stats>2 parishes</stats>
+                                                  <stats>3,500 adherents</stats>
+                                                  <role-group>
+                                                       <role>Apostolic Exarch</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Manuel</forename>
+                                                                 <surname>Nin</surname>
+                                                            </person-name>
+                                                            <person-note>Titular Bishop of Carcabia</person-note>
+                                                       </person>
+                                                  </role-group>
+                                                  <!--TP 13.03.2012 details from http://www.cathecclesia.gr/hellas/index.php/dioceses/exarch-of-byzantine-rite/bishop.html and http://www.cathecclesia.gr/hellas/index.php/dioceses/exarch-of-byzantine-rite.html-->
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                              <dir-section id="GR.DIR.219" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                                   <heading>Armenian Rite</heading>
+                                   <org-list>
+                                        <org-entryref id="SL66378" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66377" slsdocid="58316" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="GR.DIR.220" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                                  <!--Sc 19.01.2021 info updated at http://www.gcatholic.org/dioceses/diocese/gree2.htm-->
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ordinariate for Catholics of the Armenian Rite in Greece</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Odos René Pyo 2, 117 44 Athens</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(210) 9014089</telephone>
+                                                       <fax>(210) 9012109</fax>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Ordinary</role>
+                                                       <person>
+                                                            <vacancy />
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Apostolic Administrator</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Most Rev.</title>
+                                                                 <forename>Hovsep</forename>
+                                                                 <surname>Bezazian</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <!--TP 13.03.2012 details from http://www.cathecclesia.gr/hellas/index.php/dioceses/ordinariat-of-armenian-rite/apostolic-administrator.html-->
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-section>
+                         <dir-section id="GR.DIR.221" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Protestant Church</heading>
+                              <org-list>
+                                   <org-entryref id="SL66380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66379" slsdocid="58315" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.222" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--nb 08 01 2024 could not verify role group and stats-->
+                                             <!--sc 19.01.2021 role group and note not confirmed-->
+                                             <data-protection date-added="26.03.2003" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Greek Evangelical Church</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Markon Botsari 24, 117 41 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 9222684</telephone>
+                                                  <fax>(210) 9222684</fax>
+                                                  <email>info@gec.gr</email>
+                                                  <internet>gec.gr</internet>
+                                             </address-block>
+                                             <found-date>1858</found-date>
+                                             <stats>comprises 32 organized churches</stats>
+                                             <role-group>
+                                                  <role>Moderator</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Rev.</title>
+                                                            <forename>Meletis</forename>
+                                                            <surname>Meletiadis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="GR.DIR.223" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Islam</heading>
+                         <p id="GR.DIR.224">The law provides a Chief Mufti as religious head of the Muslims; Muslims in Greece possess a number of mosques and schools.</p>
+                    </dir-section>
+                    <dir-section id="GR.DIR.225" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Judaism</heading>
+                         <p id="GR.DIR.226">The Jewish population of Greece, estimated in 1943 at 75,000 people, was severely reduced as a result of the Nazi German occupation. By 2023, according to World Jewish Congress figures, there were some 4,100 Jews in Greece.</p>
+                         <!--nb 10 01 2024 info from https://www.worldjewishcongress.org/en/about/communities/gr-->
+                         <org-list>
+                              <org-entryref id="SL66382" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66381" slsdocid="58314" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.227" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                        <!--sc 19.01.2021 info updated at https://kis.gr/en/index.php?option=com_content&view=article&id=410&Itemid=75-->
+                                        <!--SBE 08.01.2015 Info updated from http://www.eurojewcong.org/communities/greece.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Central Board of the Jewish Communities of Greece</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Odos Voulis 36, 105 57 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3244315</telephone>
+                                             <email>info@kis.gr</email>
+                                             <internet>www.kis.gr</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <content-note style="NORMAL">officially recognized representative body of the Jewish communities of Greece</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Saltiel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 13.03.2012 details could not be updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

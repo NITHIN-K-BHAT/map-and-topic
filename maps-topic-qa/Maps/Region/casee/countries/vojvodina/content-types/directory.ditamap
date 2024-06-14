@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Directory</mainbooktitle>
+     </booktitle>
+     <chapter id="rs-vo.dir" navtitle="Directory">
+          <topicref href="../../../../../../Topics/Region/casee/countries/vojvodina/content-types/directory/rs-vo.dir.dita" navtitle="Directory" keyscope="directory" keys="directory" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/vojvodina/content-types/directory/rs-vo.dir-legislature.dita" navtitle="Legislature" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/vojvodina/content-types/directory/rs-vo-local-government.dita" navtitle="Local government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+     </chapter>
+</bookmap>

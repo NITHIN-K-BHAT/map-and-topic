@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1625402" sllink="SLSDOCRF" sllinkid="1625401" slsdocid="1501920" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SI.DIR.1140803069" id-root="si.dir" iso="si" sect-type="legislature" section="Election Commission" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--nb 21 04 2023 headline content checked-->
+                    <!--nb 19 07 2023 headline content checked-->
+                    <!--nb 24 04 2024 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1501961" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1501960" slsdocid="1501949" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SI.DIR.1140805062" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>National Electoral Commission</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Slovenska 54, 1000 Ljubljana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 4322002</telephone>
+                                        <fax>(1) 4331269</fax>
+                                        <email>gp.dvk@dvk-rs.si</email>
+                                        <internet>www.dvk-rs.si</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Igor</forename>
+                                                  <surname>Zorčič</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

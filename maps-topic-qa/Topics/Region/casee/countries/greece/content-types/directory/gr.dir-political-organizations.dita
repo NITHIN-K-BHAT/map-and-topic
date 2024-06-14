@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61910" sllink="SLSDOCRF" sllinkid="61909" slsdocid="57845" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="GR.DIR.92" id-root="gr.dir" iso="gr" sect-type="political-orgs" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--SC 19.07.2023 nb 04 04 2023 headline content checked-->
+                    <!--nb 09 04 2024 headline content checked-->
+                    <heading>Political Organizations</heading>
+                    <org-list>
+                         <org-entryref id="SL65676" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65675" slsdocid="57922" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.95" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Dimokratiko Patriotiko Kinima</org-entry-name>
+                                        <abbr>NIKI</abbr>
+                                        <alt-name>Victory—Democratic Patriotic Movement</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Pl. Aristotelous 5, 546 23 Thessaloniki</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(231) 0232999</telephone>
+                                        <email>info@nikh.gr</email>
+                                        <internet>nikh.gr</internet>
+                                   </address-block>
+                                   <found-date>2019</found-date>
+                                   <content-note style="NORMAL">far-right</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dimitris</forename>
+                                                  <surname>Natsios</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6715932" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6715931" slsdocid="6715900" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1562582851" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--Sc 15.01.2021 add not confirmed tel confirmed at https://www.facebook.com/ellinikilisi/?ref=page_internal-->
+                                   <org-entry-head>
+                                        <org-entry-name>Elliniki Lisi</org-entry-name>
+                                        <alt-name>Greek Solution</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Ippokratous 10-12, Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3645183</telephone>
+                                        <email>info@elliniki-lisi.gr</email>
+                                        <internet>elliniki-lisi.gr</internet>
+                                   </address-block>
+                                   <found-date>2016</found-date>
+                                   <content-note style="NORMAL">right-wing, Eurosceptic</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Kyriakos</forename>
+                                                  <surname>Velopoulos</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5116427" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5116426" slsdocid="5116408" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1447064076" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 14.07.2022 rolegroup confirmed at https://twitter.com/proedrosek?lang=en-->
+                                   <!--sc1 23.04.2021 role goup confirme at https://europeelects.eu/european-union/greece/-->
+                                   <data-protection date-added="27.01.2017" ticked-box="N" />
+                                   <org-entry-head>
+                                        <org-entry-name>Enosi Kentroon</org-entry-name>
+                                        <abbr>EK</abbr>
+                                        <alt-name>Union of Centrists</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Odos Karolou 28, 104 37 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 5220357</telephone>
+                                        <email>info@enosi-kentroon.gr</email>
+                                        <internet>enosi-kentroon.gr</internet>
+                                   </address-block>
+                                   <found-date>1992</found-date>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vassilis</forename>
+                                                  <surname>Leventis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL9008651" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="9008650" slsdocid="57924" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.94" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Note: Heraklion Ave is the same as the address we have listed - but anglicized-->
+                                   <org-entry-head>
+                                        <org-entry-name>Kommounistiko Kómma Elladas</org-entry-name>
+                                        <abbr>KKE</abbr>
+                                        <alt-name>Communist Party of Greece</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Leoforos Irakliou 145, Nea Ionia, 142 31 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 2592111</telephone>
+                                        <email>mailbox@kke.gr</email>
+                                        <internet>www.kke.gr</internet>
+                                   </address-block>
+                                   <found-date>1918</found-date>
+                                   <content-note style="NORMAL">banned in 1947, re-emerged in 1974</content-note>
+                                   <role-group>
+                                        <role>Gen. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dimitris</forename>
+                                                  <surname>Koutsoumpas</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5026003" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5026002" slsdocid="5025991" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1441004735" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--nb 09 04 2024 unsure ab role group-->
+                                   <org-entry-head>
+                                        <org-entry-name>Laiki Enotita</org-entry-name>
+                                        <abbr>LAE</abbr>
+                                        <alt-name>Popular Unity</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Patision 14, Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3800066</telephone>
+                                        <email>grafeiotypou@laiki-enotita.gr</email>
+                                        <internet>laiki-enotita.gr</internet>
+                                   </address-block>
+                                   <found-date>
+                Aug. 2015 by fmr mems of 
+                <xr pageref="N" ref="GR.DIR.1237291818">SYRIZA</xr>
+                 (q.v.)
+              </found-date>
+                                   <content-note style="NORMAL">far-left</content-note>
+                                   <content-note style="NORMAL">allied with MeRA25 for the 2023 elections</content-note>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dimitris</forename>
+                                                  <surname>Stratoulis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6715807" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6715806" slsdocid="6135939" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1522991352" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--nb 09 04 2024 sec as per ownweb-->
+                                   <!--Sc 19.07.2023 role group confirmed at https://diem25.org/statement-mera25-greece-leader-yanis-varoufakis-greek-election-result/-->
+                                   <!--sc 14.-07.2022 05.04.2022 Yanis is written as Secretary in the official website.-->
+                                   <!--sc 19.07.2021 23.04.2021 role group not confirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Metopo Evropaikis Realistikis Anypakois</org-entry-name>
+                                        <abbr>MeRA25</abbr>
+                                        <alt-name>European Realistic Disobedience Front</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Mavrommataion 15, 2nd Floor, 104 34 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3810671</telephone>
+                                        <email>info@mera25.gr</email>
+                                        <internet>mera25.gr</internet>
+                                   </address-block>
+                                   <found-date>2018</found-date>
+                                   <content-note style="NORMAL">left-wing</content-note>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Yanis</forename>
+                                                  <surname>Varoufakis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8944804" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8944803" slsdocid="8944761" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1710142187" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--nb 11 03 2024 no contact info available yet-->
+                                   <org-entry-head>
+                                        <org-entry-name>Nea Aristera</org-entry-name>
+                                        <abbr>NE.A.</abbr>
+                                        <alt-name>New Left</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Athens</verbatim-address>
+                                        </address>
+                                        <email>info@neaaristera.gr</email>
+                                        <internet>neaaristera.gr</internet>
+                                   </address-block>
+                                   <found-date>2024 by former members of SYRIZA</found-date>
+                                   <content-note style="NORMAL">left-wing</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Alexis</forename>
+                                                  <surname>Haritsis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6718166" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6718165" slsdocid="57917" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.100" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="04.04.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Nea Dimokratia</org-entry-name>
+                                        <abbr>ND</abbr>
+                                        <alt-name>New Democracy</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Peiraios 62, 183 46 Moschato</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 9444000</telephone>
+                                        <email>d.melitsiotis@parliament.gr</email>
+                                        <internet>nd.gr</internet>
+                                   </address-block>
+                                   <found-date>1974</found-date>
+                                   <content-note style="NORMAL">broad-based centre-right party advocating social reform in the framework of a liberal economy</content-note>
+                                   <content-note style="NORMAL">supports European integration and enlargement</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Kyriakos</forename>
+                                                  <surname>Mitsotakis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <!--CROSS-REFERENCED: Independent Greeks (ID: gr.dir.1336478723)-->
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6656962" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6656961" slsdocid="6656859" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1558680366" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--nb 09 04 2024 website suspended-unable to access/unsure ab Gen Sec-->
+                                   <!--nb 04 04 2023 role groups confirmed from ownweb-->
+                                   <org-entry-head>
+                                        <org-entry-name>Nea Dexia</org-entry-name>
+                                        <alt-name>New Right</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Apollon 3-5, 105 57 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 9000500</telephone>
+                                        <email>info.neadexia@gmail.com</email>
+                                        <internet>www.neadexia.gr</internet>
+                                   </address-block>
+                                   <found-date>2016</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Failos</forename>
+                                                  <surname>Kranidiotis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Gen. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Theodoros-Orestis</forename>
+                                                  <surname>Skapinakis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL9008657" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="9008656" slsdocid="2166474" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1194451265" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--nb 23 04 2024 seems like there was a recent election of new membs to power/ updated-->
+                                   <org-entry-head>
+                                        <org-entry-name>Oikologoi Prasinoi</org-entry-name>
+                                        <abbr>OP</abbr>
+                                        <alt-name>Ecologist Greens</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Oktovríou 28/128, 112 57 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3306301</telephone>
+                                        <fax>(210) 3241825</fax>
+                                        <email>contact@ecogreens.gr</email>
+                                        <internet>ecogreens.gr</internet>
+                                   </address-block>
+                                   <found-date>2002</found-date>
+                                   <content-note style="NORMAL">mem. of European Green Party</content-note>
+                                   <role-group>
+                                        <role>Co-Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Alexandra</forename>
+                                                  <surname>Datseri</surname>
+                                             </person-name>
+                                        </person>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Konstantinos</forename>
+                                                  <surname>Ziavras</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL65688" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65687" slsdocid="57916" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.101" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--nb 05 04 2023 rebranding confirmed at https://www.keeptalkinggreece.com/2022/05/09/pasok-kinal-name-change-greece-politics/-->
+                                   <!--Sc 09.06.2022 https://newsbeezer.com/greeceeng/pasok-this-is-the-new-political-council-and-the-new-edekap/-->
+                                   <!--sc 26.10.2021 president has died https://www.ekathimerini.com/news/1170552/greece-mourns-passing-of-kinal-leader/-->
+                                   <!--sC 19.07.2021 gen sec not confirmed-->
+                                   <!--Sc 23.04.2021 role group at https://peoplepill.com/people/nikos-androulakis/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Panellinio Socialistiko Kinima-Kinima Allagis</org-entry-name>
+                                        <abbr>PASOK-KINAL</abbr>
+                                        <alt-name>Panhellenic Socialist Movement-Movement for Change</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Charilaou Trikoupi 50, 106 80 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3665000</telephone>
+                                        <email>grammateas@pasok.gr</email>
+                                        <internet>pasok.gr</internet>
+                                   </address-block>
+                                   <found-date>1974</found-date>
+                                   <content-note style="NORMAL">supports social welfare, decentralization and self-management, aims for Mediterranean socialist devt through international co-operation; name changed in May 2022</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nikos</forename>
+                                                  <surname>Androulakis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Andreas</forename>
+                                                  <surname>Spyropoulos</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8592606" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8592605" slsdocid="8592594" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1687764931" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Plefsi Eleftherias</org-entry-name>
+                                        <alt-name>Course of Freedom</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Vatatzi 6 &amp; Ippokratous, 114 72 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 6400104</telephone>
+                                        <email>melikaifiloi@plefsieleftherias.gr</email>
+                                        <internet>plefsieleftherias.gr</internet>
+                                   </address-block>
+                                   <found-date>2016</found-date>
+                                   <content-note style="NORMAL">anti-establishment, populist</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Zoe</forename>
+                                                  <surname>Konstantopoulou</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8592581" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8592580" slsdocid="8592545" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1687762243" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Spartiates</org-entry-name>
+                                        <alt-name>Spartans</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(694) 0946810</telephone>
+                                        <email>hellas.spartans@gmail.com</email>
+                                        <internet>spartiates.gr</internet>
+                                   </address-block>
+                                   <found-date>2017</found-date>
+                                   <content-note style="NORMAL">far-right party</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vasilis</forename>
+                                                  <surname>Stigkas</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4465408" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4465407" slsdocid="2582309" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.1237291818" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Synaspismos Rizospastikis Aristeras</org-entry-name>
+                                        <abbr>SYRIZA</abbr>
+                                        <alt-name>Coalition of the Radical Left</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Pl. Eleftherias 1, 105 53 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 3378400</telephone>
+                                        <email>info@syriza.gr</email>
+                                        <internet>www.syriza.gr</internet>
+                                   </address-block>
+                                   <found-date>2004</found-date>
+                                   <content-note style="NORMAL">far-left</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Stefanos</forename>
+                                                  <surname>Kasselakis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Rania</forename>
+                                                  <surname>Svigkou</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

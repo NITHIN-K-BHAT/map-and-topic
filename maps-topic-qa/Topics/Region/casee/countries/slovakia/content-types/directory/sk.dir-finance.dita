@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89804" sllink="SLSDOCRF" sllinkid="89803" slsdocid="72417" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.347" id-root="sk.dir" iso="sk" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--AK 20.07.2023 headline content checked-->
+                    <!--nb 24 04 2024 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="SK.DIR.348" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <p>In 2022 there were 26 banks operating in Slovakia.</p>
+                         <dir-section id="SK.DIR.581" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL92148" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92147" slsdocid="72722" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.349" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Bank of Slovakia</org-entry-name>
+                                                  <alt-name>Národná Banka Slovenska</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Imricha Karvaša 1, 813 25 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5787-1111</telephone>
+                                                  <fax>(2) 5787-1100</fax>
+                                                  <email>info@nbs.sk</email>
+                                                  <internet>www.nbs.sk</internet>
+                                             </address-block>
+                                             <found-date>1993</found-date>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Peter</forename>
+                                                            <surname>Kažimír</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="SK.DIR.350" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Commercial Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL8433002" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8433001" slsdocid="8428860" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.1677840852" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" region="CASEE" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking" usage="ewyb">
+                                             <org-entry-head>
+                                                  <org-entry-name>365.bank, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Dvořákovo nábr. 4, 811 02 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5960-5365</telephone>
+                                                  <email>hello@365.bank</email>
+                                                  <internet>365.bank</internet>
+                                             </address-block>
+                                             <found-date>2017</found-date>
+                                             <content-note style="NORMAL">absorbed Poštová Banka, a.s. in 2021</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andrej</forename>
+                                                            <surname>Zaťko</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <org-list>
+                                   <org-entryref id="SL2964991" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2964990" slsdocid="72715" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.357" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>ČSOB a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Žižkova 11, 811 02 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5966-8844</telephone>
+                                                  <email>info@csob.sk</email>
+                                                  <internet>www.csob.sk</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <ownership>owned by KBC Bank NV (Belgium)</ownership>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Daniel</forename>
+                                                            <surname>Kollár</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL3568420" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3568419" slsdocid="72709" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.362" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Prima Banka Slovensko, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Hodžova 11, 010 11 Žilina</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(41) 511-1111</telephone>
+                                                  <email>info@primabanka.sk</email>
+                                                  <internet>www.primabanka.sk</internet>
+                                             </address-block>
+                                             <found-date>1993</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2003</content-note>
+                                             <content-note style="NORMAL">merged with Sberbank Slovensko in 2017</content-note>
+                                             <ownership>99.6% owned by Penta Investments Ltd</ownership>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jan</forename>
+                                                            <surname>Rollo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1657158" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1657157" slsdocid="72721" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.351" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="10.07.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Privatbanka, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Einsteinova 25, 851 01 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3226-6111</telephone>
+                                                  <fax>(2) 3226-6900</fax>
+                                                  <email>privatbanka@privatbanka.sk</email>
+                                                  <internet>www.privatbanka.sk</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2005</content-note>
+                                             <ownership>owned by Penta Investments Ltd</ownership>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ľuboš</forename>
+                                                            <surname>Ševčík</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL92174" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92173" slsdocid="72708" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.363" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--WM 31.03.2020 fax not verified-->
+                                             <!--sc1 13.02.2018 email not confirmed fax confirmed at file:///C:/Users/chakrobortys/Downloads/Vyrocna_sprava_Tatra_banky_2016.pdf-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Tatra Banka, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 42, Hodzovo nám. 3, 811 06 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5919-1000</telephone>
+                                                  <email>tatrabanka@tatrabanka.sk</email>
+                                                  <internet>www.tatrabanka.sk</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <role-group>
+                                                  <role>Chair. and Gen. Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michal</forename>
+                                                            <surname>Liday</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL92176" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92175" slsdocid="72707" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.364" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Všeobecná Uverová Banka, a.s.</org-entry-name>
+                                                  <abbr>VUB</abbr>
+                                                  <alt-name>General Credit Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Mlynské Nivy 1, POB 90, 829 90 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 4855-5970</telephone>
+                                                  <email>kontakt@vub.sk</email>
+                                                  <internet>www.vub.sk</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <ownership>96.5% owned by Banca Intesa (Italian)</ownership>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jozef</forename>
+                                                            <surname>Kausich</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="SK.DIR.365" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Savings Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL92178" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92177" slsdocid="72706" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.366" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Prvá Stavebná Sporiteľňa, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bajkalská 30, POB 48, 829 48 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5855-5855</telephone>
+                                                  <email>infopss@pss.sk</email>
+                                                  <internet>www.pss.sk</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">32.5% owned by Bausparkasse Schwäbisch Hall AG (Germany); 32.5% owned by Raiffeisen Bausparkassen Holding GmbH (Austria); 25.0% owned by Erste Group Bank AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jiří</forename>
+                                                            <surname>Plíšek</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL92180" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92179" slsdocid="72705" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SK.DIR.367" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Founding date cross checked and confirmed from https://www.erstegroup.com/en/corporates/develop-foreign-markets/international-desk/slovakia#:~:text=Slovensk%C3%A1%20sporite%C4%BE%C5%88a%20(SLSP)%20was%20established,Slovakia%20servicing%202.3%20million%20clients.-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Slovenská Sporiteľňa, a.s.</org-entry-name>
+                                                  <alt-name>Slovak Savings Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Tomášikova 48, 832 37 Bratislava</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 5826-8111</telephone>
+                                                  <fax>(2) 5826-8670</fax>
+                                                  <email>info@slsp.sk</email>
+                                                  <internet>www.slsp.sk</internet>
+                                             </address-block>
+                                             <found-date>1969</found-date>
+                                             <ownership>100% owned by Erste Bank (Austria)</ownership>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Peter</forename>
+                                                            <surname>Krutil</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="SK.DIR.368" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Commodity and Stock Exchanges</heading>
+                         <org-list>
+                              <!--Bratislava Commodity Exchange name changed to Commodity Exchange Bratislava and moved below-->
+                              <org-entryref id="SL92184" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92183" slsdocid="72702" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.370" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="COMMODITY AND STOCK EXCHANGES">
+                                        <org-entry-head>
+                                             <org-entry-name>Bratislava Stock Exchange</org-entry-name>
+                                             <alt-name>Burza Cenných Papierov v Bratislave, a.s.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vysoká 17, POB 151, 814 99 Bratislava 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4923-6111</telephone>
+                                             <telephone alsofax="N">(2) 49236-102</telephone>
+                                             <fax>(2) 4923-6103</fax>
+                                             <email>info@bsse.sk</email>
+                                             <internet>www.bsse.sk</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <role-group>
+                                             <role>Chair of Bd of Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname> Barto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lukáš</forename>
+                                                       <surname>Bonko</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.371" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <!--ak 23.4.10 List of all registered insurance cos available at http://www.nbs.sk/en/financial-market-supervision/insurance-supervision/list-of-insurance-companies. Data on company size (by premium, etc.), however, is hard to find. Going by online sector reports, AEGON, Amslico and CSOB Poistovna could be added, if required.-->
+                         <!--DH 29.04.10 please do add these, if poss for CASEE 2011 -->
+                         <!--sb 29.04.2014 market share of insurance cos in 2013 available in http://www.slaspo.sk/13075 have added two new cos while removed one...could add a few more if length is not an issue-->
+                         <org-list>
+                              <org-entryref id="SL92186" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92185" slsdocid="72700" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.372" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--nb 02 03 2023 ownership details not confirmed-->
+                                        <!--SBE about me section says more than 1,800 employees-->
+                                        <!--sb 29.04.2014 fax,stats not confirmed-->
+                                        <!--sc1 13.02.2018 ownership details at https://www.allianzsp.sk/tmp/image_cache/link/0000490019/VS_2016.pdf-->
+                                        <org-entry-head>
+                                             <org-entry-name>Allianz—Slovak Insurance Co</org-entry-name>
+                                             <alt-name>Allianz—Slovenská Poisťovňa, a.s.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pribinova 19, 811 09 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5012-2222</telephone>
+                                             <email>allianzsp@allianzsp.sk</email>
+                                             <internet>www.allianzsp.sk</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">99.6% owned by Allianz New Europe Holding GmbH</content-note>
+                                        <content-note style="NORMAL">majority stake divested to Allianz AG (Germany) in 2002</content-note>
+                                        <content-note style="NORMAL">name changed from Slovenská poisťovňa to Allianz—Slovenská Poisťovňa in 2003</content-note>
+                                        <role-group>
+                                             <role>Chair. of Bd of Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Todor</forename>
+                                                       <surname>Todorov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petros</forename>
+                                                       <surname>Papanikolaou</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4470132" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4470131" slsdocid="4470078" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1398769892" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--nb 02 03 2023 Info on F. date and note acquired from https://www.csob.sk/o-nas/poistovna-->
+                                        <!--nb 02 03 2023 First email address is for the insurance company and the second one organizational-->
+                                        <org-entry-head>
+                                             <org-entry-name>ČSOB Poisťovňa, a. s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Žižkova 11, 811 02 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4445-0050</telephone>
+                                             <email>poistovna@csob.sk</email>
+                                             <internet>www.csob.sk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <content-note style="NORMAL">known as ERGO Insurance Co until 2002</content-note>
+                                        <role-group>
+                                             <role>Chair. of Bd of Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Daller</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Isabel Ida W.</forename>
+                                                       <surname>Boogers</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8631142" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              <org-entryref id="SL3085720" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3085719" slsdocid="3085560" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1279109038" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--nb 02 03 2023 https://www.generali.sk/2023/02/03/zmeny-v-top-manazmente-v-generali-na-slovensku-a-v-generali-ceska-pojistovna-a-s/ Head of Generali Branch Slovakia future appointment-->
+                                        <org-entry-head>
+                                             <org-entry-name>Generali Slovensko Poisťovňa, a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Lamačská cesta 3
+                      <sc>a</sc>
+                      , 841 04 Bratislava
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3811-1117</telephone>
+                                             <fax>(2) 5827-6100</fax>
+                                             <email>generali.sk@generali.com</email>
+                                             <internet>www.generali.sk</internet>
+                                        </address-block>
+                                        <found-date>2008 by merger of Českej Poisťovne-Slovensko and Generali</found-date>
+                                        <content-note style="NORMAL">life, pension and bank</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pavel</forename>
+                                                       <surname>Pitoňák</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3086781" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3086780" slsdocid="3086679" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1279170098" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--nb 02 03 2023 no email address available except media contact could not verify existing email address mentioned-->
+                                        <org-entry-head>
+                                             <org-entry-name>Komunálna Poisťovňa, a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Štefánikova 17, 811 05 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4821-0544</telephone>
+                                             <email>puskarova@kpas.sk</email>
+                                             <internet>www.kpas.sk</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">subsidiary of Vienna Insurance Group (Austria)</content-note>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>CEO and Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Slávka</forename>
+                                                       <surname>Miklošová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3086789" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3086788" slsdocid="3086725" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1279172257" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Kooperativna Poisťovňa, a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Štefanovičova 4, 816 23 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5729-9999</telephone>
+                                             <email>info@koop.sk</email>
+                                             <internet>kooperativa.sk</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">subsidiary of Vienna Insurance Group (Austria)</content-note>
+                                        <content-note style="NORMAL">personal, car, property and liability, and travel</content-note>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Peter</forename>
+                                                       <surname>Thirring</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO and Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimír</forename>
+                                                       <surname>Bakeš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4470580" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4470579" slsdocid="3085408" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1279104759" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--NB 02 03 2023 ditto Included Metlife owner company ceo name https://www.metlife.com/about-us/corporate-governance/our-executive-leadership-team/ and CFO confirmed https://uk.linkedin.com/in/hayley-blair-827546212?original_referer=https%3A%2F%2Fwww.google.com%2F-->
+                                        <!--WM 31.03.2020 ditto-->
+                                        <org-entry-head>
+                                             <org-entry-name>MetLife</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pribinova 10, 811 09 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5936-3111</telephone>
+                                             <fax>(2) 5936-3255</fax>
+                                             <email>metlife@metlife.sk</email>
+                                             <internet>www.metlife.sk</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">life and accident</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2015</content-note>
+                                        <content-note style="NORMAL">owned by MetLife (USA)</content-note>
+                                        <role-group>
+                                             <role>Gen. Man. for Slovakia and Czech Rep.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dorák</forename>
+                                                       <surname>Pavol</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4899458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4899457" slsdocid="3086644" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1279169114" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>NN Životná Poisťovňa, a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Jesenského 4
+                      <sc>c</sc>
+                      , 821 02 Bratislava
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5980-0733</telephone>
+                                             <email>klient@nn.sk</email>
+                                             <internet>www.nn.sk</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2015</content-note>
+                                        <content-note style="NORMAL">life</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Peter</forename>
+                                                       <surname>Brudňák</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4470139" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4470138" slsdocid="4469978" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1398768113" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>UNIQA Poisťovňa, a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Krasovského 15, 851 01 Bratislava 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3260-0100</telephone>
+                                             <email>info@uniqa.sk</email>
+                                             <internet>www.uniqa.sk</internet>
+                                        </address-block>
+                                        <found-date>1990 as Otčina Poisťovňa a.s.</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2001</content-note>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Žáček</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8631141" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8631140" slsdocid="8622148" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1689752720" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--sc 19.07.2023 new entry based on the news https://domov.sme.sk/c/23192316/strapko-vseobecna-zdravotna-poistovna-vszp-odvolanie.html-->
+                                        <!--sc 19.07.2023 emial taken from https://www.facebook.com/VSZP.sk/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Všeobecná Zdravotná Poisťovňa a.s.</org-entry-name>
+                                             <alt-name>General Health Insurance a.s.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Panónska cesta 2, 851 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2081-7003</telephone>
+                                             <email>infolinka@vszp.sk</email>
+                                             <internet>www.vszp.sk</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Smatana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.13987623481" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance Association</heading>
+                         <org-list>
+                              <org-entryref id="SL4469639" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4469638" slsdocid="4469396" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1398756398" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--nb 24 04 2024 website has not been updated since 2023, same mem stats, new Presidium was to be elected in 2024 but no new names listed, Exec. Dir. from Linkedin-->
+                                        <!--nb 20 04 2023 dir. role group confirmed from Linkedin-->
+                                        <org-entry-head>
+                                             <org-entry-name>Slovak Insurance Association</org-entry-name>
+                                             <abbr>SLASPO</abbr>
+                                             <alt-name>Slovenská Asociácia Poist’ovní</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Bajkalská 19
+                      <sc>B</sc>
+                      , 821 01 Bratislava
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4342-9985</telephone>
+                                             <fax>(2) 4342-9984</fax>
+                                             <email>info@slaspo.sk</email>
+                                             <internet>www.slaspo.sk</internet>
+                                        </address-block>
+                                        <found-date>1991 as Česko-Slovenská asociácia poisťovní</found-date>
+                                        <content-note style="NORMAL">name changed as above in 1993</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimír</forename>
+                                                       <surname>Bakeš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Kaňa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>14 reg. mems (June 2023)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

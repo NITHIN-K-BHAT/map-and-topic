@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289530" sllink="SLSDOCRF" sllinkid="289529" slsdocid="287767" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.457" id-root="ba.dir" iso="ba" sect-type="social-welfare" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Social Welfare</heading>
+                    <!--MR 12.07.2021 Headline content checked-->
+                    <p id="BA.DIR.458">Health care in Bosnia and Herzegovina is state-administered and free of charge. Pensions are administered by the entity Governments on a `pay-as-you-go’ basis.</p>
+                    <p>The COVID-19 pandemic from early 2020 prompted the declaration of a national state of emergency in March. The Programme of Economic Stabilization for the Federation, adopted in June, included measures to preserve employment, maintain fiscal stability and strengthen health and social protection. The Republika Srpska’s Solidarity Fund provided funds to workers adversely affected by COVID-19. The European Union also allocated funds totalling some €80.5m. to help Bosnia and Herzegovina during the COVID-19 crisis, of which €73.5m. was designated for economic and social recovery and €7m. for the health sector.</p>
+                    <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Health and Welfare Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL7182223" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7182222" slsdocid="7182215" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1595408795" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Institute for Public Health of the Federation of Bosnia and Herzegovina</org-entry-name>
+                                             <alt-name>Zavod za Javno Zdravsto FBiH</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Mostar, Vukovarska 46</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(36) 382101</telephone>
+                                             <fax>(36) 382116</fax>
+                                             <email>kabinet.sa@zzjzfbih.ba</email>
+                                             <internet>www.zzjzfbih.ba</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Siniša</forename>
+                                                       <surname>Skočibušić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7182272" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7182271" slsdocid="7182256" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1595410360" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Public Health Institute of Republika Srpska</org-entry-name>
+                                             <abbr>PHIRS</abbr>
+                                             <alt-name>JZU Institut za Javno Zdravsto Republike Srpske</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, Jovana Dučića 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 491600</telephone>
+                                             <fax>(51) 216510</fax>
+                                             <email>info@phi.rs.ba</email>
+                                             <internet>www.phi.rs.ba</internet>
+                                        </address-block>
+                                        <found-date>1929</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kostadin</forename>
+                                                       <surname>Vasić</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.467" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Non-Governmental Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL291284" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291283" slsdocid="287872" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.468" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON-GOVERNMENTAL ORGANIZATIONS">
+                                        <!--MR 24.05.2022 Chairman not confirmed-->
+                                        <!--MR 02.06.2020 role groups not confirmed. Acc to linkedin, Nalic is no longer the dir of this org. -->
+                                        <org-entry-head>
+                                             <org-entry-name>Mi-Bospo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>75000 Tuzla, Bosne srebrene b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(35) 270283</telephone>
+                                             <fax>(35) 252448</fax>
+                                             <email>mi-bospo@mi-bospo.org</email>
+                                             <internet>www.mi-bospo.org</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">became independent credit org. in 2000</content-note>
+                                        <content-note style="NORMAL">aims to empower women economically</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sanja</forename>
+                                                       <surname>Hajdukov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Safet</forename>
+                                                       <surname>Husić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL291286" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291285" slsdocid="287869" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.469" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON-GOVERNMENTAL ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Open Society Fund of Bosnia and Herzegovina</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, Maršala Tita 19/III</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(33) 444488</telephone>
+                                             <email>osf@osfbih.org.ba</email>
+                                             <internet>www.osfbih.org.ba</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dobrila</forename>
+                                                       <surname>Govedarica</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

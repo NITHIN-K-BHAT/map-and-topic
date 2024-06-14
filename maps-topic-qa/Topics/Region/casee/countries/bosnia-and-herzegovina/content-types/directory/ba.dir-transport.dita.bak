@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289522" sllink="SLSDOCRF" sllinkid="289521" slsdocid="287771" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.406" id-root="ba.dir" iso="ba" sect-type="transport" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Transport</heading>
+                    <dir-section id="BA.DIR.407" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Railways</heading>
+                         <org-list>
+                              <org-entryref id="SL1139464" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1139463" slsdocid="1139459" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1107266135" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <org-entry-head>
+                                             <org-entry-name>Željeznice Federacije Bosne i Hercegovine</org-entry-name>
+                                             <abbr>ŽFBH</abbr>
+                                             <alt-name>Railways of the Federation of Bosnia and Herzegovina</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, Musala 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 655330</telephone>
+                                             <email>info@zfbh.ba</email>
+                                             <internet>www.zfbh.ba</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. and Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Enis</forename>
+                                                       <surname>Džafić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1139475" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1139474" slsdocid="1139467" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1107266668" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <org-entry-head>
+                                             <org-entry-name>Željeznice Republike Srpske</org-entry-name>
+                                             <abbr>ŽRS</abbr>
+                                             <alt-name>Railways of Republika Srpska</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>74000 Doboj, Svetog Save 71</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(53) 241368</telephone>
+                                             <fax>(53) 222247</fax>
+                                             <email>kabinet@zrs-rs.com</email>
+                                             <internet>www.zrs-rs.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres. and Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Slađan</forename>
+                                                       <surname>Jović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.16236561411" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Roads</heading>
+                         <org-list>
+                              <org-entryref id="SL7609840" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7609839" slsdocid="7609401" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1623656447" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Trandsport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Roads">
+                                        <org-entry-head>
+                                             <org-entry-name>JP Autoceste Federacije Bosne i Hercegovine</org-entry-name>
+                                             <abbr>JP Autoceste FBiH</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>88000 Mostar, Adema Buća 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(36) 512300</telephone>
+                                             <fax>(36) 512301</fax>
+                                             <email>info@jpautoceste.ba</email>
+                                             <internet>www.jpautoceste.ba</internet>
+                                        </address-block>
+                                        <found-date>2011</found-date>
+                                        <content-note style="NORMAL">govt-owned</content-note>
+                                        <content-note style="NORMAL">building and maintaining highways and expressways</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Denis</forename>
+                                                       <surname>Lasić</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7609847" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7609846" slsdocid="7609465" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1623657332" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Roads">
+                                        <org-entry-head>
+                                             <org-entry-name>JP Autoputevi Republike Srpske</org-entry-name>
+                                             <abbr>Autoputevi RS</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, ul. Vase Pelagića 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 233680</telephone>
+                                             <fax>(51) 233700</fax>
+                                             <email>info@autoputevirs.com</email>
+                                             <internet>autoputevirs.com</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">govt-owned</content-note>
+                                        <content-note style="NORMAL">construction and maintenance of highways and expressways</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nedeljko</forename>
+                                                       <surname>Ćorić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.413" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Civil Aviation</heading>
+                         <p id="BA.DIR.414">The country has an international airport at Sarajevo, and three smaller international airports at Tuzla, Banja Luka and Mostar. In April 2023 significant investment in the country’s airports was announced.</p>
+                         <org-list>
+                              <org-entryref id="SL8830040" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830039" slsdocid="8830015" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1701169629" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>BHANSA</org-entry-name>
+                                             <alt-name>Bosnia and Herzegovina Air Navigation Services Agency</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>88000 Mostar, Ortiješ b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(36) 281000</telephone>
+                                             <fax>(36) 281010</fax>
+                                             <email>info@bhansa.gov.ba</email>
+                                             <internet>www.bhansa.gov.ba</internet>
+                                        </address-block>
+                                        <found-date>2009</found-date>
+                                        <content-note style="NORMAL">air navigation services</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Davorin</forename>
+                                                       <surname>Primorac</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1146692" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1146691" slsdocid="287912" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.415" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <data-protection date-added="28.06.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Bosnia and Herzegovina Directorate of Civil Aviation</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, V Kozarske Brigade 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 921222</telephone>
+                                             <fax>(51) 921520</fax>
+                                             <email>bhdca@bhdca.gov.ba</email>
+                                             <internet>www.bhdca.gov.ba</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Čedomir</forename>
+                                                       <surname>Šušnjar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1453843" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1453842" slsdocid="1453803" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1134057083" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Republika Srpska Civil Aviation Department</org-entry-name>
+                                             <abbr>RSCAD</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11000 Beograd, Skadarska 23</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(11) 2927000</telephone>
+                                             <fax>(11) 3117579</fax>
+                                             <email>dgca@cad.gov.rs</email>
+                                             <internet>www.cad.gov.rs</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mirjana</forename>
+                                                       <surname>Čizmarov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

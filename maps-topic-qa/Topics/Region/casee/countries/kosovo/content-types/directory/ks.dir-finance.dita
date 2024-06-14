@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188718" sllink="SLSDOCRF" sllinkid="2188717" slsdocid="2188712" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.014" id-root="ks.dir" iso="ks" sect-type="finance" section="Finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Finance</heading>
+                    <dir-section id="KS.DIR.11982307141" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Banking</heading>
+                         <dir-section id="KS.DIR.12018681261" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL2214274" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2214273" slsdocid="2214215" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1201866742" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Central Bank of the Republic of Kosovo</org-entry-name>
+                                                  <abbr>BQK</abbr>
+                                                  <alt-name>Banka Qendrore Republikës së Kosovës</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga Garibaldi 33</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 222055</telephone>
+                                                  <fax>(38) 243763</fax>
+                                                  <email>info@bqk-kos.org</email>
+                                                  <internet>www.bqk-kos.org</internet>
+                                             </address-block>
+                                             <found-date>1999 as the Banking and Payments Authority of Kosovo, subsequently Central Banking Authority of Kosovo (2006)</found-date>
+                                             <content-note style="NORMAL">Central Bank from 2010</content-note>
+                                             <role-group>
+                                                  <role>Gov. and Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ahmet</forename>
+                                                            <surname>Ismaili</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="KS.DIR.12018681941" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Registered Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL4979588" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4979587" slsdocid="2591588" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1237895630" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka Ekonomike</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Sheshi Nënë Terezë p.n.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 500500</telephone>
+                                                  <fax>(38) 500507</fax>
+                                                  <email>info@bekonomike.com</email>
+                                                  <internet>www.bekonomike.com</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Valon</forename>
+                                                            <surname>Lluka</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chief Exec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shpend</forename>
+                                                            <surname>Luzha</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2428912" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2428911" slsdocid="2428859" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1218551055" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--NS 09.01.2018 chair name from http://c1940652.r52.cf0.rackcdn.com/59fb3ac5b8d39a7731000626/struktura_e_aksionareve_shqip.pdf-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka për Biznes</org-entry-name>
+                                                  <alt-name>Bank for Business</alt-name>
+                                                  <abbr>BpB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Prishtina, Rruga Ukshin Hoti 128</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 620620</telephone>
+                                                  <email>informata@bpbbank.com</email>
+                                                  <internet>www.bpbbank.com</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ansis</forename>
+                                                            <surname>Grassmanis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mimoza</forename>
+                                                            <surname>Godanci-Aliu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2214280" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2214279" slsdocid="2199605" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1200490884" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--sc1 23.03.2020 stats notconfired -->
+                                             <org-entry-head>
+                                                  <org-entry-name>NLB Banka</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga Ukshin Hoti 124</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 744091</telephone>
+                                                  <email>info@nlb-kos.com</email>
+                                                  <internet>nlb-kos.com</internet>
+                                             </address-block>
+                                             <found-date>2008 by merger</found-date>
+                                             <content-note style="NORMAL">81.2% owned by NLB d.d. (Slovenia)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Albert</forename>
+                                                            <surname>Lumezi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2214277" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2214276" slsdocid="1230217" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1113400107" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--sc 23.03.2020 email confirmed at https://www.facebook.com/pg/procreditbankkosova/about/?ref=page_internal-->
+                                             <org-entry-head>
+                                                  <org-entry-name>ProCredit Bank Kosova</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Xhorxh Bush 26</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 555555</telephone>
+                                                  <email>kos.info@procredit-group.com</email>
+                                                  <internet>procreditbank-kos.com</internet>
+                                             </address-block>
+                                             <found-date>2000</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2003</content-note>
+                                             <content-note style="NORMAL">61.3% owned by ProCredit Holding (Germany)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gabriel</forename>
+                                                            <surname>Schor</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Eriola</forename>
+                                                            <surname>Bibolli</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2428921" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2428920" slsdocid="2428886" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1218552611" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--NS 09.01.2018 fax mentioned as F: +381 (0)3820 30 11 25 -->
+                                             <!--Sc 23.03.2020 contact info at https://www.raiffeisen-kosovo.com/old/en/Branch-Network359-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Raiffeisen Bank Kosovo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga UÇK 191</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 222222</telephone>
+                                                  <email>info@raiffeisen-kosovo.com</email>
+                                                  <internet>www.raiffeisen-kosovo.com</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">fmrly American Bank of Kosovo</content-note>
+                                             <content-note style="NORMAL">acquired by Raiffeisen International (Austria) and name changed in 2003</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anita</forename>
+                                                            <surname>Kovačić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2592566" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2592565" slsdocid="2592502" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1237911417" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--KP 13.06.2019 removed invalid email info@teb-kos.com-->
+                                             <org-entry-head>
+                                                  <org-entry-name>TEB sh. a.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10500 Graçanicë, Preoc p.n. Magjistralja Prishtinë-Ferizaj KM 7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 230123</telephone>
+                                                  <fax>(38) 224699</fax>
+                                                  <email>info@teb-kos.com</email>
+                                                  <internet>www.teb-kos.com</internet>
+                                             </address-block>
+                                             <found-date>Jan. 2008</found-date>
+                                             <content-note style="NORMAL">joint venture of TEB (Türkiye) and BNP Paribas (France)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ayşe</forename>
+                                                            <surname>Aşardağ</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Orçun</forename>
+                                                            <surname>Özdemir</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Insurance</heading>
+                         <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL6115498" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115563" slsdocid="6022671" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1515569881" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <!--MR 20.01.2023 No info available, website is also no longer functional-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Shoqata e Sigurimeve të Kosovës</org-entry-name>
+                                                  <alt-name>Insurance Association of Kosovo</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Sheshi Nënë Tereza, Hyrja 34/3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(38) 225678</telephone>
+                                                  <email>info@shs-ks.com</email>
+                                                  <internet>shs-ks.com</internet>
+                                             </address-block>
+                                             <found-date>2002</found-date>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sami</forename>
+                                                            <surname>Mazreku</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="KS.DIR.11982307771" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Registered Insurance cos</heading>
+                              <!--CM full list http://www.bqk-kos.org/english/Insurance%20Companies.htm-->
+                              <org-list>
+                                   <org-entryref id="SL6115502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115515" slsdocid="3208426" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290766947" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <!--MR 01.02.2023 Website not working, could not confirm detials-->
+                                             <!--Sc 23.03.2020 Gen Dir not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Kompania e Sigurimeve Illyria</org-entry-name>
+                                                  <alt-name>Illyria Insurance Co</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Nënë Terezë 33</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 750850</telephone>
+                                                  <email>info@illyriainsurance.com</email>
+                                                  <internet>www.illyriainsurance.com</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">fully owned by Pozavarovalnica Sava d.d. (Slovenia)</content-note>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marko</forename>
+                                                            <surname>Jazbec</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gianni</forename>
+                                                            <surname>Sokolič</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115503" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115524" slsdocid="3208542" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290767970" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <!--MR 01.02.2023 Website is not showing any detail, role group not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Kosova e Re Insurance Co</org-entry-name>
+                                                  <alt-name>New Kosovo Insurance Co</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Lagja Kalabria 5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 770777</telephone>
+                                                  <fax>(38) 770888</fax>
+                                                  <email>info@kosovaere.com</email>
+                                                  <internet>kosovaere.com</internet>
+                                             </address-block>
+                                             <found-date>2002</found-date>
+                                             <content-note style="NORMAL">wholly owned by Fitorja Holding</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Faton</forename>
+                                                            <surname>Hasani</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115504" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115518" slsdocid="3208399" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290755478" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>KS Eurosig SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga 2 Korriku 4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 244080</telephone>
+                                                  <fax>(38) 244081</fax>
+                                                  <email>info@eurosig-ks.com</email>
+                                                  <internet>eurosig-ks.com</internet>
+                                             </address-block>
+                                             <found-date>2002 as Dardania Kompania e Sigurimeve</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2015</content-note>
+                                             <content-note style="NORMAL">fully owned by Eurosig SA (Albania)</content-note>
+                                             <content-note style="NORMAL">acquired Insig SA in 2016</content-note>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anila</forename>
+                                                            <surname>Ibra</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Altin</forename>
+                                                            <surname>Ponari</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115552" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115551" slsdocid="6022653" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1515568619" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Prisig</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Lagjja Arbëria, Rruga Eduard Lir 173</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 221000</telephone>
+                                                  <email>info@prisig-ks.com</email>
+                                                  <internet>www.prisig-ks.com</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">non-life</content-note>
+                                             <found-date>2014</found-date>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Besarb</forename>
+                                                            <surname>Blakaj</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115546" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115545" slsdocid="6022614" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1515568146" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Scardian Sigurime</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga Perandori Justinian 69</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(38) 777444</telephone>
+                                                  <email>info@scardian.com</email>
+                                                  <internet>www.scardian.com</internet>
+                                             </address-block>
+                                             <found-date>2015</found-date>
+                                             <content-note style="NORMAL">life and non-life</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Hekuran</forename>
+                                                            <surname>Neziri</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115505" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115529" slsdocid="3208762" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290771655" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Sigal Uniqa</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga Ukshin Hoti 19, Pejton, Kat. 4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(38) 240241</telephone>
+                                                  <email>info@uniqa-ks.com</email>
+                                                  <internet>sigal-ks.com</internet>
+                                             </address-block>
+                                             <found-date>2003</found-date>
+                                             <content-note style="NORMAL">owned by Uniqa Group Austria</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Avni</forename>
+                                                            <surname>Ponari</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Saimir</forename>
+                                                            <surname>Dhamo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115506" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115533" slsdocid="2592706" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1237914795" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                             <!--sc1 23.03.2020 role group confirmed at https://shs-ks.com/kuvendi/-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Sigkos</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Lagjja Kalabria, Kompleksi Riera, Hyrja Z10</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 614614</telephone>
+                                                  <email>info@sigkos.com</email>
+                                                  <internet>www.sigkos.com</internet>
+                                             </address-block>
+                                             <found-date>2006</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Drita</forename>
+                                                            <surname>Kadriu Berisha</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115507" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115538" slsdocid="3208803" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290772505" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Sigma Kosovo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Aktash, Rruga Edmond Hoxha 27</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 246301</telephone>
+                                                  <fax>(38) 246302</fax>
+                                                  <email>info@sigma-ks.net</email>
+                                                  <internet>sigma-ks.net</internet>
+                                             </address-block>
+                                             <found-date>2004</found-date>
+                                             <content-note style="NORMAL">89% owned by Vienna Insurance Gp (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Gen. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Genond</forename>
+                                                            <surname>Mesareja</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6115508" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6115542" slsdocid="3208578" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290769154" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <data-protection date-added="08.06.2022" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Siguria</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Rruga Qamil Hoxha 51</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 248848</telephone>
+                                                  <email>info@ks-siguria.com</email>
+                                                  <internet>ks-siguria.com</internet>
+                                             </address-block>
+                                             <found-date>2000</found-date>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Arben</forename>
+                                                            <surname>Avdyli</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

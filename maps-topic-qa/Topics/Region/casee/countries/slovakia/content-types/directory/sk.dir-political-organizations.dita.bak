@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89790" sllink="SLSDOCRF" sllinkid="89789" slsdocid="72428" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.165" id-root="sk.dir" iso="sk" sect-type="political-orgs" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--AK 20.07 2023 headline content checked-->
+                    <!--nb 24 04 2024 headline content checked-->
+                    <heading>Political Organizations</heading>
+                    <!--DH official register of political parties available at http://portal.ives.sk/registre/startps.do perhaps not updated terribly frequently?-->
+                    <org-list>
+                         <org-entryref id="SL8531690" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8531689" slsdocid="6684326" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1560511535" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--nb 21 04 2023 SPOLU name changed to Modr&#225; koal&#237;cia and later the name was changed to Demokrati as found here https://www.trend.sk/spravy/strana-spolu-meni-nazov-novom-bude-volat-modra-koalicia-->
+                                   <org-entry-head>
+                                        <org-entry-name>Demokrati</org-entry-name>
+                                        <alt-name>Democrats</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Miletičova 21, 821 08 Bratislava</verbatim-address>
+                                        </address>
+                                        <email>kancelaria@smedemokrati.sk</email>
+                                        <internet>www.smedemokrati.sk</internet>
+                                   </address-block>
+                                   <found-date>2023</found-date>
+                                   <content-note style="NORMAL">fmrly SPOLU—Občianska Demokracia (Together—Civic Democracy), succeeded by Modrá Koalícia (Blue Coalition) in Jan. 2023</content-note>
+                                   <content-note style="NORMAL">re-est. by Eduard Heger in March 2023 as above</content-note>
+                                   <content-note style="NORMAL">centrist, liberal, advocates Western values</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jaroslav</forename>
+                                                  <surname>Naď</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL7257178" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7257177" slsdocid="7257159" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1599822694" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Hlas—Sociálna Demokracia</org-entry-name>
+                                        <abbr>Hlas</abbr>
+                                        <alt-name>Voice—Social Democracy</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Bratislava</verbatim-address>
+                                        </address>
+                                        <email>hlas@strana-hlas.sk</email>
+                                        <internet>strana-hlas.sk</internet>
+                                   </address-block>
+                                   <found-date>2020, as a breakaway party from Smer-SD</found-date>
+                                   <content-note style="NORMAL">centre-left</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Peter</forename>
+                                                  <surname>Pellegrini</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5340729" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5340728" slsdocid="72878" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.174" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Kotlebovci—Ľudová Strana Naše Slovensko</org-entry-name>
+                                        <abbr>ĽSNS</abbr>
+                                        <alt-name>Kotlebovci-People's Party Our Slovakia</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Nový Svet 5667/63, 974 01 Banská Bystrica</verbatim-address>
+                                        </address>
+                                        <email>tajomnik@lsnaseslovesnko.sk</email>
+                                        <internet>kotlebovci.sk</internet>
+                                   </address-block>
+                                   <found-date>2000</found-date>
+                                   <content-note style="NORMAL">present name adopted in 2019, known as Kotleba in 2015-19</content-note>
+                                   <content-note style="NORMAL">extreme nationalist</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Marian</forename>
+                                                  <surname>Kotleba</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4474410" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4474409" slsdocid="72864" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.187" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 14.07.2021 reply says to remove the tel-->
+                                   <!--sc 17.02.2021 as per reply there is no tel no-->
+                                   <!--Sc 05.02.2021 tel not confirmed-->
+                                   <!--Sc1 24.06.2019 12.02.2018 NS 24.03.2017 tel and fax not confirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Kresťanskodemokratické Hnutie</org-entry-name>
+                                        <abbr>KDH</abbr>
+                                        <alt-name>Christian Democratic Movement</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Šafárikovo 4, 811 02 Bratislava</verbatim-address>
+                                        </address>
+                                        <email>sekretariat@kdh.sk</email>
+                                        <internet>kdh.sk</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <content-note style="NORMAL">conservative</content-note>
+                                   <content-note style="NORMAL">supports Christian and family values</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Milan</forename>
+                                                  <surname>Majerský</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8074066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                         <org-entryref id="SL4474440" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4474439" slsdocid="3630090" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1332226802" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>OĽaNO a Priatelia</org-entry-name>
+                                        <alt-name>OĽaNO and Friends</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Zámocká 6873/14, 811 01 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 5972-1347</telephone>
+                                        <email>kontakt@obycajniludia.sk</email>
+                                        <internet>www.obycajniludia.sk</internet>
+                                   </address-block>
+                                   <found-date>2011</found-date>
+                                   <content-note style="NORMAL">conservative, strongly anti-corruption, populist</content-note>
+                                   <content-note style="NORMAL">fmrly known as Obyčajní Ľudia a Nezávislé Osobnosti (OĽaNO—Ordinary People and Independent Personalities)</content-note>
+                                   <content-note style="NORMAL">alliance f. in May 2023 and party legally renamed as above</content-note>
+                                   <content-note style="NORMAL">incl. Kresťanská Únia (Christian Union), Za Ľudí (For the People), Nová Väčšina (New Majority), and parties representing the Roma community and ethnic Hungarians</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Igor</forename>
+                                                  <surname>Matovič</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6684184" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6684183" slsdocid="6684164" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1560508214" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Progresívne Slovensko</org-entry-name>
+                                        <abbr>PS</abbr>
+                                        <alt-name>Progressive Slovakia</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Grosslingova 51, 811 09 Bratislava</verbatim-address>
+                                        </address>
+                                        <email>ahoj@progresivne.sk</email>
+                                        <internet>progresivne.sk</internet>
+                                   </address-block>
+                                   <found-date>2017</found-date>
+                                   <content-note style="NORMAL">liberal</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Michal</forename>
+                                                  <surname>Šimečka</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4474422" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4474421" slsdocid="1515941" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry country-id="sk" id="SK.DIR.1142012137" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--sb 03.05.2013 tel no as per reply is 0914 770 101 not sure if it is a mobile no. SBE fax not confirmed-->
+                                   <!--Sc1 12.02.2018 fax not confirmed-->
+                                   <!--Sc1 4.06.2019 tel confirmed at https://eurovolby2019.sk/bratislava-eurovolby-2019-eurokampan-sas/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Sloboda a Solidarita</org-entry-name>
+                                        <abbr>SaS</abbr>
+                                        <alt-name>Freedom and Solidarity</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Priemyselná 8, 821 09 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(914) 770102</telephone>
+                                        <email>sas@sas.sk</email>
+                                        <internet>www.sas.sk</internet>
+                                   </address-block>
+                                   <found-date>2009</found-date>
+                                   <content-note style="NORMAL">liberal</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Branislav</forename>
+                                                  <surname>Gröhling</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4474524" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4474523" slsdocid="72858" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.192" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Slovenská Národná Strana</org-entry-name>
+                                        <abbr>SNS</abbr>
+                                        <alt-name>Slovakian National Party</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Šafárikovo nám. 3, 814 99 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 3266-1965</telephone>
+                                        <email>sns@sns.sk</email>
+                                        <internet>www.sns.sk</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <content-note style="NORMAL">extreme nationalist</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Andrej</forename>
+                                                  <surname>Danko</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Stanislav</forename>
+                                                  <surname>Kmec</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5369623" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5369622" slsdocid="5242799" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1457332290" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 05.02.2021 tel not confirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Sme Rodina</org-entry-name>
+                                        <alt-name>We are Family</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Leškova 5, 811 04 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(948) 718765</telephone>
+                                        <email>kancelaria@hnutie-smerodina.sk</email>
+                                        <internet>hnutie-smerodina.sk</internet>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <content-note style="NORMAL">conservative, populist, nationalist</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Boris</forename>
+                                                  <surname>Kollár</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL92608" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92607" slsdocid="72885" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.168" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Smer-Sociálna Demokracia</org-entry-name>
+                                        <abbr>Smer-SD</abbr>
+                                        <alt-name>Direction-Social Democracy</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Súmračná 25, 821 02 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 4342-6297</telephone>
+                                        <email>info@strana-smer.sk</email>
+                                        <internet>strana-smer.sk</internet>
+                                   </address-block>
+                                   <found-date>1999</found-date>
+                                   <content-note style="NORMAL">populist, nationalist</content-note>
+                                   <content-note style="NORMAL">present name adopted in 2005</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Robert</forename>
+                                                  <surname>Fico</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8074065" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8074064" slsdocid="1629105" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry country-id="sk" id="SK.DIR.1149004685" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--nb 21 04 2023 name confirmed from replies and ownweb statutes-->
+                                   <!--sc 07.03.2022 as er reply tel is +421905155133 which is mobile number-->
+                                   <!--Solymos new leader 30.05???.20 domov.sme.sk/c/22415553/novym-predsedom-strany-most-hid-je-laszlo-solymos.html-->
+                                   <org-entry-head>
+                                        <org-entry-name>Szövetség-Magyarok. Nemzetiségek. Régiók.</org-entry-name>
+                                        <alt-name>Aliancia-Maďari. Národnosti. Regióny.</alt-name>
+                                        <alt-name>Alliance-Hungarians. Minorities. Regions.</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Čajaková 8, 811&#160;05 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 5710-6013</telephone>
+                                        <email>office@szovetseg.sk</email>
+                                        <internet>szovetseg.sk</internet>
+                                   </address-block>
+                                   <found-date>2019 through merger of Most/Híd and two other Hungarian minority parties</found-date>
+                                   <content-note style="NORMAL">fmrly known as Szövetség-Aliancia, present name adopted in 2021</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Krisztián</forename>
+                                                  <surname>Forró</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6999511" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6999510" slsdocid="6688347" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SK.DIR.1560923806" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Za Ľudí</org-entry-name>
+                                        <alt-name>For the People</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Jašíkova 4849/2, 821 03 Bratislava</verbatim-address>
+                                        </address>
+                                        <email>press@zaludi.sk</email>
+                                        <internet>stranazaludi.sk</internet>
+                                   </address-block>
+                                   <found-date>2019</found-date>
+                                   <content-note style="NORMAL">centrist political party</content-note>
+                                   <content-note style="NORMAL">part of OĽaNO a Priatelia (q.v.) from 2023</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Veronika</forename>
+                                                  <surname>Remišová</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

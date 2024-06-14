@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89816" sllink="SLSDOCRF" sllinkid="89815" slsdocid="72410" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.533" id-root="sk.dir" iso="sk" sect-type="social-welfare" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Social Welfare</heading>
+                    <p id="SK.DIR.534">In 1995 two independent institutions were established: the Social Insurance Agency (for sickness insurance and pensions security) and the General Health Insurance Agency (financing health care), with payments into the agencies made by employees, employers, the self-employed and the state. Patients (excluding pregnant women and children under the age of six years) are required directly to pay a proportion of the cost of visiting their doctor or receiving hospital treatment. A `three-pillar' pension system entered into effect in 2005, comprising: a `pay-as-you-go' system as the first pillar; a new, mandatory, `capitalization' pillar, funded entirely by employee contributions; and a third, voluntary pillar consisting of individual retirement accounts, overseen entirely in the private sector, fully funded by employee contributions. From 2008 membership of the second pillar became voluntary for those entering the labour force. From 1 January 2021 the maximum retirement age was 64 years.</p>
+                    <p>On 12 March 2020 the Government declared a state of emergency in response to the COVID-19 pandemic. The Government introduced financial measures to assist those affected by the crisis, including wage subsidies, increased unemployment and sickness benefits, and the temporary relaxation of requirements relating to health insurance and social security payments for affected businesses.</p>
+                    <dir-section id="SK.DIR.536" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Government Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL91870" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="91869" slsdocid="72529" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.538" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                        <!--sc1 Exe dir confirmed at https://vzdravotnictve.sk/ozdravny-plan-vseobecnej-zdravotnej-poistovne-konci/-->
+                                        <!--Sc 10.06.2022 Dir and email not confirmed26.06.2020 dir not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>General Health Insurance Company</org-entry-name>
+                                             <alt-name>Všeobecná Zdravotná Poisťovňa</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Panónska cesta 2, 851 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2081-7003</telephone>
+                                             <email>infolinka@vszp.sk</email>
+                                             <internet>www.vszp.sk</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">provides sickness insurance and pensions security</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Richard</forename>
+                                                       <surname>Strapko</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miroslav</forename>
+                                                       <surname>Kočan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL91872" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="91871" slsdocid="72528" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.539" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                        <!--Sc 10.06.2022 website not working contact details confirmed at https://www.bratislava-mesto.eu/socialna-poistovna-bratislava-ustredie/ role group confirmed at https://www.finreport.sk/lidri/juraj-kacer-odchadza-z-postu-riaditela-socialnej-poistovne-stane-sa-statnym-tajomnikom/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Social Insurance Agency</org-entry-name>
+                                             <alt-name>Sociálna Poisťovňa</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>29 Augusta 8-10, 813 63 Bratislava 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(90) 617-1112</telephone>
+                                             <email>podatelna@socpoist.sk</email>
+                                             <internet>www.socpoist.sk</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">administers sickness, accident, unemployment, guarantee and pension insurance schemes</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Boris</forename>
+                                                       <surname>Azaltovič</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.540" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Non-Governmental Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL2373576" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2373575" slsdocid="2373570" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1215020637" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Non-governmental organizations">
+                                        <!--Sc 26.06.2020 pres not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Caritas—Slovenská Katolícka Charita</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kapitulská 308/18, 814&#160;15 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5443-2503</telephone>
+                                             <email>info@charita.sk</email>
+                                             <internet>www.charita.sk</internet>
+                                        </address-block>
+                                        <found-date>1927</found-date>
+                                        <content-note style="NORMAL">Catholic welfare org.</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Tomas</forename>
+                                                       <surname>Galis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Sec.-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miroslav</forename>
+                                                       <surname>Dzurech</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL91874" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="91873" slsdocid="72525" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.541" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON-GOVERNMENTAL AGENCY">
+                                        <org-entry-head>
+                                             <org-entry-name>Slovak Red Cross</org-entry-name>
+                                             <alt-name>Slovenský Červený Kríž</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Grösslingová 24, 814 46 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5710-2301</telephone>
+                                             <fax>(2) 5292-3279</fax>
+                                             <email>sekretariat@redcross.sk</email>
+                                             <internet>www.redcross.sk</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Viliam</forename>
+                                                       <surname>Dobiáš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Sec.-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zuzana</forename>
+                                                       <surname>Rosiarová Kesegová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

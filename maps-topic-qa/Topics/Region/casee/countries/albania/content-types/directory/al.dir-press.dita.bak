@@ -1,0 +1,587 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52168" sllink="SLSDOCRF" sllinkid="52167" slsdocid="51118" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.165" id-root="al.dir" iso="al" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="AL.DIR.167" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL52712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52711" slsdocid="51436" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.169" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Albanian Daily News</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Dervish Hima 1, ADA Tower, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 5600610</telephone>
+                                             <internet>www.albaniannews.com</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">in English; subscription-based online edition updated daily, printed weekly newspaper</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alqi</forename>
+                                                       <surname>Koçiko</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2532073" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2532072" slsdocid="1435664" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131455851" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DALIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Gazeta 55</org-entry-name>
+                                             <alt-name>Newspaper 55</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Medar Shtylla, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2321364</telephone>
+                                             <fax>(4) 2321365</fax>
+                                             <email>info@55news.al</email>
+                                             <internet>www.55news.al</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">right-wing</content-note>
+                                        <content-note style="NORMAL">English summary</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ilir</forename>
+                                                       <surname>Nikolla</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52715" slsdocid="51434" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.171" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 14.12.2016 role group from https://twitter.com/erlmurati-->
+                                        <org-entry-head>
+                                             <org-entry-name>Gazeta Shqiptare</org-entry-name>
+                                             <alt-name>The Albanian Newspaper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ali Shefqeti, 1005 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(68) 4063842</telephone>
+                                             <email>gazetashqiptare.al@gmail.com</email>
+                                             <internet>gazetashqiptare.al</internet>
+                                        </address-block>
+                                        <found-date>1927</found-date>
+                                        <content-note style="NORMAL">re-established 1993</content-note>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">politics, economics, culture</content-note>
+                                        <content-note style="NORMAL">local news section</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Erl</forename>
+                                                       <surname>Murati</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52718" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52717" slsdocid="51433" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.172" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 24.01.2018 tel mentioned in reply 0692021605-->
+                                        <!--NS 14.12.2016 role group from https://www.linkedin.com/in/edison-kurani-58343566/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Koha Jonë</org-entry-name>
+                                             <alt-name>Our Time</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Sami Frashëri 4, Pallatet e Aviacionit të Vjetër 2, 1023 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(69) 7044477</telephone>
+                                             <email>redaksia@kohajone.com</email>
+                                             <internet>kohajone.com</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nikoll</forename>
+                                                       <surname>Lesi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Muçaku</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1458421" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458420" slsdocid="1123735" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1106068453" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Panorama</org-entry-name>
+                                             <alt-name>Panorama</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Panorama 3, prapa shkollës Harry Fultz, Pallati 1, 1016 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2403207</telephone>
+                                             <fax>(4) 2273206</fax>
+                                             <email>info@panorama.com.al</email>
+                                             <internet>www.panorama.com.al</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">politics, economics, culture, sports, arts</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert</forename>
+                                                       <surname>Rakipllari</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52722" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52721" slsdocid="51431" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.174" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Rilindja Demokratike</org-entry-name>
+                                             <alt-name>Democratic Revival</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Zhan D’Ark, Rruga Punëtorët e Rilindjes, pranë selisë së PD, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(68) 2074313</telephone>
+                                             <fax>(4) 2230329</fax>
+                                             <email>gazeta_rd@yahoo.com</email>
+                                             <internet>rd.al</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">organ of the Partia Demokratike e Shqipërisë</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Endri</forename>
+                                                       <surname>Fuga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2533879" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2533878" slsdocid="51430" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.175" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 06.12.2018 https://www.linkedin.com/in/brahim-shima-59255b5a/?originalSubdomain=al-->
+                                        <org-entry-head>
+                                             <org-entry-name>Shekulli</org-entry-name>
+                                             <alt-name>Century</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ismail Qemali, Pallati Abissnet, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(69) 2046662</telephone>
+                                             <email>info@shekulli.com.al</email>
+                                             <internet>shekulli.com.al</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">national and international politics, economics, culture</content-note>
+                                        <content-note style="NORMAL">English summary</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arben</forename>
+                                                       <surname>Rrozhani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1458339" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458338" slsdocid="1435674" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131456768" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sot News</org-entry-name>
+                                             <alt-name>News Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Zhan D’Ark, Rruga Sitki Çiço 6, 1004 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(67) 6000295</telephone>
+                                             <email>gazetasot@yahoo.com</email>
+                                             <internet>sot.com.al</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">Albanian and English</content-note>
+                                        <content-note style="NORMAL">current affairs</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arjan</forename>
+                                                       <surname>Prodani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1465702" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1465701" slsdocid="1123705" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1106067833" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Tema</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ismail Qemali, Pallati Valeverde, 1005 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(4) 2251073</telephone>
+                                             <email>info@tema.al</email>
+                                             <internet>www.gazetatema.net</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">liberal</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mero</forename>
+                                                       <surname>Baze</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bledi</forename>
+                                                       <surname>Lumani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2533322" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2533321" slsdocid="1435562" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131453910" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <data-protection date-added="22.01.2008" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Tirana Times</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Andon Zako Çajupi 20/2, 1010 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 4400083</telephone>
+                                             <email>editor@tiranatimes.com</email>
+                                             <internet>www.tiranatimes.com</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <frequency>weekly (in print), daily (online)</frequency>
+                                        <content-note style="NORMAL">in English</content-note>
+                                        <content-note style="NORMAL">news, analysis, politics, business, culture</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jerina</forename>
+                                                       <surname>Zaloshnja</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52728" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52727" slsdocid="51428" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.177" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--MR 13.12.2021 Address and phone nos not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Zëri i Popullit</org-entry-name>
+                                             <alt-name>The Voice of the People</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Zogu I, 1016 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2233572</telephone>
+                                             <fax>(4) 2233526</fax>
+                                             <email>info@zeripopullit.al</email>
+                                             <internet>zeripopullit.al</internet>
+                                        </address-block>
+                                        <found-date>1942</found-date>
+                                        <content-note style="NORMAL">organ of the Partia Socialiste e Shqipërisë</content-note>
+                                        <content-note style="NORMAL">online only</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arshin</forename>
+                                                       <surname>Xhezo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AL.DIR.178" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL2997817" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2997816" slsdocid="2997785" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1273663237" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <!--MR 13.12.2021 Address not confirmed-->
+                                        <!--sb 18.02.2015 tel not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mapo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Gjergj Fishta 70, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(69) 2056100</telephone>
+                                             <email>gazetamapo@gmail.com</email>
+                                             <internet>gazetamapo.al</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">weekly</content-note>
+                                        <content-note style="NORMAL">current affairs, economy, society, culture</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arion</forename>
+                                                       <surname>Sulo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2533278" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2533277" slsdocid="2533271" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1232651954" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--NS 14.12.2016 only role group confirmed-->
+                                        <!--sb 18.02.2015 details not confirmed-->
+                                        <data-protection date-added="06.02.2018" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Monitor</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Media Union, Rruga Sulejman Delvina 25/7/6, Njesia Administrative 5, 1019 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(67) 6053622</telephone>
+                                             <email>info@mediaunion.al</email>
+                                             <internet>www.monitor.al</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <content-note style="NORMAL">weekly</content-note>
+                                        <content-note style="NORMAL">Albanian and English</content-note>
+                                        <content-note style="NORMAL">business and economic news</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ornela</forename>
+                                                       <surname>Liperi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1458398" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458397" slsdocid="1436001" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131462262" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Ngjallja</org-entry-name>
+                                             <alt-name>The Resurrection</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kisha Orthodhokse Autoqefale e Shqipërisë, Rruga e Kavajës 151, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2234117</telephone>
+                                             <fax>(4) 2232109</fax>
+                                             <email>orthchal@orthodoxalbania.org</email>
+                                             <internet>www.orthodoxalbania.org</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">monthly</content-note>
+                                        <content-note style="NORMAL">organ of the Orthodox Autocephalous Church of Albania</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Thoma</forename>
+                                                       <surname>Dhima</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52764" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              <org-entryref id="SL1458413" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458412" slsdocid="1436291" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131464296" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Universi i Librit Shqiptar</org-entry-name>
+                                             <alt-name>Universe of the Albanian Book</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Botimet Toena, Rruga Muhamet Gjollesha, 1420 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2240116</telephone>
+                                             <fax>(4) 2240117</fax>
+                                             <email>redaksia@toena.com.al</email>
+                                             <internet>www.toena.com.al</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">quarterly review of books publ. in Albanian and of foreign-language books about Albania, Albanian affairs, etc.</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Irena</forename>
+                                                       <surname>Toçi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--sb 19.02.2015 and TP 29.05.13 editor name could not be updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AL.DIR.205" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL52784" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52783" slsdocid="51395" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.207" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Albanian Telegraphic Agency</org-entry-name>
+                                             <abbr>ATA</abbr>
+                                             <alt-name>Agjencia Telegrafike Shqiptare—ATSh</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Ismail Qemali 11, 1004 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2235583</telephone>
+                                             <fax>(4) 2234393</fax>
+                                             <email>info@ata.gov.al</email>
+                                             <internet>ata.gov.al</internet>
+                                        </address-block>
+                                        <found-date>1929</found-date>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">domestic and foreign news</content-note>
+                                        <content-note style="NORMAL">brs in provincial towns and in Kosovo</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valbona</forename>
+                                                       <surname>Zhupa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2534105" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2534104" slsdocid="51396" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.206" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>TIR-FAX Albanian Independent News Agency</org-entry-name>
+                                             <abbr>AINA TIR-FAX</abbr>
+                                             <alt-name>Agjensia e Lajmeve të Pavarura Shqiptare</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga 4 Dëshmorët, Villa 80, 1017 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2241727</telephone>
+                                             <fax>(4) 2230094</fax>
+                                             <email>aina@tirfaxnews.org</email>
+                                             <internet>www.tirfaxnews.org</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">Albanian and English</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zenel</forename>
+                                                       <surname>Çeliku</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AL.DIR.211" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Association</heading>
+                         <org-list>
+                              <org-entryref id="SL52790" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52789" slsdocid="51390" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.212" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Albanian Media Institute</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Gjin Bue Shpata 8, 1035 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(4) 2229800</telephone>
+                                             <email>info@institutemedia.org</email>
+                                             <internet>www.institutemedia.org</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">
+                  produces books and publications on the Albanian and international media, incl. the 
+                  <i>Albanian Media Newsletter</i>
+                   (monthly)
+                </content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Remzi</forename>
+                                                       <surname>Lani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

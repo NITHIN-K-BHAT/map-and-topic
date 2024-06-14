@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1603020" sllink="SLSDOCRF" sllinkid="1603019" slsdocid="1498304" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="EE.DIR.1140625734" id-root="ee.dir" iso="ee" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <heading>Election Commission</heading>
+                    <!--MR 12.04.2022 Role group checked-->
+                    <org-list>
+                         <org-entryref id="SL1498307" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1498306" slsdocid="1497958" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="EE.DIR.1140624246" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Estonian National Electoral Committee</org-entry-name>
+                                        <alt-name>Vabariigi Valimiskomisjon</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    Lossi plats 1
+                    <sc>a</sc>
+                    , Tallinn 15165
+                  </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">631-6633</telephone>
+                                        <email>info@valimised.ee</email>
+                                        <internet>www.valimised.ee</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Oliver</forename>
+                                                  <surname>Kase</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1809235" sllink="SLSDOCRF" sllinkid="1809234" slsdocid="1809214" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BG.DIR.1164378574" id-root="bg.dir" iso="bg" sect-type="legislature" section="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 04.04.2022 headline content checked-->
+                    <heading>Legislature</heading>
+                    <org-expandref id="SL1809226" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1809225" slsdocid="1163538" slsdocty="org-entry-expanded org-expanddtd">
+                         
+                         <org-entry-expanded id="BG.DIR.766735135" id-root="bg.dir" iso="bg" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>National Assembly</org-entry-name>
+                                   <alt-name>Narodno Sobranie</alt-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>1169 Sofia, pl. Narodno Sobranie 2</verbatim-address>
+                                   </address>
+                                   <fax>(2) 981-31-31</fax>
+                                   <email>infocenter@parliament.bg</email>
+                                   <internet>www.parliament.bg</internet>
+                              </address-block>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1163554" sllink="SLSDOCRF" sllinkid="1163553" slsdocid="55818" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="BG.DIR.79" id-root="bg.dir" iso="bg" section="President and Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="NARODNO SOBRANIYE">
+                                             <dir-entry-name>President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <table-blockref id="SL1163563" sllink="SLSDOCRF" sllinkid="1163562" slsdocid="56422" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                   
+                                   <table-block id="BG.DIR.80" id-root="bg.dir" iso="bg" section="President and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="NARODNO SOBRANIYE" type="ELECTION">
+                                        <table-heading>Election, 2 April 2023</table-heading>
+                                        <table style="WITH-RULES">
+                                             <tgroup cols="4">
+                                                  <colspec colwidth="10cm" />
+                                                  <colspec colname="COLSPEC0" colwidth="3.5cm" />
+                                                  <colspec colwidth="3.5cm" />
+                                                  <colspec colwidth="2.5cm" />
+                                                  <thead>
+                                                       <row>
+                                                            <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">% of valid votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                       </row>
+                                                  </thead>
+                                                  <tbody>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Grazhdani za Evropeysko Razvitie na Balgariya-Sayuz na Demokratichnite Sili (Citizens for European Development of Bulgaria-Union of Democratic Forces)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">669,924</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">26.49</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">69</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                          Prodalzhavame Promyanata-Demokratichna Balgariya (We Continue the Change-Democratic Bulgaria) alliance
+                          <endnoteref idref="BG.DIR.20100222" ref-symbol="*" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">621,069</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">24.56</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">64</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Vazrazhdane (Revival)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">358,174</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">14.16</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">37</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Dvizhenie za Prava i Svobodi (Movement for Rights and Freedoms)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">347,700</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">13.75</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">36</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                          BSP za Balgariya
+                          <endnoteref idref="BG.DIR.6417" ref-symbol="†" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">225,914</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">8.93</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">23</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Ima Takav Narod (There is Such a People)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">103,971</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">4.11</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                                                                 <b>Total valid votes</b>
+                           (including others)
+                        </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">2,529,129</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">240</entry>
+                                                       </row>
+                                                  </tbody>
+                                             </tgroup>
+                                        </table>
+                                        <endnote id="BG.DIR.20100222" ref-symbol="*">Democratic Bulgaria is a coalition including Da, Balgariya! (Yes, Bulgaria!), the Demokrati za Silna Balgariya (Democrats for a Strong Bulgaria—DSB) and the Zeleno Dvizhenie (Green Movement).</endnote>
+                                        <endnote id="BG.DIR.6417" ref-symbol="†">BSP for Bulgaria, a coalition led by the Balgarska Sotsialisticheska Partiya (Bulgarian Socialist Party).</endnote>
+                                   </table-block>
+                              </table-blockref>
+                         </org-entry-expanded>
+                    </org-expandref>
+               </dir-section>
+          </dir-sectref>
+          

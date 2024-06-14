@@ -1,0 +1,2843 @@
+<?xml version="1.0"?>
+<int-org-group id="OTHER.IO" id-root="int-org_other" iso="int-org_other" original-filename="wb0231xa.txt, wb0231xb.io.txt, wb0231xc.io.txt, wb0231xd.io.txt, wb0231xe.io.txt, wb0231xf.io.txt, wb0231xg.io.txt, wb0231xh.io.txt, wb0231xk.io.txt, wb0231xl.io.txt, wb0231xm.io.txt, wb0231xn.io.txt, wb0231xp.io.txt" sect-type="other" usage="ewyb edio casee sacac ass mena sasia fea eerca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading usage="ewyb edio">Other International Organizations</heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee sacac ass mena sasia fea eerca">Other Regional Organizations</alt-heading>
+     <int-org-sectref id="SL447677" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" slfilename="other-2.io.sgm" sllink="SLSDOCRF" sllinkid="447676" slsdocid="447637" slsdocty="int-org-section int-org-sectrefdtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+          
+          <int-org-section id="WB0231XA.IO.TXT.1" id-root="other.io" iso="int-org_other" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee sacac ass mena sasia fea eerca">
+               <heading>Agriculture, Food, Forestry and Fisheries</heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">OTHER INTERNATIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee sacac ass mena sasia fea eerca">REGIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb edio">Agriculture, Food, Forestry and Fisheries</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="casee sacac ass mena sasia fea eerca">Other Regional Organizations</alt-heading>
+               <heading-note>
+        For organizations concerned with agricultural commodities, see 
+        <xr pageref="N" ref="WB0231XB.IO.TXT.1">Commodities</xr>
+               </heading-note>
+               <org-list>
+                    <org-entry id="WB0231XB.IO.TXT.43" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Africa Rice Center</org-entry-name>
+                              <abbr>AfricaRice</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>AfricaRice Headquarters, 01 BP 4029, blvd François Mitterrand, Cocody, Abidjan 01, Côte d’Ivoire</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">22-48-09-10</telephone>
+                              <email>AfricaRice@cgiar.org</email>
+                              <internet>www.africarice.org</internet>
+                         </address-block>
+                         <found-date>1971 (as the West Africa Rice Development Association, present name adopted in 2009 as scope of membership and activities expanded to pan-African)</found-date>
+                         <content-note style="NORMAL">
+            participates in the network of agricultural research centres supported by the 
+            <xr pageref="N" ref="IO-UN.1932">Consultative Group on International Agricultural Research</xr>
+                         </content-note>
+                         <content-note style="NORMAL">aims to contribute to food security and poverty eradication in poor rural and urban populations, through research, partnerships, capacity strengthening and policy support on rice-based systems</content-note>
+                         <content-note style="NORMAL">promotes sustainable agricultural devt based on environmentally sound management of natural resources</content-note>
+                         <content-note style="NORMAL">maintains research stations in Benin, Ghana, Liberia, Madagascar, Nigeria, Senegal, Sierra Leone and Tanzania</content-note>
+                         <content-note style="NORMAL">pro­vides training and consulting services</content-note>
+                         <stats>mems: 28 countries</stats>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Baboucarr</forename>
+                                        <surname>Manneh</surname>
+                                   </person-name>
+                                   <person-note>The Gambia</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Program Report</publ-name>
+             (annually), training series, proceedings, leaflets
+          </content-note>
+                         <!--~ Moved AfricaRice to Agriculture from Commodities - 23.iv.19-->
+                    </org-entry>
+                    <org-entry id="IO-OTHER.AG.0123" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>African Agricultural Technology Foundation</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 30709, Nairobi 00100, Kenya</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 4223700</telephone>
+                              <email>aatf@aatf-africa.org</email>
+                              <internet>www.aatf-africa.org</internet>
+                         </address-block>
+                         <found-date>2003</found-date>
+                         <content-note style="NORMAL">aims to facilitate and promote public-private partnerships for the access and delivery of agricultural technologies for use by resource-poor smallholder farmers in sub-Saharan Africa</content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Aggrey</forename>
+                                        <surname>Ambali</surname>
+                                   </person-name>
+                                   <person-note>Zambia</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Canisius</forename>
+                                        <surname>Kanangire</surname>
+                                   </person-name>
+                                   <person-note>Rwanda</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--~ 27.ix.2023: moved African Union-Interafrican Bureau for Animal Resources to AU-->
+                    <org-entry id="WB0231XA.IO.TXT.51" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <!--GS 02.08.2016 Pasteuras Tropicas publd till 2007-->
+                         <org-entry-head>
+                              <org-entry-name>Alliance of Bioversity International and the International Center for Tropical Agriculture (CIAT)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Via di San Domenico 1, 00153 Rome, Italy</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(06) 661181</telephone>
+                              <email>bioversity@cgiar.org</email>
+                              <internet>alliancebioversityciat.org</internet>
+                         </address-block>
+                         <found-date>2019 by merger of CIAT (f. 1967) and Bioversity Int. (f. 1974 as the Int. Board for Plant Genetic Resources, present name adopted in 2006)</found-date>
+                         <content-note style="NORMAL">the Alliance focuses on research-based solutions to the interconnected global crises of biodiversity, climate, environment and nutrition</content-note>
+                         <content-note style="NORMAL">aims to accelerate actions required to secure a sustainable and inclusive food system, equipped to provide diverse nutritious foods while preserving and protecting biodiversity and agricultural landscapes</content-note>
+                         <content-note style="NORMAL">maintains regional hubs in Nairobi, Kenya (for Africa), Calí, Colombia (for the Americas), and Penang, Malaysia (for Asia), and genebanks, for the preservation of plant genetic resources, in Leuven, Belgium, and Palmira, Colombia</content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Julia</forename>
+                                        <surname>Marton-Lefèvre</surname>
+                                   </person-name>
+                                   <person-note>France/USA</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Juan Lucas</forename>
+                                        <surname>Restrepo</surname>
+                                   </person-name>
+                                   <person-note>Colombia/France</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Annual Report</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XB.IO.TXT.53" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Arab Authority for Agricultural Investment and Development</org-entry-name>
+                              <abbr>AAAID</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 2102, Khartoum, Sudan</verbatim-address>
+                              </address>
+                              <email>info@aaaid.org</email>
+                              <internet>www.aaaid.org</internet>
+                         </address-block>
+                         <found-date>1976</found-date>
+                         <content-note style="NORMAL">aims to accelerate agricultural devt in the Arab world and to ensure food security</content-note>
+                         <content-note style="NORMAL">acts principally by equity participation in agricultural projects in mem. countries</content-note>
+                         <content-note style="NORMAL">AAAID has adopted new progs to help to raise productivity of food agricultural products and introduced zero-tillage farming technology for developing the rain-fed sector, which achieved a substantial increase in crop yields, incl. of sorghum, cotton, sesame and sunflowers</content-note>
+                         <stats>mems: 21 countries</stats>
+                         <role-group>
+                              <role>Pres. and Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Mohamed</forename>
+                                        <surname>bin Obaid Al-Mazrouei</surname>
+                                   </person-name>
+                                   <person-note>UAE</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Annual Report</publ-name>
+             (Arabic and English)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XB.IO.TXT.0405" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Asian Forestry Cooperation Organization</org-entry-name>
+                              <abbr>AFoCO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                12
+                <sc>f</sc>
+                 SIMPAC Bldg., 52 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul 07330, Republic of Korea
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(822) 785-8971</telephone>
+                              <email>contact@afocosec.org</email>
+                              <internet>afocosec.org</internet>
+                         </address-block>
+                         <found-date>2018</found-date>
+                         <content-note style="NORMAL">aims to undertake and promote regional forest co-operation and sustainable management, to address the impacts of climate change, and to strengthen capacity building in the sector</content-note>
+                         <content-note style="NORMAL">a Regional Education Training Centre (RETC) offers regular courses in forestry management and new technologies</content-note>
+                         <content-note style="NORMAL">awarded observer status at the UN General Assembly in 2020</content-note>
+                         <stats>mems: 14 countries, 2 observers</stats>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Chongho</forename>
+                                        <surname>Park</surname>
+                                   </person-name>
+                                   <person-note>Republic of Korea</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.AGRIC.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Association of Agricultural Research Institutions in the Near East and North Africa</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 950764, 11195 Amman, Jordan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(6) 4725071</telephone>
+                              <email>r.shibli@cgiar.org</email>
+                              <internet>www.aarinena.org</internet>
+                         </address-block>
+                         <found-date>1985</found-date>
+                         <content-note style="NORMAL">aims to strengthen co-operation among national, regional and international research institutions</content-note>
+                         <content-note style="NORMAL">operates the internet-based Near East and North Africa Rural and Agricultural Knowledge and Information Network</content-note>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Hamdan</forename>
+                                        <surname>Al Wahaibi</surname>
+                                   </person-name>
+                                   <person-note>Oman</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Rida</forename>
+                                        <surname>Shibli</surname>
+                                   </person-name>
+                                   <person-note>Jordan</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="ECONANDDEVT.IO.9321" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="sasia">
+                         <org-entry-head>
+                              <org-entry-name>Bay of Bengal Programme</org-entry-name>
+                              <abbr>BOBP-IGO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>91 St Mary's Rd, Abhiramapuram, Chennai 600018, Tamil Nadu, India</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(44) 42040024</telephone>
+                              <email>info@bobpigo.org</email>
+                              <internet>bobpigo.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">affiliated to the Food and Agriculture Organization of the UN</content-note>
+                         <content-note style="NORMAL">undertakes regional fisheries management programmes: Safety at Sea for Artisanal and Small-Scale Fishermen, Fish Stocks Assessment in the Bay of Bengal, Capacity Building and Information Services for Fisheries Development and Management in the Bay of Bengal Region, Taking the Code of Conduct for Responsible Fisheries to the Grassroots Level, Setting up of Regional Information Network</content-note>
+                         <stats>mems: Bangladesh, India, Maldives, Sri Lanka</stats>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>P.</forename>
+                                        <surname>Krishnan</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.4" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac ass sasia fea">
+                         <!--rc 04.02.2020 cannot confirm fax-->
+                         <data-protection date-added="01.07.2005" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>CAB International</org-entry-name>
+                              <abbr>CABI</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Nosworthy Way, Wallingford, Oxon, OX10 8DE, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1491) 832111</telephone>
+                              <email>enquiries@cabi.org</email>
+                              <internet>www.cabi.org</internet>
+                         </address-block>
+                         <found-date>1930 as the Imperial Agricultural Bureaux (later Commonwealth Agricultural Bureaux), present name adopted in 1986</found-date>
+                         <content-note style="NORMAL">aims to improve human welfare worldwide through the generation, dissem­ination and application of scientific knowledge in support of sustainable devt</content-note>
+                         <content-note style="NORMAL">places particular emphasis on sustainable agriculture, forestry, human health and the management of natural resources, with priority given to the needs of developing countries</content-note>
+                         <content-note style="NORMAL">a separate microbiology centre, in Egham, Surrey (UK), undertakes research, consultancy, training, capacity building and institutional devt measures in sustainable pest management, biosystematics and molecular biology, ecological applications and environmental and industrial microbiology</content-note>
+                         <content-note style="NORMAL">compiles and publishes extensive information (in a variety of print and electronic forms) on aspects of agriculture, forestry, veterinary medicine, the environment and natural resources, and rural devt in developing countries</content-note>
+                         <content-note style="NORMAL"> maintains regional centres in Brazil, the People’s Rep. of China, Ghana, India, Kenya, Malaysia, Pakistan, Switzerland, Trinidad and Tobago, the UK, Zambia and the USA</content-note>
+                         <stats>mems: 48 countries and territories</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Roger</forename>
+                                        <surname>Horton</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>CEO</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Daniel</forename>
+                                        <surname>Elger</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.6" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <!--rc 18.05.2023 cannot confirm address-->
+                         <org-entry-head>
+                              <org-entry-name>Collaborative International Pesticides Analytical Council Ltd</org-entry-name>
+                              <abbr>CIPAC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>c/o Dr Ralf Hänel, Messeweg 11/12, 38104 Braunschweig, Germany</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(531) 2993500</telephone>
+                              <fax>(531) 2993002</fax>
+                              <email>info@cipac.org</email>
+                              <internet>www.cipac.org</internet>
+                         </address-block>
+                         <found-date>1957</found-date>
+                         <content-note style="NORMAL">supports international collaborative work on methods of analysis for pesticides used in crop protection</content-note>
+                         <stats>26 mems, 6 hon. life mems</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Ralf</forename>
+                                        <surname>Hänel</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Lázló</forename>
+                                        <surname>Bura</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.FEA.7" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Commission for the Conservation of Southern Bluefin Tuna</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 37, Deakin West, Canberra, ACT 2600, Australia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 6282-8396</telephone>
+                              <email>sec@ccsbt.org</email>
+                              <internet>www.ccsbt.org</internet>
+                         </address-block>
+                         <found-date>1994 upon the entry into force of the Convention for the Conservation of Southern Bluefin Tuna (signed in May 1993)</found-date>
+                         <content-note style="NORMAL">aims to promote sustainable management and conservation of the southern bluefin tuna</content-note>
+                         <content-note style="NORMAL">holds an annual meeting and annual scientific session</content-note>
+                         <content-note style="NORMAL">collates relevant research, scientific information and data</content-note>
+                         <content-note style="NORMAL">encourages non-mem. countries and bodies to co-operate in the conservation and optimum utilization of southern bluefin tuna through accession to the Convention or adherence to the Commission's management arrangements</content-note>
+                         <content-note style="NORMAL">mems: Australia, Indonesia, Japan, Rep. of Korea, New Zealand, South Africa, the Fishing Entity of Taiwan, European Union; co-operating non-mem.: Philippines</content-note>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Dominic</forename>
+                                        <surname>Vallieres</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1932" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--rc 14.09.2023 entry missing usage tags-->
+                         <org-entry-head>
+                              <org-entry-name>Consultative Group on International Agricultural Research</org-entry-name>
+                              <abbr>CGIAR</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>CGIAR System Management Office, 1000 ave Agropolis, 34394 Montpellier, France</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4-26-69-00-20</telephone>
+                              <email>contact@cgiar.org</email>
+                              <internet>www.cgiar.org</internet>
+                         </address-block>
+                         <found-date>1971, under the initial sponsorship of the World Bank, FAO and the UN Development Programme</found-date>
+                         <content-note style="NORMAL">supports international agricultural research aimed at improving crops and animal production in developing countries, and works in partnership with govts, international and regional orgs, private businesses and foundations to support its network of research centres</content-note>
+                         <content-note style="NORMAL">in 2010 a CGIAR Fund was established to administer donations to the various progs, while a Consortium, governed by a 10-mem. Board, was established to unite the strategic and funding supervision of the research centres</content-note>
+                         <content-note style="NORMAL">a Science Council was also established to promote the quality, relevance and impact of science in CGIAR and to advise on strategic scientific issues</content-note>
+                         <content-note style="NORMAL">CGIAR was granted international org. status in 2012</content-note>
+                         <content-note style="NORMAL">
+            maintains 
+            
+            11 gene banks, which conserve (in 2024) some 736,210 accessions of root and tuber crops, cereals, grain legumes, bananas, forages and tree species and co-ordinate distributions of germplasm
+          </content-note>
+                         <content-note style="NORMAL">in June 2016 CGIAR funders and centres approved a new CGIAR System Framework, under which representatives of funders and of developing countries were to meet in a System Council, comprising up to 20 voting mems</content-note>
+                         <content-note style="NORMAL">a further reform process, to unify governance, funding and strategic objectives under the brand One CGIAR, was initiated in 2021; an Integrated Framework Agreement, to consolidate the One CGIAR transition, was approved by the Boards of CGIAR’s research centres in Feb. 2023</content-note>
+                         <content-note style="NORMAL">a new portfolio of initiatives was introduced in July 2021, under the theme of `Transforming Food, Land, and Water Systems in a Climate Crisis’</content-note>
+                         <stats>mems: 15 research centres; 2,273 contributing partners</stats>
+                         <role-group>
+                              <role>Chair. of the CGIAR System Board</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Lindiwe</forename>
+                                        <surname>Majele Sibanda</surname>
+                                   </person-name>
+                                   <person-note>Zimbabwe</person-note>
+                                   <person-note>until 31 Dec. 2024</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Man. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Ismahane</forename>
+                                        <surname>Elouafi</surname>
+                                   </person-name>
+                                   <person-note>Canada/Morocco</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.8" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <!--GS 31.08.2017 Desert Locust Situation Reports could not be confirmed-->
+                         <!--GS 08.08.2016 Publs could not be confirmed-->
+                         <org-entry-head>
+                              <org-entry-name>Desert Locust Control Organization for Eastern Africa</org-entry-name>
+                              <abbr>DLCO-EA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 4255, Addis Ababa, Ethiopia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 461477</telephone>
+                              <email>director@dlco-ea.org</email>
+                              <internet>www.dlco-ea.org</internet>
+                         </address-block>
+                         <found-date>1962</found-date>
+                         <content-note style="NORMAL">aims to promote effective control of the desert locust in the region and to conduct research into the locust's environment and behaviour </content-note>
+                         <content-note style="NORMAL">also assists mem. states in the monitoring, forecasting and extermination of other migratory pests</content-note>
+                         <stats>mems: Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, Sudan, Tanzania, Uganda</stats>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Mwesigwa Moses</forename>
+                                        <surname>Rwaheru</surname>
+                                   </person-name>
+                                   <person-note>Uganda</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+             publs 
+            <publ-name>Desert Locust Situation Reports</publ-name>
+             (monthly), 
+            <publ-name>Newsletter</publ-name>
+             (quarterly), technical reports
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.9" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <!--rc 29.02.2024 ditto - hc checked address on a recent newsletter-->
+                         <!--rc 80.03.2022 ditto-->
+                         <!--rc 05.02.2020 cannot confirm contact details-->
+                         <!--GS 10.07.2017 No new issues of three publs: data sheets..., guidelines for the efficacy..., and summary of Phytosanitary reg...-->
+                         <data-protection date-added="01.08.2008" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>European and Mediterranean Plant Protection Organization</org-entry-name>
+                              <abbr>EPPO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>21 blvd Richard Lenoir, 75011 Paris, France</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">1-84-79-07-57</telephone>
+                              <email>hq@eppo.int</email>
+                              <internet>www.eppo.int</internet>
+                         </address-block>
+                         <found-date>1951, present name adopted in 1955</found-date>
+                         <content-note style="NORMAL">aims to promote international co-operation between govt plant protection services to prevent the introduction and spread of pests and diseases of plants and plant products</content-note>
+                         <stats>mems: govts of 52 countries and territories</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Michael</forename>
+                                        <surname>Kurzweil</surname>
+                                   </person-name>
+                                   <person-note>Austria</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nico</forename>
+                                        <surname>Horn</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+             publs 
+            <publ-name>Annual Report and Recommendations</publ-name>
+                              <publ-name>EPPO Bulletin</publ-name>
+            , 
+            <publ-name>EPPO Reporting Service</publ-name>
+            , EPPO standards, technical documents, database on quarantine pests
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.10" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <!--18.05.2023 cannot confirm mems-->
+                         <data-protection date-added="15.03.2004" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>European Association for Research on Plant Breeding</org-entry-name>
+                              <abbr>EUCARPIA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>3 Corrensstrasse, 06466 Seeland, OT Gatersleben, Germany</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(394) 825282</telephone>
+                              <email>eucarpia@ipk-gatersleben.de</email>
+                              <internet>www.eucarpia.eu</internet>
+                         </address-block>
+                         <found-date>1956</found-date>
+                         <content-note style="NORMAL">promotes scientific and technical co-operation in plant breeding</content-note>
+                         <content-note style="NORMAL">General Congress held every 4 years (2024: Leipzig, Germany, in Aug.)</content-note>
+                         <stats>mems: 59 corp. mems</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andreas</forename>
+                                        <surname>Bõrner</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Ulrike</forename>
+                                        <surname>Lohwasser</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>EUCARPIA Bulletin</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="IO.AGRIC.333" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="casee">
+                         <org-entry-head>
+                              <org-entry-name>European Confederation of Agricultural, Rural and Forestry Contractors</org-entry-name>
+                              <alt-name>Confédération Européenne des Entrepreneurs de Travaux Techniques Agricoles, Ruraux et Forestiers—CEETTAR</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Blvd Anspach 111, 1000 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 274-22-06</telephone>
+                              <email>ceettar@ceettar.eu</email>
+                              <internet>www.ceettar.eu</internet>
+                         </address-block>
+                         <found-date>1961</found-date>
+                         <content-note style="NORMAL">aims to support land-based contractors and the rural economy throughout Europe</content-note>
+                         <stats>mems: 23 orgs, representing some 150,000 cos</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Klaus</forename>
+                                        <surname>Pentzlin</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jerôme</forename>
+                                        <surname>Roche</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.36" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>European Federation for Animal Production</org-entry-name>
+                              <abbr>EAAP</abbr>
+                              <alt-name>Fédération européenne de zootechnie</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address> Via G. Tomassetti 3/A1, 00161 Rome, Italy</verbatim-address>
+                              </address>
+                              <telephone alsofax="Y">(06) 44202639</telephone>
+                              <email>eaap@eaap.org</email>
+                              <internet>www.eaap.org</internet>
+                         </address-block>
+                         <found-date>1949 (as the European Association for Animal Production)</found-date>
+                         <content-note style="NORMAL">aims to improve the conditions of animal production and meet consumer demand</content-note>
+                         <content-note style="NORMAL">holds annual meetings (2024: Florence, Italy, in Sept.)</content-note>
+                         <stats>mems: asscns in 35 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Isabel</forename>
+                                        <surname>Casasús</surname>
+                                   </person-name>
+                                   <person-note>Spain</person-note>
+                                   <person-note>until Sept. 2024</person-note>
+                              </person>
+                              <person>
+                                   <person-name>
+                                        <forename>Joel</forename>
+                                        <surname>Bérard</surname>
+                                   </person-name>
+                                   <person-note>designate, 2024-28</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andrea</forename>
+                                        <surname>Rosati</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Epitheorisi Zootechnikis Epistimis</publ-name>
+             (
+            <i>Animal Science Review</i>
+            , with the Hellenic Society of Animal Production), 
+            <publ-name>EAAP Newsletter</publ-name>
+            , 
+            <publ-name>Animal Journal</publ-name>
+            , various scientific and technical reports
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.12" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>European Grassland Federation</org-entry-name>
+                              <abbr>EGF</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Schachenweg 6, 8908 Hedingen, Switzerland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">793746230</telephone>
+                              <email>fedsecretary@europeangrassland.org</email>
+                              <internet>www.europeangrassland.org</internet>
+                         </address-block>
+                         <found-date>1963</found-date>
+                         <content-note style="NORMAL">facilitates and maintains liaison between European grassland orgs; promotes the interchange of scientific and practical knowledge and experience</content-note>
+                         <content-note style="NORMAL">holds General Meeting every 2 years and a Symposium in the intervening year</content-note>
+                         <stats>mems: 32 full and 7 corresponding mem. countries in Europe</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Agnes</forename>
+                                        <surname>van den Pol-van Dasselaar</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Willy</forename>
+                                        <surname>Kessler</surname>
+                                   </person-name>
+                                   <person-note>Switzerland</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Grass and Forage Science</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.13" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>European Livestock and Meat Trading Union</org-entry-name>
+                              <abbr>UECBV</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                81
+                <sc>a</sc>
+                 rue de la Loi, 4th Floor, 1040 Brussels, Belgium
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 230-46-03</telephone>
+                              <fax>(2) 230-94-00</fax>
+                              <email>info@uecbv.eu</email>
+                              <internet>uecbv.eu</internet>
+                         </address-block>
+                         <found-date>1952</found-date>
+                         <content-note style="NORMAL">aims to study problems of the European livestock and meat trade and inform mems of all relevant legislation</content-note>
+                         <content-note style="NORMAL"> acts as an international arbitration commission</content-note>
+                         <content-note style="NORMAL">conducts research on agricultural markets, the quality of livestock, and veterinary regulations</content-note>
+                         <content-note style="NORMAL">incorporates the European Asscn of Livestock Markets and the Young European Meat Cttee</content-note>
+                         <stats>mems: 50 nat. orgs in 27 countries, representing some 20,000 cos</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Laurens</forename>
+                                        <surname>Hoedemaker</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Karsten</forename>
+                                        <surname>Maier</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.23" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio casee">
+                         <data-protection date-added="03.02.2010" ticked-box="N" />
+                         <org-entry-head>
+                              <org-entry-name>European Society for Sugar Technology</org-entry-name>
+                              <abbr>ESST</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Lück­hoffstr. 16, 14129 Berlin, Germany</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(30) 8035678</telephone>
+                              <fax>(30) 8032049</fax>
+                              <email>mail@esst-sugar.org</email>
+                              <internet>www.esst-sugar.org</internet>
+                         </address-block>
+                         <found-date>2007, assuming the responsibilities of the International Commission for Sugar Technology (CIST, f. 1949)</found-date>
+                         <stats>mems include 14 sugar producers, 6 sugar technologists’ asscns and 54 suppliers</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>A. G.</forename>
+                                        <surname>Bram Fetter</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XB.IO.TXT.76" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>Food Assistance Committee</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>c/o International Grains Council, 1 Canada Sq., Canary Wharf, London, E14 5AE, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 7513-1122</telephone>
+                              <email>fac@foodassistanceconvention.org</email>
+                              <internet>www.foodassistanceconvention.org</internet>
+                         </address-block>
+                         <found-date>2013, upon the entry into force of the Food Assistance Convention</found-date>
+                         <content-note style="NORMAL">the Convention expands the traditional focus of previous Food Aid Conventions and incorporates additional forms of food assistance, including the provision of micronutrients and cash and vouchers to meet the food and nutrition needs of the most vulnerable populations</content-note>
+                         <content-note style="NORMAL">under the Food Assistance Convention the parties commit to providing a defined minimum level of food assistance annually</content-note>
+                         <stats>mems: Australia, Austria, Canada, Denmark, Finland, France, Japan, Rep. of Korea, Luxembourg, Russian Fed., Slovenia, Spain, Sweden, Switzerland, USA, European Union</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jürgen</forename>
+                                        <surname>Drexler</surname>
+                                   </person-name>
+                                   <person-note>Austria</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="AGRIFOOD.IO.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Global Alliance for Improved Nutrition</org-entry-name>
+                              <abbr>GAIN</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>7 rue Varembé, 1202 Geneva, Switzerland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">227491850</telephone>
+                              <email>info@gainhealth.org</email>
+                              <internet>gainhealth.org</internet>
+                         </address-block>
+                         <found-date>2002</found-date>
+                         <content-note style="NORMAL">works to enhance access to affordable, nutritious food in support of the most vulnerable communities</content-note>
+                         <content-note style="NORMAL">develops partnerships and progs to provide technical, financial and policy support for the transformation of food systems</content-note>
+                         <content-note style="NORMAL">developed a GAIN premix facility for the provision of premixed fortication of staple foods</content-note>
+                         <content-note style="NORMAL">helped to organize the inaugural Global Summit on Food Fortification (held in Arusha, Tanzania, in Sept. 2015)</content-note>
+                         <content-note style="NORMAL">partner org. in the Food Systems Dashboard</content-note>
+                         <content-note style="NORMAL">country offices are based in Bangladesh, Benin, Ethiopia, Ghana, India, Indonesia, Kenya, Mozambique, Pakistan and Tanzania; other support offices are in London, UK, Washington, DC, USA and Utrecht, Netherlands</content-note>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Lawrence</forename>
+                                        <surname>Haddad</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.AGRI.1130" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>Global Foot-and-Mouth Disease Research Alliance</org-entry-name>
+                              <abbr>GFRA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <email>capozzo.alejandra@inta.gob.ar</email>
+                              <internet>ars.usda.gov/GFRA</internet>
+                         </address-block>
+                         <found-date>2003</found-date>
+                         <content-note style="NORMAL">operates through a global alliance of partners to share research and knowledge and develop strategic objectives to combat and eradicate the disease</content-note>
+                         <stats>mems: 28 orgs</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Frank</forename>
+                                        <surname>Mwliine</surname>
+                                   </person-name>
+                                   <person-note>Uganda</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>CEO</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Alejandra</forename>
+                                        <surname>Capozzo</surname>
+                                   </person-name>
+                                   <person-note>Argentina</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Newsletter</publ-name>
+             (annually)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="AGRIC.OTHER.IO.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac ass fea eerca">
+                         <org-entry-head>
+                              <org-entry-name>Global Pulse Confederation</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <email>media@globalpulses.com</email>
+                              <internet>globalpulses.com</internet>
+                         </address-block>
+                         <found-date>1965, as Int. Pulses Trade and Industry Confederation</found-date>
+                         <content-note style="NORMAL">organizes regular confs (2024: Macau, in Sept.), and events to celebrate World Pulses Day (held annually on 10 Feb.)</content-note>
+                         <stats>mems: 18 nat. asscns</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Vijay</forename>
+                                        <surname>Iyengar</surname>
+                                   </person-name>
+                                   <person-note>India</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>CEO</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Randy</forename>
+                                        <surname>Duckworth</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.FEA.8" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass sasia fea">
+                         <org-entry-head>
+                              <org-entry-name>Indian Ocean Tuna Commission</org-entry-name>
+                              <abbr>IOTC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 1011, Victoria, Mahé, Seychelles</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4225494</telephone>
+                              <email> iotc-secretariat@fao.org</email>
+                              <internet>www.iotc.org</internet>
+                         </address-block>
+                         <found-date>1996</found-date>
+                         <content-note style="NORMAL">mandated to work for the conservation and management of tuna and tuna-like species in the Indian Ocean</content-note>
+                         <content-note style="NORMAL">a revised convention was adopted in 2018</content-note>
+                         <stats>mems: Australia, Bangladesh, People's Rep. of China, Comoros, Eritrea, France (territories), India, Indonesia, Iran, Japan, Kenya, Rep. of Korea, Madagascar, Malaysia, Maldives, Mauritius, Mozambique, Oman, Pakistan, Philippines, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Tanzania, Thailand, UK, Yemen, European Union; co-operating non-contracting party: Liberia; observer International Whaling Commission</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Indra</forename>
+                                        <surname>Jaya</surname>
+                                   </person-name>
+                                   <person-note>Indonesia</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Paul</forename>
+                                        <surname>de Bruyn</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.14" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac fea">
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Tropical Tuna Commission</org-entry-name>
+                              <abbr>IATTC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>8901 La Jolla Shores Drive, La Jolla, CA 92037-1509, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(858) 666-9700</telephone>
+                              <fax>(858) 665-4946</fax>
+                              <email>info@iattc.org</email>
+                              <internet>www.iattc.org</internet>
+                         </address-block>
+                         <found-date>1949, initially as a research and advisory body</found-date>
+                         <content-note style="NORMAL">serves as the regional fisheries management org. responsible for ensuring the long-term conservation and sustainable use of tunas and tuna-like species in the Eastern Pacific Ocean; mandate and functions have broadened, as embodied in the `Antigua Convention’ that was signed in 2003 and entered into force in 2010; these functions include scientific research, the collection of data, and the adoption of binding conservation and management measures</content-note>
+                         <content-note style="NORMAL">the Commission provides the Secretariat for the Agreement on the International Dolphin Conservation Program (AIDCP), which entered into force in Feb. 1999 with the aim to reduce progressively, to near zero levels, incidental dolphin mortalities in the tuna purse-seine</content-note>
+                         <stats> mems: Belize, Canada, People’s Rep. of China, Colombia, Costa Rica, Ecuador, El Salvador, France, Guatemala, Japan, Kiribati, Rep. of Korea, Mexico, Nicaragua, Panama, Peru, Chinese Taipei (Taiwan), USA, Vanuatu, Venezuela, European Union </stats>
+                         <stats>co-operating non-contracting parties: Bolivia, Chile, Honduras, Indonesia, Liberia</stats>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Arnulfo</forename>
+                                        <surname>Franco</surname>
+                                   </person-name>
+                                   <person-note>Panama</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Status of the tuna and billfish stocks</publ-name>
+             (annually), 
+            <publ-name>Tunas, stocks and ecosystem in the eastern Pacific</publ-name>
+             (annually), other special reports, bulletins and scientific publs
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.15" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 01.03.2024 cannot confirm mems-->
+                         <data-protection date-added="28.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Association for Cereal Science and Technology</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Stubenring 12, 1010 Vienna, Austria</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 707-72-020</telephone>
+                              <fax>(1) 707-72-02-300</fax>
+                              <email>office@icc.or.at</email>
+                              <internet>www.icc.or.at</internet>
+                         </address-block>
+                         <found-date>1955 (as the International Association for Cereal Chemistry, present name adopted in 1986)</found-date>
+                         <content-note style="NORMAL">aims to promote international co-operation in the field of cereal science and technology through the dissemination of information and the devt of standard methods of testing and analysing products</content-note>
+                         <stats>mems: 24 countries, 34 corp. mems and institutional mems</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Bertrand</forename>
+                                        <surname>Matthäus</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename> Veronika</forename>
+                                        <surname>Haslinger</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.16" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>International Association for Vegetation Science</org-entry-name>
+                              <abbr>IAVS</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>47 ave des Arts, 1000 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 320-2479</telephone>
+                              <email>admin@iavs.org</email>
+                              <internet>www.iavs.org</internet>
+                         </address-block>
+                         <found-date>1938</found-date>
+                         <stats>mems: in 79 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Susan</forename>
+                                        <surname>Wiser</surname>
+                                   </person-name>
+                                   <person-note>New Zealand</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>David</forename>
+                                        <surname>Zelený</surname>
+                                   </person-name>
+                                   <person-note>Czech Republic</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Journal of Vegetation Science</publ-name>
+            , 
+            <publ-name>Applied Vegetation Science</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.17" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <!--rc 08.03.2022 cannot confirm mems, tel and fax-->
+                         <!--GS 13.06.2017 ditto-->
+                         <!--GS 09.02.2017 Stats could not be confirmed-->
+                         <org-entry-head>
+                              <org-entry-name>International Association of Agricultural Economists</org-entry-name>
+                              <abbr>IAAE</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>411 Richmond St East, Suite 200 Toronto, ON M5A 3S5, Canada</verbatim-address>
+                              </address>
+                              <email>iaae@execinc.com</email>
+                              <internet>www.iaae-agecon.org</internet>
+                         </address-block>
+                         <found-date>1929</found-date>
+                         <content-note style="NORMAL">aims to foster the devt of agri­cultural economic sciences and to further the application of research into agricultural processes</content-note>
+                         <content-note style="NORMAL">works to improve economic and social conditions for agricultural and rural life</content-note>
+                         <content-note style="NORMAL">organizes IAAE Triennial Conference (2024: New Delhi, India, in Aug.)</content-note>
+                         <stats>mems: in 83 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Uma</forename>
+                                        <surname>Lele</surname>
+                                   </person-name>
+                                   <person-note>India</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec. and Treas.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Stephan</forename>
+                                        <surname>von Cramon-Taubadel</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Agricultural Economics</publ-name>
+             (every 2 months), 
+            <publ-name>IAAE Newsletter</publ-name>
+             (2 a year)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.18" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <!--rc 08.03.2022 cannot confirm much-->
+                         <!--rc 05.02.2020 no latest info available ownweb not working either-->
+                         <!--VK 26.03.2019 No official docs after 2010. Council was also for 2012-2015-->
+                         <!--GS 09.02.2017 Mem stats not confirmed-->
+                         <org-entry-head>
+                              <org-entry-name>International Association of Agricultural Information Specialists</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 63, Lexington, KY 40588-0063, USA</verbatim-address>
+                              </address>
+                              <fax>(859) 257-8379</fax>
+                              <email>info@iaald.org</email>
+                              <internet>www.iaald.org</internet>
+                         </address-block>
+                         <found-date>1955 (as International Association of Agricultural Librarians and Documentalists—IAALD)</found-date>
+                         <content-note style="NORMAL">aims to enable its mems to create, capture, access and disseminate information to achieve a more productive and sustainable use of the world’s land, water, and renewable natural resources and to contribute to improved livelihoods of rural communities through educational progs, confs and networking opportunities</content-note>
+                         <content-note style="NORMAL">affiliated to INFITA</content-note>
+                         <stats>mems: 400 in 84 countries</stats>
+                         <role-group>
+                              <role>Sec.-Treas.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Toni</forename>
+                                        <surname>Greider</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name> Agricultural Information Worldwide</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.19" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="02.10.2006" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Association of Horticultural Producers</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Horticulture House, Chilton, Didcot, Oxfordshire, OX11 0RN, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1235) 776230</telephone>
+                              <email>info@aiph.org</email>
+                              <internet>www.aiph.org</internet>
+                         </address-block>
+                         <found-date>1948</found-date>
+                         <content-note style="NORMAL">represents the common interests of commercial horticultural producers in the international field</content-note>
+                         <content-note style="NORMAL">hosts international horticultural exhibitions</content-note>
+                         <content-note style="NORMAL">administers a Green City initiative</content-note>
+                         <stats>mems: 42 orgs </stats>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Tim</forename>
+                                        <surname>Briercliffe</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ 
+            <publ-name>AIPH News</publ-name>
+             (monthly), 
+            <publ-name>Statistical Yearbook</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.20" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 05.02.2020 cannot confirm mems-->
+                         <!--Vk 26.03.2019 Role group not verified-->
+                         <org-entry-head>
+                              <org-entry-name>International Bee Research Association</org-entry-name>
+                              <abbr>IBRA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1 Agincourt St, Monmouth, NP25 3DZ, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(7831) 379222</telephone>
+                              <email>mail@ibra.org.uk</email>
+                              <internet>www.ibra.org.uk</internet>
+                         </address-block>
+                         <found-date>1949</found-date>
+                         <content-note style="NORMAL">aims to further bee research and to provide an information service for bee scientists and beekeepers worldwide</content-note>
+                         <stats>mems: 1,200 in 130 countries</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Fani</forename>
+                                        <surname>Hatjina</surname>
+                                   </person-name>
+                                   <person-note>Greece</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Journal of Apicultural Research</publ-name>
+             (5 a year), 
+            <publ-name>Bee World</publ-name>
+             (quarterly)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.MENA.5" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena eerca">
+                         <org-entry-head>
+                              <org-entry-name>International Centre for Agricultural Research in the Dry Areas</org-entry-name>
+                              <abbr>ICARDA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Dalia Bldg, 2nd Floor, Bashir El Kassar St, Verdun, 1108-2010 Beirut, Lebanon</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 804071</telephone>
+                              <email>icarda@cgiar.org</email>
+                              <internet>www.icarda.org</internet>
+                         </address-block>
+                         <found-date>1975</found-date>
+                         <content-note style="NORMAL">focuses on the problem-solving needs of resource-poor farmers</content-note>
+                         <content-note style="NORMAL">supports the improvement of water use efficiency, rangeland and small ruminant production in all dry-area developing countries</content-note>
+                         <content-note style="NORMAL">promotes within Western and Central Asia and North Africa the improvement of bread, durum wheat and chickpea production, and of farming systems</content-note>
+                         <content-note style="NORMAL">undertakes research, training and dissemination of informa­tion, in co-operation with national, regional and international research institutes, univs and ministries of agriculture, in order to enhance production, alleviate poverty and promote sustainable natural resource management practices</content-note>
+                         <content-note style="NORMAL">
+            mem. of the network of 15 agricultural research centres supported by the 
+            <xr pageref="N" ref="IO-UN.1932">Consultative Group on International Agricultural Research</xr>
+                         </content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Aly</forename>
+                                        <surname>Abou Sabaa</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Caravan Newsletter</publ-name>
+             (2 a year)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.22" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="15.04.2005" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Commission for the Conservation of Atlantic Tunas</org-entry-name>
+                              <abbr>ICCAT</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Calle Corazón de María 8, 28002 Madrid, Spain</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(91) 4165600</telephone>
+                              <fax>(91) 4152612</fax>
+                              <email>info@iccat.es</email>
+                              <internet>www.iccat.int</internet>
+                         </address-block>
+                         <found-date>1969 under the provisions of the International Convention for the Con­serva­tion of Atlantic Tunas (1966)</found-date>
+                         <content-note style="NORMAL">aims to maintain the populations of tuna and tuna-like species in the Atlantic Ocean and adjacent seas at levels that permit the maximum sustainable catch</content-note>
+                         <content-note style="NORMAL">collects statistics</content-note>
+                         <content-note style="NORMAL">conducts studies</content-note>
+                         <content-note style="NORMAL">holds biennial meetings; the 28th, hosted by Egypt, in a partly virtual format, in Nov. 2023, agreed 3 new protection measures for cetaceans, whale sharks and mobulid rays; adopted 2 new conservation and management measures for blue shark, swordfish and albacore; and set minimum standards for the optional implementation of electronic monitoring systems</content-note>
+                         <stats>mems: 52 contracting parties</stats>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Camille Jean Pierre</forename>
+                                        <surname>Manel</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>ICCAT Biennial Report</publ-name>
+            , 
+            <publ-name>Statistical Bulletin</publ-name>
+             (annually), 
+            <publ-name>Data Record</publ-name>
+             (annually), scientific papers
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.24" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>International Committee for Animal Recording</org-entry-name>
+                              <abbr>ICAR</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>650 Arthur van Schendelstraat, 3511 MJ Utrecht, Netherlands</verbatim-address>
+                              </address>
+                              <email>icar@icar.org</email>
+                              <internet>www.icar.org</internet>
+                         </address-block>
+                         <found-date>1951</found-date>
+                         <content-note style="NORMAL">aims to extend and improve the work of recording data and to standardize methods</content-note>
+                         <content-note style="NORMAL">holds biennial meetings and intersessional gatherings</content-note>
+                         <stats>mems: 130 orgs in 60 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Daniel</forename>
+                                        <surname>Lefebvre</surname>
+                                   </person-name>
+                                   <person-note>Canada</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Marie-Agnès</forename>
+                                        <surname>Mourot de Lathyle</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>ICAR Guidelines</publ-name>
+            , 
+            <publ-name>Newsletter</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.25" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass sasia">
+                         <org-entry-head>
+                              <org-entry-name>International Crops Research Institute for the Semi-Arid Tropics</org-entry-name>
+                              <abbr>ICRISAT</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Patancheru, Telangana 502 324, India</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(40) 30713071</telephone>
+                              <email>icrisat@cgiar.org</email>
+                              <internet>www.icrisat.org</internet>
+                         </address-block>
+                         <found-date>1972</found-date>
+                         <content-note style="NORMAL">aims to promote the genetic improve­ment of crops and for research on the management of resources in the world's semi-arid tropics, with the aim of reducing poverty and protecting the environment</content-note>
+                         <content-note style="NORMAL">research covers all physical and socioeconomic aspects of improving farming systems on unirrigated land</content-note>
+                         <content-note style="NORMAL">maintains regional centres in Nairobi, Kenya (for Eastern and Southern Africa) and in Bamako, Mali (for Western and Central Africa)</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename> Jacqueline d’Arros</forename>
+                                        <surname>Hughes</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>ICRISAT Report</publ-name>
+             (annually), information and research bulletins
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.26" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="29.08.2007" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Dairy Federation</org-entry-name>
+                              <abbr>IDF</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                70/
+                <sc>b</sc>
+                 blvd Auguste Reyers, 1030 Brussels, Belgium
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 325-67-40</telephone>
+                              <email>info@fil-idf.org</email>
+                              <internet>www.fil-idf.org</internet>
+                         </address-block>
+                         <found-date>1903</found-date>
+                         <content-note style="NORMAL">facilitates collaboration among dairy asscns, and works to address scientific, technical and economic problems affecting the dairy industry</content-note>
+                         <content-note style="NORMAL">holds annual World Dairy Summit (2024: Paris, France, in Oct.)</content-note>
+                         <stats>mems: nat. cttees in 43 countries</stats>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Caroline</forename>
+                                        <surname>Emond</surname>
+                                   </person-name>
+                                   <person-note>Canada</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Bulletin of IDF</publ-name>
+            , 
+            <publ-name>IDF-ISO Standard Methods of Analysis</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.28" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 19.05.2023 ditto-->
+                         <!--rc 09.03.2022 cannot confirm mems-->
+                         <org-entry-head>
+                              <org-entry-name>International Federation of Beekeepers' Associations</org-entry-name>
+                              <abbr>APIMONDIA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Corso Vittorio Emanuele II 101, 00186 Rome, Italy</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(06) 6852286</telephone>
+                              <fax>(06) 6852287</fax>
+                              <email>apimondia@mclink.it</email>
+                              <internet>www.apimondia.org</internet>
+                         </address-block>
+                         <found-date>1949</found-date>
+                         <content-note style="NORMAL">collects and brings up to date documentation on international beekeeping</content-note>
+                         <content-note style="NORMAL">carries out studies into particular issues concerning beekeeping</content-note>
+                         <content-note style="NORMAL">organizes international congresses, seminars, symposia and meetings</content-note>
+                         <content-note style="NORMAL">co-operates with other international orgs, in particular, with FAO</content-note>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Jeff</forename>
+                                        <surname>Pettis</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Riccardo</forename>
+                                        <surname>Jannoni-Sebas­tian­ini</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="AGRIC.OTHER.IO.22" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="27.07.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Food Policy Research Institute</org-entry-name>
+                              <abbr>IFPRI</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1201 Eye St, NW, Washington, DC 20005, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 862-5600</telephone>
+                              <email>ifpri@cgiar.org</email>
+                              <internet>www.ifpri.org</internet>
+                         </address-block>
+                         <found-date>1975</found-date>
+                         <content-note style="NORMAL">co-operates with academic and other institutions in further research</content-note>
+                         <content-note style="NORMAL">develops policies for cutting hunger and malnutrition</content-note>
+                         <content-note style="NORMAL">committed to increasing public awareness of food policies</content-note>
+                         <content-note style="NORMAL">
+            participates in the 
+            <xr pageref="N" ref="IO-FAO.AMIS.1">Agricultural Market Information System</xr>
+             (f. 2011)
+          </content-note>
+                         <content-note style="NORMAL">maintains a Global Hunger Index</content-note>
+                         <content-note style="NORMAL">at a meeting of G7 ministers responsible for devt held in May 2022 IFPRI was invited to engage with a new G7-World Bank Global Alliance for Food Security</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Johan</forename>
+                                        <surname>Swinnen</surname>
+                                   </person-name>
+                                   <person-note>Belgium</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.29" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>International Hop Growers' Convention</org-entry-name>
+                              <abbr>IHGC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Malgajeva 18, 3000 Celje, Slovenia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(4) 177-65-44</telephone>
+                              <email>martin.pavlovic@ihps.si</email>
+                              <internet>www.ihgc.org</internet>
+                         </address-block>
+                         <found-date>1951</found-date>
+                         <content-note style="NORMAL">collates national reports and global data on hop production and information management on the hop industry among mem. countries, estimates the world crop and promotes scientific research</content-note>
+                         <content-note style="NORMAL">organizes IHGC Congress every 2 years (2024: Lublin, Poland, in July-Aug.)</content-note>
+                         <stats>mems: 38 nat. hop producers’ asscns and hop trading cos in 20 countries worldwide</stats>
+                         <role-group>
+                              <role> Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Martin</forename>
+                                        <surname>Pavlovič</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.30" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 06.02.2020 cannot confirm fax-->
+                         <data-protection date-added="02.06.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Institute for Sugar Beet Research</org-entry-name>
+                              <abbr>IIRB</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>40 rue Washington, 1050 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <email>mail@iirb.org</email>
+                              <internet>www.iirb.org</internet>
+                         </address-block>
+                         <found-date>1932</found-date>
+                         <content-note style="NORMAL">promotes research and the exchange of information</content-note>
+                         <content-note style="NORMAL">organizes congresses and study group meetings</content-note>
+                         <stats>mems: 350 in 23 countries</stats>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Stephanie</forename>
+                                        <surname>Kluth</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.31" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>International Institute of Tropical Agriculture</org-entry-name>
+                              <abbr>IITA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Oyo Rd, PMB 5320, Ibadan, Nigeria</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 700800</telephone>
+                              <email>iita@cgiar.org</email>
+                              <internet>www.iita.org</internet>
+                         </address-block>
+                         <found-date>1967</found-date>
+                         <content-note style="NORMAL">
+            principal financing arranged by the 
+            <xr pageref="N" ref="IO-UN.1932">Consultative Group on International Agricultural Research</xr>
+             and several NGOs for special projects
+          </content-note>
+                         <content-note style="NORMAL">research pro­gs comprise crop management, improvement of crops and plant protection and health</content-note>
+                         <content-note style="NORMAL">conducts a training prog. for researchers in tropical agriculture</content-note>
+                         <content-note style="NORMAL">maintains a virtual library and an image database</content-note>
+                         <content-note style="NORMAL">administers Research Stations, Research Sites and Regional Administrative Hubs in 15 African countries</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Simeon</forename>
+                                        <surname>Ehui</surname>
+                                   </person-name>
+                                   <person-note>Côte d’Ivoire</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>R4D Review</publ-name>
+             (2 a year), regular news and technical bul­letins, research reports
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.32" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>International Livestock Research Institute</org-entry-name>
+                              <abbr>ILRI</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 30709, Nairobi 00100, Kenya</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 4223000</telephone>
+                              <email>ilri-kenya@cgiar.org</email>
+                              <internet>www.ilri.org</internet>
+                         </address-block>
+                         <found-date>1995 to supersede the International Laboratory for Research on Animal Diseases and the International Livestock Centre for Africa</found-date>
+                         <content-note style="NORMAL">con­ducts labor­atory and field research on animal bioscience, animal science for sustainable productivity, BecA-ILRI Hub, feed and forages bioscience, food safety and zoonoses, livelihoods, gender and impact, livestock systems and environment, policy, trade and value chains, vaccine biosciences, biosciences facilities</content-note>
+                         <content-note style="NORMAL">carries out training progs for scientists and tech­nicians</content-note>
+                         <content-note style="NORMAL">maintains a specialized science library</content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Elsa</forename>
+                                        <surname>Murano</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Appolinaire</forename>
+                                        <surname>Djikeng</surname>
+                                   </person-name>
+                                   <person-note>Cameroon</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Livestock Research for Development</publ-name>
+             (newsletter, 2 a year)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.33" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <!--rc 06.02.2020 cannot confirm fax-->
+                         <org-entry-head>
+                              <org-entry-name>International Maize and Wheat Improvement Centre</org-entry-name>
+                              <abbr>CIMMYT</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Carretera México-Veracruz, Km. 45, El Batán, 56237 Texcoco, Mexico</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(55) 5804-2004</telephone>
+                              <email>cimmyt@cgiar.org</email>
+                              <internet>www.cimmyt.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">conducts research pro­gs for sustainable maize and wheat cropping systems to help the poor in developing countries</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Bram</forename>
+                                        <surname>Govaerts</surname>
+                                   </person-name>
+                                   <person-note>Belgium</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XB.IO.TXT.36" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee mena eerca sacac fea">
+                         <org-entry-head>
+                              <org-entry-name>International Organisation of Vine and Wine</org-entry-name>
+                              <alt-name>Organisation Internationale de la Vigne et du Vin—OIV</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>12 Parvis de l'UNESCO, Dijon 21000, France</verbatim-address>
+                              </address>
+                              <email>contact@oiv.int</email>
+                              <internet>www.oiv.int</internet>
+                         </address-block>
+                         <found-date>1924 as the International Wine Office; name changed to International Vine and Wine Office in 1958; present name adopted 2001</found-date>
+                         <content-note style="NORMAL">supports research into vine and vine product issues in the scientific, technical, economic and social areas, disseminates knowledge, and facilitates contacts between researchers</content-note>
+                         <content-note style="NORMAL">organizes annual World Congress (2024: Dijon, France, in Oct.)</content-note>
+                         <stats>mems: 50 countries; the European Union and 18 other orgs and territories participate as observers</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Luigi</forename>
+                                        <surname>Moio</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>John</forename>
+                                        <surname>Barker</surname>
+                                   </person-name>
+                                   <person-note>New Zealand</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.64" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>International Organization for Biological Control of Noxious Animals and Plants</org-entry-name>
+                              <abbr>IOBC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <email>secretary-general@iobc-global.org</email>
+                              <internet>www.iobc-global.org</internet>
+                         </address-block>
+                         <found-date>1955</found-date>
+                         <content-note style="NORMAL">aims to promote and co-ordinate research on the more effective biological control of harmful organisms</content-note>
+                         <content-note style="NORMAL">reorganized in 1971 as a central council with worldwide affiliations and 6 largely autonomous regional sections</content-note>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Martin</forename>
+                                        <surname>Hill</surname>
+                                   </person-name>
+                                   <person-note>South Africa</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Gen. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Joop</forename>
+                                        <surname>van Lenteren</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>BioControl</publ-name>
+            , 
+            <publ-name>Newsletter</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.34" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio fea sacac">
+                         <org-entry-head>
+                              <org-entry-name>International Organization of Citrus Virologists</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <email>iocvsecretary@gmail.com</email>
+                              <internet>iocv.ucr.edu</internet>
+                         </address-block>
+                         <found-date>1957</found-date>
+                         <content-note style="NORMAL">supports research on citrus virus diseases at international level by standardizing diag­nostic techniques and exchanging information</content-note>
+                         <content-note style="NORMAL">organizes IOCV Conference every 3 years (2025: Mildura, Australia, in March)</content-note>
+                         <stats>mems: 250</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Nerida</forename>
+                                        <surname>Donovan</surname>
+                                   </person-name>
+                                   <person-note>Australia</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Journal of Citrus Pathology</publ-name>
+             (online)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="IO-ORG.IPPC.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>International Plant Protection Convention, Secretariat</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Vialle delle Terme di Caracalla, 00153 Rome, Italy</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(06) 5705-4812</telephone>
+                              <email>ippc@fao.org</email>
+                              <internet>www.ippc.int</internet>
+                         </address-block>
+                         <found-date>1992</found-date>
+                         <content-note style="NORMAL">provides operational support to the IPPC (adopted first in 1951 and revised in 1997), including the formulation of international standards for phytosanitary measures, exchanging plant health information and providing other policy guidelines</content-note>
+                         <content-note style="NORMAL">inaugural International Plant Health Conference: Sept. 2022, in London, UK</content-note>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Osama</forename>
+                                        <surname>El-Lissy</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.35" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass">
+                         <!--rc 15.09.2023 no new info-->
+                         <!--rc 04.09.2020 cannot confirm any-->
+                         <!--rc 06.02.2020 cannot confirm any info not sure if org is active-->
+                         <org-entry-head>
+                              <org-entry-name>International Red Locust Control Organization for Central and Southern Africa</org-entry-name>
+                              <abbr>IRLCO-CSA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 240252, Ndola, Zambia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 2651264</telephone>
+                              <fax>(21) 2650117</fax>
+                              <email>admin@redlocust.org.zm</email>
+                         </address-block>
+                         <found-date>1971</found-date>
+                         <content-note style="NORMAL">established to strengthen the control of locusts in Eastern, Central and Southern Africa</content-note>
+                         <content-note style="NORMAL">also assists in the control of African army-worm and quelea-quelea</content-note>
+                         <stats>mems: 6 countries</stats>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , scientific reports
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.88" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia fea">
+                         <org-entry-head>
+                              <org-entry-name>International Rice Research Institute</org-entry-name>
+                              <abbr>IRRI</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Pili Dr., Los Baños, Laguna 4031, Philippines</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 5805600</telephone>
+                              <email>info@irri.org</email>
+                              <internet>irri.org</internet>
+                         </address-block>
+                         <found-date>1960</found-date>
+                         <content-note style="NORMAL">conducts research, with the aim of developing technologies of environmental, social and economic benefit</content-note>
+                         <content-note style="NORMAL">works to en­hance national rice research systems and offers training</content-note>
+                         <content-note style="NORMAL">operates Riceworld, a museum and learning centre</content-note>
+                         <content-note style="NORMAL">maintains a library of technical rice literature and an International Rice Genebank (storing 129,590 varieties)</content-note>
+                         <content-note style="NORMAL">offices in 17 rice-producing countries in Africa and Asia</content-note>
+                         <content-note style="NORMAL">organizes international confs and workshops (6th International Rice Congress: Manila, Philippines, in Oct. 2023)</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Yvonne</forename>
+                                        <surname>Pinto</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Rice Today</publ-name>
+             (quarterly), 
+            <publ-name>News about Rice and People</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="IO-AGRIC.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>International Seed Federation</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>7 chemin du Reposoir, 1260 Nyon, Switzerland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">223654420</telephone>
+                              <email>isf@worldseed.org</email>
+                              <internet>worldseed.org</internet>
+                         </address-block>
+                         <found-date>2002 by merger of the Fédération Internationale du Commerce des Semences (FIS, f. 1924) and the International Association of Plant Breeders for the Protection of Plant Varieties (f.1938)</found-date>
+                         <content-note style="NORMAL">supports increased access to the best quality seeds and promotes plant breeding and innovations</content-note>
+                         <content-note style="NORMAL">represents the industry at intergovernmental meetings</content-note>
+                         <content-note style="NORMAL">organizes an annual World Seed Congress (2023: Cape Town, South Africa, in June)</content-note>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Marco</forename>
+                                        <surname>van Leeuwen</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Michael</forename>
+                                        <surname>Keller</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.37" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <data-protection date-added="18.07.2007" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Seed Testing Association</org-entry-name>
+                              <abbr>ISTA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Richtiarkade 18, 8304 Wallisellen, Switzerland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">448386000</telephone>
+                              <email>ista.office@ista.ch</email>
+                              <internet>www.seedtest.org</internet>
+                         </address-block>
+                         <found-date>1924</found-date>
+                         <content-note style="NORMAL">aims to promote uniformity and accurate methods of seed testing and evaluation in order to facilitate efficiency in production, processing, distribution and utilization of seeds</content-note>
+                         <content-note style="NORMAL">organizes annual meetings, and other workshops, symposia, training courses</content-note>
+                         <stats>mems: more than 83 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Keshavulu</forename>
+                                        <surname>Kunusoth</surname>
+                                   </person-name>
+                                   <person-note>India</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename> Andreas</forename>
+                                        <surname>Wais</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Seed Science and Technology</publ-name>
+             (3 a year), 
+            <publ-name> Seed Testing International (ISTA News Bulletin)</publ-name>
+             (2 a year), 
+            <publ-name>International Rules for Seed Testing</publ-name>
+             (annually)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.38" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <!--rc 19.05.2023 ownweb not working, no new info otherwise-->
+                         <data-protection date-added="02.03.2006" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Sericultural Commission</org-entry-name>
+                              <abbr>ISC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Central Silk Board Complex, BTM Layout, Madiwala, Bangaluru 560068, India</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(80) 26680162</telephone>
+                              <fax>(80) 26681663</fax>
+                              <email>iscbangalore@gmail.com</email>
+                              <internet>www.inserco.org</internet>
+                         </address-block>
+                         <found-date>1948</found-date>
+                         <content-note style="NORMAL">supports the devt of silk production</content-note>
+                         <content-note style="NORMAL">organizes a Congress every 3 years (26th: Cluj-Napoca, Romania, in Sept. 2022)</content-note>
+                         <stats>mems: 21 states</stats>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Periyasamy</forename>
+                                        <surname>Sivakumar</surname>
+                                   </person-name>
+                                   <person-note>India</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Sericologia</publ-name>
+             (2 a year)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.40" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio casee">
+                         <!--rc 06.02.2020 cannot confirm mem countries-->
+                         <org-entry-head>
+                              <org-entry-name>International Society for Horticultural Science</org-entry-name>
+                              <abbr>ISHS</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Corbeekhoeve Pastoriestraat 2, 3360 Korbeek-Lo, Belgium; POB 500, 3001 Leuven 1, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(16) 22-94-27</telephone>
+                              <email>www.ishs.org/contact</email>
+                              <internet>www.ishs.org</internet>
+                         </address-block>
+                         <found-date>1959</found-date>
+                         <content-note style="NORMAL">promotes co-operation in horticultural science research</content-note>
+                         <content-note style="NORMAL">holds international congress every 4 years (2022: Angers, France, in Aug.)</content-note>
+                         <stats>mems: 50 countries, 67,000 individuals, universities, govts, institutions, libraries and cos</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Francois</forename>
+                                        <surname>Laurens</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Peter</forename>
+                                        <surname>Vanderborght</surname>
+                                   </person-name>
+                                   <person-note>Belgium</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Fruits: The International Journal of Tropical and Subtropical Horticulture</publ-name>
+            , 
+            <publ-name>Acta Horticulturae</publ-name>
+            , 
+            <publ-name>European Journal of Horticultural Science</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.93" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="26.09.2007" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Union for the Protection of New Varieties of Plant</org-entry-name>
+                              <alt-name>Union internationale pour la protection des obtentions végétales—UPOV</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>34 chemin des Colombettes, 1211 Geneva 20, Switzerland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">223389111</telephone>
+                              <fax>227330336</fax>
+                              <email>upov.mail@upov.int</email>
+                              <internet>www.upov.int</internet>
+                         </address-block>
+                         <found-date>1961 by the International Convention for the Protection of New Varieties of Plants (entered into force 1968, revised in 1972, 1978 and 1991)</found-date>
+                         <content-note style="NORMAL">aims to provide and promote an effective system of plant variety protection, with the aim of encouraging the devt of new varieties of plants</content-note>
+                         <stats>mems: 79 covering 97 states</stats>
+                         <role-group>
+                              <role>Pres. of the Council</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Yehan</forename>
+                                        <surname>Cui</surname>
+                                   </person-name>
+                                   <person-note>People’s Republic of China</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Daren</forename>
+                                        <surname>Tang</surname>
+                                   </person-name>
+                                   <person-note>Singapore</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.41" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="16.03.2006" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Union of Forest Research Organizations</org-entry-name>
+                              <abbr>IUFRO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Marxergasse 2, 1030 Vienna, Austria</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 877-01-51-0</telephone>
+                              <fax>(1) 877-01-51-50</fax>
+                              <email>office@iufro.org</email>
+                              <internet>www.iufro.org</internet>
+                         </address-block>
+                         <found-date>1892</found-date>
+                         <content-note style="NORMAL">aims to promote global co-operation in forest-related research and enhance the understanding of the ecological, economic and social aspects of forests and trees</content-note>
+                         <content-note style="NORMAL">disseminates scientific knowledge to stakeholders and decision makers and aims to contribute to forest policy and on-the-ground forest management</content-note>
+                         <content-note style="NORMAL">organizes world congress every 5 years (2019: Curitiba, Brazil)</content-note>
+                         <stats>mems: over 700 orgs in more than 100 countries, involving some 15,000 scientists</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Prof.</title>
+                                        <forename>John</forename>
+                                        <surname>Parrotta</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Alexander</forename>
+                                        <surname>Buck</surname>
+                                   </person-name>
+                                   <person-note>Austria</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>IUFRO News</publ-name>
+             (10 a year, electronic format only), 
+            <publ-name>IUFRO Research Series</publ-name>
+            , 
+            <publ-name>World Series</publ-name>
+            , occasional papers, reports, brochures
+          </content-note>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.FEA.12" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="sasia edio">
+                         <data-protection date-added="19.07.2007" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Water Management Institute</org-entry-name>
+                              <abbr>IWMI</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>127 Sunil Mawatha, Pelawatte, Battaramulla, Sri Lanka</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 2880000</telephone>
+                              <email>iwmi@cgiar.org</email>
+                              <internet>www.iwmi.cgiar.org</internet>
+                         </address-block>
+                         <found-date>1984 as the International Irrigation Management Institute, present name adopted in 1999</found-date>
+                         <content-note style="NORMAL">aims to improve the management of land and water resources in support of food, livelihoods and nature</content-note>
+                         <content-note style="NORMAL">addresses water and land management challenges confronting poor communities in developing countries</content-note>
+                         <content-note style="NORMAL">research agenda organized around the following priority themes: ecosystem services; governance, gender and poverty; resource recovery, water quality and health; revitalized irrigation systems, sustainable agricultural water management, water availability risk and resilience and water futures; cross-cutting activities include: assessment of land and water productivity, and their relationship to poverty; identifying interventions that improve the productivity, access to, and the sustainability of natural resources; and assessment of the impacts of interventions</content-note>
+                         <content-note style="NORMAL">works through collaborative research with partners worldwide and targets policymakers, devt agencies, individual farmers and private sector orgs</content-note>
+                         <content-note style="NORMAL">
+            mem. of the 
+            <xr pageref="N" ref="IO-UN.1932">CGIAR</xr>
+             network of research centres
+          </content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Simi</forename>
+                                        <surname>Kamal</surname>
+                                   </person-name>
+                                   <person-note>Pakistan</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Mark</forename>
+                                        <surname>Smith</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.44" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea sacac">
+                         <!--New Sec.-Gen. to be appointed later in 2023-->
+                         <data-protection date-added="06.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>International Whaling Commission</org-entry-name>
+                              <abbr>IWC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>The Red House, 135 Station Rd, Impington, Cambridge, CB24 9NP, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1223) 233971</telephone>
+                              <email>secretariat@iwc.int</email>
+                              <internet>iwc.int</internet>
+                         </address-block>
+                         <found-date>1946 under the International Convention for the Regulation of Whaling, for the conservation of world whale stocks</found-date>
+                         <content-note style="NORMAL">reviews the regulations covering whaling operations</content-note>
+                         <content-note style="NORMAL">supports research</content-note>
+                         <content-note style="NORMAL">collects, analyses and disseminates statistical and other information on whaling</content-note>
+                         <content-note style="NORMAL">a ban on commercial whaling was passed by the Commission in July 1982, to take effect 3 years subsequently (in some cases, a phased reduction of commercial operations was not completed until 1988); a revised whale management procedure was adopted in 1994; Japan utilized an exception in the 1982 ruling that permits limited quotas for whaling undertaken for scientific purposes</content-note>
+                         <content-note style="NORMAL">the IWC recognizes 2 whaling sanctuaries, in the Indian Ocean and in the Southern Ocean around Antarctica</content-note>
+                         <content-note style="NORMAL">a Scientific Committee meets annually; the Commission meets every 2 years (2022: Portorož, Slovenia, in Oct.)</content-note>
+                         <content-note style="NORMAL">some 40 of the 67 mems attending the 2018 Commission meeting, held in Florianopolis, Brazil, in Sept., adopted a non-binding declaration which designated whaling as no longer a necessary economic activity; Japan, Norway and Iceland were among the 27 states that rejected the declaration and voted for a proposal in favour of co-existence between conservation and commercial whaling; the meeting approved small `aboriginal subsistence hunts’ undertaken by certain (mainly Arctic-based) Indigenous communities for nutritional and cultural purposes</content-note>
+                         <content-note style="NORMAL">a proposal by Japan to reinstate large-scale commercial whaling was defeated</content-note>
+                         <content-note style="NORMAL">in late Dec. the Japanese Govt announced its impending withdrawal from the Commission; this took effect on 30 June 2019, and in July Japan resumed commercial whaling activities</content-note>
+                         <stats>mems: 88 countries</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Amadou Telivel</forename>
+                                        <surname>Diallo</surname>
+                                   </person-name>
+                                   <person-note>Guinea</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Martha</forename>
+                                        <surname>Rojas Urrego</surname>
+                                   </person-name>
+                                   <person-note>Colombia</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Reports of the IWC</publ-name>
+             (2 a year), 
+            <publ-name>Journal of Cetacean Research and Management</publ-name>
+             (annually)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.FEA.14" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="sasia fea edio">
+                         <org-entry-head>
+                              <org-entry-name>Network of Aquaculture Centres in Asia and the Pacific</org-entry-name>
+                              <abbr>NACA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 1040, Kasetsart University Post Office, Bangkok 10903, Thailand</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 561-1728</telephone>
+                              <fax>(2) 561-1727</fax>
+                              <email>info@enaca.org</email>
+                              <internet>enaca.org</internet>
+                         </address-block>
+                         <found-date>1990</found-date>
+                         <content-note style="NORMAL">promotes the devt of aquaculture in the Asia and Pacific region through devt planning, inter­disciplinary research, regional training and information</content-note>
+                         <stats>mems: Australia, Bangladesh, Cambodia, People's Rep. of China, Hong Kong SAR, India, Indonesia, Iran, Lao People’s Democratic Rep., Malaysia, Maldives, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, and 3 assoc. orgs</stats>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Huang</forename>
+                                        <surname>Jie</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>NACA Newsletter</publ-name>
+             (quarterly), 
+            <publ-name>Aquaculture Asia</publ-name>
+             (quarterly), 
+            <publ-name>Aquatic Animal Disease Report</publ-name>
+             (quarterly)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="IO.FISHERIES.261120131426" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>North Atlantic Salmon Conservation Organization</org-entry-name>
+                              <abbr>NASCO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>11 Rutland Sq., Edinburgh, EH1 2AS, United Kingdom</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(131) 228-2551</telephone>
+                              <fax>(131) 228-4384</fax>
+                              <email>hq@nasco.int</email>
+                              <internet>www.nasco.int</internet>
+                         </address-block>
+                         <found-date>1984 upon the entry into force of the Convention for the Conservation of Salmon in the North Atlantic Ocean</found-date>
+                         <content-note style="NORMAL">aims to conserve, restore and enhance Atlantic salmon through international co-operation</content-note>
+                         <stats>parties to the Convention: Canada, Denmark (in respect of the Faroe Islands and Greenland), European Union, Norway, Russian Fed., USA</stats>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Emma</forename>
+                                        <surname>Hatfield</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.45" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea eerca">
+                         <data-protection date-added="15.08.2005" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>North Pacific Anadromous Fish Commission</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>889 W. Pender St, Suite 502, Vancouver, BC V6C 3B2, Canada</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(604) 775-5550</telephone>
+                              <fax>(604) 775-5577</fax>
+                              <email>secretariat@npafc.org</email>
+                              <internet>www.npafc.org</internet>
+                         </address-block>
+                         <found-date>1993</found-date>
+                         <content-note style="NORMAL">aims to promote the conservation of anadromous stocks in the waters of the North Pacific Ocean and its adjacent seas</content-note>
+                         <stats>mems: Canada, Japan, Rep. of Korea, Russian Fed., USA</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jamal</forename>
+                                        <surname>Moss</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Yoshikiyo</forename>
+                                        <surname>Kondo</surname>
+                                   </person-name>
+                                   <person-note>Japan</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Newsletter</publ-name>
+             (2 a year), 
+            <publ-name>Statistical Yearbook</publ-name>
+            , 
+            <publ-name>Technical Report</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.46" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 06.02.2020 cannot confirm fax-->
+                         <data-protection date-added="28.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Northwest Atlantic Fisheries Organization</org-entry-name>
+                              <abbr>NAFO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1601 Lower Water St, Suite 401, Halifax, NS B3J 3P6, Canada</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(902) 468-5590</telephone>
+                              <email>info@nafo.int</email>
+                              <internet>www.nafo.int</internet>
+                         </address-block>
+                         <found-date>1979 (fmrly International Commission for the Northwest Atlantic Fisheries)</found-date>
+                         <content-note style="NORMAL">an amended Convention was adopted in 2007</content-note>
+                         <content-note style="NORMAL">aims at optimum use, management and conservation of resources</content-note>
+                         <content-note style="NORMAL">promotes research and compiles statis­tics in the Northwest Atlantic Ocean</content-note>
+                         <content-note style="NORMAL">holds annual meeting</content-note>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Brynhildur</forename>
+                                        <surname>Benediktsdóttir</surname>
+                                   </person-name>
+                                   <person-note>Iceland</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XB.IO.TXT.98" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <!--rc 15.09.2023 cannot confirm role group-->
+                         <!--rc 10.03.2022 cannot confirm role group-->
+                         <!--SM 22.09.2015 website not working-->
+                         <data-protection date-added="09.02.2016" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Permanent Interstate Committee on Drought Control in the Sahel</org-entry-name>
+                              <alt-name>Comité permanent inter-états de lutte contre la sécheresse au Sahel</alt-name>
+                              <abbr>CILSS</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 7049, Ouagadougou 03, Burkina Faso</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(226) 25-49-96-00</telephone>
+                              <email>administration.se@cilss.int</email>
+                              <internet>www.cilss.int</internet>
+                         </address-block>
+                         <found-date>1973</found-date>
+                         <content-note style="NORMAL">aims to combat the effects of chronic drought in the Sahel region, by improving irrigation and food production, halting deforestation and creating food reserves</content-note>
+                         <content-note style="NORMAL">maintains a regional food security surveillance system</content-note>
+                         <content-note style="NORMAL">initiated a series of projects to improve food security and to counter poverty, entitled Sahel 21; the heads of state of all mems have signed a convention for the establishment of a Fondation pour le Développement Durable du Sahel</content-note>
+                         <content-note style="NORMAL">maintains the Institut du Sahel at Bamako (Mali) and centre at Niamey (Niger)</content-note>
+                         <content-note style="NORMAL">provides technical co-ordination of the UEMOA-ECOWAS Food Crisis Prevention Network (which is also supported by the OECD’s Sahel and West Africa Club)</content-note>
+                         <stats>mems: Benin, Burkina Faso, Cabo Verde, Chad, Côte d’Ivoire, The Gambia, Guinea, Guinea-Bissau, Mali, Mauritania, Niger, Senegal, Togo</stats>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Hubert</forename>
+                                        <surname>N’djafa Ouaga</surname>
+                                   </person-name>
+                                   <person-note>Chad</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Newsletter CILSS</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <!--Parties to the Nauru Agreement-->
+                    <org-entry id="AGRICFOOD.IO.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sacac fea">
+                         <org-entry-head>
+                              <org-entry-name>South Pacific Regional Fisheries Management Organisation</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 3797, Wellington 6140, New Zealand</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(4) 499-9893</telephone>
+                              <email>secretariat@sprfmo.int</email>
+                              <internet>www.sprfmo.int</internet>
+                         </address-block>
+                         <found-date>2012 upon the entry into force of the Convention on the Conservation and Management of High Seas Fishery resources in the South Pacific Ocean</found-date>
+                         <content-note style="NORMAL">committed to the long-term conservation and sustainable use of the fishery resources of the South Pacific Ocean</content-note>
+                         <stats>mems: Australia, Belize, Chile, People’s Rep. of China, Cook Islands, Cuba, Denmark (Faroe Islands), Ecuador, European Union, Rep. of Korea, New Zealand, Panama, Peru, Russian Federation, Chinese Taipei (Taiwan), USA, Vanuatu, 2 co-operating non-contracting parties</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jung-re</forename>
+                                        <surname>Riley Kim</surname>
+                                   </person-name>
+                                   <person-note>Rep. of Korea</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Craig</forename>
+                                        <surname>Loveridge</surname>
+                                   </person-name>
+                                   <person-note>New Zealand</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OTHER.IO.SIODFA.1049" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="fea">
+                         <org-entry-head>
+                              <org-entry-name>Southern Indian Ocean Deepsea Fishers Association</org-entry-name>
+                              <abbr>SIODFA</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Sitias 18 Herkalion, 71202 Crete, Greece</verbatim-address>
+                              </address>
+                              <email>r_shotton@hotmail.com</email>
+                              <internet>www.siodfa.org</internet>
+                         </address-block>
+                         <found-date>2006</found-date>
+                         <content-note style="NORMAL">aims to ensure the sustained economic benefit of deep-sea fishing in the Southern Indian Ocean while conserving biodiversity in the marine ecosystem</content-note>
+                         <stats>mems: 4 fishing operators, based in Australia, Japan and the Cook Islands</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Brian</forename>
+                                        <surname>Flanagan</surname>
+                                   </person-name>
+                                   <person-note>South Africa</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Ross</forename>
+                                        <surname>Shotton</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-FEA.200" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Western and Central Pacific Fisheries Commission</org-entry-name>
+                              <abbr>WCPFC</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Kaselehie St, POB 2356, Kolonia, Pohnpei State 96941, Federated States of Micronesia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">3201992</telephone>
+                              <fax>3201108</fax>
+                              <email>wcpfc@wcpfc.int</email>
+                              <internet>www.wcpfc.int</internet>
+                         </address-block>
+                         <found-date>2004 under the Convention for the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific</found-date>
+                         <content-note style="NORMAL">20th session: Rarotonga, Cook Islands, in Dec. 2023</content-note>
+                         <stats>mems: 26 countries and the European Community, 7 participating territories and 7 co-operating non-mems</stats>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Josie</forename>
+                                        <surname>Tamate</surname>
+                                   </person-name>
+                                   <person-note>Niue</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Rhea</forename>
+                                        <surname>Moss-Christian</surname>
+                                   </person-name>
+                                   <person-note>Marshall Islands</person-note>
+                              </person>
+                              <!--Rhea Moss-Christian from march 2023-->
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Newsletter</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.47" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <!--rc 06.02.2020 cannot confirm contact details-->
+                         <org-entry-head>
+                              <org-entry-name>World Association for Animal Production</org-entry-name>
+                              <abbr>WAAP</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                Via Tomassetti 3
+                <sc>a</sc>
+                /1, 00161 Rome, Italy
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(06) 44202639</telephone>
+                              <email>waap@waap.it</email>
+                              <internet>www.waap.it</internet>
+                         </address-block>
+                         <found-date>1965</found-date>
+                         <content-note style="NORMAL">holds world conf. on animal production every 5 years (13th World Conference: Lyon, France, in Aug. 2023)</content-note>
+                         <content-note style="NORMAL">encourages, sponsors and participates in regional meetings, seminars and symposia</content-note>
+                         <stats>mems: 18 orgs</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Philippe</forename>
+                                        <surname>Chemineau</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andrea</forename>
+                                        <surname>Rosati</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>WAAP Newsletter</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="AGRIC.IO.443" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>World Farmers’ Organization </org-entry-name>
+                              <abbr>WFO</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Via del Tritone 102, 00187 Rome, Italy</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(06) 421291</telephone>
+                              <email>info@wfo-oma.org</email>
+                              <internet>www.wfo-oma.org</internet>
+                         </address-block>
+                         <found-date>2011</found-date>
+                         <content-note style="NORMAL">develops policies which support farmers’ causes in developed and developing countries</content-note>
+                         <content-note style="NORMAL">represents farmers’ interests in international policy forums</content-note>
+                         <stats>mems: 81 orgs</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Arnold</forename>
+                                        <surname>Puech d'Alissac</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andrea</forename>
+                                        <surname>Porro</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Farmletter</publ-name>
+             (monthly)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.50" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia fea">
+                         <org-entry-head>
+                              <org-entry-name>WorldFish</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Jalan Batu Maung, Batu Maung, 11960 Bayan Lepas, Penang, Malaysia</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(4) 628-6888</telephone>
+                              <email>worldfishcenter@cgiar.org</email>
+                              <internet>www.worldfishcenter.org</internet>
+                         </address-block>
+                         <found-date>1975, as the International Centre for Living Aquatic Resources Management (ICLARM)</found-date>
+                         <content-note style="NORMAL">
+            became a mem. of the 
+            <xr pageref="N" ref="IO-UN.1932">Consultative Group on International Agricultural Research</xr>
+             in 1992
+          </content-note>
+                         <content-note style="NORMAL">aims to contribute to food security and poverty eradication in developing countries through the sustainable devt and use of living aquatic resources</content-note>
+                         <content-note style="NORMAL">carries out research and promotes partnerships</content-note>
+                         <content-note style="NORMAL">7 country offices</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Essam Yassin</forename>
+                                        <surname>Mohammed</surname>
+                                   </person-name>
+                                   <person-note>Eritrea</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--wsava.org-->
+                    <org-entry id="IO-ORG.ANIMAL.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ewyb casee sasia sacac ass mena fea eerca">
+                         <!--rc 06.02.2020 website not working-->
+                         <org-entry-head>
+                              <org-entry-name>
+              World Organisation for Animal Health 
+              <abbr>WOAH</abbr>
+                              </org-entry-name>
+                              <alt-name>Organisation mondiale de la santé animale—OIE</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>12 rue de Prony, 75017 Paris, France</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">1-44-15-18-88</telephone>
+                              <fax>1-42-67-09-87</fax>
+                              <email>woah@woah.org</email>
+                              <internet>www.woah.org</internet>
+                         </address-block>
+                         <found-date>1924 as Office International des Epizooties, present name adopted in 2003</found-date>
+                         <content-note style="NORMAL">objectives include promoting international transparency of animal diseases; collecting, analysing and disseminating scientific veterinary information; providing expertise and facilitating international co-operation in the control of animal diseases; promoting veterinary services; providing new scientific guidelines on animal production, food safety and animal welfare</content-note>
+                         <content-note style="NORMAL">launched in May 2005, jtly with FAO and WHO, a Global Strategy for the Progressive Control of Highly Pathogenic Avian Influenza (H5N1), and, in partnership with other orgs, has convened confs on avian influenza</content-note>
+                         <content-note style="NORMAL">in May 2017 adopted its first global strategy on animal welfare</content-note>
+                         <content-note style="NORMAL">maintains the World Animal Health Information System (WAHIS)</content-note>
+                         <content-note style="NORMAL">in April 2022 WOAH, WHO, UNEP and FAO concluded an MOU that provided for the establishment of a Quadripartite Collaboration for One Health, collectively to address challenges at the human-animal-plant-ecosystem interface</content-note>
+                         <content-note style="NORMAL">a Quadripartite One Health Joint Plan of Action was adopted in Oct., and the first in-person meeting of heads of the Quadripartite was convened in March 2023</content-note>
+                         <stats>WOAH experts work in a network of 51 collaborating centres and 260 reference laboratories (covering 119 diseases)</stats>
+                         <stats>mems: 183 countries</stats>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Monique</forename>
+                                        <surname>Eloit</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Disease Information</publ-name>
+             (weekly), 
+            <publ-name>World Animal Health</publ-name>
+             (annually), 
+            <publ-name>Scientific and Technical Review</publ-name>
+             (3 a year), other manuals, codes, etc.
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.90" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio casee">
+                         <data-protection date-added="03.08.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>World Ploughing Organization (WPO)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Fallaghmore, Athy, Co. Kildare, Ireland</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(59) 8625125</telephone>
+                              <fax>(59) 8625172</fax>
+                              <email>generalsecretary@worldploughing.org</email>
+                              <internet>worldploughing.org</internet>
+                         </address-block>
+                         <found-date>1952</found-date>
+                         <content-note style="NORMAL">promotes the World Ploughing Contest in a different country each year, to improve techniques and promote better understanding of soil cultivation practices through research and practical demonstrations</content-note>
+                         <content-note style="NORMAL">arranges tillage clinics worldwide</content-note>
+                         <stats>mems: affiliates in 31 countries</stats>
+                         <role-group>
+                              <role>Gen. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Anna Marie</forename>
+                                        <surname>McHugh</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>WPO Handbook</publ-name>
+             (annually)
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.3" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>World Vegetable Center</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 42, Shanhua, Tainan 74151, Taiwan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(6) 5837801</telephone>
+                              <email>info@worldveg.org</email>
+                              <internet>avrdc.org</internet>
+                         </address-block>
+                         <found-date>1971 as the Asian Vegetable Research and Development Center, present name adopted in 2008</found-date>
+                         <content-note style="NORMAL">aims to enhance the nutritional wellbeing and raise the incomes of the poor in developing countries, through improved varieties and methods of vegetable production, marketing and distribution</content-note>
+                         <content-note style="NORMAL">runs an experimental farm, laboratories, gene bank, greenhouses, quarantine house, insectarium, library and weather station</content-note>
+                         <content-note style="NORMAL">provides training for research and production specialists in tropical vegetables</content-note>
+                         <content-note style="NORMAL"> ex­changes and disseminates vegetable germplasm through regional offices in the developing world</content-note>
+                         <content-note style="NORMAL">serves as a clearing house for vegetable research information</content-note>
+                         <content-note style="NORMAL">and undertakes scientific publishing</content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Junne-Jih</forename>
+                                        <surname>Chen</surname>
+                                   </person-name>
+                                   <person-note>Rep. of China</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Marco</forename>
+                                        <surname>Wopereis</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publs 
+            <publ-name>Annual Report</publ-name>
+            , 
+            <publ-name>Fresh</publ-name>
+             (newsletter, 2 a year), other proceedings
+          </content-note>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.53" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>World Veterinary Association </org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>40 rue Washington, 1050 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 906-91-21</telephone>
+                              <email>secretariat@worldvet.org</email>
+                              <internet>www.worldvet.org</internet>
+                         </address-block>
+                         <found-date>1959 as a continuation of the International Veterinary Congresses (f. 1863)</found-date>
+                         <content-note style="NORMAL">hosts WVA Congress (39th Congress: Cape Town, South Africa, in April 2024), as well as other regional or themed meetings</content-note>
+                         <stats>mems: orgs in more than 80 countries representing some 500,000 veterinarians, 15 orgs of veter­inary specialists as assoc. mems</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Rafael</forename>
+                                        <surname>Laguens</surname>
+                                   </person-name>
+                                   <person-note>Spain</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="WB0231XA.IO.TXT.52" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="28.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>World's Poultry Science Association (WPSA)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 31, 7360 AA Beekbergen, Netherlands</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">651519584</telephone>
+                              <fax>207508941</fax>
+                              <email>wpsa@xs4all.nl</email>
+                              <internet>www.wpsa.com</internet>
+                         </address-block>
+                         <found-date>1912 (as the International Association of Poultry Instructors)</found-date>
+                         <content-note style="NORMAL">aims to advance and exchange knowledge relating to poultry science and the poultry industry</content-note>
+                         <content-note style="NORMAL">organizes World Poultry Congress every 4 years (2022: Paris, France)</content-note>
+                         <stats>mems: 8,000 individuals in more than 100 countries, branches in 77 countries</stats>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Michèle</forename>
+                                        <surname>Tixier-Boichard</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                         <role-group>
+                              <role>Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Peter</forename>
+                                        <surname>van Horne</surname>
+                                   </person-name>
+                                   <person-note>Netherlands</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>The World’s Poultry Science Journal</publ-name>
+             ­(quarterly)
+          </content-note>
+                    </org-entry>
+               </org-list>
+          </int-org-section>
+     </int-org-sectref>
+     </int-org-group>

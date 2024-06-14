@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61886" sllink="SLSDOCRF" sllinkid="61885" slsdocid="57372" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="EE.DIR.385" id-root="ee.dir" iso="ee" sect-type="transport" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Transport</heading>
+                    <dir-section id="EE.DIR.386" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Railways</heading>
+                         <p>The Rail Baltica project aims to connect the cities of Pärnu and Tallinn with six major cities in the European Union countries of Poland, Lithuania, Latvia and (via undersea tunnel) Finland.</p>
+                         <org-list>
+                              <org-entryref id="SL1174962" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1174961" slsdocid="1174955" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.1109944075" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <org-entry-head>
+                                             <org-entry-name>Edelaraudtee</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kaare 25, Türi 72212</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">384-8301</telephone>
+                                             <email>edel@edel.ee</email>
+                                             <internet>edel.ee</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <content-note style="NORMAL">operates freight services</content-note>
+                                        <content-note style="NORMAL">
+                  former passenger inter-city services transferred to 
+                  <xr pageref="N" ref="EE.DIR.1109943433">Elron (q.v.)</xr>
+                   in 2014
+                </content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rain</forename>
+                                                       <surname>Kaarjas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7949353" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7949352" slsdocid="1174936" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.1109943433" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Liinirongid AS</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vabaduse pst. 176, Tallinn 10917</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">673-7400</telephone>
+                                             <fax>673-7440</fax>
+                                             <email>info@elron.ee</email>
+                                             <internet>elron.ee</internet>
+                                        </address-block>
+                                        <found-date>1998 as Elektriraudtee</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2013</content-note>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">suburban passenger ser­vices in and around Tallinn, and from 2014 commenced operating inter-city diesel passenger services fmrly operated by Edelaraudtee</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lauri</forename>
+                                                       <surname>Betlem</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>320 employees (2022)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1174969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1174968" slsdocid="57582" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.389" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Raudtee</org-entry-name>
+                                             <alt-name>Estonian Railways</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Telliskivi 60/2, Tallinn 15073</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">615-8610</telephone>
+                                             <email>raudtee@evr.ee</email>
+                                             <internet>www.evr.ee</internet>
+                                        </address-block>
+                                        <found-date>1870</found-date>
+                                        <ownership>privatized in 2001</ownership>
+                                        <ownership>renationalization completed in 2007</ownership>
+                                        <content-note style="NORMAL">rail infrastructure operator and freight carrier</content-note>
+                                        <role-group>
+                                             <role>Chair. of Management Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kaido</forename>
+                                                       <surname>Zimmerman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rene</forename>
+                                                       <surname>Varek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4380424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4380423" slsdocid="4380418" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.1394208791" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <!--sc1 28.02.2002 role group confirmed at https://www.gogroup.ee/en/contacts/go-rail/-->
+                                        <org-entry-head>
+                                             <org-entry-name>GoRail</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Toompuiestee 37, Tallinn 10133</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">631-0044</telephone>
+                                             <email>info@gorail.ee</email>
+                                             <internet>www.gorail.ee</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">owned by AS Go Group</content-note>
+                                        <content-note style="NORMAL">rail freight services</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alar</forename>
+                                                       <surname>Pinsel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="EE.DIR.390" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Roads</heading>
+                         <org-list>
+                              <org-entryref id="SL8834678" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8834677" slsdocid="57578" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.397" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>Estonian Transport Administration</org-entry-name>
+                                             <abbr>ETA</abbr>
+                                             <alt-name>Transpordiamet</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Valge 4, Tallinn 11413</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">620-1200</telephone>
+                                             <email>info@transpordiamet.ee</email>
+                                             <internet>www.transpordiamet.ee</internet>
+                                        </address-block>
+                                        <found-date>2021</found-date>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">administers and implements state land, aviation and maritime safety policies</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Priit</forename>
+                                                       <surname>Sauk</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="EE.DIR.395" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Shipping</heading>
+                         <p id="EE.DIR.396">Tallinn is the main port for freight transportation. There are regular passenger services between Tallinn and Helsinki, Finland.</p>
+                         <dir-section id="EE.DIR.398" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Principal Shipping Companies</heading>
+                              <org-list>
+                                   <org-entryref id="SL7015406" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7015405" slsdocid="1286867" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="EE.DIR.1118156689" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping">
+                                             <org-entry-head>
+                                                  <org-entry-name>Tallink Grupp</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Sadama 5, Tallinn 10111</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">640-9800</telephone>
+                                                  <fax>640-9810</fax>
+                                                  <email>info@tallink.ee</email>
+                                                  <internet>www.tallink.ee</internet>
+                                             </address-block>
+                                             <found-date>1989 as a joint-venture Estonian-Finnish co</found-date>
+                                             <content-note style="NORMAL">in 1996-2002 known as Hansatee Grupp, reverted to previous name in 2002</content-note>
+                                             <content-note style="NORMAL">passenger and cargo transport</content-note>
+                                             <content-note style="NORMAL">operates high-speed ferries between Tallinn and Helsinki, Finland</content-note>
+                                             <content-note style="NORMAL">also operates routes to St Petersburg, Russia, and Stockholm, Sweden</content-note>
+                                             <role-group>
+                                                  <role>Chair. of Management Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Enn</forename>
+                                                            <surname>Pant</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1176335" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1176334" slsdocid="1176313" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="EE.DIR.1110204417" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping">
+                                             <!--sc1 28.02.2020 Saarema was bankrupt https://www.aripaev.ee/uudised/2018/11/19/kohus-kuulutas-valja-saaremaa-laevakompanii-pankroti-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Tuule Liinid OÜ</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Kalde tee 6, Muratsi küla 93859</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">514-6598</telephone>
+                                                  <email>info@tuuleliinid.ee</email>
+                                                  <internet>www.tuuleliinid.ee</internet>
+                                             </address-block>
+                                             <found-date>2016</found-date>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="EE.DIR.400" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Shipowners’ Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL65068" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65067" slsdocid="57576" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="EE.DIR.401" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Estonian Shipowners’ Association</org-entry-name>
+                                                  <alt-name>Eesti Laevaomanike Liit</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Kopli 101, Tallinn 11712</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">613-5528</telephone>
+                                                  <email>info@reederid.ee</email>
+                                                  <internet>reederid.ee</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vahur</forename>
+                                                            <surname>Ausmees</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="EE.DIR.402" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Port Authorities</heading>
+                              <org-list>
+                                   <org-entryref id="SL3662035" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3662034" slsdocid="1506816" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="EE.DIR.1141217337" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping">
+                                             <!--MR 05.01.2023 acc to https://www.aripaev.ee/uudised/2023/05/03/sillamjajeskij-port-smenil-rukovoditelja the chairman has changed bt new name is not confrmed. This article is only accessible to paid subscribers -->
+                                             <!--aiming for China trade on way through from Russia...-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Port of Sillamäe</org-entry-name>
+                                                  <alt-name>Sillamäe Sadam</alt-name>
+                                                  <abbr>Silport</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Suur-Karja 5, Tallinn 10140</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">640-5271</telephone>
+                                                  <fax>640-5279</fax>
+                                                  <email>silport@silport.ee</email>
+                                                  <internet>www.silport.ee</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">operations commenced Oct. 2005; deep sea port; navigable year-round; railway facilities</content-note>
+                                             <content-note style="NORMAL">free trade zone</content-note>
+                                             <content-note style="NORMAL">four terminals</content-note>
+                                             <ownership>privately owned</ownership>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL65070" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65069" slsdocid="57575" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="EE.DIR.403" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING">
+                                             <data-protection date-added="26.01.2016" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Port of Tallinn</org-entry-name>
+                                                  <alt-name>Tallinna Sadam</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Sadama 25, Tallinn 15051</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">631-8555</telephone>
+                                                  <email>ts@ts.ee</email>
+                                                  <internet>www.ts.ee</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">the Port of Tallinn consists of five constituent harbours: Old City, Muuga, Paljassaare, Paldiski South and Saaremaa</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Valdo</forename>
+                                                            <surname>Kalm</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Harbour Master</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ain</forename>
+                                                            <surname>Klaus</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="EE.DIR.404" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Civil Aviation</heading>
+                         <p id="EE.DIR.405">There are several international airports.</p>
+                         <org-list>
+                              <org-entryref id="SL65076" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65075" slsdocid="57571" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.408" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <!--sb 23.03.2015 Estonian Air established a subsidiary nordic flyways...http://estonian-air.ee/uudised/estonian-air-asutas-valisturgude-liinide-teenindamiseks-tutarfirma/...no other info found on this though-->
+                                        <!--sc1 28.02.2020 Eric is also wrieedn as CEO-->
+                                        <data-protection date-added="08.03.2005" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Nordic Aviation Gp</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Lennujaama tee 13, Tallinn 11101</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">664-2222</telephone>
+                                             <email>info@nordica.ee</email>
+                                             <internet>www.nordica.ee</internet>
+                                        </address-block>
+                                        <found-date>2015</found-date>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">passenger and cargo flights to destinations across Europe</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Remco</forename>
+                                                       <surname>Althuis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

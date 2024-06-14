@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52156" sllink="SLSDOCRF" sllinkid="52155" slsdocid="51112" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.57" id-root="al.dir" iso="al" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 24.03.2023 headline content checked-->
+                    <heading>Legislature</heading>
+                    <org-expandref id="SL52540" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52539" slsdocid="51314" slsdocty="org-entry-expanded org-expanddtd">
+                         
+                         <org-entry-expanded id="AL.DIR.1042641609" id-root="al.dir" iso="al" section="Legislature" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" subsection="Entries">
+                              <org-entry-head>
+                                   <org-entry-name>Assembly of Albania</org-entry-name>
+                                   <alt-name>Kuvendi i Shqipërisë</alt-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Bulevardi Dëshmorët e Kombit 4, 1010 Tirana</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(4) 2278261</telephone>
+                                   <email> albana.shtylla@parlament.al</email>
+                                   <internet>www.parlament.al</internet>
+                                   <!--TP 23.05.2014 http://www.parlament.al/web/Kontakte_te_nevojshme_1160_1.php-->
+                              </address-block>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL53956" sllink="SLSDOCRF" sllinkid="53955" slsdocid="51093" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AL.DIR.58" id-root="al.dir" iso="al" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                             <dir-entry-name>Speaker</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lindita</forename>
+                                                            <surname>Nikolla</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <table-blockref id="SL4157406" sllink="SLSDOCRF" sllinkid="4157405" slsdocid="4157292" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                   
+                                   <table-block id="AL.DIR.60" id-root="al.dir" iso="al" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Entries" type="ELECTION">
+                                        <table-heading>General Election, 25 April 2021</table-heading>
+                                        <table style="WITH-RULES">
+                                             <tgroup cols="4">
+                                                  <colspec colname="COLSPEC1" colwidth="11cm" />
+                                                  <colspec colname="COLSPEC2" colwidth="3.5cm" />
+                                                  <colspec colname="COLSPEC3" colwidth="3cm" />
+                                                  <colspec colname="COLSPEC4" colwidth="2.5cm" />
+                                                  <thead>
+                                                       <row>
+                                                            <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                       </row>
+                                                  </thead>
+                                                  <tbody>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Partia Socialiste e Shqipërisë (Albanian Socialist Party)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">768,134</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">48.67</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">74</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Partia Demokratike e Shqipërisë-Aleanca për Ndryshim coalition (Albanian Democratic Party-Alliance for Change coalition)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">622,187</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">39.43</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">59</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Lëvizja Socialiste për Integrim (Socialist Movement for Integration)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">107,538</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">6.81</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Partia Socialdemokrate e Shqipërisë (Social Democratic Party of Albania)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">35,475</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">2.25</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                                                                 <b>Total</b>
+                           (incl. others)
+                          <endnoteref idref="AL.DIR.1619771410" ref-symbol="*" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">1,578,117</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">140</entry>
+                                                       </row>
+                                                  </tbody>
+                                             </tgroup>
+                                        </table>
+                                        <endnote id="AL.DIR.1619771410" ref-symbol="*">Excluding invalid votes.</endnote>
+                                   </table-block>
+                              </table-blockref>
+                         </org-entry-expanded>
+                    </org-expandref>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1622244" sllink="SLSDOCRF" sllinkid="1622243" slsdocid="1503254" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RS.DIR.1141049192" id-root="rs.dir" iso="rs" sect-type="legislature" section="Election Commission" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--MR 26.07.2021 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1503366" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1503365" slsdocid="1503346" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="RS.DIR.1141052556" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Election Commissions" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Election Commission</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>11000 Belgrade, Kralja Milana 14</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(11) 3026000</telephone>
+                                        <fax>(11) 3221029</fax>
+                                        <email>izbori@parlament.rs</email>
+                                        <internet>www.rik.parlament.gov.rs</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Prof. Dr</title>
+                                                  <forename>Vladimir</forename>
+                                                  <surname>Dimitrijević</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

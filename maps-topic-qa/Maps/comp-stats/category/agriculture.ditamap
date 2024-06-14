@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Agricultures</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.5" navtitle="Index of agricultural production">
+        <topicref href="../../../Topics/comp-stats/category/agriculture/stats.table.5.dita"
+            navtitle="Index of agricultural production"/>
+    </chapter>
+    <chapter id="stats.table.35" navtitle="Agricultural land">
+        <topicref href="../../../Topics/comp-stats/category/agriculture/stats.table.35.dita"
+            navtitle="Agricultural land"/>
+    </chapter>
+</bookmap>

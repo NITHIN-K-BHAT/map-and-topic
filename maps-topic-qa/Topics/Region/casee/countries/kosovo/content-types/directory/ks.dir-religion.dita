@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188647" sllink="SLSDOCRF" sllinkid="2188646" slsdocid="2188634" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.009" id-root="ks.dir" iso="ks" sect-type="religion" section="Religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <p>Most of the inhabitants of Kosovo are adherents of Islam, although most Serbs are Orthodox Christians, and several sites of historic importance to Serbian Orthodoxy are located within Kosovo. A significant minority of the Kosovo Albanian population are Roman Catholics.</p>
+                    <dir-section id="KS.DIR.11981705741" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Islam</heading>
+                         <org-list>
+                              <org-entryref id="SL2188638" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188637" slsdocid="288727" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.338" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Islam">
+                                        <data-protection date-added="08.05.2012" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Islamic Community</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Bajram Kelmendi 182</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(38) 224024</telephone>
+                                             <email>info@bislame.net</email>
+                                             <internet>bislame.net</internet>
+                                        </address-block>
+                                        <found-date>1951</found-date>
+                                        <role-group>
+                                             <role>Pres. of the Islamic Community</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Naim</forename>
+                                                       <surname>Ternava</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="KS.DIR.11981706511" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Christianity</heading>
+                         <dir-section id="KS.DIR.11981706691" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>The Serbian Orthodox Church</heading>
+                              <p>The Patriarchate of the Serbian Orthodox Church is located at Pejë (Peć), in central Kosovo. Most of Kosovo is included in the Eparchy of Raška-Prizren and Kosovo-Metohija.</p>
+                              <!--DH Rašsko-Prizren Eparchy appears to cover (some? much? all? of) Kosovo, Bishop - Artemije (removed from office temporarily in Feb 2010 in dispute over financial affairs of Gračanica monastery)-->
+                              <org-list>
+                                   <org-entryref id="SL6254827" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6254826" slsdocid="6254813" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.153087323244" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Eparchy of Raška-Prizren and Kosovo-Metohija</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>38205 Graçanicë/Gračanica, Gračanica Monastery</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(38) 65510</telephone>
+                                                  <email>sekretar@eparhija-prizren.com</email>
+                                                  <internet>eparhija-prizren.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Bishop of Raško-Prizren and Kosovo-Metohija</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <verbatim-name>Teodosije (Šibalić)</verbatim-name>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="KS.DIR.11981707071" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>The Roman Catholic Church</heading>
+                              <!--dh 20.12.07 unsure of exact boundaries of jurisdictions but apostolic admin of Prizren is based in Kos-->
+                              <p>In the mid-2010s a Catholic Co-cathedral was constructed in Prishtina.</p>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188643" sllink="SLSDOCRF" sllinkid="2188642" slsdocid="1994740" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="KS.DIR.1179250671" id-root="ks.dir" iso="ks" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <!--NS 01.02.2016 details from http://www.catholic-hierarchy.org/diocese/dpriz.html a-->
+                                             <dir-entry-name>Diocese of Prizren</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Bishop</title>
+                                                            <forename>Gjergji</forename>
+                                                            <surname>Dodë</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prizren, Katedralja Nënë Tereza, Blvd Bill Clinton p.n.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(38) 220455</telephone>
+                                                  <email>ipeshkvia_pz@yahoo.com</email>
+                                                  <internet>www.kishakatolike.org</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                         <!--protestant church in pristina at http://ringjallja.com/bum.html Bashkësia Ungjillore e Mesisë Rr. Nazim Gafurri nr. 66, Prishtina Tel. 044118088; 044186544; 044403736 e-mail: messiahchurch1994@yahoo.com-->
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

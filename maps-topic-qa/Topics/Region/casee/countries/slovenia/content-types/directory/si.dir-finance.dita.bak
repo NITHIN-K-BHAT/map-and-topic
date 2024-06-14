@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62202" sllink="SLSDOCRF" sllinkid="62201" slsdocid="61008" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SI.DIR.430" id-root="si.dir" iso="si" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--nb 21 04 2023 headline content checked-->
+                    <!--nb 19 07 2023 headline content checked-->
+                    <!--nb 24 04 2024 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="SI.DIR.431" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banks</heading>
+                         <dir-section id="SI.DIR.433" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>National Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL70768" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70767" slsdocid="61260" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.434" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka Slovenije</org-entry-name>
+                                                  <alt-name>Bank of Slovenia</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Slovenska 35, 1505 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4719000</telephone>
+                                                  <fax>(1) 2515516</fax>
+                                                  <email>jurij.zitko@bsi.si</email>
+                                                  <internet>www.bsi.si</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Boštjan</forename>
+                                                            <surname>Vasle</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="SI.DIR.435" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Selected Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL6086317" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6086316" slsdocid="1240286" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.1113916181" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banks">
+                                             <org-entry-head>
+                                                  <org-entry-name>Addiko Bank d.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Dunajska cesta 117, 1000 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 5804000</telephone>
+                                                  <fax>(1) 5804001</fax>
+                                                  <email>info.si@addiko.com</email>
+                                                  <internet>www.addiko.si</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <content-note style="NORMAL">fmrly Hypo Alpe-Adria-Bank d.d.</content-note>
+                                             <content-note style="NORMAL">re-established as Addiko Bank d.d. in 2016</content-note>
+                                             <role-group>
+                                                  <role>Pres. of Management Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andrej</forename>
+                                                            <surname>Andoljšek</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. of Supervisory Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Edgar</forename>
+                                                            <surname>Flaggl</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL70776" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70775" slsdocid="61255" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.439" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka Intesa Sanpaolo d.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Pristaniška 14, 6502 Koper</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(5) 6661000</telephone>
+                                                  <email>info@intesasanpaolobank.si</email>
+                                                  <internet>www.intesasanpaolobank.si</internet>
+                                             </address-block>
+                                             <found-date>1955</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2017</content-note>
+                                             <content-note style="NORMAL">51% owned by Privredna Banka Zagreb d.d. and 48% owned by the international Intesa Sanpaolo S.p.A</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luigi</forename>
+                                                            <surname>Fuzio</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Giancarlo</forename>
+                                                            <surname>Miranda</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1240700" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1240699" slsdocid="61247" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.447" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Deželna Banka Slovenije d.d.</org-entry-name>
+                                                  <abbr>DBS d.d.</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Kolodvorska 9, 1000 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4727100</telephone>
+                                                  <fax>(1) 4727405</fax>
+                                                  <email>info@dbs.si</email>
+                                                  <internet>www.dbs.si</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2004</content-note>
+                                             <content-note style="NORMAL">24.0% owned by KD Gp d.d.</content-note>
+                                             <role-group>
+                                                  <role>CEO and Pres. of Management Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jure</forename>
+                                                            <surname>Kvaternik</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. of Supervisory Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ivan</forename>
+                                                            <surname>Lenart</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL70782" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70781" slsdocid="61252" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.442" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <!--nb 28.02.2023.This website suggests that the company has been operating since 1996 https://www.gbkr.si/about-us/#:~:text=Gorenjska%20banka%20has%20been%20operating,public%20limited%20company%20since%201996. This secondary source suggests 1955 https://pitchbook.com/profiles/company/51691-15#overview-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Gorenjska Banka d.d. Kranj</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bleiweisova cesta 1, POB 147, 4000 Kranj</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2084000</telephone>
+                                                  <fax>(4) 2021503</fax>
+                                                  <email>info@gbkr.si</email>
+                                                  <internet>www.gbkr.si</internet>
+                                             </address-block>
+                                             <found-date>1955</found-date>
+                                             <content-note style="NORMAL">100% owned by AIK Banka (based in Serbia)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mario</forename>
+                                                            <surname>Henjak</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL70786" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70785" slsdocid="61250" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.444" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <!--Sc1 22.02.2018 role group and merger news taken from https://www.nkbm.si/vsebina/32222/od-danes-kbs-banka-in-nova-kbm-zdruzeni-->
+                                             <!--Sc1 23.02.2018 fax taken from https://seenews.com/companies/company_profile/nova-kreditna-banka-maribor-dd-nkbm-3811#ownership-->
+                                             <!--nb.28.02.2023 found date here suggests 1862 https://si.linkedin.com/company/nova-kbm-d-d-?trk=public_profile_topcard-current-company-->
+                                             <data-protection date-added="10.07.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Nova KBM d.d. </org-entry-name>
+                                                  <abbr>NKBM</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Vita Kraigherja 4, 2000 Maribor</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 2292290</telephone>
+                                                  <email>info@nkbm.si</email>
+                                                  <internet>www.nkbm.si</internet>
+                                             </address-block>
+                                             <found-date>1955</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2017, with merger of KBS Banka and Nova KBM</content-note>
+                                             <content-note style="NORMAL">absorbed Abanka d.d. in 2020</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Imre</forename>
+                                                            <surname>Bertalan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair. of Bd.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John</forename>
+                                                            <surname>Denhof</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL70788" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70787" slsdocid="61249" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.445" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Nova Ljubljanska Banka d.d.</org-entry-name>
+                                                  <abbr>NLB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>trg Republike 2, 1520 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4772000</telephone>
+                                                  <fax>(1) 2522500</fax>
+                                                  <email>info@nlb.si</email>
+                                                  <internet>nlb.si</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">25% state-owned</content-note>
+                                             <content-note style="NORMAL">commercial, investment and savings bank</content-note>
+                                             <role-group>
+                                                  <role>Pres. of Management Bd and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Blaž</forename>
+                                                            <surname>Brodnjak</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair. of Supervisory Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Primož</forename>
+                                                            <surname>Karpe</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--CROSS REFERENCE: NLB Banka a.d. Beograd (id: rs.dir.1113384324) (Slovenia)-->
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL70790" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70789" slsdocid="61248" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.446" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <org-entry-head>
+                                                  <org-entry-name>SKB Banka d.d. Ljubljana</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Ajdovščina 4, 1000 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4715555</telephone>
+                                                  <fax>(1) 2314549</fax>
+                                                  <email>info@skb.si</email>
+                                                  <internet>www.skb.si</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">SKB Banka became a member of the OTP Gp in 2019</content-note>
+                                             <role-group>
+                                                  <role>Chair. of Management Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anna Mitkova</forename>
+                                                            <surname>Florova</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anita</forename>
+                                                            <surname>Stojčevska</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2330629" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2330628" slsdocid="61258" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.437" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKS">
+                                             <!--Sc1 14.06.2019 Pres confirmed at https://www.linkedin.com/in/stefan-vavti-m-sc-0291a4164/?originalSubdomain=si-->
+                                             <org-entry-head>
+                                                  <org-entry-name>UniCredit Banka Slovenija d.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Ameriška 2, 1000 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 5876600</telephone>
+                                                  <fax>(1) 5876684</fax>
+                                                  <email>info@unicreditgroup.si</email>
+                                                  <internet>www.unicreditbank.si</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">fmrly Bank Austria Creditanstalt d.d. Ljubljana</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lorenzo</forename>
+                                                            <surname>Ramajola</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pasquale</forename>
+                                                            <surname>Giamboi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="SI.DIR.448" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL70794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70793" slsdocid="61245" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.449" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGE">
+                                        <data-protection date-added="29.02.2016" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Ljubljana Stock Exchange</org-entry-name>
+                                             <alt-name>Ljubljanska Borza d.d.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Slovenska 56, 1000 Ljub­ljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4710211</telephone>
+                                             <fax>(1) 4710213</fax>
+                                             <email>info@ljse.si</email>
+                                             <internet>ljse.si</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">operative 1990; owned by Zagreb Stock Exchange (Croatia)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aleš</forename>
+                                                       <surname>Ipavec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SI.DIR.450" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <org-list>
+                              <org-entryref id="SL70796" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70795" slsdocid="61242" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.451" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>Generali Insurance Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kržičeva ul. 3, 1000 Ljub­ljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4757100</telephone>
+                                             <fax>(1) 4757101</fax>
+                                             <email>info.si@generali.com</email>
+                                             <internet>generali.si</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">fmrly Adriatic Slovenica Insurance Co</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2019 after acquisition by Assicurazioni Generali (Italy)</content-note>
+                                        <role-group>
+                                             <role>Pres. of Management Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vanja</forename>
+                                                       <surname>Hrovat</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70798" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70797" slsdocid="61241" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.452" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--nb 03 03 2023 Chair confirmed from https://www.xprimm.com/The-head-of-Zavarovalnica-Sava-to-continue-his-career-at-Grawe-articol-2,10,28-18813.htm-->
+                                        <!--Sc1 23.02.108 shareholding structure taken from https://seenews.com/companies/company_profile/grawe-zavarovalnica-dd-612800#ownership-->
+                                        <org-entry-head>
+                                             <org-entry-name>Grawe Insurance Co d.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Gregorčičeva 39, 2000 Maribor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2285500</telephone>
+                                             <fax>(2) 2285526</fax>
+                                             <email>grawe@grawe.si</email>
+                                             <internet>www.grawe.si</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">wholly owned by Grazer Wechselseitige Versicherung AG (Austria)</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Kastelic</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70802" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70801" slsdocid="61239" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.454" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--NB 03 03 2023 tel and fax not found/confirmed-->
+                                        <!--WM 01.04.2020 tel and fax not verified-->
+                                        <!--Sc1 23.02.2018 CEO confirmed at http://www.merkur-zav.si/cms/dokumente/1009167_46643/56c1d31e/2016%20LETNO%20POROCILO.pdf But no recent news or reference available for CEO-->
+                                        <!--Sc1 23.02.2018 ownership taken from https://seenews.com/companies/company_profile/merkur-zavarovalnica-dd-412437-->
+                                        <org-entry-head>
+                                             <org-entry-name>Merkur Insurance Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Dunajska 58, 1000 Ljubljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 3005450</telephone>
+                                             <fax>(1) 4361092</fax>
+                                             <email>info@merkur-zav.si</email>
+                                             <internet>www.merkur-zav.si</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <content-note style="NORMAL">wholly owned by Merkur International Holding AG</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Meta</forename>
+                                                       <surname>Lahne</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ingo</forename>
+                                                       <surname>Hofmann</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7034419" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7034418" slsdocid="61240" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.453" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--WM 01.04.2020 I was not sure whether to use Slovenian or English names for the merged companies so I decided to use the former-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sava Insurance Co</org-entry-name>
+                                             <alt-name>Zavarovalnica Sava d.d.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Eve Lovše 7, 2000 Maribor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2332100</telephone>
+                                             <fax>(2) 2332530</fax>
+                                             <email>info@zav-sava.si</email>
+                                             <internet>www.zav-sava.si</internet>
+                                        </address-block>
+                                        <found-date>2016</found-date>
+                                        <content-note style="NORMAL">formed by merger of Zavarovalnica Tilia, Zavarovalnica Maribor, Velebit Osiguranje and Velebit Životno Osiguranje</content-note>
+                                        <role-group>
+                                             <role>Chair. of Management Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename> Jošt</forename>
+                                                       <surname>Dolničar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70804" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70803" slsdocid="61238" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.455" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--AK https://www.triglav.eu/en/about-us#zavarovalnica-triglav nb 01 03 2023 Igor Stebernak does not hold the post anymore https://rs.linkedin.com/in/igorstebernak but the company website still has his name listed-->
+                                        <data-protection date-added="10.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Triglav Insurance Co</org-entry-name>
+                                             <alt-name>Zavarovalnica Triglav d.d.</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Miklošičeva 19, 1000 Ljubljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4747200</telephone>
+                                             <fax>(1) 4326302</fax>
+                                             <email>info@triglav.si</email>
+                                             <internet>www.triglav.si</internet>
+                                        </address-block>
+                                        <found-date>1900</found-date>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrej</forename>
+                                                       <surname>Slapar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Igor</forename>
+                                                       <surname>Stebernak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SI.DIR.13984277501" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance Association</heading>
+                         <org-list>
+                              <org-entryref id="SL4465240" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4465239" slsdocid="4465197" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.1398427041" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>Slovenian Insurance Association</org-entry-name>
+                                             <alt-name>Slovensko Zavarovalno Združenje</alt-name>
+                                             <abbr>SZZ</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Železna cesta 14, 1000 Ljubljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 3009381</telephone>
+                                             <fax>(1) 4735692</fax>
+                                             <email>info@zav-zdruzenje.si</email>
+                                             <internet>www.zav-zdruzenje.si</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maja</forename>
+                                                       <surname>Krumberger</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>24 mems (2024)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

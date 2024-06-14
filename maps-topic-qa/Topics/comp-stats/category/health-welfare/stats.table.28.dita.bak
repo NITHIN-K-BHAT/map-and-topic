@@ -1,0 +1,3310 @@
+<?xml version="1.0"?>
+<stats-table sect-type="health-welfare" id="STATS.TABLE.28" sllink="SLSDOC" id-root="x" iso="x"
+     slsdocrf="STATS-TABREF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>Health expenditure per head</heading>
+     <units>international $, purchasing-power parity valuation</units>
+     <sources>
+          <source-head>Source</source-head>
+          <source-info>WHO, World Health Expenditure database.</source-info>
+     </sources>
+     <country-stats-group>
+          <country-stats iso="af">
+               <name>Afghanistan</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">101</value>
+                    <value year="2015">212</value>
+                    <value year="2017">260</value>
+                    <value year="2018">294</value>
+                    <value year="2019">286</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi-al">
+               <name>Åland Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="al">
+               <name>Albania</name>
+               <data-group>
+                    <value year="2000">276</value>
+                    <value year="2005">363</value>
+                    <value year="2015">569</value>
+                    <value year="2017">640</value>
+                    <value year="2018">727</value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dz">
+               <name>Algeria</name>
+               <data-group>
+                    <value year="2000">295</value>
+                    <value year="2005">369</value>
+                    <value year="2015">839</value>
+                    <value year="2017">737</value>
+                    <value year="2018">735</value>
+                    <value year="2019">750</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="as">
+               <name>American Samoa</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ad">
+               <name>Andorra</name>
+               <data-group>
+                    <value year="2000">1937</value>
+                    <value year="2005">2433</value>
+                    <value year="2015">3096</value>
+                    <value year="2017">3319</value>
+                    <value year="2018">3607</value>
+                    <value year="2019">3716</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ao">
+               <name>Angola</name>
+               <data-group>
+                    <value year="2000">63</value>
+                    <value year="2005">138</value>
+                    <value year="2015">191</value>
+                    <value year="2017">204</value>
+                    <value year="2018">189</value>
+                    <value year="2019">178</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ai">
+               <name>Anguilla</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ag">
+               <name>Antigua and Barbuda</name>
+               <data-group>
+                    <value year="2000">794</value>
+                    <value year="2005">1012</value>
+                    <value year="2015">998</value>
+                    <value year="2017">967</value>
+                    <value year="2018">1049</value>
+                    <value year="2019">1016</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ar">
+               <name>Argentina</name>
+               <data-group>
+                    <value year="2000">1068</value>
+                    <value year="2005">1033</value>
+                    <value year="2015">2059</value>
+                    <value year="2017">2470</value>
+                    <value year="2018">2260</value>
+                    <value year="2019">2199</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="am">
+               <name>Armenia</name>
+               <data-group>
+                    <value year="2000">112</value>
+                    <value year="2005">320</value>
+                    <value year="2015">1009</value>
+                    <value year="2017">1255</value>
+                    <value year="2018">1303</value>
+                    <value year="2019">1616</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="aw">
+               <name>Aruba</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="au">
+               <name>Australia</name>
+               <data-group>
+                    <value year="2000">2155</value>
+                    <value year="2005">2842</value>
+                    <value year="2015">4392</value>
+                    <value year="2017">4716</value>
+                    <value year="2018">4876</value>
+                    <value year="2019">5294</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="at">
+               <name>Austria</name>
+               <data-group>
+                    <value year="2000">2708</value>
+                    <value year="2005">3382</value>
+                    <value year="2015">5205</value>
+                    <value year="2017">5641</value>
+                    <value year="2018">5898</value>
+                    <value year="2019">6134</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="az">
+               <name>Azerbaijan</name>
+               <data-group>
+                    <value year="2000">101</value>
+                    <value year="2005">152</value>
+                    <value year="2015">615</value>
+                    <value year="2017">528</value>
+                    <value year="2018">517</value>
+                    <value year="2019">606</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bs">
+               <name>Bahamas</name>
+               <data-group>
+                    <value year="2000">1055</value>
+                    <value year="2005">1246</value>
+                    <value year="2015">1747</value>
+                    <value year="2017">2399</value>
+                    <value year="2018">2249</value>
+                    <value year="2019">2228</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bh">
+               <name>Bahrain</name>
+               <data-group>
+                    <value year="2000">1502</value>
+                    <value year="2005">1442</value>
+                    <value year="2015">2273</value>
+                    <value year="2017">2263</value>
+                    <value year="2018">1962</value>
+                    <value year="2019">1881</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bd">
+               <name>Bangladesh</name>
+               <data-group>
+                    <value year="2000">28</value>
+                    <value year="2005">43</value>
+                    <value year="2015">94</value>
+                    <value year="2017">101</value>
+                    <value year="2018">114</value>
+                    <value year="2019">123</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bb">
+               <name>Barbados</name>
+               <data-group>
+                    <value year="2000">677</value>
+                    <value year="2005">1003</value>
+                    <value year="2015">1051</value>
+                    <value year="2017">1046</value>
+                    <value year="2018">1054</value>
+                    <value year="2019">1029</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="by">
+               <name>Belarus</name>
+               <data-group>
+                    <value year="2000">321</value>
+                    <value year="2005">612</value>
+                    <value year="2015">1100</value>
+                    <value year="2017">1058</value>
+                    <value year="2018">1073</value>
+                    <value year="2019">1199</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="be">
+               <name>Belgium</name>
+               <data-group>
+                    <value year="2000">2226</value>
+                    <value year="2005">3082</value>
+                    <value year="2015">4835</value>
+                    <value year="2017">5450</value>
+                    <value year="2018">5683</value>
+                    <value year="2019">5847</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bz">
+               <name>Belize</name>
+               <data-group>
+                    <value year="2000">219</value>
+                    <value year="2005">312</value>
+                    <value year="2015">430</value>
+                    <value year="2017">411</value>
+                    <value year="2018">427</value>
+                    <value year="2019">446</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bj">
+               <name>Benin</name>
+               <data-group>
+                    <value year="2000">55</value>
+                    <value year="2005">60</value>
+                    <value year="2015">84</value>
+                    <value year="2017">80</value>
+                    <value year="2018">81</value>
+                    <value year="2019">82</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bm">
+               <name>Bermuda</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bt">
+               <name>Bhutan</name>
+               <data-group>
+                    <value year="2000">116</value>
+                    <value year="2005">158</value>
+                    <value year="2015">340</value>
+                    <value year="2017">355</value>
+                    <value year="2018">368</value>
+                    <value year="2019">432</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bo">
+               <name>Bolivia</name>
+               <data-group>
+                    <value year="2000">151</value>
+                    <value year="2005">207</value>
+                    <value year="2015">467</value>
+                    <value year="2017">547</value>
+                    <value year="2018">589</value>
+                    <value year="2019">631</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ba">
+               <name>Bosnia and Herzegovina</name>
+               <data-group>
+                    <value year="2000">351</value>
+                    <value year="2005">572</value>
+                    <value year="2015">1123</value>
+                    <value year="2017">1233</value>
+                    <value year="2018">1368</value>
+                    <value year="2019">1477</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bw">
+               <name>Botswana</name>
+               <data-group>
+                    <value year="2000">512</value>
+                    <value year="2005">539</value>
+                    <value year="2015">890</value>
+                    <value year="2017">1058</value>
+                    <value year="2018">1078</value>
+                    <value year="2019">1122</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="br">
+               <name>Brazil</name>
+               <data-group>
+                    <value year="2000">755</value>
+                    <value year="2005">883</value>
+                    <value year="2015">1314</value>
+                    <value year="2017">1376</value>
+                    <value year="2018">1439</value>
+                    <value year="2019">1498</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vg">
+               <name>British Virgin Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bn">
+               <name>Brunei Darussalam</name>
+               <data-group>
+                    <value year="2000">1876</value>
+                    <value year="2005">1862</value>
+                    <value year="2015">1493</value>
+                    <value year="2017">1385</value>
+                    <value year="2018">1493</value>
+                    <value year="2019">1401</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bg">
+               <name>Bulgaria</name>
+               <data-group>
+                    <value year="2000">374</value>
+                    <value year="2005">706</value>
+                    <value year="2015">1355</value>
+                    <value year="2017">1608</value>
+                    <value year="2018">1729</value>
+                    <value year="2019">1798</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bf">
+               <name>Burkina Faso</name>
+               <data-group>
+                    <value year="2000">27</value>
+                    <value year="2005">48</value>
+                    <value year="2015">88</value>
+                    <value year="2017">124</value>
+                    <value year="2018">108</value>
+                    <value year="2019">122</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bi">
+               <name>Burundi</name>
+               <data-group>
+                    <value year="2000">33</value>
+                    <value year="2005">48</value>
+                    <value year="2015">54</value>
+                    <value year="2017">61</value>
+                    <value year="2018">64</value>
+                    <value year="2019">62</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kh">
+               <name>Cambodia</name>
+               <data-group>
+                    <value year="2000">70</value>
+                    <value year="2005">118</value>
+                    <value year="2015">210</value>
+                    <value year="2017">225</value>
+                    <value year="2018">262</value>
+                    <value year="2019">316</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cm">
+               <name>Cameroon</name>
+               <data-group>
+                    <value year="2000">83</value>
+                    <value year="2005">97</value>
+                    <value year="2015">122</value>
+                    <value year="2017">124</value>
+                    <value year="2018">128</value>
+                    <value year="2019">136</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ca">
+               <name>Canada</name>
+               <data-group>
+                    <value year="2000">2430</value>
+                    <value year="2005">3290</value>
+                    <value year="2015">4751</value>
+                    <value year="2017">5209</value>
+                    <value year="2018">5428</value>
+                    <value year="2019">5521</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cv">
+               <name>Cabo Verde</name>
+               <data-group>
+                    <value year="2000">137</value>
+                    <value year="2005">185</value>
+                    <value year="2015">289</value>
+                    <value year="2017">351</value>
+                    <value year="2018">370</value>
+                    <value year="2019">370</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ky">
+               <name>Cayman Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cf">
+               <name>Central African Republic</name>
+               <data-group>
+                    <value year="2000">27</value>
+                    <value year="2005">34</value>
+                    <value year="2015">40</value>
+                    <value year="2017">61</value>
+                    <value year="2018">108</value>
+                    <value year="2019">78</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ce">
+               <name>Ceuta</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="td">
+               <name>Chad</name>
+               <data-group>
+                    <value year="2000">45</value>
+                    <value year="2005">75</value>
+                    <value year="2015">82</value>
+                    <value year="2017">73</value>
+                    <value year="2018">66</value>
+                    <value year="2019">69</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-ci">
+               <name>Channel Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cl">
+               <name>Chile</name>
+               <data-group>
+                    <value year="2000">672</value>
+                    <value year="2005">840</value>
+                    <value year="2015">1885</value>
+                    <value year="2017">2219</value>
+                    <value year="2018">2266</value>
+                    <value year="2019">2424</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cn">
+               <name>China, People's Republic</name>
+               <footnote id="STATS.TABLE.28.1" ref-symbol="1">Excluding Hong Kong and Macao, listed
+                    separately.</footnote>
+               <data-group>
+                    <value year="2000">128</value>
+                    <value year="2005">207</value>
+                    <value year="2015">628</value>
+                    <value year="2017">706</value>
+                    <value year="2018">784</value>
+                    <value year="2019">880</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cx">
+               <name>Christmas Island</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cc">
+               <name>Cocos (Keeling) Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="co">
+               <name>Colombia</name>
+               <data-group>
+                    <value year="2000">374</value>
+                    <value year="2005">500</value>
+                    <value year="2015">988</value>
+                    <value year="2017">1088</value>
+                    <value year="2018">1134</value>
+                    <value year="2019">1204</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="km">
+               <name>Comoros</name>
+               <data-group>
+                    <value year="2000">131</value>
+                    <value year="2005">123</value>
+                    <value year="2015">125</value>
+                    <value year="2017">160</value>
+                    <value year="2018">154</value>
+                    <value year="2019">169</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cd">
+               <name>Congo, Democratic Republic</name>
+               <data-group>
+                    <value year="2000">7</value>
+                    <value year="2005">22</value>
+                    <value year="2015">36</value>
+                    <value year="2017">44</value>
+                    <value year="2018">37</value>
+                    <value year="2019">41</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cg">
+               <name>Congo, Republic</name>
+               <data-group>
+                    <value year="2000">57</value>
+                    <value year="2005">75</value>
+                    <value year="2015">114</value>
+                    <value year="2017">107</value>
+                    <value year="2018">77</value>
+                    <value year="2019">82</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ck">
+               <name>Cook Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cr">
+               <name>Costa Rica</name>
+               <data-group>
+                    <value year="2000">517</value>
+                    <value year="2005">656</value>
+                    <value year="2015">1298</value>
+                    <value year="2017">1440</value>
+                    <value year="2018">1530</value>
+                    <value year="2019">1636</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ci">
+               <name>Côte d'Ivoire</name>
+               <data-group>
+                    <value year="2000">194</value>
+                    <value year="2005">159</value>
+                    <value year="2015">150</value>
+                    <value year="2017">160</value>
+                    <value year="2018">161</value>
+                    <value year="2019">180</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hr">
+               <name>Croatia</name>
+               <data-group>
+                    <value year="2000">811</value>
+                    <value year="2005">1057</value>
+                    <value year="2015">1553</value>
+                    <value year="2017">1804</value>
+                    <value year="2018">1990</value>
+                    <value year="2019">2168</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cu">
+               <name>Cuba</name>
+               <data-group>
+                    <value year="2000">548</value>
+                    <value year="2005">1069</value>
+                    <value year="2015">3180</value>
+                    <value year="2017">2518</value>
+                    <value year="2018">2519</value>
+                    <value year="2019">2599</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cw">
+               <name>Curaçao</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cy">
+               <name>Cyprus</name>
+               <data-group>
+                    <value year="2000">1136</value>
+                    <value year="2005">1520</value>
+                    <value year="2015">2150</value>
+                    <value year="2017">2533</value>
+                    <value year="2018">2846</value>
+                    <value year="2019">3017</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cz">
+               <name>Czech Republic</name>
+               <data-group>
+                    <value year="2000">924</value>
+                    <value year="2005">1403</value>
+                    <value year="2015">2441</value>
+                    <value year="2017">2786</value>
+                    <value year="2018">3199</value>
+                    <value year="2019">3477</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dk">
+               <name>Denmark</name>
+               <data-group>
+                    <value year="2000">2328</value>
+                    <value year="2005">3109</value>
+                    <value year="2015">5037</value>
+                    <value year="2017">5573</value>
+                    <value year="2018">5799</value>
+                    <value year="2019">6015</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dj">
+               <name>Djibouti</name>
+               <data-group>
+                    <value year="2000">71</value>
+                    <value year="2005">92</value>
+                    <value year="2015">142</value>
+                    <value year="2017">121</value>
+                    <value year="2018">122</value>
+                    <value year="2019">104</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dm">
+               <name>Dominica</name>
+               <data-group>
+                    <value year="2000">347</value>
+                    <value year="2005">384</value>
+                    <value year="2015">575</value>
+                    <value year="2017">619</value>
+                    <value year="2018">736</value>
+                    <value year="2019">675</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="do">
+               <name>Dominican Republic</name>
+               <data-group>
+                    <value year="2000">324</value>
+                    <value year="2005">357</value>
+                    <value year="2015">853</value>
+                    <value year="2017">976</value>
+                    <value year="2018">1040</value>
+                    <value year="2019">1140</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ec">
+               <name>Ecuador</name>
+               <data-group>
+                    <value year="2000">195</value>
+                    <value year="2005">425</value>
+                    <value year="2015">829</value>
+                    <value year="2017">863</value>
+                    <value year="2018">931</value>
+                    <value year="2019">935</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="eg">
+               <name>Egypt</name>
+               <data-group>
+                    <value year="2000">300</value>
+                    <value year="2005">364</value>
+                    <value year="2015">614</value>
+                    <value year="2017">620</value>
+                    <value year="2018">576</value>
+                    <value year="2019">582</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sv">
+               <name>El Salvador</name>
+               <data-group>
+                    <value year="2000">397</value>
+                    <value year="2005">441</value>
+                    <value year="2015">580</value>
+                    <value year="2017">610</value>
+                    <value year="2018">626</value>
+                    <value year="2019">657</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gq">
+               <name>Equatorial Guinea</name>
+               <data-group>
+                    <value year="2000">183</value>
+                    <value year="2005">418</value>
+                    <value year="2015">701</value>
+                    <value year="2017">667</value>
+                    <value year="2018">639</value>
+                    <value year="2019">607</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="er">
+               <name>Eritrea</name>
+               <data-group>
+                    <value year="2000">73</value>
+                    <value year="2005">89</value>
+                    <value year="2015">71</value>
+                    <value year="2017">57</value>
+                    <value year="2018">73</value>
+                    <value year="2019">82</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ee">
+               <name>Estonia</name>
+               <data-group>
+                    <value year="2000">485</value>
+                    <value year="2005">838</value>
+                    <value year="2015">1866</value>
+                    <value year="2017">2242</value>
+                    <value year="2018">2434</value>
+                    <value year="2019">2617</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sz">
+               <name>Eswatini</name>
+               <data-group>
+                    <value year="2000">218</value>
+                    <value year="2005">458</value>
+                    <value year="2015">622</value>
+                    <value year="2017">587</value>
+                    <value year="2018">633</value>
+                    <value year="2019">610</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="et">
+               <name>Ethiopia</name>
+               <data-group>
+                    <value year="2000">21</value>
+                    <value year="2005">26</value>
+                    <value year="2015">63</value>
+                    <value year="2017">70</value>
+                    <value year="2018">71</value>
+                    <value year="2019">75</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fk">
+               <name>Falkland Islands (Malvinas)</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fo">
+               <name>Faroe Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fj">
+               <name>Fiji</name>
+               <data-group>
+                    <value year="2000">217</value>
+                    <value year="2005">257</value>
+                    <value year="2015">413</value>
+                    <value year="2017">428</value>
+                    <value year="2018">485</value>
+                    <value year="2019">545</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi">
+               <name>Finland</name>
+               <footnote id="STATS.TABLE.28.2" ref-symbol="2">Including the Åland Islands, listed
+                    separately.</footnote>
+               <data-group>
+                    <value year="2000">1896</value>
+                    <value year="2005">2650</value>
+                    <value year="2015">4098</value>
+                    <value year="2017">4339</value>
+                    <value year="2018">4490</value>
+                    <value year="2019">4710</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fr">
+               <name>France (metropolitan)</name>
+               <data-group>
+                    <value year="2000">2517</value>
+                    <value year="2005">3136</value>
+                    <value year="2015">4683</value>
+                    <value year="2017">5060</value>
+                    <value year="2018">5221</value>
+                    <value year="2019">5493</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gf">
+               <name>French Guiana</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pf">
+               <name>French Polynesia</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ga">
+               <name>Gabon</name>
+               <data-group>
+                    <value year="2000">402</value>
+                    <value year="2005">428</value>
+                    <value year="2015">391</value>
+                    <value year="2017">417</value>
+                    <value year="2018">415</value>
+                    <value year="2019">432</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gm">
+               <name>Gambia</name>
+               <data-group>
+                    <value year="2000">220</value>
+                    <value year="2005">120</value>
+                    <value year="2015">66</value>
+                    <value year="2017">86</value>
+                    <value year="2018">108</value>
+                    <value year="2019">89</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ge">
+               <name>Georgia</name>
+               <data-group>
+                    <value year="2000">215</value>
+                    <value year="2005">398</value>
+                    <value year="2015">831</value>
+                    <value year="2017">892</value>
+                    <value year="2018">967</value>
+                    <value year="2019">970</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="de">
+               <name>Germany</name>
+               <data-group>
+                    <value year="2000">2692</value>
+                    <value year="2005">3277</value>
+                    <value year="2015">5357</value>
+                    <value year="2017">6028</value>
+                    <value year="2018">6500</value>
+                    <value year="2019">6739</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gh">
+               <name>Ghana</name>
+               <data-group>
+                    <value year="2000">71</value>
+                    <value year="2005">116</value>
+                    <value year="2015">237</value>
+                    <value year="2017">168</value>
+                    <value year="2018">186</value>
+                    <value year="2019">193</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gi">
+               <name>Gibraltar</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gr">
+               <name>Greece</name>
+               <data-group>
+                    <value year="2000">1418</value>
+                    <value year="2005">2194</value>
+                    <value year="2015">2149</value>
+                    <value year="2017">2326</value>
+                    <value year="2018">2360</value>
+                    <value year="2019">2419</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gl">
+               <name>Greenland</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gd">
+               <name>Grenada</name>
+               <data-group>
+                    <value year="2000">409</value>
+                    <value year="2005">540</value>
+                    <value year="2015">658</value>
+                    <value year="2017">755</value>
+                    <value year="2018">788</value>
+                    <value year="2019">880</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gp">
+               <name>Guadeloupe</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gu">
+               <name>Guam</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gt">
+               <name>Guatemala</name>
+               <data-group>
+                    <value year="2000">274</value>
+                    <value year="2005">355</value>
+                    <value year="2015">471</value>
+                    <value year="2017">486</value>
+                    <value year="2018">502</value>
+                    <value year="2019">529</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gn">
+               <name>Guinea</name>
+               <data-group>
+                    <value year="2000">54</value>
+                    <value year="2005">61</value>
+                    <value year="2015">106</value>
+                    <value year="2017">95</value>
+                    <value year="2018">104</value>
+                    <value year="2019">120</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gw">
+               <name>Guinea-Bissau</name>
+               <data-group>
+                    <value year="2000">76</value>
+                    <value year="2005">92</value>
+                    <value year="2015">143</value>
+                    <value year="2017">147</value>
+                    <value year="2018">157</value>
+                    <value year="2019">186</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gy">
+               <name>Guyana</name>
+               <data-group>
+                    <value year="2000">161</value>
+                    <value year="2005">217</value>
+                    <value year="2015">450</value>
+                    <value year="2017">519</value>
+                    <value year="2018">627</value>
+                    <value year="2019">674</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ht">
+               <name>Haiti</name>
+               <data-group>
+                    <value year="2000">83</value>
+                    <value year="2005">77</value>
+                    <value year="2015">147</value>
+                    <value year="2017">143</value>
+                    <value year="2018">140</value>
+                    <value year="2019">143</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hn">
+               <name>Honduras</name>
+               <data-group>
+                    <value year="2000">162</value>
+                    <value year="2005">241</value>
+                    <value year="2015">361</value>
+                    <value year="2017">389</value>
+                    <value year="2018">419</value>
+                    <value year="2019">436</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hk">
+               <name>Hong Kong</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hu">
+               <name>Hungary</name>
+               <data-group>
+                    <value year="2000">803</value>
+                    <value year="2005">1365</value>
+                    <value year="2015">1834</value>
+                    <value year="2017">1989</value>
+                    <value year="2018">2083</value>
+                    <value year="2019">2156</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="is">
+               <name>Iceland</name>
+               <data-group>
+                    <value year="2000">2668</value>
+                    <value year="2005">3359</value>
+                    <value year="2015">3977</value>
+                    <value year="2017">4763</value>
+                    <value year="2018">5304</value>
+                    <value year="2019">5636</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="in">
+               <name>India</name>
+               <data-group>
+                    <value year="2000">86</value>
+                    <value year="2005">114</value>
+                    <value year="2015">196</value>
+                    <value year="2017">182</value>
+                    <value year="2018">196</value>
+                    <value year="2019">211</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="id">
+               <name>Indonesia</name>
+               <data-group>
+                    <value year="2000">96</value>
+                    <value year="2005">172</value>
+                    <value year="2015">300</value>
+                    <value year="2017">318</value>
+                    <value year="2018">334</value>
+                    <value year="2019">358</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ir">
+               <name>Iran</name>
+               <data-group>
+                    <value year="2000">499</value>
+                    <value year="2005">740</value>
+                    <value year="2015">1024</value>
+                    <value year="2017">1225</value>
+                    <value year="2018">1168</value>
+                    <value year="2019">868</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="iq">
+               <name>Iraq</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">278</value>
+                    <value year="2015">327</value>
+                    <value year="2017">453</value>
+                    <value year="2018">448</value>
+                    <value year="2019">483</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ie">
+               <name>Ireland</name>
+               <data-group>
+                    <value year="2000">1796</value>
+                    <value year="2005">3129</value>
+                    <value year="2015">5077</value>
+                    <value year="2017">5583</value>
+                    <value year="2018">5870</value>
+                    <value year="2019">6010</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-iom">
+               <name>Isle of Man</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="il">
+               <name>Israel</name>
+               <data-group>
+                    <value year="2000">1794</value>
+                    <value year="2005">1877</value>
+                    <value year="2015">2645</value>
+                    <value year="2017">2992</value>
+                    <value year="2018">3221</value>
+                    <value year="2019">3326</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="it">
+               <name>Italy</name>
+               <data-group>
+                    <value year="2000">2050</value>
+                    <value year="2005">2517</value>
+                    <value year="2015">3265</value>
+                    <value year="2017">3617</value>
+                    <value year="2018">3855</value>
+                    <value year="2019">3998</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jm">
+               <name>Jamaica</name>
+               <data-group>
+                    <value year="2000">359</value>
+                    <value year="2005">343</value>
+                    <value year="2015">495</value>
+                    <value year="2017">590</value>
+                    <value year="2018">596</value>
+                    <value year="2019">598</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jp">
+               <name>Japan</name>
+               <data-group>
+                    <value year="2000">1909</value>
+                    <value year="2005">2453</value>
+                    <value year="2015">4368</value>
+                    <value year="2017">4398</value>
+                    <value year="2018">4532</value>
+                    <value year="2019">4587</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jo">
+               <name>Jordan</name>
+               <data-group>
+                    <value year="2000">572</value>
+                    <value year="2005">713</value>
+                    <value year="2015">706</value>
+                    <value year="2017">798</value>
+                    <value year="2018">798</value>
+                    <value year="2019">797</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kz">
+               <name>Kazakhstan</name>
+               <data-group>
+                    <value year="2000">321</value>
+                    <value year="2005">535</value>
+                    <value year="2015">705</value>
+                    <value year="2017">757</value>
+                    <value year="2018">736</value>
+                    <value year="2019">765</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ke">
+               <name>Kenya</name>
+               <data-group>
+                    <value year="2000">73</value>
+                    <value year="2005">98</value>
+                    <value year="2015">175</value>
+                    <value year="2017">168</value>
+                    <value year="2018">185</value>
+                    <value year="2019">208</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ki">
+               <name>Kiribati</name>
+               <data-group>
+                    <value year="2000">137</value>
+                    <value year="2005">201</value>
+                    <value year="2015">169</value>
+                    <value year="2017">239</value>
+                    <value year="2018">275</value>
+                    <value year="2019">247</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kp">
+               <name>Korea, Democratic People's Republic</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kr">
+               <name>Korea, Republic</name>
+               <data-group>
+                    <value year="2000">717</value>
+                    <value year="2005">1151</value>
+                    <value year="2015">2531</value>
+                    <value year="2017">2926</value>
+                    <value year="2018">3232</value>
+                    <value year="2019">3521</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ks">
+               <name>Kosovo</name>
+               <footnote id="STATS.TABLE.28.3" ref-symbol="3">Declared independence from Serbia in
+                    February 2008.</footnote>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kw">
+               <name>Kuwait</name>
+               <data-group>
+                    <value year="2000">1238</value>
+                    <value year="2005">1685</value>
+                    <value year="2015">1991</value>
+                    <value year="2017">2366</value>
+                    <value year="2018">2637</value>
+                    <value year="2019">2861</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kg">
+               <name>Kyrgyzstan</name>
+               <data-group>
+                    <value year="2000">82</value>
+                    <value year="2005">181</value>
+                    <value year="2015">301</value>
+                    <value year="2017">313</value>
+                    <value year="2018">264</value>
+                    <value year="2019">260</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="la">
+               <name>Lao PDR</name>
+               <data-group>
+                    <value year="2000">81</value>
+                    <value year="2005">96</value>
+                    <value year="2015">151</value>
+                    <value year="2017">183</value>
+                    <value year="2018">175</value>
+                    <value year="2019">212</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lv">
+               <name>Latvia</name>
+               <data-group>
+                    <value year="2000">434</value>
+                    <value year="2005">808</value>
+                    <value year="2015">1405</value>
+                    <value year="2017">1704</value>
+                    <value year="2018">1900</value>
+                    <value year="2019">2098</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lb">
+               <name>Lebanon</name>
+               <data-group>
+                    <value year="2000">956</value>
+                    <value year="2005">751</value>
+                    <value year="2015">1117</value>
+                    <value year="2017">1245</value>
+                    <value year="2018">1385</value>
+                    <value year="2019">1289</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ls">
+               <name>Lesotho</name>
+               <data-group>
+                    <value year="2000">67</value>
+                    <value year="2005">80</value>
+                    <value year="2015">280</value>
+                    <value year="2017">268</value>
+                    <value year="2018">287</value>
+                    <value year="2019">314</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lr">
+               <name>Liberia</name>
+               <data-group>
+                    <value year="2000">42</value>
+                    <value year="2005">77</value>
+                    <value year="2015">134</value>
+                    <value year="2017">140</value>
+                    <value year="2018">139</value>
+                    <value year="2019">126</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ly">
+               <name>Libya</name>
+               <data-group>
+                    <value year="2000">618</value>
+                    <value year="2005">623</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="li">
+               <name>Liechtenstein</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lt">
+               <name>Lithuania</name>
+               <data-group>
+                    <value year="2000">522</value>
+                    <value year="2005">812</value>
+                    <value year="2015">1861</value>
+                    <value year="2017">2178</value>
+                    <value year="2018">2443</value>
+                    <value year="2019">2797</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lu">
+               <name>Luxembourg</name>
+               <data-group>
+                    <value year="2000">3288</value>
+                    <value year="2005">4942</value>
+                    <value year="2015">5545</value>
+                    <value year="2017">5981</value>
+                    <value year="2018">6423</value>
+                    <value year="2019">6757</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mo">
+               <name>Macao</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mg">
+               <name>Madagascar</name>
+               <data-group>
+                    <value year="2000">58</value>
+                    <value year="2005">73</value>
+                    <value year="2015">77</value>
+                    <value year="2017">77</value>
+                    <value year="2018">70</value>
+                    <value year="2019">65</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mw">
+               <name>Malawi</name>
+               <data-group>
+                    <value year="2000">25</value>
+                    <value year="2005">45</value>
+                    <value year="2015">96</value>
+                    <value year="2017">112</value>
+                    <value year="2018">105</value>
+                    <value year="2019">82</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="my">
+               <name>Malaysia</name>
+               <data-group>
+                    <value year="2000">354</value>
+                    <value year="2005">480</value>
+                    <value year="2015">947</value>
+                    <value year="2017">988</value>
+                    <value year="2018">1058</value>
+                    <value year="2019">1133</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mv">
+               <name>Maldives</name>
+               <data-group>
+                    <value year="2000">819</value>
+                    <value year="2005">789</value>
+                    <value year="2015">1457</value>
+                    <value year="2017">1669</value>
+                    <value year="2018">1473</value>
+                    <value year="2019">1640</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ml">
+               <name>Mali</name>
+               <data-group>
+                    <value year="2000">62</value>
+                    <value year="2005">79</value>
+                    <value year="2015">84</value>
+                    <value year="2017">83</value>
+                    <value year="2018">87</value>
+                    <value year="2019">95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mt">
+               <name>Malta</name>
+               <data-group>
+                    <value year="2000">1211</value>
+                    <value year="2005">1938</value>
+                    <value year="2015">3373</value>
+                    <value year="2017">3873</value>
+                    <value year="2018">4121</value>
+                    <value year="2019">4040</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mh">
+               <name>Marshall Islands</name>
+               <data-group>
+                    <value year="2000">407</value>
+                    <value year="2005">536</value>
+                    <value year="2015">514</value>
+                    <value year="2017">517</value>
+                    <value year="2018">574</value>
+                    <value year="2019">593</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mq">
+               <name>Martinique</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mr">
+               <name>Mauritania</name>
+               <data-group>
+                    <value year="2000">106</value>
+                    <value year="2005">127</value>
+                    <value year="2015">154</value>
+                    <value year="2017">169</value>
+                    <value year="2018">185</value>
+                    <value year="2019">187</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mu">
+               <name>Mauritius</name>
+               <data-group>
+                    <value year="2000">273</value>
+                    <value year="2005">432</value>
+                    <value year="2015">1099</value>
+                    <value year="2017">1244</value>
+                    <value year="2018">1333</value>
+                    <value year="2019">1476</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="yt">
+               <name>Mayotte</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ml">
+               <name>Melilla</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mx">
+               <name>Mexico</name>
+               <data-group>
+                    <value year="2000">493</value>
+                    <value year="2005">739</value>
+                    <value year="2015">1047</value>
+                    <value year="2017">1076</value>
+                    <value year="2018">1090</value>
+                    <value year="2019">1111</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fm">
+               <name>Micronesia, Federated States</name>
+               <data-group>
+                    <value year="2000">170</value>
+                    <value year="2005">454</value>
+                    <value year="2015">367</value>
+                    <value year="2017">376</value>
+                    <value year="2018">365</value>
+                    <value year="2019">364</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="md">
+               <name>Moldova</name>
+               <data-group>
+                    <value year="2000">150</value>
+                    <value year="2005">377</value>
+                    <value year="2015">631</value>
+                    <value year="2017">810</value>
+                    <value year="2018">828</value>
+                    <value year="2019">860</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mc">
+               <name>Monaco</name>
+               <data-group>
+                    <value year="2000">1643</value>
+                    <value year="2005">2306</value>
+                    <value year="2015">3730</value>
+                    <value year="2017">3057</value>
+                    <value year="2018">2983</value>
+                    <value year="2019">3080</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mn">
+               <name>Mongolia</name>
+               <data-group>
+                    <value year="2000">212</value>
+                    <value year="2005">204</value>
+                    <value year="2015">456</value>
+                    <value year="2017">453</value>
+                    <value year="2018">470</value>
+                    <value year="2019">484</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="me">
+               <name>Montenegro</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1462</value>
+                    <value year="2017">1563</value>
+                    <value year="2018">1838</value>
+                    <value year="2019">1984</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ms">
+               <name>Montserrat</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ma">
+               <name>Morocco</name>
+               <data-group>
+                    <value year="2000">144</value>
+                    <value year="2005">232</value>
+                    <value year="2015">361</value>
+                    <value year="2017">389</value>
+                    <value year="2018">413</value>
+                    <value year="2019">425</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mz">
+               <name>Mozambique</name>
+               <data-group>
+                    <value year="2000">11</value>
+                    <value year="2005">31</value>
+                    <value year="2015">87</value>
+                    <value year="2017">100</value>
+                    <value year="2018">107</value>
+                    <value year="2019">105</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mm">
+               <name>Myanmar</name>
+               <data-group>
+                    <value year="2000">20</value>
+                    <value year="2005">42</value>
+                    <value year="2015">225</value>
+                    <value year="2017">215</value>
+                    <value year="2018">223</value>
+                    <value year="2019">227</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="na">
+               <name>Namibia</name>
+               <data-group>
+                    <value year="2000">504</value>
+                    <value year="2005">703</value>
+                    <value year="2015">1061</value>
+                    <value year="2017">888</value>
+                    <value year="2018">860</value>
+                    <value year="2019">867</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nr">
+               <name>Nauru</name>
+               <data-group>
+                    <value year="2000">1157</value>
+                    <value year="2005">469</value>
+                    <value year="2015">1803</value>
+                    <value year="2017">1499</value>
+                    <value year="2018">1208</value>
+                    <value year="2019">1390</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="np">
+               <name>Nepal</name>
+               <data-group>
+                    <value year="2000">42</value>
+                    <value year="2005">66</value>
+                    <value year="2015">164</value>
+                    <value year="2017">168</value>
+                    <value year="2018">171</value>
+                    <value year="2019">177</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nl">
+               <name>Netherlands</name>
+               <data-group>
+                    <value year="2000">2467</value>
+                    <value year="2005">3426</value>
+                    <value year="2015">5204</value>
+                    <value year="2017">5603</value>
+                    <value year="2018">6009</value>
+                    <value year="2019">6248</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nc">
+               <name>New Caledonia</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nz">
+               <name>New Zealand</name>
+               <data-group>
+                    <value year="2000">1607</value>
+                    <value year="2005">2124</value>
+                    <value year="2015">3476</value>
+                    <value year="2017">3876</value>
+                    <value year="2018">4096</value>
+                    <value year="2019">4439</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ni">
+               <name>Nicaragua</name>
+               <data-group>
+                    <value year="2000">146</value>
+                    <value year="2005">211</value>
+                    <value year="2015">422</value>
+                    <value year="2017">501</value>
+                    <value year="2018">501</value>
+                    <value year="2019">475</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ne">
+               <name>Niger</name>
+               <data-group>
+                    <value year="2000">36</value>
+                    <value year="2005">51</value>
+                    <value year="2015">61</value>
+                    <value year="2017">65</value>
+                    <value year="2018">65</value>
+                    <value year="2019">72</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ng">
+               <name>Nigeria</name>
+               <data-group>
+                    <value year="2000">77</value>
+                    <value year="2005">162</value>
+                    <value year="2015">194</value>
+                    <value year="2017">195</value>
+                    <value year="2018">163</value>
+                    <value year="2019">162</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nu">
+               <name>Niue</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nf">
+               <name>Norfolk Island</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mp">
+               <name>Northern Mariana Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mk">
+               <name>North Macedonia</name>
+               <data-group>
+                    <value year="2000">544</value>
+                    <value year="2005">596</value>
+                    <value year="2015">877</value>
+                    <value year="2017">1035</value>
+                    <value year="2018">1127</value>
+                    <value year="2019">1314</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="no">
+               <name>Norway</name>
+               <data-group>
+                    <value year="2000">2858</value>
+                    <value year="2005">3995</value>
+                    <value year="2015">6142</value>
+                    <value year="2017">6631</value>
+                    <value year="2018">7009</value>
+                    <value year="2019">7217</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="om">
+               <name>Oman</name>
+               <data-group>
+                    <value year="2000">1102</value>
+                    <value year="2005">982</value>
+                    <value year="2015">1349</value>
+                    <value year="2017">1155</value>
+                    <value year="2018">1202</value>
+                    <value year="2019">1161</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pk">
+               <name>Pakistan</name>
+               <data-group>
+                    <value year="2000">75</value>
+                    <value year="2005">91</value>
+                    <value year="2015">118</value>
+                    <value year="2017">133</value>
+                    <value year="2018">155</value>
+                    <value year="2019">166</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pw">
+               <name>Palau</name>
+               <data-group>
+                    <value year="2000">872</value>
+                    <value year="2005">1124</value>
+                    <value year="2015">2028</value>
+                    <value year="2017">2163</value>
+                    <value year="2018">2085</value>
+                    <value year="2019">2902</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ps">
+               <name>Palestinian Autonomous Areas</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pa">
+               <name>Panama</name>
+               <data-group>
+                    <value year="2000">588</value>
+                    <value year="2005">652</value>
+                    <value year="2015">1724</value>
+                    <value year="2017">2103</value>
+                    <value year="2018">2308</value>
+                    <value year="2019">2491</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pg">
+               <name>Papua New Guinea</name>
+               <data-group>
+                    <value year="2000">40</value>
+                    <value year="2005">55</value>
+                    <value year="2015">72</value>
+                    <value year="2017">96</value>
+                    <value year="2018">97</value>
+                    <value year="2019">105</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="py">
+               <name>Paraguay</name>
+               <data-group>
+                    <value year="2000">400</value>
+                    <value year="2005">361</value>
+                    <value year="2015">769</value>
+                    <value year="2017">832</value>
+                    <value year="2018">884</value>
+                    <value year="2019">950</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pe">
+               <name>Peru</name>
+               <data-group>
+                    <value year="2000">217</value>
+                    <value year="2005">301</value>
+                    <value year="2015">581</value>
+                    <value year="2017">624</value>
+                    <value year="2018">690</value>
+                    <value year="2019">712</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ph">
+               <name>Philippines</name>
+               <data-group>
+                    <value year="2000">105</value>
+                    <value year="2005">164</value>
+                    <value year="2015">280</value>
+                    <value year="2017">322</value>
+                    <value year="2018">345</value>
+                    <value year="2019">379</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pn">
+               <name>Pitcairn Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pl">
+               <name>Poland</name>
+               <data-group>
+                    <value year="2000">565</value>
+                    <value year="2005">807</value>
+                    <value year="2015">1717</value>
+                    <value year="2017">1972</value>
+                    <value year="2018">2023</value>
+                    <value year="2019">2207</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pt">
+               <name>Portugal</name>
+               <data-group>
+                    <value year="2000">1631</value>
+                    <value year="2005">2195</value>
+                    <value year="2015">2759</value>
+                    <value year="2017">3072</value>
+                    <value year="2018">3286</value>
+                    <value year="2019">3518</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pr">
+               <name>Puerto Rico</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="qa">
+               <name>Qatar</name>
+               <data-group>
+                    <value year="2000">1945</value>
+                    <value year="2005">2822</value>
+                    <value year="2015">2790</value>
+                    <value year="2017">2732</value>
+                    <value year="2018">2446</value>
+                    <value year="2019">2737</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="re">
+               <name>Réunion</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ro">
+               <name>Romania</name>
+               <data-group>
+                    <value year="2000">246</value>
+                    <value year="2005">529</value>
+                    <value year="2015">1066</value>
+                    <value year="2017">1399</value>
+                    <value year="2018">1673</value>
+                    <value year="2019">1907</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ru">
+               <name>Russian Federation</name>
+               <data-group>
+                    <value year="2000">368</value>
+                    <value year="2005">604</value>
+                    <value year="2015">1288</value>
+                    <value year="2017">1406</value>
+                    <value year="2018">1571</value>
+                    <value year="2019">1704</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rw">
+               <name>Rwanda</name>
+               <data-group>
+                    <value year="2000">23</value>
+                    <value year="2005">72</value>
+                    <value year="2015">120</value>
+                    <value year="2017">126</value>
+                    <value year="2018">143</value>
+                    <value year="2019">146</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sh">
+               <name>St Helena and Dependencies</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kn">
+               <name>Saint Kitts and Nevis</name>
+               <data-group>
+                    <value year="2000">784</value>
+                    <value year="2005">946</value>
+                    <value year="2015">1271</value>
+                    <value year="2017">1419</value>
+                    <value year="2018">1383</value>
+                    <value year="2019">1507</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lc">
+               <name>Saint Lucia</name>
+               <data-group>
+                    <value year="2000">450</value>
+                    <value year="2005">522</value>
+                    <value year="2015">621</value>
+                    <value year="2017">696</value>
+                    <value year="2018">690</value>
+                    <value year="2019">698</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pm">
+               <name>St Pierre and Miquelon</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vc">
+               <name>Saint Vincent and the Grenadines</name>
+               <data-group>
+                    <value year="2000">267</value>
+                    <value year="2005">347</value>
+                    <value year="2015">476</value>
+                    <value year="2017">530</value>
+                    <value year="2018">576</value>
+                    <value year="2019">620</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ws">
+               <name>Samoa</name>
+               <data-group>
+                    <value year="2000">148</value>
+                    <value year="2005">235</value>
+                    <value year="2015">337</value>
+                    <value year="2017">361</value>
+                    <value year="2018">355</value>
+                    <value year="2019">433</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sm">
+               <name>San Marino</name>
+               <data-group>
+                    <value year="2000">2828</value>
+                    <value year="2005">2776</value>
+                    <value year="2015">3468</value>
+                    <value year="2017">4252</value>
+                    <value year="2018">4222</value>
+                    <value year="2019">4057</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="st">
+               <name>São Tomé and Príncipe</name>
+               <data-group>
+                    <value year="2000">188</value>
+                    <value year="2005">259</value>
+                    <value year="2015">205</value>
+                    <value year="2017">253</value>
+                    <value year="2018">237</value>
+                    <value year="2019">227</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sa">
+               <name>Saudi Arabia</name>
+               <data-group>
+                    <value year="2000">1680</value>
+                    <value year="2005">1612</value>
+                    <value year="2015">2916</value>
+                    <value year="2017">2963</value>
+                    <value year="2018">2802</value>
+                    <value year="2019">2790</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sn">
+               <name>Senegal</name>
+               <data-group>
+                    <value year="2000">68</value>
+                    <value year="2005">86</value>
+                    <value year="2015">130</value>
+                    <value year="2017">128</value>
+                    <value year="2018">143</value>
+                    <value year="2019">145</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rs">
+               <name>Serbia</name>
+               <footnote id="STATS.TABLE.28.4" ref-symbol="4">Including Kosovo until February
+                    2008.</footnote>
+               <data-group>
+                    <value year="2000">372</value>
+                    <value year="2005">759</value>
+                    <value year="2015">1312</value>
+                    <value year="2017">1366</value>
+                    <value year="2018">1557</value>
+                    <value year="2019">1686</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sc">
+               <name>Seychelles</name>
+               <data-group>
+                    <value year="2000">659</value>
+                    <value year="2005">718</value>
+                    <value year="2015">1086</value>
+                    <value year="2017">1332</value>
+                    <value year="2018">1470</value>
+                    <value year="2019">1469</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sl">
+               <name>Sierra Leone</name>
+               <data-group>
+                    <value year="2000">116</value>
+                    <value year="2005">100</value>
+                    <value year="2015">326</value>
+                    <value year="2017">154</value>
+                    <value year="2018">141</value>
+                    <value year="2019">157</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sg">
+               <name>Singapore</name>
+               <data-group>
+                    <value year="2000">1465</value>
+                    <value year="2005">1781</value>
+                    <value year="2015">3599</value>
+                    <value year="2017">4091</value>
+                    <value year="2018">4036</value>
+                    <value year="2019">4102</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sx">
+               <name>Sint Maarten</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sk">
+               <name>Slovakia</name>
+               <data-group>
+                    <value year="2000">602</value>
+                    <value year="2005">1096</value>
+                    <value year="2015">2033</value>
+                    <value year="2017">2038</value>
+                    <value year="2018">2114</value>
+                    <value year="2019">2267</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="si">
+               <name>Slovenia</name>
+               <data-group>
+                    <value year="2000">1406</value>
+                    <value year="2005">1910</value>
+                    <value year="2015">2689</value>
+                    <value year="2017">2998</value>
+                    <value year="2018">3335</value>
+                    <value year="2019">3629</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sb">
+               <name>Solomon Islands</name>
+               <data-group>
+                    <value year="2000">77</value>
+                    <value year="2005">155</value>
+                    <value year="2015">114</value>
+                    <value year="2017">113</value>
+                    <value year="2018">109</value>
+                    <value year="2019">131</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="so">
+               <name>Somalia</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="za">
+               <name>South Africa</name>
+               <data-group>
+                    <value year="2000">630</value>
+                    <value year="2005">753</value>
+                    <value year="2015">1103</value>
+                    <value year="2017">1108</value>
+                    <value year="2018">1146</value>
+                    <value year="2019">1187</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ss">
+               <name>South Sudan</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">84</value>
+                    <value year="2018">64</value>
+                    <value year="2019">63</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es">
+               <name>Spain</name>
+               <footnote id="STATS.TABLE.28.5" ref-symbol="5">Including Ceuta and Melilla, listed
+                    separately.</footnote>
+               <data-group>
+                    <value year="2000">1472</value>
+                    <value year="2005">2152</value>
+                    <value year="2015">3185</value>
+                    <value year="2017">3557</value>
+                    <value year="2018">3788</value>
+                    <value year="2019">3984</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lk">
+               <name>Sri Lanka</name>
+               <data-group>
+                    <value year="2000">176</value>
+                    <value year="2005">227</value>
+                    <value year="2015">451</value>
+                    <value year="2017">459</value>
+                    <value year="2018">524</value>
+                    <value year="2019">570</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sd">
+               <name>Sudan</name>
+               <data-group>
+                    <value year="2000">76</value>
+                    <value year="2005">144</value>
+                    <value year="2015">323</value>
+                    <value year="2017">279</value>
+                    <value year="2018">202</value>
+                    <value year="2019">205</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sr">
+               <name>Suriname</name>
+               <data-group>
+                    <value year="2000">494</value>
+                    <value year="2005">592</value>
+                    <value year="2015">1000</value>
+                    <value year="2017">973</value>
+                    <value year="2018">1346</value>
+                    <value year="2019">1680</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sj (part)">
+               <name>Svalbard</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="se">
+               <name>Sweden</name>
+               <data-group>
+                    <value year="2000">2174</value>
+                    <value year="2005">2797</value>
+                    <value year="2015">5333</value>
+                    <value year="2017">5656</value>
+                    <value year="2018">6077</value>
+                    <value year="2019">6223</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ch">
+               <name>Switzerland</name>
+               <data-group>
+                    <value year="2000">3362</value>
+                    <value year="2005">4189</value>
+                    <value year="2015">7307</value>
+                    <value year="2017">7990</value>
+                    <value year="2018">8448</value>
+                    <value year="2019">8532</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sy">
+               <name>Syrian Arab Republic</name>
+               <data-group>
+                    <value year="2000">145</value>
+                    <value year="2005">171</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tw">
+               <name>Taiwan</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tj">
+               <name>Tajikistan</name>
+               <data-group>
+                    <value year="2000">45</value>
+                    <value year="2005">89</value>
+                    <value year="2015">207</value>
+                    <value year="2017">223</value>
+                    <value year="2018">240</value>
+                    <value year="2019">251</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tz">
+               <name>Tanzania</name>
+               <data-group>
+                    <value year="2000">37</value>
+                    <value year="2005">93</value>
+                    <value year="2015">83</value>
+                    <value year="2017">100</value>
+                    <value year="2018">105</value>
+                    <value year="2019">99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="th">
+               <name>Thailand</name>
+               <data-group>
+                    <value year="2000">226</value>
+                    <value year="2005">324</value>
+                    <value year="2015">580</value>
+                    <value year="2017">670</value>
+                    <value year="2018">708</value>
+                    <value year="2019">731</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tp">
+               <name>Timor-Leste</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">73</value>
+                    <value year="2015">223</value>
+                    <value year="2017">212</value>
+                    <value year="2018">238</value>
+                    <value year="2019">220</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tg">
+               <name>Togo</name>
+               <data-group>
+                    <value year="2000">37</value>
+                    <value year="2005">45</value>
+                    <value year="2015">93</value>
+                    <value year="2017">131</value>
+                    <value year="2018">128</value>
+                    <value year="2019">126</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tk">
+               <name>Tokelau</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="to">
+               <name>Tonga</name>
+               <data-group>
+                    <value year="2000">109</value>
+                    <value year="2005">195</value>
+                    <value year="2015">271</value>
+                    <value year="2017">330</value>
+                    <value year="2018">332</value>
+                    <value year="2019">332</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tt">
+               <name>Trinidad and Tobago</name>
+               <data-group>
+                    <value year="2000">627</value>
+                    <value year="2005">1054</value>
+                    <value year="2015">1665</value>
+                    <value year="2017">1843</value>
+                    <value year="2018">1796</value>
+                    <value year="2019">1835</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tn">
+               <name>Tunisia</name>
+               <data-group>
+                    <value year="2000">302</value>
+                    <value year="2005">420</value>
+                    <value year="2015">676</value>
+                    <value year="2017">723</value>
+                    <value year="2018">759</value>
+                    <value year="2019">789</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tr">
+               <name>Türkiye </name>
+               <data-group>
+                    <value year="2000">443</value>
+                    <value year="2005">587</value>
+                    <value year="2015">1060</value>
+                    <value year="2017">1167</value>
+                    <value year="2018">1152</value>
+                    <value year="2019">1187</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tm">
+               <name>Turkmenistan</name>
+               <data-group>
+                    <value year="2000">175</value>
+                    <value year="2005">557</value>
+                    <value year="2015">862</value>
+                    <value year="2017">985</value>
+                    <value year="2018">1005</value>
+                    <value year="2019">1064</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tc">
+               <name>Turks and Caicos Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tv">
+               <name>Tuvalu</name>
+               <data-group>
+                    <value year="2000">596</value>
+                    <value year="2005">286</value>
+                    <value year="2015">601</value>
+                    <value year="2017">691</value>
+                    <value year="2018">837</value>
+                    <value year="2019">1071</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ug">
+               <name>Uganda</name>
+               <data-group>
+                    <value year="2000">49</value>
+                    <value year="2005">75</value>
+                    <value year="2015">113</value>
+                    <value year="2017">87</value>
+                    <value year="2018">92</value>
+                    <value year="2019">92</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ua">
+               <name>Ukraine</name>
+               <footnote id="STATS.TABLE.28.6" ref-symbol="6">Including the Republic of Crimea and
+                    Sevastopol City (admitted to the Russian Federation in March 2014).</footnote>
+               <data-group>
+                    <value year="2000">227</value>
+                    <value year="2005">444</value>
+                    <value year="2015">754</value>
+                    <value year="2017">842</value>
+                    <value year="2018">908</value>
+                    <value year="2019">907</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ae">
+               <name>United Arab Emirates</name>
+               <data-group>
+                    <value year="2000">2325</value>
+                    <value year="2005">2266</value>
+                    <value year="2015">2326</value>
+                    <value year="2017">2727</value>
+                    <value year="2018">2844</value>
+                    <value year="2019">2996</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb">
+               <name>United Kingdom</name>
+               <footnote id="STATS.TABLE.28.7" ref-symbol="7">Including Northern Ireland.</footnote>
+               <data-group>
+                    <value year="2000">1905</value>
+                    <value year="2005">2761</value>
+                    <value year="2015">4232</value>
+                    <value year="2017">4516</value>
+                    <value year="2018">4830</value>
+                    <value year="2019">5087</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="us">
+               <name>United States of America</name>
+               <data-group>
+                    <value year="2000">4543</value>
+                    <value year="2005">6454</value>
+                    <value year="2015">9392</value>
+                    <value year="2017">10103</value>
+                    <value year="2018">10515</value>
+                    <value year="2019">10921</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vi">
+               <name>US Virgin Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uy">
+               <name>Uruguay</name>
+               <data-group>
+                    <value year="2000">1026</value>
+                    <value year="2005">976</value>
+                    <value year="2015">1821</value>
+                    <value year="2017">2030</value>
+                    <value year="2018">2158</value>
+                    <value year="2019">2310</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uz">
+               <name>Uzbekistan</name>
+               <data-group>
+                    <value year="2000">159</value>
+                    <value year="2005">203</value>
+                    <value year="2015">320</value>
+                    <value year="2017">335</value>
+                    <value year="2018">372</value>
+                    <value year="2019">418</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vu">
+               <name>Vanuatu</name>
+               <data-group>
+                    <value year="2000">74</value>
+                    <value year="2005">77</value>
+                    <value year="2015">123</value>
+                    <value year="2017">86</value>
+                    <value year="2018">107</value>
+                    <value year="2019">111</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="va">
+               <name>Vatican City</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ve">
+               <name>Venezuela</name>
+               <data-group>
+                    <value year="2000">862</value>
+                    <value year="2005">827</value>
+                    <value year="2015">745</value>
+                    <value year="2017">589</value>
+                    <value year="2018">521</value>
+                    <value year="2019">385</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vn">
+               <name>Viet Nam</name>
+               <data-group>
+                    <value year="2000">96</value>
+                    <value year="2005">151</value>
+                    <value year="2015">345</value>
+                    <value year="2017">424</value>
+                    <value year="2018">494</value>
+                    <value year="2019">559</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="wf">
+               <name>Wallis and Futuna Islands</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ye">
+               <name>Yemen</name>
+               <data-group>
+                    <value year="2000">138</value>
+                    <value year="2005">184</value>
+                    <value year="2015">110</value>
+                    <value year="2017">
+                         <not-avail/>
+                    </value>
+                    <value year="2018">
+                         <not-avail/>
+                    </value>
+                    <value year="2019">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zm">
+               <name>Zambia</name>
+               <data-group>
+                    <value year="2000">118</value>
+                    <value year="2005">150</value>
+                    <value year="2015">152</value>
+                    <value year="2017">153</value>
+                    <value year="2018">182</value>
+                    <value year="2019">193</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zw">
+               <name>Zimbabwe</name>
+               <data-group>
+                    <value year="2000">
+                         <not-avail/>
+                    </value>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">200</value>
+                    <value year="2017">226</value>
+                    <value year="2018">269</value>
+                    <value year="2019">208</value>
+               </data-group>
+          </country-stats>
+     </country-stats-group>
+</stats-table>

@@ -1,0 +1,637 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61764" sllink="SLSDOCRF" sllinkid="61763" slsdocid="55833" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BG.DIR.393" id-root="bg.dir" iso="bg" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--http://www.bnb.bg/BankSupervision/BSCreditInstitution/BSCIRegisters/BS_CI_REG_BANKSLIST_BG https://abanksb.bg/en/banking-system/the-banking-system-in-bulgaria-in-2021-facts-and-figures/-->
+                    <!--MR 04.04.2022 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="BG.DIR.394" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <p id="BG.DIR.395">At the end of 2022 25 banks were in operation in Bulgaria, including seven branches of foreign banks.</p>
+                         <dir-section id="BG.DIR.398" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL62698" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62697" slsdocid="56182" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.399" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bulgarian National Bank</org-entry-name>
+                                                  <abbr>BNB</abbr>
+                                                  <alt-name>Balgarska Narodna Banka</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Sofia, pl. Knyaz Aleksandar I 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 914-59</telephone>
+                                                  <fax>(2) 980-24-25</fax>
+                                                  <email>press_office@bnbank.org</email>
+                                                  <internet>www.bnb.bg</internet>
+                                             </address-block>
+                                             <found-date>1879</found-date>
+                                             <content-note style="NORMAL">bank of issue</content-note>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dimitar</forename>
+                                                            <surname>Radev</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="BG.DIR.402" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Commercial Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL3993238" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3993237" slsdocid="3993217" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.1363261547" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--SC 04.02.2020 stats not confirmed tel and fax confiremdat https://abanksb.bg/en/member-banks/-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Allianz Bank Bulgaria</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1407 Sofia, bul. Srebarna 16</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 921-54-04</telephone>
+                                                  <fax>(2) 981-93-07</fax>
+                                                  <email>support@bank.allianz.bg</email>
+                                                  <internet>www.allianz.bg</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <content-note style="NORMAL">99.89% owned by Allianz Bulgaria Holding AD</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ioannis</forename>
+                                                            <surname>Kotsianos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dimitar</forename>
+                                                            <surname>Zelev</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL3993213" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3993212" slsdocid="3993176" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.1363260463" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bulgarian Development Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Sofia, ul. Diakon Ignatiy 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 930-63-33</telephone>
+                                                  <email>office@bdbank.bg</email>
+                                                  <internet>bbr.bg</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2008</content-note>
+                                             <content-note style="NORMAL">99.99% owned by the Ministry of Economy and Industry</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marijana</forename>
+                                                            <surname>Petkova</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL62712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62711" slsdocid="56174" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.408" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--NS 18.12.2017 fax not confirmed-->
+                                             <!--sc1 04.02.2020 role group confirmed at https://seenews.com/companies/company_profile/central-cooperative-bank-ad-3833-->
+                                             <data-protection date-added="17.04.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Central Co-operative Bank</org-entry-name>
+                                                  <alt-name>Tsentralna Kooperativna Banka</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1086 Sofia, bul. Carigrasko shosse 87</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 926-61-00</telephone>
+                                                  <email>front@ccbank.bg</email>
+                                                  <internet>www.ccbank.bg</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">61.0% owned by TsKB Group EAD, 8.2% owned by Chemimport AD</content-note>
+                                             <role-group>
+                                                  <role>Chair. of Managing Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ivo</forename>
+                                                            <surname>Kamenov</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL62700" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62699" slsdocid="56181" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.401" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 04.02.2020 info udpated from https://seenews.com/companies/company_profile/dsk-bank-ead-3743-->
+                                             <org-entry-head>
+                                                  <org-entry-name>DSK Bank</org-entry-name>
+                                                  <alt-name>Banka DSK</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1036 Sofia, ul. Moskovska 19</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 939-12-20</telephone>
+                                                  <fax>(2) 907-64-99</fax>
+                                                  <email>call_center@dskbank.bg</email>
+                                                  <internet>dskbank.bg</internet>
+                                             </address-block>
+                                             <found-date>1951 as State Savings Bank</found-date>
+                                             <content-note style="NORMAL">present name adopted in 1998</content-note>
+                                             <content-note style="NORMAL">provides general retail banking services throughout the country</content-note>
+                                             <content-note style="NORMAL">owned by Nat. Savings and Commercial Bank—OTP Bank (Hungary); absorbed Expressbank AD in 2020</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Chief Exec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tamas</forename>
+                                                            <surname>Hak-Kovacs</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL62730" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62729" slsdocid="56165" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.417" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>First Investment Bank</org-entry-name>
+                                                  <abbr>Fibank</abbr>
+                                                  <alt-name>Parva Investitsionna Banka</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1784 Sofia, bul. Tsarigradsko Shose 111</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 817-11-00</telephone>
+                                                  <email>call@fibank.bg</email>
+                                                  <internet>www.fibank.bg</internet>
+                                             </address-block>
+                                             <found-date>1993</found-date>
+                                             <content-note style="NORMAL">18.4% owned by Bulgarian Development Bank AD, 7.9% by Valea Foundation</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nikola</forename>
+                                                            <surname>Bakalov</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL768855" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="768854" slsdocid="56160" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.421" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="30.03.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Investbank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1404 Sofia, bul. Bulgaria 85</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 401-31-01</telephone>
+                                                  <email>office@ibank.bg</email>
+                                                  <internet>ibank.bg</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2002</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Svetoslav</forename>
+                                                            <surname>Milanov</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8171055" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8171054" slsdocid="56159" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.422" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="17.04.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>KBC Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1407 Sofia, ul. Nikola Vaptsarov 55</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 962-41-02</telephone>
+                                                  <email>call.center@raiffeisen.bg</email>
+                                                  <internet>www.rbb.bg</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">acquired by KBC Bank (Belgium) from Raiffeisen Int. Bank Holding AG (Austria) in Nov. 2021</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Country Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Peter</forename>
+                                                            <surname>Reuben</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL62736" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62735" slsdocid="56161" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.420" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="09.07.2015" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Municipal Bank</org-entry-name>
+                                                  <alt-name>Obshtinska Banka</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Sofia, ul. Vrabcha 6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 930-01-81</telephone>
+                                                  <email>contacts@municipalbank.bg</email>
+                                                  <internet>www.municipalbank.bg</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">95.5% owned by Novito Opportunities Fund AGmvK (Liechtenstein)</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nedelcho</forename>
+                                                            <surname>Nedelchev</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7003507" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7003506" slsdocid="56177" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.406" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Postbank (Eurobank Bulgaria)</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1766 Sofia, bul. Okolovrasten Pat 260</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 816-60-00</telephone>
+                                                  <fax>(2) 988-81-10</fax>
+                                                  <email>pr@postbank.bg</email>
+                                                  <internet>www.postbank.bg</internet>
+                                             </address-block>
+                                             <found-date>2007 as Eurobank EFG Bulgaria (Postbank) by merger of Postbank and DZI Bank</found-date>
+                                             <content-note style="NORMAL">name changed as above in 2013</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Petia</forename>
+                                                            <surname>Dimitrova</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2205037" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2205036" slsdocid="2205000" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.1201014594" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 04.02.2020 stats ot confirmed -->
+                                             <org-entry-head>
+                                                  <org-entry-name>UniCredit Bulbank AD</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Sofia, pl. Sveta Nedelia 7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 933-73-33</telephone>
+                                                  <fax>(2) 988-46-36</fax>
+                                                  <internet>www.unicreditbulbank.bg</internet>
+                                             </address-block>
+                                             <found-date>1964</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                             <content-note style="NORMAL">99.5% owned by UniCredit Bank Austria AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tsvetanka</forename>
+                                                            <surname>Mincheva</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL62748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62747" slsdocid="56155" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BG.DIR.426" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 04.02.2020 add confirmed at https://www.ecbs.org/banks/bulgaria/united-bulgarian-bank/view-details.html-->
+                                             <org-entry-head>
+                                                  <org-entry-name>United Bulgarian Bank</org-entry-name>
+                                                  <alt-name>Obedinena Balgarska Banka</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        1040 Sofia, UBB Millennium Center, bul. Vitosha 89
+                        <sc>B</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 483-17-17</telephone>
+                                                  <email>info@ubb.bg</email>
+                                                  <internet>www.ubb.bg</internet>
+                                             </address-block>
+                                             <found-date>1998</found-date>
+                                             <content-note style="NORMAL">universal commercial bank</content-note>
+                                             <content-note style="NORMAL">99.9% owned by KBC Group (Belgium)</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Peter</forename>
+                                                            <surname>Roebben</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="BG.DIR.427" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL62750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62749" slsdocid="56153" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.428" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGE">
+                                        <data-protection date-added="13.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Bulgarian Stock Exchange</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. Triushi 6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 937-09-34</telephone>
+                                             <fax>(2) 937-09-46</fax>
+                                             <email>bse@bse-sofia.bg</email>
+                                             <internet>www.bse-sofia.bg</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Asen</forename>
+                                                       <surname>Yagodin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manyu</forename>
+                                                       <surname>Moravenov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BG.DIR.429" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <org-list>
+                              <org-entryref id="SL4368896" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368895" slsdocid="4368863" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1393418631" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Allianz Bulgaria</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1407 Sofia, ul. Srebarna 16</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">life@allianz.bg</telephone>
+                                             <email>office@allianz.bg</email>
+                                             <internet>www.allianz.bg</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <role-group>
+                                             <role>Chair. and Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dimitar</forename>
+                                                       <surname>Zhelev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62754" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62753" slsdocid="56149" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.432" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--Sc1 04.02.2020 email confirmed at https://www.advantageaustria.org/bg/company/vienna-insurance-group-ag-wiener-versicherung-gruppe-v-i-g.profile.en.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Bulstrad Vienna Insurance Gp</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, pl. Pozitano 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 985-66-10</telephone>
+                                             <email>public@bulstrad.bg</email>
+                                             <internet>www.bulstrad.bg</internet>
+                                        </address-block>
+                                        <found-date>1961 as Bulstrad</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2009</content-note>
+                                        <content-note style="NORMAL">100% owned by Wiener Städtische Versicherung AG (Austria)</content-note>
+                                        <content-note style="NORMAL">all classes of insurance and reinsurance</content-note>
+                                        <role-group>
+                                             <role>Chair. of Bd and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nedialko</forename>
+                                                       <surname>Chandarov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1165086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1165085" slsdocid="56150" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.431" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--NS 10.07.2018 tel mentioned in reply 070016166-->
+                                        <!--sc1 04.02.2020 add confirmed at https://www.emis.com/php/company-profile/BG/DZI_General_Insurance_EAD__%D0%94%D0%97%D0%98_%D0%9E%D0%B1%D1%89%D0%BE_%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B5_%D0%95%D0%90%D0%94__en_1403687.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>DZI Insurance</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1000 Sofia, ul. Vitosha 89
+                      <sc>b</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(0700) 16166</telephone>
+                                             <email>clients@dzi.bg</email>
+                                             <internet>www.dzi.bg</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <content-note style="NORMAL">privatization approved in 2002</content-note>
+                                        <content-note style="NORMAL">all areas of insurance</content-note>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kosta</forename>
+                                                       <surname>Chulakov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1854424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1854423" slsdocid="1854413" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1170251363" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Euroins</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1592 Sofia, bul. Christopher Columbus 43</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 965-15-25</telephone>
+                                             <fax>(2) 414-45-26</fax>
+                                             <email>office@euroins.bg</email>
+                                             <internet>www.euroins.bg</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">business and general insurance</content-note>
+                                        <role-group>
+                                             <role>Chair. of Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joanna</forename>
+                                                       <surname>Tsoneva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4368903" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368902" slsdocid="4368869" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1393419248" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Generali Life Insurance</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1504 Sofia, bul. Knyaz Al. Dondukov 68</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 926-71-11</telephone>
+                                             <email>information.bg@generali.com</email>
+                                             <internet>www.generali.bg</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nikolay</forename>
+                                                       <surname>Stanchev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1854428" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1854427" slsdocid="1854419" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1170251797" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--MR 06.01.2023 Role group not confirmed-->
+                                        <!--sc1 04.02.2020 role group confirmed at https://seenews.com/companies/company_profile/ozk-insurance-ad-9561-->
+                                        <org-entry-head>
+                                             <org-entry-name>OZK-Insurance</org-entry-name>
+                                             <alt-name>OZK-Zastrahovane</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1301 Sofia, bul. Sveta Sofia 7, 5th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 981-31-22</telephone>
+                                             <fax>(2) 981-43-51</fax>
+                                             <email>headoffice@ozk.bg</email>
+                                             <internet>www.ozk.bg</internet>
+                                        </address-block>
+                                        <found-date>1996 as Municipal Insurance Co</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2010</content-note>
+                                        <content-note style="NORMAL">65.7% owned by L. M. Impex</content-note>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aleksander</forename>
+                                                       <surname>Lichev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 07.03.2014 dir name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1854434" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1854433" slsdocid="1854409" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1170251091" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Uniqa Insurance Plc Bulgaria</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, Todor Alexandrov Blvd 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 815-68-25</telephone>
+                                             <email>info@uniqa.bg</email>
+                                             <internet>www.uniqa.bg</internet>
+                                        </address-block>
+                                        <found-date>1993 as Vitosha-Zhivot (Vitosha Life) Insurance Co</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2007</content-note>
+                                        <content-note style="NORMAL">subsidiary of Uniqa (Austria)</content-note>
+                                        <role-group>
+                                             <role>Gen. Man. and Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivana</forename>
+                                                       <surname>Dimova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

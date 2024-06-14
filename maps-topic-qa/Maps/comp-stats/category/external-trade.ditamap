@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>External trade</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.19a" navtitle="Total imports">
+        <topicref href="../../../Topics/comp-stats/category/external-trade/stats.table.19a.dita"
+            navtitle="Total imports"/>
+    </chapter>
+    <chapter id="stats.table.19b" navtitle="Total exports">
+        <topicref href="../../../Topics/comp-stats/category/external-trade/stats.table.19b.dita"
+            navtitle="Total exports"/>
+    </chapter>
+</bookmap>

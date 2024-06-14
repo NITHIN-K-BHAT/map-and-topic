@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61846" sllink="SLSDOCRF" sllinkid="61845" slsdocid="56704" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="CZ.DIR.596" id-root="cz.dir" iso="cz" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="CZ.DIR.597">The Czech Republic has magnificent scenery, with summer and winter sports facilities. Prague, Kutna Hora, Olomouc, Český Krumlov and Telč are among the best-known of the historic towns, and there are famous castles and cathedrals, and numerous resorts, as well as spas with natural mineral springs at Karlovy Vary (Carlsbad) and Mariánské Lázně (Marienbad).</p>
+                    <org-list>
+                         <org-entryref id="SL63850" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63849" slsdocid="56892" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.598" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--sb 09.01.2013 info from http://www.czechtourism.cz/informace-o-czechtourism/kontakty/-->
+                                   <!--nb.23.02.2023.the previous url is still functional and features recent news updates and also contains the important contacts-->
+                                   <org-entry-head>
+                                        <org-entry-name>Visit Czechia</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Štěpánská 567/15, 120 00 Prague 2</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">777111173</telephone>
+                                        <email>info@czechtourism.cz</email>
+                                        <internet>www.visitczechrepublic.com</internet>
+                                   </address-block>
+                                   <found-date>1993</found-date>
+                                   <content-note style="NORMAL">known as Czech Tourism until 2023</content-note>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jan</forename>
+                                                  <surname>Herget</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

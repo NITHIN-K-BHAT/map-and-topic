@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52208" sllink="SLSDOCRF" sllinkid="52207" slsdocid="51504" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HU.DIR.215" id-root="hu.dir" iso="hu" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <dir-section id="HU.DIR.216" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Christianity</heading>
+                         <dir-section id="HU.DIR.218" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Roman Catholic Church</heading>
+                              <p id="HU.DIR.219">Hungary comprises five archdioceses (including one for Catholics of the Byzantine Rite), nine dioceses (including one for Catholics of the Byzantine Rite), one apostolic exarchate of the Byzantine Rite and one territorial abbacy (directly responsible to the Holy See).</p>
+                              <org-list>
+                                   <org-entryref id="SL4151762" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4151761" slsdocid="52089" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HU.DIR.229" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bishops’ Conference</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1071 Budapest, Városligeti fasor 45</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 342-6959</telephone>
+                                                  <fax>(1) 342-6957</fax>
+                                                  <email>pkt@katolikus.hu</email>
+                                                  <internet>www.katolikus.hu</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Bishop</title>
+                                                            <forename>András</forename>
+                                                            <surname>Veres</surname>
+                                                       </person-name>
+                                                       <person-note>Bishop of Győr</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4151953" sllink="SLSDOCRF" sllinkid="4151952" slsdocid="51473" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HU.DIR.222" id-root="hu.dir" iso="hu" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--Sc 21.01.2021 info udpated at http://www.catholic-hierarchy.org/diocese/deger.html-->
+                                             <dir-entry-name>Archbishop of Eger</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev. </title>
+                                                            <forename>Csaba</forename>
+                                                            <surname>Ternyák</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>3301 Eger, Széchenyi u. 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(36) 517-589</telephone>
+                                                  <fax>(36) 517-751</fax>
+                                                  <email> eger@eghyhazmegye.hu</email>
+                                                  <internet>eger.egyhazmegye.hu/hitelet</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4151956" sllink="SLSDOCRF" sllinkid="4151955" slsdocid="51472" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HU.DIR.223" id-root="hu.dir" iso="hu" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--Sc 21.01.2021 email not confirmed other info udpated at http://www.catholic-hierarchy.org/diocese/deszt.html-->
+                                             <dir-entry-name>Archbishop of Esztergom-Budapest</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Cardinal</title>
+                                                            <forename>Péter</forename>
+                                                            <surname>Erdő</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1014 Budapest, Úri u. 62</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 225-2590</telephone>
+                                                  <fax>(33) 202-5458</fax>
+                                                  <internet>www.esztergomi-ersekseg.hu</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4866284" sllink="SLSDOCRF" sllinkid="4866283" slsdocid="51469" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HU.DIR.227" id-root="hu.dir" iso="hu" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--Sc 21.01.2021 tel and fax not confirmed add and role group confirmed at http://www.gcatholic.org/dioceses/diocese/hajd0.htm-->
+                                             <dir-entry-name>Archbishop of Hajdúdorog (Byzantine Rite)</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Fílöp</forename>
+                                                            <surname>Kocsis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>4025 Debrecen, Petőfi ter. 8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(52) 870-560</telephone>
+                                                  <email>foegyhazmegye@hd.gorogkatolikus.hu</email>
+                                                  <internet>hd.gorogkatolikus.hu</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4151959" sllink="SLSDOCRF" sllinkid="4151958" slsdocid="51471" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HU.DIR.224" id-root="hu.dir" iso="hu" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Kalocsa-Kecskemét</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Balázs</forename>
+                                                            <surname>Bábel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>6301 Kalocsa, Szentháromság tér 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(78) 462-166</telephone>
+                                                  <fax>(78) 462-130</fax>
+                                                  <email>office@asztrik.hu</email>
+                                                  <internet>www.asztrik.hu</internet>
+                                             </address-block>
+                                             <!--TP 15.03.2012 details page: http://uj.katolikus.hu/adattar.php?h=6-->
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4151962" sllink="SLSDOCRF" sllinkid="4151961" slsdocid="51470" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HU.DIR.225" id-root="hu.dir" iso="hu" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--Sc 21.01.2021 email not confirmed other info confirmed at http://www.catholic-hierarchy.org/diocese/dvesz.html-->
+                                             <dir-entry-name>Archbishop of Veszprém</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev. </title>
+                                                            <forename>György</forename>
+                                                            <surname>Udvardy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>8200 Veszprém, Vár u. 18</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(88) 426-088</telephone>
+                                                  <fax>(88) 426-287</fax>
+                                                  <email>ersekseg@ersekseg.veszprem.hu</email>
+                                             </address-block>
+                                             <!--TP 15.03.2012 email add not updated. SBE same-->
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                         <dir-section id="HU.DIR.228" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Protestant Churches</heading>
+                              <org-list>
+                                   <org-entryref id="SL53922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53921" slsdocid="52088" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HU.DIR.230" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--nb 11 01 2024 mem stats same across sec sources-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Evangelical Lutheran Church in Hungary</org-entry-name>
+                                                  <alt-name>Magyarországi Evangélikus Egyház</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1085 Budapest, Üllöi u. 24</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 486-3556</telephone>
+                                                  <email>orszagos@lutheran.hu</email>
+                                                  <internet>www.evangelikus.hu</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Presiding Bishop</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Tamás</forename>
+                                                            <surname>Fabiny</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>176,000 mems (2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL53926" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53925" slsdocid="52086" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HU.DIR.232" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--nb 11 01 2024 role group https://reformatus.hu/egyhazunk/hirek/az-elo-ige-eve/ could not verify tel no-->
+                                             <!--Sc 21.01.2021 tel confimed at https://www.facebook.com/reformatus.hu-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Reformed Church in Hungary</org-entry-name>
+                                                  <alt-name>Magyarországi Református Egyház</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1146 Budapest, Abonyi u. 21</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 343-7870</telephone>
+                                                  <email>kommunikacio@reformatus.hu</email>
+                                                  <internet>reformatus.hu</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">Presbyterian</content-note>
+                                             <role-group>
+                                                  <role>Pres. of Gen. Synod</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Bishop</title>
+                                                            <forename>József </forename>
+                                                            <surname>Steinbach</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="HU.DIR.234" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Eastern Orthodox Church</heading>
+                              <p id="HU.DIR.238">The Bulgarian, Romanian, Russian and Serbian Orthodox Churches are all represented in Hungary.</p>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="HU.DIR.242" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Islam</heading>
+                         <p id="HU.DIR.243">There are about 8,000 Muslims in Hungary.</p>
+                         <!--nb 11 01 2024 stats https://telex.hu/english/2023/09/27/number-of-muslims-in-hungary-doubled-in-twenty-years-while-number-of-catholics-halved-->
+                         <org-list>
+                              <org-entryref id="SL53940" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53939" slsdocid="52077" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.244" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM">
+                                        <!--nb 11 01 2024 role group https://www.blikk.hu/gazdasag/penz/iszlam-kozosseg-temeto-budapest/fjg1638-->
+                                        <!--Sc 21.01.2021 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hungarian Islamic Community</org-entry-name>
+                                             <alt-name>Magyar Iszlám Közösség</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1141 Budapest, Paskál u. 60</verbatim-address>
+                                             </address>
+                                             <email>postmaster@magyariszlam.hu</email>
+                                             <internet>www.magyariszlam.hu</internet>
+                                        </address-block>
+                                        <found-date>1988</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zoltán</forename>
+                                                       <surname>Bolek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HU.DIR.245" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Judaism</heading>
+                         <p id="HU.DIR.246">The Jewish community in Hungary is estimated to number around 120,000 people. Some 80% of Hungary’s Jewish community resides in Budapest.</p>
+                         <org-list>
+                              <org-entryref id="SL53942" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53941" slsdocid="52075" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.247" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                        <org-entry-head>
+                                             <org-entry-name>Association of Jewish Communities in Hungary</org-entry-name>
+                                             <alt-name>Magyar­Országi Zsidó Hitközségek Szövetsége</alt-name>
+                                             <abbr>Mazsihisz</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1075 Budapest, Síp u. 12</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(1) 413-5500</telephone>
+                                             <email> info@mazsihisz.hu</email>
+                                             <internet>mazsihisz.hu</internet>
+                                        </address-block>
+                                        <stats>approx. 120,000 mems; around 40 active synagogues</stats>
+                                        <content-note style="NORMAL">Orthodox and Conservative</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>András </forename>
+                                                       <surname>Heisler</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61770" sllink="SLSDOCRF" sllinkid="61769" slsdocid="55830" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BG.DIR.570" id-root="bg.dir" iso="bg" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--TP GENERAL NOTE: (i) "National Tourist Board of Bulgaria" (non-government) may be worthy of an entry. However, not details are available more than Exec. Dir (Polly Karastoyanova), website (www.bulgariantouristboard.com) and email add (info@bulgariantouristboard.com); more info: (i) http://m.caribbeannewsdigital.com/en/noticia/q-polly-karastoyanova-executive-director-national-tourist-board-bulgaria; (ii) http://www.btch.org/associations/eng/associations.htm-->
+                    <heading>Tourism</heading>
+                    <p id="BG.DIR.571">Bulgaria’s tourist attractions include the resorts on the Black Sea coast, mountain scenery, ski resorts and historic centres.</p>
+                    <org-list>
+                         <org-entryref id="SL62462" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62461" slsdocid="56003" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="BG.DIR.572" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--KP10.06.2019 website not working, details verified from other sources-->
+                                   <org-entry-head>
+                                        <org-entry-name>Bulgarian Tourist Chamber</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1000 Sofia, ul. Sv. Sofia 8</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 986-51-33</telephone>
+                                        <internet>btch.org</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <content-note style="NORMAL">assists tourism enterprises, provides training, and co-ordinates non-governmental orgs</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Georgi</forename>
+                                                  <surname>Nikolov</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8372181" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8372180" slsdocid="8372172" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="BG.DIR.1673436822" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>National Tourist Information Center</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1000 Sofia, pl. Sveta Nedelya 1</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(883) 339-332</telephone>
+                                        <email>marketing@tourism.government.bg</email>
+                                        <internet>bulgariatravel.org/national-tourist-information-center</internet>
+                                   </address-block>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

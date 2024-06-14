@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Country survey</mainbooktitle>
+     </booktitle>
+     <chapter id="si.ec" navtitle="Economy">
+          <topicref href="../../../../../../Topics/Region/casee/countries/slovenia/content-types/country-survey/si.ec.dita" navtitle="Economy" keyscope="country-survey" keys="country-survey" format="dita" />
+     </chapter>
+     <chapter id="si.hi" navtitle="History">
+          <topicref href="../../../../../../Topics/Region/casee/countries/slovenia/content-types/country-survey/si.hi.dita" navtitle="History" keyscope="country-survey" keys="country-survey" format="dita" />
+     </chapter>
+     <chapter id="si.ge" navtitle="Geography">
+          <topicref href="../../../../../../Topics/Region/casee/countries/slovenia/content-types/country-survey/si.ge.dita" navtitle="Geography" keyscope="country-survey" keys="country-survey" format="dita" />
+     </chapter>
+</bookmap>

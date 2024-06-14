@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188776" sllink="SLSDOCRF" sllinkid="2188775" slsdocid="2188767" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.018" id-root="ks.dir" iso="ks" sect-type="culture" section="Culture" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Culture</heading>
+                    <!--NS 21.06.2018 http://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/statistikat-e-kultures-2016 http://ask.rks-gov.net/media/3619/cultures-2017.pdf-->
+                    <!--TP data from Kosovo Statistical Agency website page: http://esk.rks-gov.net/ENG/publikimet/doc_view/1006-culture-statistics-2010?tmpl=component&format=raw The number of museums and art gallery give above is inclusive of more than national ones-->
+                    <!--TP Official statistics updated in 2012, but the data are of the years from 2004 to 2010: https://ask.rks-gov.net/ENG/sport-and-culture/tables-->
+                    <dir-section id="KS.DIR.11982327701" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Cultural Heritage</heading>
+                         <org-list>
+                              <org-entryref id="SL2195983" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2195982" slsdocid="2195973" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199983864" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Cultural Heritage">
+                                        <!--MR 08.06.2023 no recent info about role group-->
+                                        <!--MR 16.06.2021 Tele. not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Kosovo Ethnographical Museum</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Henrik Baric 25</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(49) 407769</telephone>
+                                             <email>muzeuetnologjik1@gmail.com</email>
+                                             <internet>www.facebook.com/Muzeuetnologjik</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <role-group>
+                                             <role>Curator</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bekim</forename>
+                                                       <surname>Xhemili</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2195948" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2195947" slsdocid="2195943" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199982869" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Cultural Heritage">
+                                        <!--MR 08.06.2023 MR 16.06.2021 Only role group confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Kosovo Museum</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Nazim Gafurri</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 244107</telephone>
+                                             <internet>www.facebook.com/museumofkosovo</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ajet</forename>
+                                                       <surname>Leci</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6267862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6267861" slsdocid="2195956" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199983168" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Cultural Heritage">
+                                        <org-entry-head>
+                                             <org-entry-name>National Gallery of Kosovo</org-entry-name>
+                                             <alt-name>Galeria Kombetare e Kosovës</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Agim Ramadani 360</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 225627</telephone>
+                                             <email>info@galeriakombetare.com</email>
+                                             <internet>www.galeriakombetare-rks.com</internet>
+                                        </address-block>
+                                        <found-date>1979</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alisa Gojani</forename>
+                                                       <surname>Berisha</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2195995" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2195994" slsdocid="2195989" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199984574" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Cultural Heritage">
+                                        <data-protection date-added="17.06.2020" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>National Library of Kosovo `Pjetër Bogdani’</org-entry-name>
+                                             <alt-name>Biblioteka Kombëtare e Kosovës `Pjetër Bogdani’</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Sheshi Hasan Prishtina</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 212416</telephone>
+                                             <fax>(38) 248940</fax>
+                                             <email>biblioteka@biblioteka-ks.org</email>
+                                             <internet>www.biblioteka-ks.org</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <content-note style="NORMAL">fmrly National and University Library of Kosovo</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2014</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Fazli</forename>
+                                                       <surname>Gajraku</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="KS.DIR.11982329611" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Performing Arts</heading>
+                         <org-list>
+                              <org-entryref id="SL3096809" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3096808" slsdocid="2195607" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199975878" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Performing Arts">
+                                        <org-entry-head>
+                                             <org-entry-name>Kosovo Philharmonia</org-entry-name>
+                                             <alt-name>Filharmonia e Kosovës</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Sulejman Vokshi 19</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 244939</telephone>
+                                             <email>info@filharmoniaekosoves.com</email>
+                                             <internet>filharmoniaekosoves.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Baki</forename>
+                                                       <surname>Jashari</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2195646" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2195645" slsdocid="2195612" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1199976026" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Performing Arts">
+                                        <!--NS 22.06.2018 http://www.mkrs-ks.org/?page=1,60-->
+                                        <data-protection date-added="04.08.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>National Theatre of Kosovo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(44) 430693</telephone>
+                                             <email>teatri.kombetar@rks-gov.net</email>
+                                             <internet>www.facebook.com/teatrikombetarikosoves</internet>
+                                        </address-block>
+                                        <found-date>1946 in Prizren</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kushtrim</forename>
+                                                       <surname>Sheremeti</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

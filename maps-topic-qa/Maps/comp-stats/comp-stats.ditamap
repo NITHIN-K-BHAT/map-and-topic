@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Comaprative Statistics</mainbooktitle>
+    </booktitle>
+    <chapter href="./category/agriculture.ditamap" format="ditamap"/>
+    <chapter href="./category/area-population.ditamap" format="ditamap"/>
+    <chapter href="./category/health-welfare.ditamap" format="ditamap"/>
+    <chapter href="./category/finance.ditamap" format="ditamap"/>
+    <chapter href="./category/industry.ditamap" format="ditamap"/>
+    <chapter href="./category/external-trade.ditamap" format="ditamap"/>
+    <chapter href="./category/education.ditamap" format="ditamap"/>
+</bookmap>

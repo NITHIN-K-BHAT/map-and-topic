@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Research institutes</mainbooktitle>
+     </booktitle>
+     <chapter id="casee.ri" navtitle="Research institutes">
+          <topicref href="../../../../Topics/Region/casee/content-types/research-institutes/casee.ri.dita" navtitle="Research institutes" keyscope="res-institutes" keys="res-institutes" format="dita" />
+     </chapter>
+</bookmap>

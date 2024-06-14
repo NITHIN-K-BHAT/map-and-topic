@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61930" sllink="SLSDOCRF" sllinkid="61929" slsdocid="57850" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="GR.DIR.523" id-root="gr.dir" iso="gr" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="GR.DIR.524">The sunny climate, the natural beauty of the country, and its history and traditions attract tourists to Greece. There are numerous islands and many sites of archaeological interest. The COVID-19 pandemic caused serious disruption to the tourism industry in 2020-21.</p>
+                    <org-list>
+                         <org-entryref id="SL65824" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65823" slsdocid="58017" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="GR.DIR.525" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Ellinikos Organismos Tourismou</org-entry-name>
+                                        <abbr>EOT</abbr>
+                                        <alt-name>Greek National Tourist Organization</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Odos Tsoha 7, 115 21 Athens</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(210) 8707000</telephone>
+                                        <email>info@gnto.gr</email>
+                                        <internet>www.visitgreece.gr</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Angela</forename>
+                                                  <surname>Gerekou</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289524" sllink="SLSDOCRF" sllinkid="289523" slsdocid="287770" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.420" id-root="ba.dir" iso="ba" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="BA.DIR.421">Bosnia and Herzegovina has many sites of potential interest to tourists, including mountain scenery, rivers and waterfalls, and the historic cities of Sarajevo, Mostar, Travnik, Trebinje and Jajce.</p>
+                    <org-list>
+                         <org-entryref id="SL2560342" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2560341" slsdocid="2560302" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="BA.DIR.1235495914" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Tourism Organization of Republika Srpska</org-entry-name>
+                                        <alt-name>Turistička organizacija Republike Srpske</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>78000 Banja Luka, Bana Milosavljevića 8</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(51) 229720</telephone>
+                                        <fax>(51) 229721</fax>
+                                        <email>tors@teol.net</email>
+                                        <internet>www.turizamrs.org</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Exec. Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Miodrag</forename>
+                                                  <surname>Lončarević</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2213951" sllink="SLSDOCRF" sllinkid="2213950" slsdocid="2188522" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.005" id-root="ks.dir" iso="ks" sect-type="political-orgs" section="Political Organizations" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 05.04.2024 get the list from https://kqz-ks.org/sherbime-per-subjektet-politike/regjistrimi-i-subjekteve-politike/-->
+                    <heading>Political Organizations</heading>
+                    <org-list>
+                         <org-entryref id="SL2188532" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188531" slsdocid="1231448" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1113415197" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <!--SC 21.04.2020 new President will be elected in June. https://www.vizionplus.tv/haradinaj-dorehiqet-edhe-nga-drejtimi-i-partise-aak/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Aleanca për Ardhmërinë e Kosovës</org-entry-name>
+                                        <abbr>AAK</abbr>
+                                        <alt-name>Alliance for the Future of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Bulevardi Dëshmorët e Kombit</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(44) 640177</telephone>
+                                        <email>info@aak-ks.com</email>
+                                        <internet>www.aak-ks.com</internet>
+                                        <internet>www.facebook.com/pg/aleanca.official</internet>
+                                   </address-block>
+                                   <found-date>2001</found-date>
+                                   <role-group>
+                                        <role>Head</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ramush</forename>
+                                                  <surname>Haradinaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5751756" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5751755" slsdocid="2195011" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1199896760" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <!--Sc 21.04.2020 role group confirmed at https://twitter.com/pacollibehgjet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor-->
+                                   <org-entry-head>
+                                        <org-entry-name>Aleanca Kosova e Re</org-entry-name>
+                                        <abbr>AKR</abbr>
+                                        <alt-name>New Kosovo Alliance</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Rruga UÇK 216</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 224021</telephone>
+                                        <email>akr.kosova@gmail.com</email>
+                                        <internet>akr-ks.com</internet>
+                                   </address-block>
+                                   <found-date>2006</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Behgjet</forename>
+                                                  <surname>Pacolli</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL9015320" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                         <org-entryref id="SL7478410" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7478409" slsdocid="7478354" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1616654772" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Guxo</org-entry-name>
+                                        <alt-name>Dare</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Prishtina</verbatim-address>
+                                        </address>
+                                   </address-block>
+                                   <found-date>2020</found-date>
+                                   <content-note style="NORMAL">centre-right</content-note>
+                                   <content-note style="NORMAL">contested 2021 parliamentary elections in alliance with Vetëvendosje</content-note>
+                                   <role-group>
+                                        <role>Co-Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Faton</forename>
+                                                  <surname>Peci</surname>
+                                             </person-name>
+                                        </person>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Donika</forename>
+                                                  <surname>Gërvalla</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL7478421" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7478420" slsdocid="7478399" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1616656307" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Iniciativa e Re Demokratike e Kosovës</org-entry-name>
+                                        <abbr>IRDK</abbr>
+                                        <alt-name>New Democratic Initiative of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Gjakovë</verbatim-address>
+                                        </address>
+                                        <email>info@irdk-kosova.org</email>
+                                        <internet>www.irdk-kosova.org</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">represents Egyptian ethnic minority</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Elbert</forename>
+                                                  <surname>Krasniqi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5823657" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5823656" slsdocid="1922529" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1176220355" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <!--MR 05.04.2024 MR 19.07.2023 role group not confirmed-->
+                                   <!--MR 18.01.2021 No info found-->
+                                   <!--MR 08.07.2020 no details found. Name of the party also not found in the list of registered parties of Kosovo-->
+                                   <!--Sc 21.04.2020 role group notconfirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Koalicija Vakat</org-entry-name>
+                                        <alt-name>Vakat Coalition</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Dragaš</verbatim-address>
+                                        </address>
+                                   </address-block>
+                                   <found-date>2004</found-date>
+                                   <content-note style="NORMAL">coalition of representatives of the Demokratska Stranka Bošnjačka (Bosniak Democratic Party), the Demokratska Stranka Vatan (Fatherland Democratic Party) and the Bošnjačka Stranka Kosova (Bosniak Party of Kosovo)</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Rasim</forename>
+                                                  <surname>Demiri</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <!--HAS SEATS in 2017 parliament - do not remove-->
+                                   <!--TP 03.07.2013 details could not be updated-->
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4484527" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4484526" slsdocid="1922443" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1176218959" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <org-entry-head>
+                                        <org-entry-name>Kosova Demo­kratik Türk Partisi</org-entry-name>
+                                        <abbr>KDTP</abbr>
+                                        <alt-name>Turkish Democratic Party of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>20000 Prizren, Sheshi e Lidhjes Cad.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(44) 428966</telephone>
+                                        <email>prizren@kdtp.org</email>
+                                        <internet>www.kdtp.org</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Fikrim</forename>
+                                                  <surname>Damka</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <!--TP 11.04.2014 http://www.kdtp.org/iletisim/ -->
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL2188536" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188535" slsdocid="288882" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.161" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <org-entry-head>
+                                        <org-entry-name>Lidhja Demokratike e Kosovës</org-entry-name>
+                                        <abbr>LDK</abbr>
+                                        <alt-name>Democratic League of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    10000 Prishtina, Rruga Qafa UCK 2
+                    <sc>b</sc>
+                                             </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 242242</telephone>
+                                        <fax>(38) 245305</fax>
+                                        <email>info@ldk-ks.eu</email>
+                                        <internet>lidhjademokratike.org</internet>
+                                   </address-block>
+                                   <found-date>1989</found-date>
+                                   <content-note style="NORMAL">incorporated Lidhja Demokratike e Dardanisë (Democratic League of Dardania) in 2015</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Lumir</forename>
+                                                  <surname>Abdixhiku</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4573111" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4573110" slsdocid="1922390" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1176218287" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <org-entry-head>
+                                        <org-entry-name>Nisma Socialdemokrate</org-entry-name>
+                                        <abbr>NISMA</abbr>
+                                        <alt-name>Social Democratic Initiative</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Rruga Mujo Ulqinaku 42</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 751751</telephone>
+                                        <email>nismaekosoves@gmail.com</email>
+                                        <internet>www.nisma.info</internet>
+                                   </address-block>
+                                   <found-date>2014 as Nisma për Kosovën (Initiative for Kosovo)</found-date>
+                                   <content-note style="NORMAL">name adopted as above in Jan. 2018</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Fatmir</forename>
+                                                  <surname>Limaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL7478417" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7478416" slsdocid="7478382" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1616655658" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Nova Demokratska Stranka</org-entry-name>
+                                        <abbr>NDS</abbr>
+                                        <alt-name>New Democratic Party</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Prishtina</verbatim-address>
+                                        </address>
+                                        <email>nds_prizren@hotmail.com</email>
+                                        <internet>www.facebook.com/novademokratskastranka</internet>
+                                   </address-block>
+                                   <found-date>2009</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Emilija</forename>
+                                                  <surname>Redžepi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL2188559" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188558" slsdocid="288879" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.164" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <org-entry-head>
+                                        <org-entry-name>Partia Demokratike e Kosovës</org-entry-name>
+                                        <abbr>PDK</abbr>
+                                        <alt-name>Democratic Party of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Rruga Nënë Terezë 9</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 224262</telephone>
+                                        <email>zyrakomunikimit@gmail.com</email>
+                                        <internet>pdk.info</internet>
+                                   </address-block>
+                                   <found-date>1999</found-date>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Memli</forename>
+                                                  <surname>Krasniqi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6195888" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6195887" slsdocid="2688360" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1245686961" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--MR 19.01.2021 Tele not confirmed-->
+                                   <!--sc 21.04.2020 https://www.youtube.com/watch?v=S5xejMqCfxc-->
+                                   <org-entry-head>
+                                        <org-entry-name>Partia Socialdemokrate e Kosovës</org-entry-name>
+                                        <abbr>PSD</abbr>
+                                        <alt-name>Social Democratic Party of Kosovo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Bajram Kelmendi</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(49) 652149</telephone>
+                                        <email>info@psd-ks.com</email>
+                                        <internet>psd-ks.com</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <content-note style="NORMAL">
+                absorbed fmr mems of 
+                <xr pageref="N" ref="KS.DIR.1296747103">Vetëvendosje (q.v.)</xr>
+                 in 2018
+              </content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dardan</forename>
+                                                  <surname>Molliqaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6195373" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6195372" slsdocid="1922496" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1176219693" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="">
+                                   <!--sc 21.04.2020 role group confirmed at https://balkaninsight.com/2020/03/12/murdered-serb-politicians-widow-could-testify-for-suspect/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Srpska Lista</org-entry-name>
+                                        <alt-name>Serb List</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>38220 Mitrovica, Sutjeska 70</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(28) 422360</telephone>
+                                        <email>info@srpskalista.net</email>
+                                        <internet>srpskalista.net</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">
+                f. as coalition of representatives of local brs of Serb groups, incl. 
+                <xr pageref="N" ref="RS.DIR.204">Srpski Pokret Obnove</xr>
+                 and the 
+                <xr pageref="N" ref="RS.DIR.1113333194">Socijaldemokratska Partija Srbije</xr>
+                 and registered as political party in 2017
+              </content-note>
+                                   <content-note style="NORMAL">fmrly Srpska Lista za Kosovo i Metohiju (Serb List for Kosovo and Metohija)</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Zlatan</forename>
+                                                  <surname>Elek</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4484601" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4484600" slsdocid="3255237" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1296747103" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Vetëvendosje</org-entry-name>
+                                        <alt-name>Self-Determination</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Behije Dashi 31</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(44) 411174</telephone>
+                                        <email>info@vetevendosje.org</email>
+                                        <internet>www.vetevendosje.org</internet>
+                                   </address-block>
+                                   <found-date>2005</found-date>
+                                   <content-note style="NORMAL">ethnic Albanian nationalist movement</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Albin</forename>
+                                                  <surname>Kurti</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+                    <p>
+          Other political parties include: 
+          <b>Progresivna Demokratska Stranka</b>
+           (PDS—Progressive Democratic Party), representing the ethnic Serb community, the 
+          <b>Jedinstvena Goranska Partija</b>
+           (Unique Gorani Party), the 
+          <b>Partia e Ashkalinjëve për Integrim</b>
+           (Ashkali Party for Integration), the 
+          <b>Romani Iniciyativa</b>
+           (Romani Initiative), and the 
+          <b>Socialdemokratska Unija</b>
+           (Social Democratic Union), representing the Bosniak community.
+        </p>
+               </dir-section>
+          </dir-sectref>
+          

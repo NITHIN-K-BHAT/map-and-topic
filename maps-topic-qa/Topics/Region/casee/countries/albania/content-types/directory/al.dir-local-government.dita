@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52158" sllink="SLSDOCRF" sllinkid="52157" slsdocid="51108" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.61" id-root="al.dir" iso="al" sect-type="local-government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Local Government</heading>
+                    <p>Local elections take place every four years. The Council of Ministers appoints a Prefect as its representative in each of the 12 counties. Each of the counties are subdivided into municipalities (the number of which was reduced from 373 to 61, with effect from June 2015).</p>
+                    <!--DH contact details are available for some of the counties (qark) at www.regions.org.al; I think "county hall" is K&#235;shilli I Qarkut -->
+                    <!--MR 17.02.2021 headline content checked-->
+                    <dir-section id="AL.DIR.11848370771" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Capital City</heading>
+                         <org-list>
+                              <org-entryref id="SL2067900" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2067899" slsdocid="2067888" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1184837128" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Capital City">
+                                        <!--MR 23.05.2022 Toll free number given on website-->
+                                        <org-entry-head>
+                                             <org-entry-name>Tirana City Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sheshi Skënderbej, Lagjia 2, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2253053</telephone>
+                                             <email>info@tirana.al</email>
+                                             <internet>www.tirana.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Erion</forename>
+                                                       <surname>Veliaj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AL.DIR.64" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Counties</heading>
+                         <org-list>
+                              <org-entryref id="SL52458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52457" slsdocid="51244" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.65" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Berat County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Republika, 5001 Berat</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(32) 234283</telephone>
+                                             <email> info@qarkuberat.gov.al</email>
+                                             <internet>qarkuberat.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Donald</forename>
+                                                       <surname>Molishti</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52460" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52459" slsdocid="51230" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.66" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Dibër County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Elez Isufi, Peshkopi, 8301 Dibër</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(218) 22324</telephone>
+                                             <email>diberregion@gmail.com</email>
+                                             <internet>www.qarkudiber.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valentina</forename>
+                                                       <surname>Haliti</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52462" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52461" slsdocid="51217" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.67" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Durrës County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sheshi Liria, 2000 Durrës</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <address-block>
+                                             <telephone alsofax="N">(52) 23795</telephone>
+                                             <email>info@qarkudurres.gov.al</email>
+                                             <internet>qarkudurres.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alfred</forename>
+                                                       <surname>Mullaraj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52464" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52463" slsdocid="51204" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.68" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <!--MR 23.05.2022 full address not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Elbasan County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga 11 Netori, Sheshi Aqif Pasha, 3001 Elbasan</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(54) 400152</telephone>
+                                             <email>info@qarkuelbasan.gov.al</email>
+                                             <internet>qarkuelbasan.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bukurosh</forename>
+                                                       <surname>Stafa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 22.05.2014 fax no not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52466" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52465" slsdocid="51199" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.69" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Fier County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ramiz Aranitasi 15, 9302 Fier</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(342) 21517</telephone>
+                                             <email>info@bashkiafier.gov.al</email>
+                                             <internet>bashkiafier.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Armando</forename>
+                                                       <surname>Subashi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52468" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52467" slsdocid="51198" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.70" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <!--MR 2.05.2023 23.05.2022 Not sure about role group-->
+                                        <!--sc 0704.2020 role group at https://aer.eu/directory/gjirokaster/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Gjirokastër County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Qafa e Pazarit, Gjirokastër</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(84) 263721</telephone>
+                                             <email>keshilli.qarkutgjirokaster@yahoo.com</email>
+                                             <internet>keshilliqarkutgjirokaster.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Armand</forename>
+                                                       <surname>Hilaj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52469" slsdocid="51197" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.71" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Korçë County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Republika, Lagja 3, 7002 Korçë</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(82) 242009</telephone>
+                                             <email>qarkukorce@gmail.com</email>
+                                             <internet>www.korcaregion.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana</forename>
+                                                       <surname>Verushi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52472" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52471" slsdocid="51196" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.72" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <data-protection date-added="22.06.2016" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Kukës County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sheshi Skënderbej, Lagjia 5, 8501 Kukës</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(242) 22487</telephone>
+                                             <email>info@kqk.gov.al</email>
+                                             <internet>www.kqk.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Abdulla</forename>
+                                                       <surname>Domi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52474" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52473" slsdocid="51195" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.73" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <!--MR 22.05.2023 No recent info about role group-->
+                                        <!--MR 23.05.2022 MR 28.05.2021 Website is not working, only role group confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Lezhë County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sheshi Gjergj Kastrioti, 4501 Lezhë</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(355) 123456</telephone>
+                                             <email>qarkulezhe@gmail.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agron</forename>
+                                                       <surname>Ivani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52476" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52475" slsdocid="51194" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.74" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <!--MR 22.05.2023 MR 23.05.2022 MR 28.05.2021 Ditto, only role group confirmed-->
+                                        <!--MR 01.06.2020 contact details not given on website-->
+                                        <org-entry-head>
+                                             <org-entry-name>Shkodër County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga 28 Nentori 1, 4001 Shkodër</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(22) 42741</telephone>
+                                             <email>qarkushkoder@yahoo.com</email>
+                                             <internet>qarkushkoder.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hilmi</forename>
+                                                       <surname>Lakti</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52477" slsdocid="51193" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.75" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Tiranë (Tirana) County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sheshi Mustafa Qemal Ataturk, 1005 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 22225141</telephone>
+                                             <fax>(4) 223890</fax>
+                                             <email>kryetari@qarkutirane.gov.al</email>
+                                             <internet>www.qarkutirane.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aldrin</forename>
+                                                       <surname>Dalipi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52480" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52479" slsdocid="51192" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.76" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PREFECTURES">
+                                        <org-entry-head>
+                                             <org-entry-name>Vlorë County Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address> Rruga Kosova, Pallati i Kulturës Labëria, kati i 3-të, 9401 Vlorë</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 603334</telephone>
+                                             <email>info@qarkuvlore.gov.al</email>
+                                             <internet>qarkuvlore.gov.al</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair. of Council</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Ervis</forename>
+                                                       <surname>Moçka</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

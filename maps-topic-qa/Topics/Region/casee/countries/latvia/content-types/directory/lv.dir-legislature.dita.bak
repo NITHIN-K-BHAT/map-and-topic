@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62098" sllink="SLSDOCRF" sllinkid="62097" slsdocid="59832" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LV.DIR.53" id-root="lv.dir" iso="lv" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 22.07.2021 headline content checked-->
+                    <heading>Legislature</heading>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7940838" sllink="SLSDOCRF" sllinkid="7940837" slsdocid="7938264" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.1647361781" id-root="lv.dir" iso="lv" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Saeima">
+                                   <dir-entry-name>Parliament (Saeima)</dir-entry-name>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Jēkaba iela 11, Rīga 1811</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">6708-7321</telephone>
+                                        <fax>6708-7100</fax>
+                                        <email>info@saeima.lv</email>
+                                        <internet>www.saeima.lv</internet>
+                                   </address-block>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7940845" sllink="SLSDOCRF" sllinkid="7940844" slsdocid="59809" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.56" id-root="lv.dir" iso="lv" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="SAEIMA">
+                                   <dir-entry-name>Chairman</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Daiga</forename>
+                                                  <surname>Mieriņa</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+                    <table-blockref id="SL7940853" sllink="SLSDOCRF" sllinkid="7940852" slsdocid="60301" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="LV.DIR.58" id-root="lv.dir" iso="lv" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="SAEIMA" type="ELECTION">
+                              <table-heading>General Election, 1 October 2022</table-heading>
+                              <table style="WITH-RULES">
+                                   <tgroup cols="4">
+                                        <colspec colwidth="12cm" />
+                                        <colspec colname="COLSPEC0" colwidth="3.00cm" />
+                                        <colspec colwidth="2.5cm" />
+                                        <colspec colwidth="2.5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Parties/Coalitions</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Jaunā Vienotība (New Unity) alliance</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">173,425</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">18.97</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">26</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Zaļo un Zemnieku Savienība (Greens’ and Farmers’ Union)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">113,676</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">12.44</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">16</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Apvienotais Saraksts (United List)
+                      <endnoteref idref="LV.TABLE-DIR_1.2" ref-symbol="*" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100,631</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">11.01</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">15</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Nacionālā Apvienība (National Alliance)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">84,939</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">9.29</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Stabilitātei! (For Stability!)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">62,168</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.80</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Progresīvie (The Progressives)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">56,327</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.16</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">10</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Latvija Pirmajā Vietā (Latvia First)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">57,033</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.24</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">9</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                       (incl. others)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">903,639</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                              <endnote id="LV.TABLE-DIR_1.2" ref-symbol="*">Mainly comprising Latvijas Zaļā Partija (Latvian Green Party), Latvijas Regionu Apvienība (Latvian Association of Regions) and Liepājās Partija (Liepāja Party).</endnote>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

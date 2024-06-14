@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289518" sllink="SLSDOCRF" sllinkid="289517" slsdocid="287773" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.337" id-root="ba.dir" iso="ba" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 01.04.2022 Headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="BA.DIR.338" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <p>There were 24 banks operating in Bosnia and Herzegovina at December 2022, of which 16 were in the Federation and eight were in Republika Srpska.</p>
+                         <!--TP important source: http://www.cbbh.ba/index.php?There were 24 banks operating in Bosnia and Herzegovina at April 2020, of which 16 were in the Federation and eight were in Republika Srpska.-->
+                         <dir-section id="BA.DIR.340" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL291412" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291411" slsdocid="287984" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.341" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="17.12.2015" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Central Bank of Bosnia and Herzegovina</org-entry-name>
+                                                  <alt-name>Centralna Banka Bosne i Hercegovine</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>71000 Sarajevo, Maršala Tita 25</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 278100</telephone>
+                                                  <fax>(33) 278299</fax>
+                                                  <email>pr@cbbh.ba</email>
+                                                  <internet>www.cbbh.ba</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jasmina</forename>
+                                                            <surname>Selimović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="BA.DIR.342" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Selected Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL744557" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="744556" slsdocid="744458" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.1074683307" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banks">
+                                             <org-entry-head>
+                                                  <org-entry-name>Addiko Bank a.d. Banja Luka</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>78000 Banja Luka, Aleja Svetog Save 13</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(51) 336510</telephone>
+                                                  <fax>(51) 336518</fax>
+                                                  <email>info.rs.ba@addiko.com</email>
+                                                  <internet>www.addiko-rs.ba</internet>
+                                             </address-block>
+                                             <found-date>2002 as Hypo Alpe-Adria-Bank a.d.</found-date>
+                                             <content-note style="NORMAL">name changed as above in 2016</content-note>
+                                             <content-note style="NORMAL">99.9% owned by Addiko Bank AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Srdjan</forename>
+                                                            <surname>Kondić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL744563" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="744562" slsdocid="744515" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.1074684536" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banks">
+                                             <org-entry-head>
+                                                  <org-entry-name>Addiko Bank d.d. Sarajevo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>71000 Sarajevo, trg Solidarnosti 12</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 866666</telephone>
+                                                  <email>info.fbih@addiko.com</email>
+                                                  <internet>www.addiko-fbih.ba</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <content-note style="NORMAL">named as Hypo Alpe-Adria-Bank d.d. in 2001; name changed as above in 2016</content-note>
+                                             <content-note style="NORMAL">subsidiary of Addiko Bank AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jasmin</forename>
+                                                            <surname>Spahić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8357121" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8357120" slsdocid="287969" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.356" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="11.07.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>ASA Banka</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>71000 Sarajevo, trg Međunarodnog Prijateljstva 25, 71000 Sarajevo</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 251632</telephone>
+                                                  <email>info@asabanka.ba</email>
+                                                  <internet>www.asabanka.ba</internet>
+                                             </address-block>
+                                             <found-date>1957</found-date>
+                                             <content-note style="NORMAL">became Investment-Commercial Bank DD Zenica in 1990</content-note>
+                                             <content-note style="NORMAL">ASA Banka Sarajevo d.d. from Dec. 2016</content-note>
+                                             <content-note style="NORMAL">acquired Vakufska Banka in 2021</content-note>
+                                             <content-note style="NORMAL">acquired Sberbank BH d.d. in 2022</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Samir</forename>
+                                                            <surname>Mustafić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5148063" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5148062" slsdocid="302254" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.200305151621" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Intesa Sanpaolo Banka d.d. Bosna i Hercegovina</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        771000 Sarajevo, Obala Kulina bana 9
+                        <sc>a</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 497555</telephone>
+                                                  <fax>(33) 457989</fax>
+                                                  <email>info@intesasanpaolobanka.ba</email>
+                                                  <internet>www.intesasanpaolobanka.ba</internet>
+                                             </address-block>
+                                             <found-date>1972</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2008</content-note>
+                                             <content-note style="NORMAL">94.8% owned by Privredna Banka Zagreb d.d.</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marco</forename>
+                                                            <surname>Trevisan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1903229" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1903228" slsdocid="744541" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.1074685402" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banks">
+                                             <org-entry-head>
+                                                  <org-entry-name>NLB Banka a.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>78000 Banja Luka, Milana Tepića 4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(51) 248588</telephone>
+                                                  <email>helpdesk@nlb-rs.ba</email>
+                                                  <internet>www.nlb-rs.ba</internet>
+                                             </address-block>
+                                             <found-date>1998</found-date>
+                                             <content-note style="NORMAL">named NLB Razvojna Banka a.d. in 2006; name changed as above in 2015</content-note>
+                                             <content-note style="NORMAL">99.9% owned by NLB d.d. (Slovenia)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Goran</forename>
+                                                            <surname>Babić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL291426" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291425" slsdocid="287977" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.349" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Nova Banka a.d. Banja Luka</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        78000 Banja Luka, Kralja Alfonsa XIII 37
+                        <sc>a</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(51) 333300</telephone>
+                                                  <fax>(55) 217256</fax>
+                                                  <email>office@novabanka.com</email>
+                                                  <internet>www.novabanka.com</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">fmrly Nova Banka a.d. Bijeljina</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Siniša</forename>
+                                                            <surname>Adžić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL291436" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291435" slsdocid="287971" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.354" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Raiffeisen Bank d.d. Bosna i Hercegovina</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>71000 Sarajevo, Zmaja od Bosne b.b.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 755010</telephone>
+                                                  <fax>(33) 213851</fax>
+                                                  <email>info.rbbh@raiffeisengroup.ba</email>
+                                                  <internet>www.raiffeisenbank.ba</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2000</content-note>
+                                             <content-note style="NORMAL">99.99% owned by Raiffeisen SEE Region Holding GmbH (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>James</forename>
+                                                            <surname>Stewart</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5148158" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5148157" slsdocid="1640572" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.1150713930" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banks">
+                                             <org-entry-head>
+                                                  <org-entry-name>Sparkasse Bank d.d. Bosna i Hercegovina,Sarajevo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>71000 Sarajevo, Zmaja od Bosne 7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 280300</telephone>
+                                                  <fax>(33) 280230</fax>
+                                                  <email>info@sparkasse.ba</email>
+                                                  <internet>www.sparkasse.ba</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <ownership>100% owned by Steiermärkische Verwaltungssparkasse AG (Austria)</ownership>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Amir</forename>
+                                                            <surname>Softić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1116671" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1116670" slsdocid="287968" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.357" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 24.01.2020 stats not confirmed-->
+                                             <data-protection date-added="30.06.2010" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>UniCredit Bank d.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>88000 Mostar, Kardinala Štepinca b.b.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(36) 312112</telephone>
+                                                  <fax>(36) 356227</fax>
+                                                  <email>info@unicreditgroup.ba</email>
+                                                  <internet>www.unicredit.ba</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">99.3% owned by Zagrebačka Banka d.d. Zagreb (Croatia)</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2008</content-note>
+                                             <role-group>
+                                                  <role>Chief Exec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Amina</forename>
+                                                            <surname>Mahmutović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="BA.DIR.358" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Banking Agencies</heading>
+                              <org-list>
+                                   <org-entryref id="SL291444" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291443" slsdocid="287967" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.359" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banking Agency of the Federation of Bosnia and Herzegovina</org-entry-name>
+                                                  <alt-name>Agencija za Bankarstvo Federacije Bosne i Hercegovine</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        71000 Sarajevo, Zmaja od Bosne 47
+                        <sc>b</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(33) 721400</telephone>
+                                                  <fax>(33) 668811</fax>
+                                                  <email>agencija@fba.ba</email>
+                                                  <internet>www.fba.ba</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jasmin</forename>
+                                                            <surname>Mahmuzić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL291446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291445" slsdocid="287966" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="BA.DIR.360" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banking Agency of Republika Srpska</org-entry-name>
+                                                  <alt-name>Agencija za Bankarstvo Republike Srpske</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>78000 Banja Luka, Vladike Platona 1/A</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(51) 224079</telephone>
+                                                  <fax>(51) 216665</fax>
+                                                  <email>office@abrs.ba</email>
+                                                  <internet>www.abrs.ba</internet>
+                                             </address-block>
+                                             <found-date>1998</found-date>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dejan</forename>
+                                                            <surname>Kusturić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Srđjan</forename>
+                                                            <surname>Šuput</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="BA.DIR.12157747311" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Insurance</heading>
+                         <!--TP Insurance Supervisory Agency of Bosnia and Herzegovina: www.nados.ba; http://www.nados.ba/bos/drustva/index.html-->
+                         <org-list>
+                              <org-entryref id="SL6998776" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6998775" slsdocid="2381699" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1215774883" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--NS 11.12.2017 add, tel/fax, email not confirmed-->
+                                        <!--sc1 24.01.2020 note fax and rle group confirmed at https://seenews.com/companies/company_profile/adriatic-osiguranje-dd-8851-->
+                                        <org-entry-head>
+                                             <org-entry-name>Adriatic Osiguranje d.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, trg Međunarodnog Prijateljstva 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 755450</telephone>
+                                             <email>info@adriatic.ba</email>
+                                             <internet>www.adriatic.ba</internet>
+                                        </address-block>
+                                        <found-date>2007 as Bosna-Sunce Osiguranje d.d. Sarajevo</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2018</content-note>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Pres. of Management Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marina</forename>
+                                                       <surname>Miocić-Hamidović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5148719" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5148718" slsdocid="5148703" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1450159290" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--sc1 24.01.2020 note confirmed at https://seenews.com/companies/company_profile/croatia-osiguranje-dd-612896-->
+                                        <org-entry-head>
+                                             <org-entry-name>Croatia Osiguranje d.d. Bosna i Hercegovina</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>88000 Mostar, Kardinala Stepinca b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(36) 446700</telephone>
+                                             <email>info@crosig.ba</email>
+                                             <internet>crosig.ba</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Damir</forename>
+                                                       <surname>Đogić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2381834" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2381833" slsdocid="2381825" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1215779977" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Drina Osiguranje d.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>75446 Milići, 9 Januar broj 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(56) 741610</telephone>
+                                             <fax>(56) 741608</fax>
+                                             <email>office@drina-osiguranje.com</email>
+                                             <internet>www.drina-osiguranje.com</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">non-life</content-note>
+                                        <role-group>
+                                             <role>Pres. of Management Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rajko</forename>
+                                                       <surname>Dukić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres. of Exec. Bd and Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valentino</forename>
+                                                       <surname>Janković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4368667" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368666" slsdocid="4368645" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1393413868" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Euroherc Osiguranje d.d. Sarajevo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, trg Međunarodnog Prijateljstva 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 755515</telephone>
+                                             <email>euroherc@euroherc.ba</email>
+                                             <internet>www.euroherc.ba</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Damir</forename>
+                                                       <surname>Hadžić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5148834" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5148833" slsdocid="5148823" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1450161707" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--NS 08.12.2017 role group from sec sources-->
+                                        <!--sc1 24.01.2020 website not woring info updated fom https://seenews.com/companies/company_profile/grawe-osiguranje-ad-banja-luka-8251-->
+                                        <org-entry-head>
+                                             <org-entry-name>Grawe Osiguranje a.d. Banja Luka</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, I Krajiškog korpusa 39</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 222960</telephone>
+                                             <fax>(51) 222951</fax>
+                                             <email>office.banjaluka@grawe.at</email>
+                                             <internet>www.grawe.rs.ba</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">owned by Grazer Wechselseitige Versicherung AG (Austria)</content-note>
+                                        <found-date>2001</found-date>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Veselin</forename>
+                                                       <surname>Petković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2381691" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2381690" slsdocid="2381672" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1215774422" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--NS 15.12.2015 in the process of privatization http://www.sarajevoosiguranje.ba/?page_id=822-->
+                                        <!--sc1 24.01.2020 note confirmed at https://seenews.com/companies/company_profile/sarajevo-osiguranje-dd-8362-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sarajevo Osiguranje d.d. Sarajevo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, Maršala Tita 29</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 569600</telephone>
+                                             <fax>(33) 664142</fax>
+                                             <email>info@sarajevoosiguranje.ba</email>
+                                             <internet>www.sarajevoosiguranje.ba</internet>
+                                        </address-block>
+                                        <found-date>1974</found-date>
+                                        <content-note style="NORMAL">45.49% state-owned</content-note>
+                                        <content-note style="NORMAL">life and non-life, insurance and reinsurance</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arif</forename>
+                                                       <surname>Kulić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2381874" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2381873" slsdocid="2381862" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1215780772" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--sc1 24.01.2020 note confirmed at https://seenews.com/companies/company_profile/triglav-osiguranje-dd-9876-->
+                                        <org-entry-head>
+                                             <org-entry-name>Triglav Osiguranje d.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, ul. Dolina 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 252110</telephone>
+                                             <email>info@triglav.ba</email>
+                                             <internet>www.triglav.ba</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">subsidiary of Triglav (Slovenia)</content-note>
+                                        <role-group>
+                                             <role>Chair. of Management</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Edib</forename>
+                                                       <surname>Galijatović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4368614" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368613" slsdocid="4368565" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1393412570" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--MR 04.01.2023 role groups https://www.uniqagroup.com/grp/about-us/uniqa-europe/europe/bosnia-and-herzegovina.en.html -->
+                                        <!--sc1 24.01.2020 role group and fax confirmed at https://seenews.com/companies/company_profile/uniqa-osiguranje-dd-sarajevo-8190-->
+                                        <org-entry-head>
+                                             <org-entry-name>UNIQA Osiguranje d.d. Sarajevo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sarajevo, Obala Kulina Bana 19</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 289000</telephone>
+                                             <email>info.uniqa@uniqa.ba</email>
+                                             <internet>www.uniqa.ba</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <role-group>
+                                             <role>Exec. Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Senada</forename>
+                                                       <surname>Olević</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amela</forename>
+                                                       <surname>Omerašević</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5207069" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5207068" slsdocid="2381883" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1215781139" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--sc1 24.01.2020 He is written as Chairman and CEO in the source https://seenews.com/companies/company_profile/wiener-osiguranje-vienna-insurance-group-ad-412037 note confirmed at the same source-->
+                                        <org-entry-head>
+                                             <org-entry-name>Wiener Osiguranje Vienna Insurance Gropu a.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      78000 Banja Luka, ul. Kninska 1
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 931110</telephone>
+                                             <fax>(51) 219400</fax>
+                                             <email>info@wiener.ba</email>
+                                             <internet>www.wiener.ba</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2014</content-note>
+                                        <content-note style="NORMAL">owned by Vienna Insurance Group (Austria)</content-note>
+                                        <content-note style="NORMAL">non-life and life</content-note>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Borislav</forename>
+                                                       <surname>Doder</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.361" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchanges</heading>
+                         <org-list>
+                              <org-entryref id="SL2381592" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2381591" slsdocid="287964" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.362" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGES">
+                                        <org-entry-head>
+                                             <org-entry-name>Banja Luka Stock Exchange</org-entry-name>
+                                             <alt-name>Banjalučka Berza</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, Petra Kočića b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 326040</telephone>
+                                             <email>office@blberza.com</email>
+                                             <internet>www.blberza.com</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">43.2% owned by Green Blue a.d. Banja Luka (Serbia)</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Davor</forename>
+                                                       <surname>Maksimović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Milan</forename>
+                                                       <surname>Božić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5207198" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5207197" slsdocid="287962" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.363" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sarajevo Stock Exchange</org-entry-name>
+                                             <alt-name>Sarajevska Berza-Burza</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, Đoke Mazalića 4/I</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 251460</telephone>
+                                             <fax>(33) 559460</fax>
+                                             <email>contact@sase.ba</email>
+                                             <internet>www.sase.ba</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tarik</forename>
+                                                       <surname>Kurbegović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

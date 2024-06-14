@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62106" sllink="SLSDOCRF" sllinkid="62105" slsdocid="59837" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LV.DIR.145" id-root="lv.dir" iso="lv" sect-type="judicial" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 22.07.2021 Role groups checked-->
+                    <heading>Judicial System</heading>
+                    <org-list>
+                         <org-entryref id="SL927815" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="927814" slsdocid="927813" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LV.DIR.1083858429" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                        <alt-name>Latvijas Republikas Satversmes Tiesa</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>J. Alunāna iela 1, Rīga 1010</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">6721-0274</telephone>
+                                        <fax>6783-0770</fax>
+                                        <email>tiesa@satv.tiesa.gov.lv</email>
+                                        <internet>www.satv.tiesa.gov.lv</internet>
+                                   </address-block>
+                                   <found-date>1996</found-date>
+                                   <content-note style="NORMAL">com­prises 7 judges, appointed by the Saeima for a term of 10 years</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Aldis</forename>
+                                                  <surname>Lavinš</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL927805" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="927804" slsdocid="60293" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LV.DIR.149" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                        <alt-name>Latvijas Republikas Augstākā Tiesa</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Brīvības bulv. 36, Rīga 1511</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">6702-0350</telephone>
+                                        <email>at@at.gov.lv</email>
+                                        <internet>www.at.gov.lv</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Aigars</forename>
+                                                  <surname>Strupišs</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL927801" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="927800" slsdocid="60291" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LV.DIR.151" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="07.04.2008" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Office of the Prosecutor-General</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Kalpaka bulv. 6, Rīga 1801</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">6704-4400</telephone>
+                                        <fax>6704-4449</fax>
+                                        <email>gen@lrp.gov.lv</email>
+                                        <internet>prokuratura.lv</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Prosecutor-General</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Juris</forename>
+                                                  <surname>Stukāns</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

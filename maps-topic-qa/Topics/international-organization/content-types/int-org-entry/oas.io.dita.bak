@@ -1,0 +1,1841 @@
+<?xml version="1.0"?>
+<int-org-entry id="OAS.IO" id-root="oas.io" iso="oas.io" original-filename="wb02063.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio sacac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Organization of American States</org-entry-name>
+               <abbr>OAS</abbr>
+          </int-org-name-group>
+          <int-org-name-group type="ALT">
+               <org-entry-name>Organización de los Estados Americanos</org-entry-name>
+               <abbr>OEA</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">MAJOR NON-UN ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="sacac">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb edio sacac">Organization of American States</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>17th St and Constitution Ave, NW, Washington, DC 20006, USA</verbatim-address>
+               </address>
+               <telephone alsofax="N">(202) 370-5000</telephone>
+               <fax>(202) 458-3967</fax>
+               <email>ai@oas.org</email>
+               <internet>www.oas.org</internet>
+          </address-block>
+          <p id="OAS.IO.5">
+      The ninth International Conference of American States (held in Bogotá, Colombia, in 1948) adopted the Charter of the Organization of American States, creating a successor to the Commercial Bureau of American Republics, founded in 1890, and the Pan-American Union. The OAS aims, 
+      <i>inter alia,</i>
+       to strengthen the peace and security of the continent; to promote human rights and consolidate representative democracy; to promote, through co-operative action, the economic, social and cultural development of member states; and to confront shared problems such as poverty, terrorism, the trade in illegal drugs, and corruption.
+    </p>
+          <int-org-section id="OAS.IO.92" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <table-block-simple id="OAS.IO.93" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.6cm" />
+                              <colspec colwidth="6.7cm" />
+                              <colspec colname="COLSPEC0" colwidth="6.70cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Antigua and Barbuda</entry>
+                                        <entry style="NO-DOT-LEADER">Dominica</entry>
+                                        <entry style="NO-DOT-LEADER">Panama</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Argentina</entry>
+                                        <entry style="NO-DOT-LEADER">Dominican Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Paraguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bahamas</entry>
+                                        <entry style="NO-DOT-LEADER">Ecuador</entry>
+                                        <entry style="NO-DOT-LEADER">Peru</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Barbados</entry>
+                                        <entry style="NO-DOT-LEADER">El Salvador</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Kitts and Nevis</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belize</entry>
+                                        <entry style="NO-DOT-LEADER">Grenada</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Lucia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bolivia</entry>
+                                        <entry style="NO-DOT-LEADER">Guatemala</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Vincent and the Grenadines</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Brazil</entry>
+                                        <entry style="NO-DOT-LEADER">Guyana</entry>
+                                        <entry style="NO-DOT-LEADER">Suriname</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Canada</entry>
+                                        <entry style="NO-DOT-LEADER">Haiti</entry>
+                                        <entry style="NO-DOT-LEADER">Trinidad and Tobago</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chile</entry>
+                                        <entry style="NO-DOT-LEADER">Honduras</entry>
+                                        <entry style="NO-DOT-LEADER">USA</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Colombia</entry>
+                                        <entry style="NO-DOT-LEADER">Jamaica</entry>
+                                        <entry style="NO-DOT-LEADER">Uruguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Costa Rica</entry>
+                                        <entry style="NO-DOT-LEADER">Mexico</entry>
+                                        <entry style="NO-DOT-LEADER">
+                  Venezuela
+                  <endnoteref idref="OAS.IO.18.2" ref-symbol="†" />
+                                        </entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">
+                  Cuba
+                  <endnoteref idref="OAS.IO.18" ref-symbol="*" />
+                                        </entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <endnote id="OAS.IO.18" ref-symbol="*">Cuba, a founding member, was suspended from OAS activities in 1962. The suspension was revoked by the OAS General Assembly in June 2009, although participation by Cuba in the organization was to be subject to further review.</endnote>
+                    <endnote id="OAS.IO.18.2" ref-symbol="†">In April 2017 the Venezuelan regime headed by Nicolás Maduro Moros initiated a two-year process of withdrawal from the OAS. The OAS, however, denounced Maduro’s regime as illegitimate, and from 2019 until late 2022 recognized an opposition-led interim government. </endnote>
+               </table-block-simple>
+               <p>Note: Nicaragua formally withdrew from the organization in November 2023, having initiated a two-year process in November 2021 following condemnation by the OAS General Assembly of a general election that had been held in the country in that month.</p>
+               <p-group id="OAS.IO.42">
+                    <heading>Permanent Observers</heading>
+                    <p id="OAS.IO.94">Albania, Algeria, Angola, Armenia, Austria, Azerbaijan, Belgium, Benin, Bosnia and Herzegovina, Bulgaria, People’s Republic of China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Equatorial Guinea, Estonia, Finland, France, Georgia, Germany, Ghana, Greece, Holy See, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Kazakhstan, the Republic of Korea, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Morocco, the Netherlands, Nigeria, North Macedonia, Norway, Pakistan, Philippines, Poland, Portugal, Qatar, Romania, Russian Federation, Saudi Arabia, Serbia, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Togo, Tunisia, Türkiye (Turkey), Ukraine, United Kingdom, Vanuatu, Yemen, and the European Union.</p>
+               </p-group>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="OAS.IO.95" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="OAS.IO.96" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>General Assembly</heading>
+               <p id="OAS.IO.43">The Assembly meets annually and may also hold special sessions when convoked by the Permanent Council. As the highest decision-making body of the OAS, it decides general action and policy. The 54th regular session of the Assembly was to be held in Asunción, Paraguay, in June 2024.</p>
+          </int-org-section>
+          <int-org-section id="OAS.IO.97" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Meetings of Consultation of Ministers of Foreign Affairs</heading>
+               <p id="OAS.IO.44">Meetings are convened, at the request of any member state, to consider problems of an urgent nature and of common interest to member states, or to serve as an organ of consultation in cases of armed attack or other threats to international peace and security. The Permanent Council determines whether a meeting should be convened and acts as a provisional organ of consultation until ministers are able to assemble.</p>
+          </int-org-section>
+          <int-org-section id="OAS.IO.98" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Permanent Council</heading>
+               <p>The Council, which meets regularly throughout the year, comprises representatives of each member state with the rank of ambassador. It has a General Committee and Committees on Juridical and Political Affairs, Hemispheric Security, Inter-American Summits Management and Civil Society Participation in OAS Activities, and Administrative and Budgetary Affairs. There are also ad hoc working groups. The Council guides ongoing policies and actions and oversees the maintenance of friendly relations between members. It supervises the work of the OAS and promotes co-operation with a variety of other international bodies, including the United Nations (UN). The chairmanship of the Council rotates on a three-monthly basis.</p>
+          </int-org-section>
+          <int-org-section id="OAS.IO.100" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>General Secretariat</heading>
+               <p id="OAS.IO.50">The General Secretariat performs the duties entrusted to it by the General Assembly, Meetings of Consultation of Ministers of Foreign Affairs and the Councils. The work of the General Secretariat is undertaken by separate Secretariats for Strengthening Democracy; Multidimensional Security; Hemispheric Affairs; Access to Rights and Equity; Legal Affairs; and Administration and Finance; and by the Executive Secretariat for Integral Development.</p>
+               <p usage="edio sacac">There is an Administrative Tribunal, comprising six elected members, to settle staffing disputes. The Washington, DC-based Columbus Memorial Library holds official documentation and publications of the OAS. An OAS School of Governance, also located in Washington, DC, offers technical training and leadership development programmes for public, political and civic officials, and organizes research.</p>
+               <dir-list>
+                    <dir-entry id="OAS.IO.51" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Luis</forename>
+                                        <surname>Almagro Lemes</surname>
+                                   </person-name>
+                                   <person-note>Uruguay</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="OAS.IO.52" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Assistant Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Nestor</forename>
+                                        <surname>Mendez</surname>
+                                   </person-name>
+                                   <person-note>Belize</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+               <!--iii.20 - Almagro and Mendez re-elected to further terms of office-->
+          </int-org-section>
+          <int-org-section id="OAS.IO.99" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Inter-American Council for Integral Development (CIDI)</heading>
+               <p>The Council, established in 1996, aims to promote co-operation among the countries of the region, in order to accelerate economic and social development. The Executive Secretariat for Integral Development provides CIDI with tech­nical and secretarial ser­vices, and co-ordinates a Special Multilateral Fund of CIDI (FEMCIDI). CIDI has three permanent committees, on Partnership for Development Policies; Migration Issues; and Programmes, Budget and Evaluation, and a working group tasked with preparing a draft Inter-American Business Charter. Technical co-operation and training programmes are managed by a subsidiary body of the Council, the Inter-American Agency for Co-operation and Development, which was established in 1999. Inter-American Committees (subsidiary organs of CIDI) cover: Culture; Education; Ports; Science and Technology; Social Development; Sustainable Development; and Tourism.</p>
+               <dir-list>
+                    <dir-entry id="OAS.IO.48" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Secretary</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Kim</forename>
+                                        <surname>Hurtault-Osborne</surname>
+                                   </person-name>
+                                   <person-note>Dominica</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="OAS.IO.99.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Inter-American Juridical Committee (CJI)</heading>
+               <p id="OAS.IO.47.2">
+        The Committee's purposes are to serve as an advisory body to the OAS on juridical matters; to promote the progressive development and codification of international law; and to study juridical problems relating to the integration of the developing countries in the hemisphere, and, in so far as may appear desirable, the possibility of attaining uniformity in legislation. It comprises 11 jurists, nationals of different member states, elected for a period of four years, with the possibility of re-election. In August 2023 the CJI adopted a 
+        <publ-name>Guide to Best Practices in Jurisdictional Cooperation for the Americas</publ-name>
+        .
+      </p>
+               <dir-list>
+                    <dir-entry id="OAS.IO.48.2" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Chairperson</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>George</forename>
+                                        <surname>Bandeira Galindo</surname>
+                                   </person-name>
+                              </person>
+                         </person-group>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>c/o Secretariat for Legal Affairs, 19th St and Constitution Ave, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-0743</telephone>
+                              <email>dil@oas.org</email>
+                              <internet>www.oas.org/en/sla/iajc</internet>
+                         </address-block>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="OAS.IO.54" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Inter-American Commission on Human Rights (IACHR)</heading>
+               <p>The autonomous IACHR, established in 1960, promotes the observance and protection of human rights in member states. It is composed of seven members, elected for four-year terms. The Commission examines and reports on the human rights situation in member countries and considers individual petitions relating to alleged human rights violations by member states. Special Rapporteurs analyse and report on the rights of children; women; migrants; older persons; people with disabilities; indigenous peoples; Afro-descendants and racial discrimination; people deprived of liberty; lesbian, gay, trans, bisexual and intersex persons; prisoners; human rights defenders; economic, social, cultural and environmental rights; memory, truth and justice; and freedom of expression.</p>
+               <dir-list>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>President</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Roberta</forename>
+                                        <surname>Clarke</surname>
+                                   </person-name>
+                                   <person-note>Barbados</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Secretary</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Tania</forename>
+                                        <surname>Reneaum Panszi</surname>
+                                   </person-name>
+                                   <person-note>Colombia</person-note>
+                              </person>
+                         </person-group>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-9000</telephone>
+                              <fax>(202) 458-3650</fax>
+                              <email>cidhoea@oas.org</email>
+                              <internet>www.oas.org/es/cidh</internet>
+                         </address-block>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="OAS.IO.101" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Subsidiary Organs and Agencies</heading>
+               <org-list>
+                    <org-entry id="OAS.IO.84" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <data-protection date-added="29.02.2008" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Committee Against Terrorism</org-entry-name>
+                              <alt-name>Comité Interamericano Contra el Terrorismo—CICTE</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-5449</telephone>
+                              <email>cicte@oas.org</email>
+                              <internet>www.oas.org/en/sms/cicte</internet>
+                         </address-block>
+                         <found-date>1999</found-date>
+                         <content-note style="NORMAL">facilitates the exchange of information via national authorities</content-note>
+                         <content-note style="NORMAL">supports mem. states in drafting counter terrorism legislation; promotes universal adherence to international counter terrorism conventions; supports the strengthening of border co-operation and travel documentation security measures; combats terrorist financing; develops activities for training and crisis management; addresses cyber security, supply chain security, maritime and port security, cargo and container security</content-note>
+                         <content-note style="NORMAL">in Oct. 2023 organized its 9th Cybersecurity Symposium, in a virtual format</content-note>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Alison</forename>
+                                        <surname>Treppel</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OAS.IO.84.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Committee on Natural Disaster Reduction (IACNDR)</org-entry-name>
+                              <alt-name>Comité Interamericano Contra el Terrorismo—CICTE</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <email>cicte@oas.org</email>
+                              <internet>www.oas.org/en/iacndr</internet>
+                         </address-block>
+                         <found-date>1999</found-date>
+                         <content-note style="NORMAL">aims to enhance efforts throughout the region to prevent and mitigate natural disasters, in close collaboration with other orgs</content-note>
+                         <content-note style="NORMAL">areas of activity incl. early warning, rapid response, strengthened rehabilitation and reconstruction</content-note>
+                         <role-group>
+                              <role>Chair.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nestor</forename>
+                                        <surname>Mendez</surname>
+                                   </person-name>
+                                   <person-note>OAS Asst Sec.-Gen.</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OAS.IO.58" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--iv.14 Secretary of the Inter-American Committee on Ports (CIP) appointment pending-->
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Committee on Ports</org-entry-name>
+                              <alt-name>Comisión Interamericana de Puertos—CIP</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-5469</telephone>
+                              <email>cip@oas.org</email>
+                              <internet>portalcip.org</internet>
+                         </address-block>
+                         <found-date>1998</found-date>
+                         <content-note style="NORMAL">serves as the permanent inter-American forum to strengthen co-operation on port-related issues among the member states, with the active participation of the private sector</content-note>
+                         <content-note style="NORMAL">meets every 2 years</content-note>
+                         <content-note style="NORMAL">its Executive Board, which executes policy decisions, meets annually</content-note>
+                         <content-note style="NORMAL">technical advisory groups have been established to advise on logistics and competition (formerly port operations), port security, navigation control, and environmental protection</content-note>
+                         <stats>34 mem. states</stats>
+                         <role-group>
+                              <role>Chief</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jorge</forename>
+                                        <surname>Durán</surname>
+                                   </person-name>
+                                   <person-note>Mexico</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OAS.IO.55" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Court of Human Rights</org-entry-name>
+                              <alt-name>Corte Interamericana de Derechos Humanos</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Avda 10, St 45-47 Los Yoses, San Pedro, San José; Postal 6906-1000, San José, Costa Rica</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(506) 2527-1600</telephone>
+                              <fax>(506) 2280-5074</fax>
+                              <email>corteidh@corteidh.or.cr</email>
+                              <internet>www.corteidh.or.cr</internet>
+                         </address-block>
+                         <found-date>1979 as an autonomous judicial institution whose purpose is to apply and interpret the American Convention on Human Rights (which entered into force in 1978, and is also known as the Pact of San José)</found-date>
+                         <content-note style="NORMAL">comprises 7 jurists from OAS mem. states, elected for 6 year terms</content-note>
+                         <role-group>
+                              <role>Pres.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nancy</forename>
+                                        <surname>Hernández López</surname>
+                                   </person-name>
+                                   <person-note>Costa Rica</person-note>
+                              </person>
+                         </role-group>
+                         <content-note style="NORMAL">
+            publ. 
+            <publ-name>Annual Report</publ-name>
+                         </content-note>
+                    </org-entry>
+                    <org-entry id="OAS.IO.85" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Defense Board</org-entry-name>
+                              <alt-name>Junta Interamericana de Defensa—JID</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>2600 16th St, NW, Washington, DC 20441, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 939-6041</telephone>
+                              <fax>(202) 319-2847</fax>
+                              <email>jid@jid.org</email>
+                              <internet>www.jid.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">promotes co-operative security interests in the Western Hemisphere</content-note>
+                         <content-note style="NORMAL">new statutes adopted in 2006 formally designated the Board as an OAS agency</content-note>
+                         <content-note style="NORMAL">works on issues such as disaster assistance and confidence-building measures directly supporting the hemispheric security goals of the OAS and of regional ministers responsible for defence</content-note>
+                         <content-note style="NORMAL">also provides a senior-level academic programme in security studies for military, national police and civilian leaders at the Inter-American Defense College</content-note>
+                         <role-group>
+                              <role>Dir-Gen.</role>
+                              <person>
+                                   <person-name>
+                                        <title>Lt Gen.</title>
+                                        <forename>Flávio Luiz</forename>
+                                        <surname>de Oliveira Pinto</surname>
+                                   </person-name>
+                                   <person-note>Brazil</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OAS.IO.56" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--GS 22.08.2017 Couldn’t confirm the last publ.-->
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Drug Abuse Control Commission</org-entry-name>
+                              <alt-name>Comisión Interamericana para el Control del Abuso de Drogas—CICAD</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-5069</telephone>
+                              <fax>(202) 458-3658</fax>
+                              <internet>www.cicad.oas.org</internet>
+                         </address-block>
+                         <found-date>1986</found-date>
+                         <content-note style="NORMAL">aims to promote and facilitate multi­lateral co-operation in the control and pre­vention of the trafficking, production and use of illegal drugs, and related crimes</content-note>
+                         <content-note style="NORMAL">reports regularly, through the Multilateral Evaluation Mechanism, on progress against illegal drugs in each mem. state and throughout the region</content-note>
+                         <content-note style="NORMAL">
+            CICAD’s 
+            <publ-name>Report on Drug Use in the Americas 2022</publ-name>
+            , issued in Nov. of that year, and covering the period 2016-20, noted the variations in illegal drug supply across the continent (with most cocaine seizures occurring in South America, most trafficked heroin destined for North America, and synthetic methamphetamine production rising in North America)
+          </content-note>
+                         <stats>mems: 34 countries</stats>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Adam&#160;E.</forename>
+                                        <surname>Namm</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OAS.IO.57" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--rc 14.09.2023 contact form instead of address and contail details-->
+                         <org-entry-head>
+                              <org-entry-name>Inter-American Telecommunication Commission</org-entry-name>
+                              <alt-name>Comisión Interamericana de Telecomunicaciones—CITEL</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 370-4713</telephone>
+                              <fax>(202) 458-6854</fax>
+                              <email>citel@oas.org</email>
+                              <internet>www.citel.oas.org</internet>
+                         </address-block>
+                         <found-date>1993</found-date>
+                         <content-note style="NORMAL">promotes the devt and harmonization of telecommunications in the region, in co-operation with govts and the private sector</content-note>
+                         <content-note style="NORMAL">under its Permanent Executive Committee specialized consultative cttees focus on telecommunication standard­ization and radiocommunication, including broadcasting</content-note>
+                         <content-note style="NORMAL">in June 2016 CITEL, the OAS, ECLAC, academics and private sector experts adopted the 2030 ICT Alliance for the Americas initiative, to be implemented by CITEL, with the aim of expanding connectivity in the region over a 15-year period</content-note>
+                         <content-note style="NORMAL">the CITEL Assembly meets every 4 years (8th: held in a virtual format, in Feb. 2022)</content-note>
+                         <stats>mems: 35 countries; 104 assoc. mems representing private asscns or cos, permanent observers, and international orgs</stats>
+                         <role-group>
+                              <role>Exec. Sec.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Oscar León </forename>
+                                        <surname>Suárez</surname>
+                                   </person-name>
+                                   <person-note>Colombia</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO.OAS.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--rc 23.01.2020 cannot confirm fax-->
+                         <data-protection date-added="06.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Justice Studies Center of the Americas</org-entry-name>
+                              <alt-name>Centro de Estudios de Justicia de las Américas</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>San Pio X 2460, Oficina 608, Providencia, Santiago, Chile</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(9) 56112162</telephone>
+                              <email>info@cejamericas.org</email>
+                              <internet>cejamericas.org</internet>
+                         </address-block>
+                         <found-date>1999</found-date>
+                         <content-note style="NORMAL">aims to support the modern­ization of justice systems in the region</content-note>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nataly</forename>
+                                        <surname>Ponce</surname>
+                                   </person-name>
+                                   <person-note>Peru</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--cejamericas.org/en/contactenos (contact form). v. exec?-->
+                    <org-entry id="OAS.IO.88" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <!--GS 22.08.2017 Could not confirm email ID-->
+                         <org-entry-head>
+                              <org-entry-name>Pan American Development Foundation (PADF)</org-entry-name>
+                              <alt-name>Fundación Panamericana para el Desarrollo</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1889 F St, NW, Washington, DC 20006, USA</verbatim-address>
+                              </address>
+                              <email>connect@padf.org</email>
+                              <internet>www.padf.org</internet>
+                         </address-block>
+                         <found-date>1962</found-date>
+                         <content-note style="NORMAL">aims to promote and facilitate economic and social devt in Latin America and the Caribbean by means of innovative partnerships and integrated involvement of the public and private sectors; extends low-interest credit for small-scale entre­preneurs, vocational training, improved health care, agricultural devt and reafforestation, and strengthening local NGOs</content-note>
+                         <content-note style="NORMAL">provides emergency disaster relief and reconstruction assistance</content-note>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Katie</forename>
+                                        <surname>Taylor</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p>In June 2019 the 49th OAS General Assembly recognized the Network of e-Government Leaders of Latin America and the Caribbean (established in 2003) as the Inter-American Network on Digital Government.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="OAS.IO.102" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <int-org-section id="IO.OAS.HR1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Defending Human Rights</heading>
+               <p>Under the Inter-American Democratic Charter `respect for human rights and fundamental freedoms' is deemed to be an essential element of a democracy. The IACHR and the Inter-American Court of Human Rights are the `pillars’ of a system designed to protect individuals in the Americas who have suffered violations of their rights.</p>
+               <p usage="edio sacac">A key function of the IACHR is to consider petitions from individuals who claim that a state has violated a protected right and that they have been unable to find justice. The Commission brings together the petitioner and the state to explore a `friendly settlement'. If such an outcome is not possible, the Commission may recommend specific measures to be carried out by the state to remedy the violation. If a state does not follow the recommendations the IACHR has the option to publish its report or take the case to the Inter-American Court of Human Rights, as long as the state involved has accepted the Court’s compulsory jurisdiction. The IACHR convenes for six weeks each year.</p>
+               <p usage="sacac">In addition to hearing cases the Court may exercise its advisory jurisdiction to interpret the human rights treaties in effect in the region. The IACHR, for its part, may conduct an on-site visit to a country, at the invitation of its Government, to analyse and report on the human rights situation.</p>
+               <p>The OAS works beyond the inter-American human rights system to promote the rights of vulnerable groups. In June 2016 the 46th General Assembly adopted the American Declaration on the Rights of Indigenous Peoples. The Declaration recognizes the collective organization and multicultural, multilingual character of Indigenous peoples; the self-identification of people who consider themselves indigenous; and the extension of special protection to certain (Amazon-based) groups who are in voluntary isolation from, or initial stages of contact with, the wider world. Since 2018 the second week of August each year has been commemorated by the OAS as Inter-American Week for Indigenous Peoples. OAS sponsored the Seventh Inter-American Week for People of African Descent in the Americas (an annual event) in March 2024, which was focused on the theme `Global Freedom: Emancipate Yourself from Mental Slavery’.</p>
+               <p>
+        The Inter-American Commission of Women, established in 1928 (and known by its Spanish acronym: CIM), has advocated for the integration of a gender perspective throughout the OAS agenda, and in member states has contributed to incorporating women's rights into national legislation and policies. The Inter-American Convention on the Prevention, Punishment and Eradication of Violence against Women, also known as the Convention of Belém do Pará, was adopted by the OAS General Assembly in 1994. Since 2005 parties to the Belém do Pará Convention have participated in a compliance follow-up mechanism. In June 2020 the OAS helped to compile a report titled 
+        <publ-name>Panorama of the legal recognition of gender identity in the Americas,</publ-name>
+         which addressed means of formally recognizing the gender identity of individuals in accordance with their private personal perception of it.
+      </p>
+               <p>The Inter-American Convention against All Forms of Discrimination and Intolerance entered into force in February 2020, and the Inter-American Convention against Racism, Racial Discrimination and Related Forms of Intolerance which entered into effect in November 2017. An Inter-American Convention on Protecting the Human Rights of Older Persons entered into force in January 2017.</p>
+               <p>In October 2020 the OAS Secretary-General announced the appointment of a Special Adviser on the Responsibility to Protect, mandated to consider how the organization may systematically strengthen its capacity to counter mass atrocities or crimes against humanity committed in the region. The Special Adviser issued his first report in September 2022; he recommended the creation of an early-warning mechanism to help to prevent such crimes.</p>
+          </int-org-section>
+          <int-org-section id="IO-OAS.0001" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Strengthening Democracy</heading>
+               <p>
+        OAS supports good governance in its member states through various activities, including electoral observations, crisis prevention missions, political analysis, and programmes to strengthen government institutions and to support a culture of democracy. In September 2001 the member states adopted the Inter-American Democratic Charter, which detailed the essential elements of representative democracy. The 41st General Assembly, held in June 2011, in San Salvador, El Salvador, approved a final Declaration on Citizen Security in the Americas, in accordance with which ministers drafted a related hemispheric plan of action. Since 2010 the OAS, jointly with the International Institute for Democracy and Electoral Assistance and Mexican partners, has convened regular Latin American Democracy Forum sessions; the ninth was organized in April 2019, in Mexico City, Mexico, on the theme `Challenges of Politics and Democracy in the Digital Era’. The OAS General Secretariat has supported the Latin American Open Data Initiative (known as ILDA), which promotes the development of national open data policies and strategies in the region. (It was reported in mid-2019 that 58% of OAS member states did not have open data regulations in place.) In 2020 ILDA initiated a regional Open Data Barometer, addressing governments’ publication and use of data. In 2024 the Initiative was undertaking projects relating, 
+        <i>inter alia,</i>
+         to community, gender and inclusion, developing technologies, and transparency and governance. In June 2022 the OAS established a Center for Media Integrity of the Americas, which aimed to promote independent high-quality journalism and social media on the continent.
+      </p>
+               <p>The OAS aims to combat corruption in recognition of the undermining effect this has on democratic institutions. In 1996 the OAS member states adopted the Inter-American Convention against Corruption, which entered into force in 1997, and had by 2024 been ratified or acceded to by all 34 member states. The Follow-Up Mechanism for the Implementation of the Inter-American Convention against Corruption (MESICIC) assesses progress, including through liaison with civil society representatives, and recommends concrete measures that the 34 participating states parties can implement to improve compliance with the treaty’s key provisions. In 2024 MESICIC was conducting a sixth round of member country evaluations. The OAS has also held seminars and training sessions in the region on matters such as improving transparency in government and drafting model anti-corruption legislation. The 2018 Summit of the Americas, held in Lima, Peru, adopted the Lima Commitment on Democratic Governance Against Corruption.</p>
+               <p>Civil society organizations (CSOs) are encouraged to participate in workshops and roundtables in advance of the OAS General Assembly, to prepare proposals and recommendations to present to the member states. This is also the case with the Summits of the Americas and the periodic ministerial meetings, such as those on education, labour, culture, and science and technology. By 2024 some 465 CSOs were registered with the OAS, and approximately 600 co-operation agreements had been concluded with civil society entities.</p>
+               <p>The observation of elections is given high priority by the OAS. Depending on the specific situation and the particular needs of each country, electoral observation missions (EOMs) vary from a few technical experts sent for a limited time to a large country-wide team of monitors dispatched to observe the full electoral process for an extended period commencing with the political parties' campaigns. The EOMs present their observations to the OAS Permanent Council, along with recommendations for how each country's electoral process might be strengthened. An Inter-American Meeting of Electoral Authorities has been convened periodically since 2003.</p>
+               <p usage="edio">In October 2012 the Permanent Council approved a resolution to designate 4 February as OAS Electoral Observation Day, to commemorate 50 years since the first mission was dispatched.</p>
+               <p>In the first three months of 2024 OAS EOMs monitored a general election in El Salvador, and municipal elections in Costa Rica and the Dominican Republic (in February); and municipal elections in El Salvador (in March).</p>
+               <p usage="edio">
+        The OAS General Secretariat issued a 
+        <publ-name>Guide to Organizing Elections in Times of Pandemic</publ-name>
+         in July 2020. Missions deployed from the onset of the pandemic conducted part of their work through remote videoconferenced engagement, as a preventive measure against COVID-19 transmission.
+      </p>
+               <p>The OAS has responded to political crises in member states, including in some cases by sending special missions to provide critical support to the democratic process.</p>
+               <p-group>
+                    <heading usage="sacac edio">Brazil</heading>
+                    <p usage="sacac edio">On 11 January 2023 a special meeting of the OAS Permanent Council was organized to discuss recent so-called anti-democratic acts in Brazil. The Council condemned the co-ordinated mass attack that had been perpetrated on 8 January against the three branches of Brazil’s Government—the national legislature, presidential palace and supreme court—by supporters of former President Jair Bolsonaro, who had recently been succeeded by President Luiz Inácio Lula da Silva. (Lula had been elected to the role in October 2022 and inaugurated on 1 January 2023.)</p>
+               </p-group>
+               <p-group>
+                    <heading>Colombia</heading>
+                    <p>
+          In February 2004 the Permanent Council authorized the establishment of an OAS Mission to Support the Peace Process in Colombia (MAPP). In September 2016, following the adoption of a Government-Fuerzas Armadas Revolucionarias de Colombia-Ejército del Pueblo (FARC-EP) peace accord, MAPP’s mandate was expanded to monitor challenges and threats to peace in post-conflict Colombia and the mission was tasked with continuing to work towards establishing favourable conditions for building peace. MAPP’s mandate was extended in October 2021 until December 2024. In June 2022 the IACHR warned that human rights defenders, social leaders, and minorities (including Indigenous and Afro-Caribbean populations) in Colombia faced `structural violence’, noting allegations that firearms had been used indiscriminately by security forces (some of whom were reportedly not fully identified as such) against protesters and onlookers during mass gatherings, particularly in Cali and parts of Valle del Cauca, and in Pereira (Risaralda). In early 2023 MAPP was invited by the Colombian Government to participate in a proposed ceasefire monitoring and verification initiative. In June MAPP reported on initial impacts of the policy of `Total Peace’ initiated by Colombian President Gustavo Petro (who had taken office in August 2022). A report issued by MAPP in November 2023 made a series of recommendations to the Colombian authorities concerning, 
+          <i>inter alia,</i>
+           humanitarian demining, talks with illegal armed groups, and dismantling armed groups. At March 2024 MAPP was operating through 18 regional offices across Colombia (particularly in remote rural areas).
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Ecuador</heading>
+                    <p>In May 2023, in response to the initiation of an impeachment process against President Guillermo Lasso of Ecuador (who was accused of financial impropriety), the OAS General Secretariat emphasized the need to incorporate guarantees of justice and respect for the rules of due process into the proceedings. Subsequently Lasso dissolved the national legislature, prompting a general election that took place (observed by an OAS EOM) in August. An OAS EOM also monitored a run-off poll held in October at which Daniel Noboa was elected to the presidency. Violent unrest perpetrated by organized criminal groups escalated in Ecuador in early 2024. In early March the OAS and the Consorcio de Gobiernos Autónomos Provinciales del Ecuador (CONGOPE—comprising decentralized authorities) concluded a co-operation agreement focused on strengthening local governance and citizen participation.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio sacac">El Salvador</heading>
+                    <p usage="edio sacac">In September 2019 the OAS General Secretariat and Government of El Salvador established an autonomous International Commission against Impunity in El Salvador (known by the acronym CICIES), tasked with strengthening the capacity of El Salvador’s institutions and assisting them in investigating and bringing to accountability acts of corruption and related crimes. In March 2021 the CICIES released a series of proposals for legal reforms and recommendations for institutional strengthening. In June the OAS General Secretariat stated deep regret at an announcement by El Salvador’s Ministry of Foreign Affairs which—accusing the OAS General Secretariat of attempting to appoint an allegedly corrupt former El Salvadorian official to an advisory role—revoked and withdrew from the CICIES.</p>
+               </p-group>
+               <p-group>
+                    <heading>Guatemala</heading>
+                    <p>Following the first round of the 2023 Guatemalan presidential poll, held in June, parties opposed to the candidacy of challenger Bernardo Arévalo, alleging electoral fraud, applied unsuccessfully to the Constitutional Court to invalidate the results. The OAS General Secretariat protested the `instrumentation of justice’ to challenge the democratic electoral process, urging respect for a separation of powers and for the autonomy of the national electoral authority. The second round, held in August, was won emphatically by Arévalo. In that month the OAS EOM to Guatemala released a report that noted interventions by actors seeking to `ignore, delay, or reverse’ the election outcome; to intimidate electoral bodies and technical staff; and to generate uncertainty in the public domain, thereby undermining the democratic process. The EOM stated deep concern in September over a raid by the office of Guatemala’s Public Prosecutor against the national repository of electoral material. In early December the OAS General Secretariat condemned, as a coup attempt, actions and statements of the office of the Public Prosecutor to Public Prosecutor's Office of Guatemala that were deemed to constitute `an alteration of the country's constitutional order, a breach of the rule of law and a violation of the human rights of the population of their country’; the EOM stated that it was rejecting a further attempt by the Public Prosecutor to annul the elections.</p>
+               </p-group>
+               <p-group>
+                    <heading>Haiti</heading>
+                    <p usage="edio sacac">The OAS Secretary-General participates—with the Special Representative of the UN Secretary-General on Haiti and representatives of Brazil, Canada, the EU, France, Germany, Spain and the USA—in the international Core Group on Haiti. In late May 2019 the Core Group stated deep concern at the political, economic, social and security situation in that country, and called for a national debate to be held with the aim of initiating a reform agenda. Legislative elections that were initially to have been held in Haiti in October 2019 were postponed. From late 2019 opposition unrest escalated and demands intensified for the resignation of President Jovenel Moïse—whose rule was conducted by decree from January 2020, at which time the national legislature was dissolved. In September 2020 President Moïse issued a decree that installed all nine members of the Provisional Electoral Council (the previous membership having resigned in July). In March 2021 the Permanent Council established an OAS Good Offices Mission to facilitate a dialogue between all political stakeholders in Haiti and to help to ensure free and fair polling in legislative and presidential elections that were scheduled to take place later in that year. The Council recognized that the security situation in Haiti had become increasingly fragile, exacerbated by the humanitarian crisis resulting from COVID-19. Anti-government violence was widespread, in particular resulting from the intention of President Moïse to hold a constitutional referendum. The OAS Good Offices Mission visited the Haitian capital, Port-au-Prince, in early June. On 7 July a special virtual meeting of the OAS Permanent Council vehemently condemned the assassination of President Moïse—perpetrated earlier in that day by armed attackers at his private residence in Pétion-Ville, Port-au-Prince. The Permanent Council emphasized its support for Haiti’s democratic institutions and for dialogue between all national stakeholders. On 20 July Ariel Henry was inaugurated as acting President and acting Prime Minister. At the end of September he dismissed members of the Provisional Electoral Council, thus postponing the national polls that had been scheduled to be held in early November.</p>
+                    <p usage="edio sacac">An OAS Anti-Corruption Project in Haiti (OAS RILCH), funded by Italy and Switzerland, aims to strengthen state institutions in Haiti. In April 2022 a Memorandum of Understanding was concluded between OAS RILCH and the School of the Judiciary of Haiti, to guide future co-operation.</p>
+                    <p>
+          In August 2022 the OAS General Secretariat issued a statement that reiterated previous calls for an end to armed violence in Haiti. The 52nd meeting of the OAS General Assembly, held in October, resolved, 
+          <i>inter alia,</i>
+           to request the OAS Secretariat and membership to offer direct support to the Haitian Government to combat firearms trafficking, to strengthen the capacity of the Haitian National Police (HNP) and judicial system, to enhance the training of port security staff, and to support the Haitian Government’s ongoing Integrated Recovery Plan for the Southern Peninsula (focused on the reconstruction of earthquake-affected infrastructure), as well as to re-establish a mechanism for regular meetings to follow up the work of the OAS Good Offices Mission to Haiti. An agreement on a National Consensus for an Inclusive Transition and Transparent Elections, signed in December by acting President and Prime Minister Ariel Henry and by opposition and civil society representatives, provided for a 14-month transition that was to include general elections, the inauguration of a newly elected government, and for the establishment of several transitional bodies. In February 2023 the Permanent Council established an OAS Working Group on Haiti. In the following month the General Secretariat convened a Dialogue on Security, Humanitarian, Electoral and Democracy Assistance in Haiti, with participation by representatives of the Haitian Government, the High-Level Transition Council of Haiti, OAS member states and permanent observers and other principal stakeholders.
+        </p>
+                    <p>At the beginning of October 2023, at Haiti’s request, the UN Security Council authorized a new mission—the Multinational Security Support (MSS)—that was tasked with supporting the efforts of the Haiti National Police to quell the ongoing gang violence; the deployment of the MSS was, however, subsequently delayed. Eventually, on 1 March 2024, Kenya formally agreed to supply 1,000 officers to the mission. Shortly afterwards Haiti spiralled further into gang-led anarchy: the OAS General Secretariat stated deep concern, while reaffirming the continuing commitment of the organization to addressing the country’s challenges, including democratic instability, food and health insecurity, corruption, unemployment, illiteracy, and the `perpetual violence’ of criminal elements. On 11 March gang elements (which by then had control of around 80% of Port-au-Prince) forced the resignation of Ariel Henry.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="sacac">Honduras</heading>
+                    <p usage="sacac">In January 2016, at the request of the Honduran Government, an OAS Mission to Support the Fight against Corruption and Impunity in Honduras was established. The Mission—known by its Spanish acronym: MACCIH—comprised prosecutors, judges and other legal experts, and had four areas of focus: preventing and combating corruption; reform of the criminal justice system; political-electoral reform; and public security. MACCIH was terminated in mid-January 2020, on the initiative of the Honduran authorities.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="sacac">Nicaragua</heading>
+                    <p usage="sacac">In May 2018 the IACHR undertook a working visit to Nicaragua to observe the human rights situation in that country since the start of anti-government demonstrations in April and violent retaliation by the security forces. Later in that month the IACHR reported that at least 76 people had been killed and 800 injured during the unrest thus far. In June the OAS General Assembly adopted a Declaration of Support for the People of Nicaragua. IACHR established a Special Monitoring Mechanism for Nicaragua (Mecanismo Especial de Seguimiento para Nicaragua—MESENI) in that month, with a mandate to monitor the human rights situation in that country. A complementary Interdisciplinary Group of Independent Experts (GIEI) for Nicaragua was also formed by the IACHR at that time; this was to support ongoing investigations into the violence, and was deployed to Managua, the Nicaraguan capital, from 1 July. In mid-July a special gathering of the OAS Permanent Council was convened to address the continuing crisis in Nicaragua, which had by that time reportedly resulted in the deaths of several hundred opposition protesters. The Council requested the Nicaraguan Government to support an electoral calendar agreed by an ongoing National Dialogue process; it also condemned harassment of Roman Catholic bishops engaged in the National Dialogue, as well as ongoing acts of violence. In August the Permanent Council endorsed the establishment of a Working Group on Nicaragua, mandated to address peaceful and sustainable solutions to the situation; the inaugural meeting of the Working Group was held in September. In mid-December the OAS General Secretariat strongly denounced a recent decision by the Nicaraguan Government to expel the OAS and UN human rights presences from the country. Soon afterwards the Working Group on Nicaragua also condemned, and strongly urged the Nicaraguan authorities to reconsider, the decision to suspend the presence of the MESENI and IACHR visits to Nicaragua, and the abrupt termination of the GIEI. In February 2019 a delegation of the OAS General Secretariat visited Nicaragua, at the invitation of that country’s Government, to participate in exploratory talks. A Special Envoy to Nicaragua was appointed in the following month. In May the OAS Permanent Council adopted a resolution that reiterated concern over the deterioration of democratic institutions and human rights in Nicaragua, as well as support for a peaceful resolution of the ongoing political crisis there. In June the OAS Assembly approved the establishment of an OAS High Level Commission on Nicaragua, with a mandate to pursue a negotiated settlement to the crisis. However, the Nicaraguan authorities subsequently denied the Commission entry into the country. The Commission and Nicaraguan stakeholders met in El Salvador in October, and the Commission recorded a series of complaints and testimonies. It presented a report of its findings to the OAS Permanent Council in the following month. In December 2020 the OAS General Secretariat stated deep concern over the enactment of a Nicaraguan Law for the Defence of the Rights of the People to Independence, Sovereignty and Self-Determination for Peace, stating that this sought to restrict political competition. In May 2021 the OAS Secretary-General expressed his concern at the prospect for free and fair elections, scheduled to be held in November, following the recent approval of electoral reforms and the appointment of government-backed magistrates to the Supreme Electoral Council. In the following month the OAS Permanent Council stated alarm at the deterioration of the political climate and human rights situation in Nicaragua—including harassment, arbitrary arrests and restrictions targeted at opposition candidates and independent media professionals—and called for guarantees to ensure that the planned elections would be held freely and fairly. Following the elections, conducted in early November, the OAS General Assembly declared that they had `no democratic legitimacy’, in view of the suppression of opposition electoral candidates and media, and lack of transparency in voting procedures. The Nicaraguan authorities subsequently submitted notice of withdrawal from the organization, a process that was to take effect in two years. In early December a special meeting of the Permanent Council urged Nicaragua to comply with its commitments under the Inter-American Democratic Charter and to receive an OAS high-level mission to help to secure electoral reforms and political freedoms.</p>
+                    <p usage="sacac">In March 2022, in a videographed message to the OAS Permanent Council, the Nicaraguan ambassador to the organization resigned his post and denounced the regime of President Daniel Ortega, accusing it of repressing opposition and human rights. In late April the General Secretariat denounced the occupation by the Nicaraguan authorities of the OAS offices in Managua, undertaken as the Nicaraguan Government unilaterally declared that it had completed its withdrawal from the organization. In August the OAS Permanent Council stated deep concern over a worsening climate of oppression in Nicaragua, characterized by mounting arbitrary arrests and detentions, the seizure of mayoral offices in several opposition-held municipalities, the forced closure of non-governmental organizations, repression of media freedom, and continuing attacks on Roman Catholic religious representatives. The Council called upon the Nicaraguan authorities immediately to release all political prisoners and to guarantee freedom of expression. In October the 52nd OAS General Assembly invited the organization’s member states to establish a high-level commission mandated to support dialogue on all relevant issues. The OAS General Secretariat welcomed the arrival in the USA in February 2023 as refugees of 222 former Nicaraguan political prisoners. Nicaragua’s withdrawal from the organization took effect in November.</p>
+               </p-group>
+               <p-group>
+                    <heading>Peru</heading>
+                    <p>
+          In October 2022, at the request of the Peruvian Government, the Permanent Council established a High-level Group to analyse the political situation in Peru. At the beginning of December, following a visit to that country in November, the High-level Group issued a preliminary report, which noted several risk factors, including democratic instability (characterized by, 
+          <i>inter alia,</i>
+           highly fragmented political forces, lack of dialogue between principal political players, numerous cabinet reshuffles, and criminal investigations initiated against President Pedro Castillo and others); a highly polarized national environment; confrontation between political bodies; excessive use of political control mechanisms; queries about the role of the media; a state of social crisis; and racism and discrimination. The Group recommended putting in place a political truce; convening a formal free dialogue process; focusing on constitutional justice; ensuring full respect for human rights; and exercising freedom of expression and of the media in a constructive manner. A meeting of the OAS Permanent Council was to have been convened on 8 December to consider the report. However, on 7 December President Castillo (apparently in an attempt to pre-empt impeachment proceedings against him) unexpectedly declared a national state of emergency, and decreed the temporary dissolution of the national legislature and its replacement by an `exceptional emergency government’. These actions were not accepted by the national constitutional court, military or legislature; the latter voted to impeach Castillo (who was detained), and inaugurated the hitherto Deputy President, Dina Boluarte, as the new President. The OAS Permanent Council subsequently declared its support for Boluarte and her commitment to restoring national unity and democracy. Significant national protests took place, including a mass mobilization organized by Indigenous supporters of Castillo. In May 2023 the IACHR released a report into the unrest, condemning the disproportionate and indiscriminate use of force by state security officers.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>USA</heading>
+                    <p usage="ewyb edio">An OAS observer mission was dispatched, at the invitation of the US Department of State, to monitor the presidential election held in the USA in November 2020. The mission’s preliminary report noted that the election was highly competitive and the most expensive and litigated to date; it observed that, on the election night, media organizations had not been able to provide a strong projection of the final result, owing to a great disparity in the tabulation of results across the country, and that both presidential candidates issued conflicting statements regarding the counting of votes (with the incumbent President Trump denouncing the electoral process as fraudulent). Recommendations of the mission included establishing ample and ideally uniform deadlines for the implementation of the postal voting process; the replacement, in certain states, of outdated vote counting machines with ones that would provide a voter-verifiable paper record; promoting the establishment of independent electoral bodies across all states; enhancing the training of electoral workers; enacting stronger legislation on the disclosure of political finance, to enhance the transparency and equity of the electoral process; deterring malicious election-related use of SMS messaging; and promoting more female participation in the electoral process.</p>
+                    <p>On 6 January 2021 the OAS General Secretariat issued a statement that strongly repudiated and condemned the violent invasion that day of the US Capitol in Washington, DC, by rioters who were protesting the outcome of the November 2020 US presidential election, and were attempting to disrupt the formal count (by a joint session of the US Congress) of the Electoral College votes. The OAS urged a return to `rationality’, noting that the use of force and vandalism against state institutions represented an assault on democratic functioning.</p>
+               </p-group>
+               <p-group>
+                    <heading>Venezuela</heading>
+                    <p>
+          In May 2016, following the imposition of a national state of emergency in Venezuela, relations between the OAS and the Venezuelan regime of President Nicolás Maduro Moros became extremely strained. At the beginning of June the OAS Permanent Council endorsed an initiative to restart an effective dialogue between the Venezuelan author­ities and opposition, and offered OAS support in resolving the political crisis in that country. In April 2017 the OAS Permanent Council resolved to urge the Venezuelan authorities to take action to restore full constitutional authority to the National Assembly and to support measures facilitating a return to democratic order. During that month the Venezuelan Government initiated the process of withdrawing from the OAS. The election to the new National Constituent Assembly took place as planned in late July, and was declared `absolutely void’ by the OAS Secretary-General. In that month the Secretary-General appointed Luís Moreno Ocampo, the Argentine former 
+          <xr pageref="N" ref="INTCC.IO">International Criminal Court</xr>
+           (ICC) Prosecutor, as his Special Adviser on Crimes against Humanity. Ocampo was initially tasked with addressing the ongoing situation in Venezuela. During September the OAS Secretary-General appointed an independent panel of experts to assess whether the situation in Venezuela should be addressed by the 
+          <xr pageref="N" ref="INTCC.IO">ICC</xr>
+          . (In February 2018 the ICC initiated a Preliminary Examination into crimes allegedly committed in Venezuela since at least April 2017; the ICC Prosecutor determined in November 2021 to proceed with a full investigation.)
+        </p>
+                    <p>During February 2018 an extraordinary meeting of the Permanent Council approved a resolution urging Venezuela to postpone a recently-announced presidential election, then scheduled for April. In late March the IACHR condemned and urged an investigation into an incident at the regional police headquarters in Carabobo, Venezuela, in which a fire had reportedly caused at least 68 fatalities (mainly of detainees), and a subsequent gathering of concerned family members had allegedly been dispersed by tear gas. The Commission noted that the Venezuelan prison system was in crisis, citing an excessive use of pre-trial detention, severe overcrowding, deplorable conditions, endemic violence, and official corruption. In May the OAS Secretary-General condemned the recent presidential election as illegitimate, and described Maduro’s rule of Venezuela as a `dictatorship’. </p>
+                    <!--From 2017 the OAS observed meetings of the Lima Group-->
+                    <p>
+          In early 2019 a special meeting of the Permanent Council voted not to recognize the legitimacy of Maduro’s new term in office, commencing 10 January. The Council reiterated deep concern over the deteriorating political, economic, social and humanitarian crisis in Venezuela, while emphasizing the consequent exodus from the country of large numbers of Venezuelans and its impact on other countries in the region. The resolution strongly condemned continuing arbitrary detentions of Venezuelan opposition members. Member states were encouraged to adopt diplomatic, economic, financial and political measures to advance 
+          
+          the restoration of democratic order in that country. In late January a declaration by Juan Guaidó Márquez, President of the Venezuelan National Assembly, that he had assumed the role of interim President of Venezuela was welcomed by the OAS Secretary-General; 
+          <i>inter alia</i>
+          , the USA and the European Parliament also declared support for Guaidó. In mid-March the OAS General Secretariat issued a statement condemning the blockade of humanitarian aid by the Maduro regime in Venezuela, as well as violence allegedly perpetrated by forces associated with that regime against Venezuelan demonstrators at the Venezuela-Colombia border and against Indigenous people. Later in that month the Permanent Council adopted a resolution that urged member states, permanent observers, and relevant international agencies to continue to provide support to alleviate the ongoing humanitarian crisis in Venezuela, and demanded that Venezuelan public institutions refrain from obstructing the entry of humanitarian aid into the country. In April a special session of the Permanent Council recognized the designated envoy of Guaidó as the official representative of Venezuela’s National Assembly, pending new democratic elections. In September the Permanent Council approved a resolution in which it strongly condemned continuing grave and systematic violations of human rights in Venezuela, including illegal and arbitrary detentions, torture, extrajudicial executions, forced disappearances and the denial of basic rights and necessities. Shortly afterwards 12 states parties to the Inter-American Treaty of Reciprocal Assistance (q.v.) in the Permanent Council decided to convene the Organ of Consultation of the Treaty, during the second half of September, to address the situation in Venezuela. This represented the first convocation of the Organ since the occasion of the September 2001 major terrorist attacks against the USA. In early January 2020 the OAS General Secretariat condemned a move by the Maduro regime to remove Guaidó from his role as National Assembly President and to recognize a rival head of the legislature. The General Secretariat stated that it found that, during a recent electoral process, Guaidó had been returned as President of the National Assembly in accordance with the law, and it welcomed his continuation in that role, and thus also (in its view) as Venezuela’s legitimate interim national President. 
+        </p>
+                    <p>In December 2020 the OAS issued a report which found that there were reasonable grounds to believe that the Maduro regime had been responsible for committing crimes against humanity in Venezuela since February 2014, including 18,093 extrajudicial executions and 15,501 incidents of severe deprivation of liberty. A dialogue between the opposition (led by Guaidó) and Maduro regime was initiated in August 2021. At the end of that month opposition parties announced that, with a view to resolving the political stalemate, they would participate in forthcoming regional and municipal elections (held in November, at which Maduro’s Partido Socialista Unido de Venezuela, and allied parties, won a majority of votes). In December 2022 opposition politicians voted by 72 to 29 (with eight abstentions) to dissolve the Guaidó-led interim government; this was effected on 5 January 2023. In February the OAS General Secretariat hosted the launch of a report by the Centro de Estudios para América Latina on the human rights situation in Venezuela. In June the General Secretariat issued a statement that condemned a ban on holding public office that had been imposed by the Venezuelan authorities against the opposition politician María Corina Machado Parisca.</p>
+                    <p usage="edio sacac">In August 2023 the OAS General Secretariat jointly hosted, from Buenos Aires, Argentina, the second Regional Forum of Women Leaders of the Venezuelan Diaspora.</p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="IO-OAS.0031" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Multidimensional Security</heading>
+               <p>
+        The promotion of hemispheric security is a fundamental purpose of the OAS. The Inter-American Treaty of Reciprocal Assistance was adopted by member states in September 1947 and entered into force in December 1948. In October 2003, at a Special Conference on Security convened in Mexico City, the member states adopted a Declaration on Security in the Americas, which established a multidimensional approach that recognized a range of security threats, such as international terrorism, conflict, drug trafficking, illegal arms dealing, human trafficking, institutional corruption, organized crime, cyber attacks, extreme poverty and social exclusion, natural and man-made disasters, environmental degradation, disease, and hazardous materials. The OAS maintains a Hemispheric Security Observatory, which includes a data repository on,
+        <i> inter alia</i>
+        , homicide, other serious crimes, and the criminal justice and prison systems.
+      </p>
+               <p>The Inter-American Defense Board (IADB), which was formally designated as an OAS agency in March 2006, provides technical and educational advice and consultancy services to the OAS and its member states on military and defence matters. A Conference of Defence Ministers of the Americas (CDMA) is convened every two years.</p>
+               <p>The Inter-American Convention against Terrorism, aimed at preventing the financing of terrorist activities, strengthening border controls, and increasing co-operation among law enforcement authorities in different countries, entered into force in July 2003. The Inter-American Committee against Terrorism (CICTE) offers technical assistance and specialized training in key counter terrorism areas including port security; airport security; customs and border security; and legislation and legal assistance. Through the CICTE member countries have also improved co-operation in improving the quality of identification and travel documents, strengthening cybersecurity and adopting financial controls to prevent money laundering and the funding of terrorist activities. It was announced in early October 2019 that an Inter-American Network on Counterterrorism was to be established, within the CICTE framework, as a means of strengthening relevant co-operation and information exchange between states. Later in that month the seventh meeting of ministers responsible for public security in the Americas (`MISPA VII’), was convened, in Quito, Ecuador (the first such meeting having been held in October 2008). In June 2019 the 49th OAS Assembly designated 3 June as the annual Inter-American Day against Terrorism.</p>
+               <p>
+        The OAS Working Group on Cybercrime of the Meetings of Ministers of Justice, or Other Ministers, or Attorneys General of the Americas holds meetings twice a year. An OAS Observatory of Cybersecurity in Latin America and the Caribbean measures member states’ progress in strengthening cybersecurity through policy and strategy, legal frameworks, technology, and other criteria (such as online privacy standards). A joint OAS-Inter-American Development Bank report, 
+        <i>Cybersecurity: Risks, Progress and the Way Forward in Latin America and the Caribbean,</i>
+         was issued in July 2020. A Cybersecurity Innovations Councils (CICs) initiative was launched in 2020 by OAS and the digital communications company Cisco Systems Inc., to strengthen the regional cybersecurity infrastructure. In February 2023 OAS helped to organize a Regional Meeting of the Cybersecurity Innovations Councils, in Washington, DC, at which it was decided that a new innovation laboratory would be established, a course on governance and artificial intelligence conducted, and an applied research workshop organized within the CICs framework. The ninth annual `Cybersecurity Summer Boot Camp’ was to be organized in July 2024 by the OAS and Spain.
+      </p>
+               <p>The Inter-American Drug Abuse Control Commission (CICAD) seeks to reduce the supply of and demand for illegal drugs, within the framework of a Hemispheric Drugs Strategy and supporting Plan of Action that cover the period 2021-25. The CICAD Executive Secretariat implements programmes aimed at preventing and treating substance abuse; reducing the supply and availability of illicit drugs; strengthening national drug control institutions; improving practices to control firearms and money laundering; developing alternate sources of income for growers of coca, poppy and marijuana; and helping member governments to improve the gathering and analysis of data. An Inter-American Observatory on Drugs has been maintained by CICAD since 2000. The Multilateral Evaluation Mechanism (MEM) measures drug control progress in member states and the hemisphere as a whole, based on a series of objective indicators. Thematic national evaluation reports relating to its eighth round of evaluations were released in December 2022.</p>
+               <p>In 1997 the member states adopted the Inter-American Convention against the Illicit Manufacturing of and Trafficking in Firearms, Ammunition, Explosives, and other Related Materials (known as CIFTA), which by 2024 had been ratified by 31 member states. These countries have strengthened co-operation and information sharing on CIFTA-related issues. In November 2002 an Inter-American Convention on Transparency in Conventional Weapons Acquisition entered into force; it had been ratified by 17 members by 2024.</p>
+               <p>The OAS, the Inter-American Development Bank and the Organisation for Economic Co-operation and Development jointly implement the Continuous Reporting System on International Migration in the Americas (SICREMI), which aims rigorously to monitor international migration movements and key policies and programmes being implemented in the region; the fourth SICREMI report was released in December 2017. In December 2016 the Permanent Council adopted a declaration on `Inter-American Co-operation to Address the Challenges and Opportunities of Migration’, in which manifestations of intolerance against migrants were condemned, and commitments were made to combat people smuggling and trafficking in the region, and to address the causes of irregular migration.</p>
+               <p>
+        In July 2016 the OAS and 
+        <xr pageref="N" ref="IO-UN.1443">UNHCR</xr>
+         co-chaired a high-level roundtable meeting, in San José, Costa Rica, to address the situation of people fleeing the so-called Northern Triangle (of El Salvador, Guatemala, and Honduras, where increasing violence led to significant forced population movements, particularly towards Mexico and the USA). The meeting agreed a series of comprehensive, collaborative actions, issued in the following month as the San José Action Statement, including enhancing protection measures in countries of origin, and the provision of international protection for asylum-seekers and refugees.
+      </p>
+               <p>A Joint OAS-UNHCR Technical Secretariat assesses the progress of a Comprehensive Regional Protection and Solutions Framework (Marco Integral Regional para la Protección y Soluciones—MIRPS), which was established in 2017 to support the rights of migrants and refugees from or transiting through Belize, Costa Rica, El Salvador (which joined MIRPS in 2019), Guatemala, Honduras, Mexico and Panama. Each MIRPS country pursues a national action plan and forms strategic alliances with local authorities, civil society, private sector interests, multilateral organizations, and other states, to address the needs of displaced persons and the communities hosting them. The inaugural ministerial meeting of signatories to MIRPS was held in Mexico City, Mexico, in November 2019. In the following month a Support Platform for the MIRPS was launched, with participation by Argentina, Brazil, Canada, Colombia, France, Italy, Spain, Sweden, Switzerland, the USA and the EU. A MIRPS Fund was established in May 2020. In June 2023 the 53rd regular OAS Assembly adopted a Declaration for the Protection and Integration of Migrant and Refugee Children in the Americas. In January 2024 the sixth MIRPS annual meeting approved a MIRPS Statutory Charter.</p>
+               <p>In September 2018 a special meeting of the Permanent Council established a working group to address means of managing ongoing mass movements of migrants and refugees from Venezuela into the wider region (including the Caribbean). A regional campaign aimed at preventing discrimination and xenophobia against the then 5.1m. exiled Venezuelans in the region was launched by the OAS in mid-2020. In March 2023 the OAS General Secretariat held a meeting that included a focus on international co-operation in response to migration from Venezuela, and the socioeconomic integration of migrants in host countries.</p>
+               <p usage="sacac">In June 2023 the 53rd OAS General Assembly adopted a Declaration on the Question of the Malvinas Islands (Falkland Islands); the most recent in a long series of such declarations, which have emphasized the need for the prompt resumption of negotiations between Argentina and the United Kingdom over the status of the islands.</p>
+               <p usage="edio">In June 2017 the OAS General Secretariat welcomed the launch of an Asset Recovery Inter-Agency Network in the Caribbean (ARIN-CARIB). ARIN-CARIB had been developed with OAS support, with the aim of promoting co-ordination between Caribbean law enforcement agents and prosecutors in achieving the forfeiture of hidden assets derived from organized crime.</p>
+               <p>The Inter-American Convention to Facilitate Disaster Assistance was adopted in 1991. The OAS Secretary-General chairs the Inter-American Committee on Natural Disaster Reduction, which was established in 1999 comprising the principal officers of regional and international organizations concerned with the prevention and mitigation of natural disasters. The Third Hemispheric Meeting of the Inter-American Network for Disaster Mitigation (mandated in 2006 to advance hemispheric collaboration in the area) took place, under OAS auspices, in November 2014 on the theme `Integrating Disaster Risk Management and Adaptation to Climate Change in the Development Agenda’. In October 2014 the OAS convened the inaugural meeting of a Group of Friends on Natural Disaster Mitigation, to promote co-operation among all stakeholders in assisting countries that were vulnerable to natural disasters.</p>
+               <p>OAS has mediated between states to alleviate tensions in the region. In exceptional situations, when both or all member states involved in a dispute ask for its assistance, the OAS plays a longer-term role in supporting countries to resolve bilateral or multilateral issues. In June 2000 OAS ministers responsible for foreign affairs established an OAS Fund for Peace: Peaceful Settlement of Territorial Disputes (`Peace Fund’), comprising a General Fund, to finance prompt reaction by the OAS to emerging conflicts, and sub-funds tailored towards specific disputes. Within the Peace Fund framework, an Inter-American Peace Forum undertakes initiatives aimed at promoting a culture of regional peace.</p>
+               <p usage="sacac">In June 2016 Belize and Guatemala initiated negotiations, under OAS auspices, aimed at drafting the terms of a co-operation mechanism regarding disputed territory around the Río Sarstún. Both countries subsequently held popular referendums which confirmed support to submit the issue for arbitration to the International Court of Justice.</p>
+          </int-org-section>
+          <int-org-section id="IO-OAS.0018" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Fostering Integral Development and Prosperity</heading>
+               <!--American Declaration of the Rights and Duties of Man; check strategic plan for partnership for integral devt-->
+               <p>Combating poverty and promoting social equity and economic development are priority concerns of the OAS, and the OAS pursues these aims in partnership with regional and global agencies, the private sector and the international community. Priority policies and programmes of the Executive Secretariat for Integral Development (SEDI) cover economic development, including trade, culture, tourism, competitiveness, and science, innovation and technology; human development, including education and employment; sustainable development, including water, environment policy, energy, sustainable cities and disaster risk; and port development. SEDI implements an Economically Empowered Women for Equitable and Resilient Societies (Women’s Economic Empowerment—WEE) initiative in Antigua and Barbuda, Dominica, El Salvador, Grenada, Guatemala, Honduras, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines.</p>
+               <p>In June 2012 the OAS General Assembly adopted a Social Charter of the Americas. In February 2015 a Plan of Action of the Social Charter of the Americas was adopted by the Permanent Council. In June 2014 the 44th General Assembly approved the Declaration of Asunción: Development with Inclusion, in which member states determined to focus on `eradicating hunger and poverty, in particular extreme poverty, on combating inequity, inequality, discrimination, and social exclusion, and on increasing equitable access to health services, as well as to quality and inclusive education’ in the Americas. The Declaration urged member states to strengthen their capacities to withstand external shocks, and to incorporate, as appropriate, the results of the post-2015 development agenda into programmes and activities. In June 2018 the General Assembly adopted a resolution on the Incorporation of Multidimensional Criteria for the Measurement of Poverty and Development.</p>
+               <p>The fifth Meeting of Ministers and High Authorities of Social Development of the Americas was organized in November 2022, in Santo Domingo, Dominican Republic, on the theme `Strengthening Hemispheric Cooperation towards Resilient Reconstruction and Sustainable Social Development in the Americas’. (The first such gathering had been convened in July 2008.)</p>
+               <p>In June 2020 the OAS Permanent Council and the Inter-American Council for Integral Development convened a (virtual) meeting on analysing resilience in the context of the COVID-19 pandemic. In March 2021 the OAS Secretary-General issued a statement on the equitable distribution of vaccines, in which he urged greater funding for the World Health Organization-led vaccine-distribution mechanism. He noted that OAS member states accounted for more than one-half the confirmed COVID-19 cases globally, and that the pandemic crisis had devastated member economies, especially those that were very dependent on external sources of income (such as tourism), and that vaccinating against the disease would benefit both public health and economic recovery.</p>
+               <p>The OAS supports member states to cope with trade expansion and economic integration. It provides support in strengthening human and institutional capacities, and in enhancing trade opportunities and competitiveness, particularly for micro, small and medium-sized enterprises (MSMEs). It assists member states (especially smaller economies) to develop the capacity they need to negotiate, implement and administer trade agreements and to take advantage of the benefits offered by free trade and expanded markets. Many member states seek assistance from the OAS to meet successfully the challenges posed by increasing globalization and the need to pursue multiple trade agendas. The OAS also administers an Inter-American Foreign Trade Information System, which acts as a repository for information about trade and trade-related issues in the region, including the texts of trade agreements, information on trade disciplines, data, and national legislation.</p>
+               <p>The OAS has also focused on strengthening ties with the private sector. Business leaders from the region develop proposals and recommendations to present to the OAS General Assembly and to the Summits of the Americas. An OAS Small Business Development Centers (SBDC) project, supporting local enterprise, had by 2024 facilitated the establishment of SBDCs in Barbados, Belize, Dominica, Jamaica and Saint Lucia. In November 2021 the 51st OAS General Assembly adopted an Inter-American Business Charter.</p>
+               <p>In February 2021 a virtual Americas Competitiveness Forum was held to address priorities for the regional post-COVID-19 recovery, with a focus on digital transformation; innovation-led business development; MSME competitiveness and citizenship; enhancing the regulatory environment, trade facilitation and regional value chains; and climate change adaptation. The Seventh Inter-American Dialogue of High-Level MSME Authorities, convened in September, addressed public policies, programmes and solutions to assist MSME’s post-COVID economic recovery.</p>
+               <p>OAS conducts environmental and sustainability assessments to help member states to identify key environmental issues. It also assists member states with formulating policies and executing projects that are aimed at integrating environmental protection with rural development and poverty alleviation, and that ensure high levels of transparency, public participation and gender equity. Water resource management projects include initiatives that support member states in managing transboundary water resources in the major river basins of South and Central America, in partnership with the UN Environment Programme, the World Bank and the Global Environment Facility (GEF). The OAS is also active in various international fora that address water-related issues. An Inter-American Congress on the Environmental Rule of Law was held in July 2021, in Mexico City (the inaugural Congress having been convened in March 2015, in Montego Bay, Jamaica). The Inter-American Biodiversity Information Network, which has been supported since 2004 by the GEF, the World Bank and other sources, is a principal focus of OAS biodiversity efforts.</p>
+               <p usage="edio sacac">The OAS also supports the work of national conservation authorities in areas such as migratory species and biodiversity corridors. It co-operates with the private sector to support innovative financing through payment for ecological services, and maintains an online portal regarding land tenure and land title, which is used throughout the Americas.</p>
+               <p>The OAS serves as the technical secretariat for the Renewable Energy in the Americas initiative, which offers governments access to information on renewable energy and energy-efficient technologies, and facilitates contacts between the private sector and state energy entities in the Americas. The OAS hosts a Technical Co-ordination Unit of an Energy and Climate Partnership of the Americas (ECPA). The sixth Ministerial Meeting of the ECPA was to be hosted by the Dominican Republic, in Punta Cana, in March 2024, on the theme `Renewable Energy in the Americas: Integration and Innovation’. (The inaugural meeting was held in 2010.)</p>
+               <p>In April 2022 the Permanent Secretariat convened a meeting to address disruptions to the supply of agricultural fertilizer to the region, attributable to the invasion of Ukraine by the Russian Federation (a major exporter of the commodity, presently under widespread punitive sanctions).</p>
+               <p usage="sacac">A specialized unit for the sustainable development of tourism, which was established in 1996, supports regional and subregional conferences and workshops, as well as the Inter-American Travel Congress—which serves as a forum to consider and formulate region-wide tourism policies. The unit also undertakes research and analysis of the industry. In September 2011 the 19th Inter-American Travel Congress, convened in El Salvador, approved the establishment of a Hemispheric Tourism Fund, which was to support poor communities in developing their tourism potential. The inaugural meeting of an Inter-American Tourism Commission was held in August 2012. In early 2014 OAS, with other partners including the Central American Integration System and the Caribbean Tourism Organization and Sustainable Travel International, launched the Americas Sustainable Destinations (SDAA) initiative, with the aim of strengthening public-private partnerships to protect, and to improve, the lives of local people in, destination areas. In September seven SDAA destinations in Central America and the Caribbean were announced. </p>
+               <p>In October 2021 the 25th Inter-American Congress of Ministers and High-Level Authorities of Tourism was convened on the theme `Toward the Reconstruction and Rebuilding of Tourism Post COVID-19’.</p>
+               <p>The ninth inter-American meeting of ministers responsible for culture, held in October 2022, in Antigua, Guatemala, adopted the Declaration of Antigua, which addressed the role of creativity and culture in reactivating economic activity. The 10th meeting in the series was to be convened in the Dominican Republic in 2025.</p>
+               <p usage="edio sacac">The Trust for the Americas, an affiliated non-profit organization founded in 1997, promotes public and private partnerships in member states. A likewise affiliated Young Americas Business Trust promotes youth social and economic development.</p>
+               <!--~ World Economic Forum for Latin America Inter-American Metrology System -->
+          </int-org-section>
+          <int-org-section id="IO-OAS.0043" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Summits of the Americas</heading>
+               <p>Since December 1994, when the First Summit of the Americas was convened in Miami, USA, leaders of the OAS member states have met periodically to examine political, economic and social development priorities and to determine common goals. This process has increasingly shaped OAS policies and priorities and many achievements in the hemisphere, for example the adoption of the Inter-American Democratic Charter and the creation of mechanisms to measure progress against illicit drugs and corruption have been attained as a result of Summit mandates. The Summits of the Americas have provided direction for the OAS in the areas of human rights, hemispheric security, trade, poverty reduction, gender equity and greater civil society participation. A Summit Implementation Review Group manages the Summits process; a Joint Summit Working Group (JSWG) co-ordinates support by inter-American and other international institutions to the process; and a Summits of the Americas Follow-up System co-ordinates the implementation of a framework of action-oriented Summit mandates. The OAS also has responsibility for strengthening outreach to civil society to ensure that NGOs, academic institutions, the private sector and other interests can contribute ideas and help to monitor and implement Summit initiatives.</p>
+               <p>The Eighth Summit was held in April 2018, in Lima, with participation by high-level representatives of 33 member states. (The President of the USA did not attend.) The meeting issued the Lima Commitment on Democratic Governance Against Corruption, which addressed combating systemic corruption, and emphasized the need to improve transparency in the digital age. Cuba, Nicaragua and Venezuela were controversially excluded by the US Administration from the Ninth Summit, which was convened in Los Angeles, in June 2022. El Salvador, Guatemala, Honduras and Mexico chose to be represented by their ministers responsible for foreign affairs. The Ninth Summit issued the (non-binding) Los Angeles Declaration on Migration and Protection, which detailed commitments such as boosting temporary worker programmes for seasonal agricultural labour in Canada and the USA. The Declaration also called for more humane treatment of migrants during processing at border crossings. The 10th Summit was to be held in the Dominican Republic, in November 2025.</p>
+               <!--~ Pan-American Day / Week-->
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="OAS.IO.111" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p>In June 2023 the 53rd General Assembly approved a regular budget for 2024 of US $92.1m. The USA provides a majority assessed contribution to the budget. </p>
+     </int-org-section>
+     <int-org-section id="OAS.IO.112" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <heading-note>in English and Spanish</heading-note>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p id="OAS.IO.81">Numerous cultural, legal and scientific reports, studies and factsheets.</p>
+     </int-org-section>
+     <int-org-section id="OAS.IO.113" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Specialized Organizations and Associated Agencies</heading>
+          <org-list>
+               <org-entry id="OAS.IO.82" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Inter-American Children's Institute</org-entry-name>
+                         <alt-name>Instituto Americano del Niño, la Niña y Adolescentes—IIN</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Avda 8 de Octubre 2904, POB 16212, Montevideo 11600, Uruguay</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">2487 2150</telephone>
+                         <email>comunicacion@iinoea.org</email>
+                         <internet>iin.oea.org</internet>
+                    </address-block>
+                    <found-date>1927</found-date>
+                    <content-note style="NORMAL">promotes the regional implementation of the Convention on the Rights of the Child, assists in the devt of child-oriented public policies; promotes co-operation between states; and aims to develop awareness of problems affecting children and young people in the region</content-note>
+                    <content-note style="NORMAL">organizes workshops, seminars, courses, training programmes and confs on issues relating to children; it also provides advisory services, statistical data and other relevant information to authorities and experts throughout the region</content-note>
+                    <content-note style="NORMAL">the 22nd Pan American Child Congress was convened in Cartagena de Indias, Colombia, in Oct. 2019</content-note>
+                    <role-group>
+                         <role>Dir-Gen.</role>
+                         <person>
+                              <person-name>
+                                   <forename>María Julia</forename>
+                                   <surname>Garcete</surname>
+                              </person-name>
+                              <person-note>Paraguay</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OAS.IO.83" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Inter-American Commission of Women</org-entry-name>
+                         <alt-name>Comisión Interamericana de Mujeres—CIM</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>1889 F St, NW, Suite 350 Washington, DC 20006, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(202) 370-4579</telephone>
+                         <email>cim@oas.org</email>
+                         <internet>www.oas.org/cim</internet>
+                    </address-block>
+                    <found-date>1928</found-date>
+                    <content-note style="NORMAL">the principal forum for generating hemispheric policy to advance women's civil and political rights and gender equality</content-note>
+                    <content-note style="NORMAL">comprises 34 principal delegates; the Assembly of Delegates which convenes every 3 years (39th session: May 2022, in Panama City, Panama), is the highest authority of the Commission, establishing policies and a plan of action for each biennium, and electing the 9-mem. Executive Committee</content-note>
+                    <content-note style="NORMAL">in June 2023 the OAS General Assembly adopted a Declaration for the Rights of All Women, Adolescents and Girls in Rural Areas of the Americas</content-note>
+                    <role-group>
+                         <role>Pres.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Juana</forename>
+                                   <surname>Herrera Araúz</surname>
+                              </person-name>
+                              <person-note>Panama</person-note>
+                         </person>
+                    </role-group>
+                    <role-group>
+                         <role>Exec. Sec.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Alejandra</forename>
+                                   <surname>Mora Mora</surname>
+                              </person-name>
+                              <person-note>Costa Rica</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <!--~ Inter-American Indian Institute closed down July 2009 -->
+               <org-entry id="OAS.IO.87" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Inter-American Institute for Cooperation on Agriculture (IICA)</org-entry-name>
+                         <alt-name>Instituto Interamericano de Cooperación para la Agricultura</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Apdo San Isidro de Coronado, 55-2200 San José, Costa Rica</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(506) 216-0222</telephone>
+                         <fax>(506) 216-0233</fax>
+                         <email>iicahq@iica.int</email>
+                         <internet>www.iica.int</internet>
+                    </address-block>
+                    <found-date>1942 (as the Inter-American Institute of Agricultural Sciences, present name adopted in 1980)</found-date>
+                    <content-note style="NORMAL">supports the efforts of mem. states to improve agricultural devt and rural wellbeing; encourages co-operation between regional orgs, and provides a forum for the exchange of experience</content-note>
+                    <role-group>
+                         <role>Dir-Gen.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Manuel</forename>
+                                   <surname>Otero</surname>
+                              </person-name>
+                              <person-note>Argentina</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OAS.IO.89" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--GS 23.08.2017 Have a request form instead of email-->
+                    <org-entry-head>
+                         <org-entry-name>Pan American Health Organization (PAHO)</org-entry-name>
+                         <alt-name>Organización Panamericana de la Salud</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>525 23rd St, NW, Washington, DC 20037, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(202) 974-3000</telephone>
+                         <internet>www.paho.org</internet>
+                    </address-block>
+                    <found-date>1902</found-date>
+                    <content-note style="NORMAL">
+          co-ordinates regional efforts to improve health; maintains close relations with national health orgs and serves as the Regional Office for the Americas of the 
+          <xr pageref="N" ref="IO-UN.2442">World Health Organization</xr>
+                    </content-note>
+                    <content-note style="NORMAL">in April 2020 PAHO appealed for US&#8201;$94.8m. to fund a regional COVID-19 Response Strategy</content-note>
+                    <content-note style="NORMAL">launched in Sept. 2021 a Regional Platform to Advance the Manufacturing of COVID-19 Vaccines and other Health Technologies in the Americas</content-note>
+                    <content-note style="NORMAL">in 2024 PAHO was co-ordinating the procurement of vaccines, and was working to ensure their equitable distribution throughout the region</content-note>
+                    <content-note style="NORMAL">
+          issued in June 2023 
+          <i>A New Agenda for Mental Health in the Americas</i>
+                    </content-note>
+                    <stats>55 mem. orgs, 27 country offices</stats>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <title>Dr</title>
+                                   <forename>Jarbas</forename>
+                                   <surname>Barbosa da Silva</surname>
+                              </person-name>
+                              <person-note>Brazil</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OAS.IO.90" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--VK 06.09.2019 RG not verified-->
+                    <!--GS 23.08.2017 No new issues of the publs that have been crossed out. JSTOR mentions the end date of last publ.-->
+                    <org-entry-head>
+                         <org-entry-name>Pan American Institute of Geography and History (PAIGH)</org-entry-name>
+                         <alt-name>Instituto Panamericano de Geografía e Historia—IPGH</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Ex-Arzo­bispado 29, 11860 Ciudad de México, Mexico</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(55) 5277-5888</telephone>
+                         <email>secretariageneral@ipgh.org</email>
+                         <internet>www.ipgh.org</internet>
+                    </address-block>
+                    <found-date>1928</found-date>
+                    <content-note style="NORMAL">co-ordinates and promotes the study of cartography, geophysics, geography and history; provides technical assistance, conducts training at research centres, distributes publications, and organizes technical meetings</content-note>
+                    <content-note style="NORMAL">administers, with the Latin American Development Bank, a GEOSUR initiative to promote the use of geospatial information in sustainable devt planning</content-note>
+                    <stats>21 mem. states and 4 permanent observer countries</stats>
+                    <role-group>
+                         <role>Sec.-Gen.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Antonio</forename>
+                                   <surname>Campuzano Rosales</surname>
+                              </person-name>
+                              <person-note>Mexico</person-note>
+                         </person>
+                    </role-group>
+                    <content-note style="NORMAL">
+          publs 
+          <publ-name>Revista Cartográfica</publ-name>
+           (2 a year), 
+          <publ-name>Revista Geofísica</publ-name>
+           (2 a year)
+        </content-note>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <int-org-section id="WB02063.IO.TXT.224" id-root="x" iso="x" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>Summary of the Charter of the Organization of American States</heading>
+          <heading-note>adopted 30 April 1948, as amended by the `Protocol of Buenos Aires', signed on 27 February 1967, at the Third Special Inter-American Conference, the `Protocol of Cartagena de Indias', approved on 5 December 1985, at the 14th Special Session of the General Assembly, the `Protocol of Washington', approved on 14 December 1992, at the 16th Special Session of the General Assembly, and by the `Protocol of Managua', adopted on 10 June 1993, at the 19th Special Session of the General Assembly</heading-note>
+          <p id="WB02063.IO.TXT.93">Note: The principal aims and activities of the Organization are contained in Part One of the Charter, and are detailed below. Part Two of the Charter is concerned with the Organs of the Organization, and Part Three General and other Miscellaneous and Transitory Provisions.</p>
+          <legal-block>
+               <gen-list>
+                    <item>
+                         <p id="WB02063.IO.TXT.94">In the name of their peoples, the States represented at the Ninth International Conference of American States:</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.95">Convinced that the historic mission of America is to offer to man a land of liberty and a favorable environment for the development of his personality and the realization of his just aspirations;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.96">Conscious that that mission has already inspired numerous agreements, whose essential value lies in the desire of the American peoples to live together in peace and, through their mutual understanding and respect for the sovereignty of each one, to provide for the betterment of all, in independence, in equality and under law;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.97">Convinced that representative democracy is an indispensable condition for the stability, peace and development of the region;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.98">Confident that the true significance of American solidarity and good neighborliness can only mean the consolidation on this continent, within the framework of democratic institutions, of a system of individual liberty and social justice based on respect for the essential rights of man;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.99">Persuaded that their welfare and their contribution to the progress and the civilization of the world will increasingly require intensive continental co-operation;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.100">Resolved to persevere in the noble undertaking that humanity has conferred upon the United Nations, whose principles and purposes they solemnly reaffirm;</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.101">Convinced that juridical organization is a necessary condition for security and peace founded on moral order and on justice; and</p>
+                    </item>
+                    <item>
+                         <p id="WB02063.IO.TXT.102">In accordance with Resolution IX of the Inter-American Conference on Problems of War and Peace, held in Mexico City, have agreed upon the following</p>
+                    </item>
+               </gen-list>
+               <legal-block>
+                    <heading>PART ONE</heading>
+                    <legal-block>
+                         <heading>I. Nature and Purposes</heading>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02063.IO.TXT.227">
+                                             <i>Article 1</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02063.IO.TXT.104">The American States establish by this Charter the international organization that they have developed to achieve an order of peace and justice, to promote their solidarity, to strengthen their collaboration, and to defend their sovereignty, their territorial integrity, and their independence. Within the United Nations, the Organization of American States is a regional agency.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02063.IO.TXT.105">The Organization of American States has no powers other than those expressly conferred upon it by this Charter, none of whose provisions authorizes it to intervene in matters that are within the internal jurisdiction of the Member States.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02063.IO.TXT.228">
+                                             <i>Article 2</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02063.IO.TXT.106">The Organization of American States, in order to put into practice the principles on which it is founded and to fulfill its regional obligations under the Charter of the United Nations, proclaims the following essential purposes:</p>
+                                        <gen-list>
+                                             <label>(a)</label>
+                                             <item>
+                                                  <p>To strengthen the peace and security of the continent;</p>
+                                             </item>
+                                             <label>(b)</label>
+                                             <item>
+                                                  <p>To promote and consolidate representative democracy, with due respect for the principle of non-intervention;</p>
+                                             </item>
+                                             <label>(c)</label>
+                                             <item>
+                                                  <p>To prevent possible causes of difficulties and to ensure the pacific settlement of disputes that may arise among the Member States;</p>
+                                             </item>
+                                             <label>(d)</label>
+                                             <item>
+                                                  <p>To provide for common action on the part of those States in the event of aggression;</p>
+                                             </item>
+                                             <label>(e)</label>
+                                             <item>
+                                                  <p>To seek the solution of political, juridical, and economic problems that may arise among them;</p>
+                                             </item>
+                                             <label>(f)</label>
+                                             <item>
+                                                  <p>To promote, by co-operative action, their economic, social, and cultural development;</p>
+                                             </item>
+                                             <label>(g)</label>
+                                             <item>
+                                                  <p>To eradicate extreme poverty, which constitutes an obstacle to the full democratic development of the peoples of the hemisphere; and</p>
+                                             </item>
+                                             <label>(h)</label>
+                                             <item>
+                                                  <p>To achieve an effective limitation of conventional weapons that will make it possible to devote the largest amount of resources to the economic and social development of the Member States.</p>
+                                             </item>
+                                        </gen-list>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>II. Principles</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.230">
+                                        <i>Article 3</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.115">The American States reaffirm the following principles:</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>International law is the standard of conduct of States in their reciprocal relations;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>International order consists essentially of respect for the personality, sovereignty, and independence of States, and the faithful fulfillment of obligations derived from treaties and other sources of international law;</p>
+                                        </item>
+                                        <label>(c)</label>
+                                        <item>
+                                             <p>Good faith shall govern the relations between States;</p>
+                                        </item>
+                                        <label>(d)</label>
+                                        <item>
+                                             <p>The solidarity of the American States and the high aims which are sought through it require the political organization of those States on the basis of the effective exercise of representative democracy;</p>
+                                        </item>
+                                        <label>(e)</label>
+                                        <item>
+                                             <p>Every State has the right to choose, without external interference, its political, economic, and social system and to organize itself in the way best suited to it, and has the duty to abstain from intervening in the affairs of another State. Subject to the foregoing, the American States shall co-operate fully among themselves, independently of the nature of their political, economic, and social systems;</p>
+                                        </item>
+                                        <label>(f)</label>
+                                        <item>
+                                             <p>The elimination of extreme poverty is an essential part of the promotion and consolidation of representative democracy and is the common and shared responsibility of the American States;</p>
+                                        </item>
+                                        <label>(g)</label>
+                                        <item>
+                                             <p>The American States condemn war of aggression: victory does not give rights;</p>
+                                        </item>
+                                        <label>(h)</label>
+                                        <item>
+                                             <p>An act of aggression against one American State is an act of aggression against all the other American States;</p>
+                                        </item>
+                                        <label>(i)</label>
+                                        <item>
+                                             <p>Controversies of an international character arising between two or more American States shall be settled by peaceful procedures;</p>
+                                        </item>
+                                        <label>(j)</label>
+                                        <item>
+                                             <p>Social justice and social security are bases of lasting peace;</p>
+                                        </item>
+                                        <label>(k)</label>
+                                        <item>
+                                             <p>Economic co-operation is essential to the common welfare and prosperity of the peoples of the continent;</p>
+                                        </item>
+                                        <label>(l)</label>
+                                        <item>
+                                             <p>The American States proclaim the fundamental rights of the individual without distinction as to race, nationality, creed, or sex;</p>
+                                        </item>
+                                        <label>(m)</label>
+                                        <item>
+                                             <p>The spiritual unity of the continent is based on respect for the cultural values of the American countries and requires their close co-operation for the high purposes of civilization;</p>
+                                        </item>
+                                        <label>(n)</label>
+                                        <item>
+                                             <p>The education of peoples should be directed toward justice, freedom, and peace.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>III. Members</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.232">
+                                        <i>Article 4</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.130">All American States that ratify the present Charter are Members of the Organization.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.233">
+                                        <i>Article 5</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.131">Any new political entity that arises from the union of several Member States and that, as such, ratifies the present Charter, shall become a Member of the Organization. The entry of the new political entity into the Organization shall result in the loss of membership of each one of the States which constitute it.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.234">
+                                        <i>Article 6</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.132">Any other independent American State that desires to become a Member of the Organization should so indicate by means of a note addressed to the Secretary General, in which it declares that it is willing to sign and ratify the Charter of the Organization and to accept all the obligations inherent in membership, especially those relating to collective security expressly set forth in Articles 28 and 29 of the Charter.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.235">
+                                        <i>Article 7</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.133">The General Assembly, upon the recommendation of the Permanent Council of the Organization, shall determine whether it is appropriate that the Secretary General be authorized to permit the applicant State to sign the Charter and to accept the deposit of the corresponding instrument of ratification. Both the recommendation of the Permanent Council and the decision of the General Assembly shall require the affirmative vote of two thirds of the Member States.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.236">
+                                        <i>Article 8</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.134">Membership in the Organization shall be confined to independent States of the Hemisphere that were Members of the United Nations as of 10 December 1985, and the non-autonomous territories mentioned in [the OAS] document of 5 November 1985, when they become independent.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.237">
+                                        <i>Article 9</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.135">A Member of the Organization whose democratically constituted government has been overthrown by force may be suspended from the exercise of the right to participate in the sessions of the General Assembly, the Meeting of Consultation, the Councils of the Organization and the Specialized Conferences as well as in the commissions, working groups and any other bodies established.</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>The power to suspend shall be exercised only when such diplomatic initiatives undertaken by the Organization for the purpose of promoting the restoration of representative democracy in the affected Member State have been unsuccessful;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>The decision to suspend shall be adopted at a special session of the General Assembly by an affirmative vote of two-thirds of the Member States;</p>
+                                        </item>
+                                        <label>(c)</label>
+                                        <item>
+                                             <p>The suspension shall take effect immediately following its approval by the General Assembly;</p>
+                                        </item>
+                                        <label>(d)</label>
+                                        <item>
+                                             <p>The suspension notwithstanding, the Organization shall endeavour to undertake additional diplomatic initiatives to contribute to the re-establishment of representative democracy in the affected Member State;</p>
+                                        </item>
+                                        <label>(e)</label>
+                                        <item>
+                                             <p>The Member which has been subject to suspension shall continue to fulfill its obligations to the Organization;</p>
+                                        </item>
+                                        <label>(f)</label>
+                                        <item>
+                                             <p>The General Assembly may lift the suspension by a decision adopted with the approval of two-thirds of the Member States;</p>
+                                        </item>
+                                        <label>(g)</label>
+                                        <item>
+                                             <p>The powers referred to in this article shall be exercised in accordance with this Charter.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>IV. Fundamental Rights and Duties of States</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.239">
+                                        <i>Article 10</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.143">States are juridically equal, enjoy equal rights and equal capacity to exercise these rights, and have equal duties. The rights of each State depend not upon its power to ensure the exercise thereof, but upon the mere fact of its existence as a person under international law.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.240">
+                                        <i>Article 11</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.144">Every American State has the duty to respect the rights enjoyed by every other State in accordance with international law.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.241">
+                                        <i>Article 12</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.145">The fundamental rights of States may not be impaired in any manner whatsoever.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.242">
+                                        <i>Article 13</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.146">The political existence of the State is independent of recognition by other States. Even before being recognized, the State has the right to defend its integrity and independence, to provide for its preservation and prosperity, and consequently to organize itself as it sees fit, to legislate concerning its interests, to administer its services, and to determine the jurisdiction and competence of its courts. The exercise of these rights is limited only by the exercise of the rights of other States in accordance with international law.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.243">
+                                        <i>Article 14</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.147">Recognition implies that the State granting it accepts the personality of the new State, with all the rights and duties that international law prescribes for the two States.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.244">
+                                        <i>Article 15</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.148">The right of each State to protect itself and to live its own life does not authorize it to commit unjust acts against another State.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.245">
+                                        <i>Article 16</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.149">The jurisdiction of States within the limits of their national territory is exercised equally over all the inhabitants, whether nationals or aliens.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.246">
+                                        <i>Article 17</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.150">Each State has the right to develop its cultural, political, and economic life freely and naturally. In this free development, the State shall respect the rights of the individual and the principles of universal morality.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.247">
+                                        <i>Article 18</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.151">Respect for and the faithful observance of treaties constitute standards for the development of peaceful relations among States. International treaties and agreements should be public.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.248">
+                                        <i>Article 19</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.152">No State or group of States has the right to intervene, directly or indirectly, for any reason whatever, in the internal or external affairs of any other State. The foregoing principle prohibits not only armed force but also any other form of interference or attempted threat against the personality of the State or against its political, economic, and cultural elements.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.249">
+                                        <i>Article 20</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.153">No State may use or encourage the use of coercive measures of an economic or political character in order to force the sovereign will of another State and obtain from it advantages of any kind.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.250">
+                                        <i>Article 21</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.154">The territory of a State is inviolable; it may not be the object, even temporarily, of military occupation or of other measures of force taken by another State, directly or indirectly, on any grounds whatever. No territorial acquisitions or special advantages obtained either by force or by other means of coercion shall be recognized.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.251">
+                                        <i>Article 22</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.155">The American States bind themselves in their international relations not to have recourse to the use of force, except in the case of self-defense in accordance with existing treaties or in fulfillment thereof.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.252">
+                                        <i>Article 23</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.156">Measures adopted for the maintenance of peace and security in accordance with existing treaties do not constitute a violation of the principles set forth in Articles 19 and 21.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>V. Pacific Settlement of Disputes</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.254">
+                                        <i>Article 24</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.157">International disputes between Member States shall be submitted to the peaceful procedures set forth in this Charter.</p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.158">This provision shall not be interpreted as an impairment of the rights and obligations of the Member States under Articles 34 and 35 of the Charter of the United Nations.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.255">
+                                        <i>Article 25</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.159">The following are peaceful procedures: direct negotiation, good offices, mediation, investigation and conciliation, judicial settlement, arbitration, and those which the parties to the dispute may especially agree upon at any time.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.256">
+                                        <i>Article 26</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.160">In the event that a dispute arises between two or more American States which, in the opinion of one of them, cannot be settled through the usual diplomatic channels, the parties shall agree on some other peaceful procedure that will enable them to reach a solution.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.257">
+                                        <i>Article 27</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.161">A special treaty will establish adequate means for the settlement of disputes and will determine pertinent procedures for each peaceful means such that no dispute between American States may remain without definitive settlement within a reasonable period of time.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>VI. Collective Security</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.259">
+                                        <i>Article 28</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.162">Every act of aggression by a State against the territorial integrity or the inviolability of the territory or against the sovereignty or political independence of an American State shall be considered an act of aggression against the other American States.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.260">
+                                        <i>Article 29</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.163">If the inviolability or the integrity of the territory or the sovereignty or political independence of any American State should be affected by an armed attack or by an act of aggression that is not an armed attack, or by an extracontinental conflict, or by a conflict between two or more American States, or by any other fact or situation that might endanger the peace of America, the American States, in furtherance of the principles of continental solidarity or collective self-defense, shall apply the measures and procedures established in the special treaties on the subject.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+               <legal-block>
+                    <heading>VII. Integral Development</heading>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.262">
+                                        <i>Article 30</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.164">The Member States, inspired by the principles of inter-American solidarity and co-operation, pledge themselves to a united effort to ensure international social justice in their relations and integral development for their peoples, as conditions essential to peace and security. Integral development encompasses the economic, social, educational, cultural, scientific, and technological fields through which the goals that each country sets for accomplishing it should be achieved.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.263">
+                                        <i>Article 31</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.165">Inter-American co-operation for integral development is the common and joint responsibility of the Member States, within the framework of the democratic principles and the institutions of the inter-American system. It should include the economic, social, educational, cultural, scientific, and technological fields, support the achievement of national objectives of the Member States, and respect the priorities established by each country in its development plans, without political ties or conditions.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.264">
+                                        <i>Article 32</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.166">Inter-American co-operation for integral development should be continuous and preferably channelled through multilateral organizations, without prejudice to bilateral co-operation between Member States.</p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.167">The Member States shall contribute to inter-American co-operation for integral development in accordance with their resources and capabilities and in conformity with their laws.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.265">
+                                        <i>Article 33</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.168">Development is a primary responsibility of each country and should constitute an integral and continuous process for the establishment of a more just economic and social order that will make possible and contribute to the fulfillment of the individual.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.266">
+                                        <i>Article 34</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.169">The Member States agree that equality of opportunity, the elimination of extreme poverty, equitable distribution of wealth and income and the full participation of their peoples in decisions relating to their own development are, among others, basic objectives of integral development. To achieve them, they likewise agree to devote their utmost efforts to accomplishing the following basic goals:</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>Substantial and self-sustained increase of per capita national product;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>Equitable distribution of national income;</p>
+                                        </item>
+                                        <label>(c)</label>
+                                        <item>
+                                             <p>Adequate and equitable systems of taxation;</p>
+                                        </item>
+                                        <label>(d)</label>
+                                        <item>
+                                             <p>Modernization of rural life and reforms leading to equitable and efficient land-tenure systems, increased agricultural productivity, expanded use of land, diversification of production and improved processing and marketing systems for agricultural products; and the strengthening and expansion of the means to attain these ends;</p>
+                                        </item>
+                                        <label>(e)</label>
+                                        <item>
+                                             <p>Accelerated and diversified industrialization, especially of capital and intermediate goods;</p>
+                                        </item>
+                                        <label>(f)</label>
+                                        <item>
+                                             <p>Stability of domestic price levels, compatible with sustained economic development and the attainment of social justice;</p>
+                                        </item>
+                                        <label>(g)</label>
+                                        <item>
+                                             <p>Fair wages, employment opportunities, and acceptable working conditions for all;</p>
+                                        </item>
+                                        <label>(h)</label>
+                                        <item>
+                                             <p>Rapid eradication of illiteracy and expansion of educational opportunities for all;</p>
+                                        </item>
+                                        <label>(i)</label>
+                                        <item>
+                                             <p>Protection of man's potential through the extension and application of modern medical science;</p>
+                                        </item>
+                                        <label>(j)</label>
+                                        <item>
+                                             <p>Proper nutrition, especially through the acceleration of national efforts to increase the production and availability of food;</p>
+                                        </item>
+                                        <label>(k)</label>
+                                        <item>
+                                             <p>Adequate housing for all sectors of the population;</p>
+                                        </item>
+                                        <label>(l)</label>
+                                        <item>
+                                             <p>Urban conditions that offer the opportunity for a healthful, productive, and full life;</p>
+                                        </item>
+                                        <label>(m)</label>
+                                        <item>
+                                             <p>Promotion of private initiative and investment in harmony with action in the public sector; and</p>
+                                        </item>
+                                        <label>(n)</label>
+                                        <item>
+                                             <p>Expansion and diversification of exports.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.267">
+                                        <i>Article 35</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.184">The Member States should refrain from practising policies and adopting actions or measures that have serious adverse effects on the development of other Member States.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.268">
+                                        <i>Article 36</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.185">Transnational enterprises and foreign private investment shall be subject to the legislation of the host countries and to the jurisdiction of their competent courts and to the international treaties and agreements to which said countries are parties, and should conform to the development policies of the recipient countries.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.269">
+                                        <i>Article 37</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.186">The Member States agree to join together in seeking a solution to urgent or critical problems that may arise whenever the economic development or stability of any Member State is seriously affected by conditions that cannot be remedied through the efforts of that State.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.270">
+                                        <i>Article 38</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.187">The Member States shall extend among themselves the benefits of science and technology by encouraging the exchange and utilization of scientific and technical knowledge in accordance with existing treaties and national laws.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.271">
+                                        <i>Article 39</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.188">The Member States, recognizing the close interdependence between foreign trade and economic and social development, should make individual and united efforts to bring about the following:</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>Favorable conditions of access to world markets for the products of the developing countries of the region, particularly through the reduction or elimination, by importing countries, of tariff and non-tariff barriers that affect the exports of the Member States of the Organization, except when such barriers are applied in order to diversify the economic structure, to speed up the development of the less-developed Member States, and intensify their process of economic integration, or when they are related to national security or to the needs of economic balance;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>Continuity in their economic and social development by means of:</p>
+                                        </item>
+                                   </gen-list>
+                                   <gen-list>
+                                        <label>(i)</label>
+                                        <item>
+                                             <p>Improved conditions for trade in basic commodities through international agreements, where appropriate; orderly marketing procedures that avoid the disruption of markets, and other measures designed to promote the expansion of markets and to obtain dependable incomes for producers, adequate and dependable supplies for consumers, and stable prices that are both remunerative to producers and fair to consumers;</p>
+                                        </item>
+                                        <label>(ii)</label>
+                                        <item>
+                                             <p>Improved international financial co-operation and the adoption of other means for lessening the adverse impact of sharp fluctuations in export earnings experienced by the countries exporting basic commodities;</p>
+                                        </item>
+                                        <label>(iii)</label>
+                                        <item>
+                                             <p>Diversification of exports and expansion of export opportunities for manufactured and semi-manufactured products from the developing countries; and</p>
+                                        </item>
+                                        <label>(iv)</label>
+                                        <item>
+                                             <p>Conditions conducive to increasing the real export earnings of the Member States, particularly the developing countries of the region, and to increasing their participation in international trade.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.272">
+                                        <i>Article 40</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.199">The Member States reaffirm the principle that when the more developed countries grant concessions in international trade agreements that lower or eliminate tariffs or other barriers to foreign trade so that they benefit the less-developed countries, they should not expect reciprocal concessions from those countries that are incompatible with their economic development, financial, and trade needs.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.273">
+                                        <i>Article 41</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.200">The Member States, in order to accelerate their economic development, regional integration, and the expansion and improvement of the conditions of their commerce, shall promote improvement and co-ordination of transportation and communication in the developing countries and among the Member States.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.274">
+                                        <i>Article 42</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.201">The Member States recognize that integration of the developing countries of the Hemisphere is one of the objectives of the inter-American system and, therefore, shall orient their efforts and take the necessary measures to accelerate the integration process, with a view to establishing a Latin American common market in the shortest possible time.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.275">
+                                        <i>Article 43</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.202">In order to strengthen and accelerate integration in all its aspects, the Member States agree to give adequate priority to the preparation and carrying out of multinational projects and to their financing, as well as to encourage economic and financial institutions of the inter-American system to continue giving their broadest support to regional integration institutions and programs.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.276">
+                                        <i>Article 44</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.203">The Member States agree that technical and financial co-operation that seeks to promote regional economic integration should be based on the principle of harmonious, balanced, and efficient development, with particular attention to the relatively less-developed countries, so that it may be a decisive factor that will enable them to promote, with their own efforts, the improved development of their infrastructure programs, new lines of production, and export diversification.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.277">
+                                        <i>Article 45</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.204">The Member States, convinced that man can only achieve the full realization of his aspirations within a just social order, along with economic development and true peace, agree to dedicate every effort to the application of the following principles and mechanisms:</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>All human beings, without distinction as to race, sex, nationality, creed, or social condition, have a right to material well-being and to their spiritual development, under circumstances of liberty, dignity, equality of opportunity, and economic security;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>Work is a right and a social duty, it gives dignity to the one who performs it, and it should be performed under conditions, including a system of fair wages, that ensure life, health, and a decent standard of living for the worker and his family, both during his working years and in his old age, or when any circumstance deprives him of the possibility of working;</p>
+                                        </item>
+                                        <label>(c)</label>
+                                        <item>
+                                             <p>Employers and workers, both rural and urban, have the right to associate themselves freely for the defense and promotion of their interests, including the right to collective bargaining and the workers' right to strike, and recognition of the juridical personality of associations and the protection of their freedom and independence, all in accordance with applicable laws;</p>
+                                        </item>
+                                        <label>(d)</label>
+                                        <item>
+                                             <p>Fair and efficient systems and procedures for consultation and collaboration among the sectors of production, with due regard for safeguarding the interests of the entire society;</p>
+                                        </item>
+                                        <label>(e)</label>
+                                        <item>
+                                             <p>The operation of systems of public administration, banking and credit, enterprise, and distribution and sales, in such a way, in harmony with the private sector, as to meet the requirements and interests of the community;</p>
+                                        </item>
+                                        <label>(f)</label>
+                                        <item>
+                                             <p>The incorporation and increasing participation of the marginal sectors of the population, in both rural and urban areas, in the economic, social, civic, cultural, and political life of the nation, in order to achieve the full integration of the national community, acceleration of the process of social mobility, and the consolidation of the democratic system. The encouragement of all efforts of popular promotion and co-operation that have as their purpose the development and progress of the community;</p>
+                                        </item>
+                                        <label>(g)</label>
+                                        <item>
+                                             <p>Recognition of the importance of the contribution of organizations such as labor unions, co-operatives, and cultural, professional, business, neighborhood, and community associations to the life of the society and to the development process;</p>
+                                        </item>
+                                        <label>(h)</label>
+                                        <item>
+                                             <p>Development of an efficient social security policy; and</p>
+                                        </item>
+                                        <label>(i)</label>
+                                        <item>
+                                             <p>Adequate provision for all persons to have due legal aid in order to secure their rights.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.278">
+                                        <i>Article 46</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.214">The Member States recognize that, in order to facilitate the process of Latin American regional integration, it is necessary to harmonize the social legislation of the developing countries, especially in the labor and social security fields, so that the rights of the workers shall be equally protected, and they agree to make the greatest efforts possible to achieve this goal.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.279">
+                                        <i>Article 47</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.215">The Member States will give primary importance within their development plans to the encouragement of education, science, technology, and culture, oriented toward the overall improvement of the individual, and as a foundation for democracy, social justice, and progress.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.280">
+                                        <i>Article 48</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.216">The Member States will co-operate with one another to meet their educational needs, to promote scientific research, and to encourage technological progress for their integral development. They will consider themselves individually and jointly bound to preserve and enrich the cultural heritage of the American peoples.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.281">
+                                        <i>Article 49</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.217">The Member States will exert the greatest efforts, in accordance with their constitutional processes, to ensure the effective exercise of the right to education, on the following bases:</p>
+                                   <gen-list>
+                                        <label>(a)</label>
+                                        <item>
+                                             <p>Elementary education, compulsory for children of school age, shall also be offered to all others who can benefit from it. When provided by the State it shall be without charge;</p>
+                                        </item>
+                                        <label>(b)</label>
+                                        <item>
+                                             <p>Middle-level education shall be extended progressively to as much of the population as possible, with a view to social improvement. It shall be diversified in such a way that it meets the development needs of each country without prejudice to providing a general education; and</p>
+                                        </item>
+                                        <label>(c)</label>
+                                        <item>
+                                             <p>Higher education shall be available to all, provided that, in order to maintain its high level, the corresponding regulatory or academic standards are met.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.282">
+                                        <i>Article 50</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.221">The Member States will give special attention to the eradication of illiteracy, will strengthen adult and vocational education systems, and will ensure that the benefits of culture will be available to the entire population. They will promote the use of all information media to fulfill these aims.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.283">
+                                        <i>Article 51</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.222">The Member States will develop science and technology through educational, research, and technological development activities and information and dissemination programs. They will stimulate activities in the field of technology for the purpose of adapting it to the needs of their integral development. They will organize their co-operation in these fields efficiently and will substantially increase exchange of knowledge, in accordance with national objectives and laws and with treaties in force.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02063.IO.TXT.284">
+                                        <i>Article 52</i>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02063.IO.TXT.223">The Member States, with due respect for the individuality of each of them, agree to promote cultural exchange as an effective means of consolidating inter-American understanding; and they recognize that regional integration programs should be strengthened by close ties in the fields of education, science, and culture.</p>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+               </legal-block>
+          </legal-block>
+     </int-org-section>
+</int-org-entry>

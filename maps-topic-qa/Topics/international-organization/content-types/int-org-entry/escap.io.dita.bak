@@ -1,0 +1,717 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.961" id-root="io-un.961" iso="io-un.961" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio sasia fea eerca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Economic and Social Commission for Asia and the Pacific</org-entry-name>
+               <abbr>ESCAP</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="sasia fea eerca">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Regional Commissions)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">Economic and Social Commission for Asia and the Pacific</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sasia">The United Nations in South Asia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="fea">The United Nations in the Far East and Australasia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="eerca">The United Nations in Eastern Europe, Russia and Central Asia</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>United Nations Bldg, Rajadamnern Nok Ave, Bangkok 10200, Thailand</verbatim-address>
+               </address>
+               <telephone alsofax="N">(2) 288-1234</telephone>
+               <fax>(2) 288-1000</fax>
+               <email>escap-registry@un.org</email>
+               <internet>www.unescap.org</internet>
+          </address-block>
+          <p id="IO-UN.962">The Commission was founded in 1947 as the Economic Commission for Asia and the Far East, at first to assist in post-war reconstruction, and subsequently to encourage regional economic and social development. The present name was adopted in 1974. ESCAP’s main objectives are to promote inclusive and sustainable economic and social development in Asia and the Pacific, and to help member countries to achieve internationally agreed development goals.</p>
+          <int-org-section id="IO-UN.963" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio fea sasia eerca">
+               <heading>Members</heading>
+               <table-block-simple id="IO-UN.964" type="OTHER">
+                    <table style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.6cm" />
+                              <colspec colwidth="6.6cm" />
+                              <colspec colwidth="6.6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Afghanistan</entry>
+                                        <entry style="NO-DOT-LEADER"> Korea, Democratic People's Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Russian Federation</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Armenia</entry>
+                                        <entry style="NO-DOT-LEADER">Korea, Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Samoa</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Australia</entry>
+                                        <entry style="NO-DOT-LEADER">Kyrgyzstan</entry>
+                                        <entry style="NO-DOT-LEADER">Singapore</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Azerbaijan</entry>
+                                        <entry style="NO-DOT-LEADER">Lao People’s Democratic Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Solomon Islands</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bangladesh</entry>
+                                        <entry style="NO-DOT-LEADER">Malaysia</entry>
+                                        <entry style="NO-DOT-LEADER">Sri Lanka</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bhutan</entry>
+                                        <entry style="NO-DOT-LEADER">Maldives</entry>
+                                        <entry style="NO-DOT-LEADER">Tajikistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Brunei Darussalam</entry>
+                                        <entry style="NO-DOT-LEADER">Marshall Islands</entry>
+                                        <entry style="NO-DOT-LEADER">Thailand</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cambodia</entry>
+                                        <entry style="NO-DOT-LEADER">Micronesia, Federated States</entry>
+                                        <entry style="NO-DOT-LEADER">Timor-Leste</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">China, People's Republic </entry>
+                                        <entry style="NO-DOT-LEADER">Mongolia</entry>
+                                        <entry style="NO-DOT-LEADER">Tonga</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Fiji</entry>
+                                        <entry style="NO-DOT-LEADER">Myanmar</entry>
+                                        <entry style="NO-DOT-LEADER">Türkiye (Turkey)</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">France</entry>
+                                        <entry style="NO-DOT-LEADER">Nauru</entry>
+                                        <entry style="NO-DOT-LEADER">Turkmenistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Georgia</entry>
+                                        <entry style="NO-DOT-LEADER">Nepal</entry>
+                                        <entry style="NO-DOT-LEADER">Tuvalu</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">India</entry>
+                                        <entry style="NO-DOT-LEADER">Netherlands</entry>
+                                        <entry style="NO-DOT-LEADER">United Kingdom</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Indonesia</entry>
+                                        <entry style="NO-DOT-LEADER">New Zealand</entry>
+                                        <entry style="NO-DOT-LEADER">USA</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Iran</entry>
+                                        <entry style="NO-DOT-LEADER">Pakistan</entry>
+                                        <entry style="NO-DOT-LEADER">Uzbekistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Japan</entry>
+                                        <entry style="NO-DOT-LEADER">Palau</entry>
+                                        <entry style="NO-DOT-LEADER">Vanuatu</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Kazakhstan</entry>
+                                        <entry style="NO-DOT-LEADER">Papua New Guinea</entry>
+                                        <entry style="NO-DOT-LEADER">Viet Nam</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Kiribati</entry>
+                                        <entry style="NO-DOT-LEADER">Philippines</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+          <int-org-section id="IO-UN.965" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio fea sasia eerca">
+               <heading>Associate Members</heading>
+               <table-block-simple id="IO-UN.966" type="OTHER">
+                    <table style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.6cm" />
+                              <colspec colwidth="6.6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">American Samoa</entry>
+                                        <entry style="NO-DOT-LEADER">Guam</entry>
+                                        <entry style="NO-DOT-LEADER">New Caledonia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cook Islands</entry>
+                                        <entry style="NO-DOT-LEADER">Hong Kong</entry>
+                                        <entry style="NO-DOT-LEADER">Niue</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">French Polynesia</entry>
+                                        <entry style="NO-DOT-LEADER">Macao</entry>
+                                        <entry style="NO-DOT-LEADER">Northern Mariana Islands</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.967" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.968" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Commission</heading>
+               <p>The Commission—the main legislative organ of ESCAP—meets annually at ministerial level to examine issues of concern in the region, to review progress, to establish priorities and to decide upon the recommendations of the Executive Secretary or the subsidiary bodies of the Commission. It reports to the UN Economic and Social Council. Ministerial and intergovernmental conferences on specific issues may be held on an ad hoc basis with the approval of the Commission. The 80th session was to be hosted from Bangkok in late April 2024, with a focus on the theme `Leveraging digital innovation for sustainable development in Asia and the Pacific’.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.971" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Committees and Special Bodies</heading>
+               <p>Specialized committees and special bodies have been established to advise the Commission and help to oversee the work of the Secretariat. They meet every two years, while any sub-committees meet in the intervening years. There are Committees on Disaster Risk Reduction; Energy; Environment and Development; Information and Communications Technology (ICT), Science, Technology and Innovation; Macroeconomic Policy, Poverty Reduction and Financing for Development; Social Development; Statistics; Trade and Investment; and Transport. A Special Body on Least Developed, Landlocked Developing and Pacific Island Developing Countries meets during each session of the Commission.</p>
+               <p>In addition, an Advisory Committee of permanent representatives and other representatives designated by members of the Commission functions as an advisory body; it generally meets every month.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.981" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p>The Executive Secretary is supported by two Deputy Executive Secretaries, for Programme and for Partnerships and Coordination. The secretariat operates under the guidance of the Commission and its subsidiary bodies. It consists of the Office of the Executive Secretary; two servicing divisions, covering administration and strategy and programme management; a communications and knowledge management section; and the following substantive divisions: Energy; Environment and Development; ICT and Disaster Risk Reduction; Macroeconomic Policy and Financing for Development; Social Development; Statistics; Trade, Investment and Innovation; and Transport.</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.9984" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Secretary</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Armida</forename>
+                                        <surname>Salsiah Alisjahbana</surname>
+                                   </person-name>
+                                   <person-note>Indonesia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.985" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio fea sasia eerca">
+               <heading>Subregional Offices</heading>
+               <p>There are Subregional Offices in Incheon, Republic of Korea (South Korea) (for East and North-East Asia); AlmatI, Kazakhstan (for North and Central Asia); New Delhi, India (for South and South-West Asia); Bangkok, Thailand (for South-East Asia); and Suva, Fiji (for the Pacific).</p>
+               <org-list>
+                    <org-entry id="IO-UN.986.2" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio eerca fea">
+                         <org-entry-head>
+                              <org-entry-name>Subregional Office for East and North-East Asia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>G-Tower, 7th Floor, 175 Art Center-daero, Yeonsu-gu, Incheon 22004, Republic of Korea</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(32) 458-6600</telephone>
+                              <fax>(32) 458-6699</fax>
+                              <email>escap-sroenea-registry@un.org</email>
+                              <internet>www.unescap.org/subregional-office/east-north-east-asia</internet>
+                         </address-block>
+                         <found-date>2010</found-date>
+                         <content-note style="NORMAL">works with the People's Republic of China, Japan, the Democratic People’s Republic of Korea, the Republic of Korea, Mongolia and the Russian Federation</content-note>
+                         <role-group>
+                              <role>Head</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Ganbold</forename>
+                                        <surname>Baasanjav</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio eerca">
+                         <!--rc 10.01.2020 The website gives two addresses of the same office hence havent updated https://www.unescap.org/subregional-office/north-central-asia/contact-us-->
+                         <org-entry-head>
+                              <org-entry-name>Subregional Office for North and Central Asia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                303 Bayzakov St, Block 
+                <sc>A</sc>
+                , UN Bldg, AlmatI, 050040, Kazakhstan
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(727) 3384417</telephone>
+                              <email>escap-sonca@un.org</email>
+                              <internet>www.unescap.org/subregional-office/north-central-asia</internet>
+                         </address-block>
+                         <found-date>2011</found-date>
+                         <content-note style="NORMAL">covers Afghanistan, Azerbaijan, Armenia, Georgia, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkmenistan and Uzbekistan</content-note>
+                         <role-group>
+                              <role>Head</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nikolay</forename>
+                                        <surname>Pomoshchnikov</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>Subregional Office for South and South-West Asia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 4575, C-2 Qutab Institutional Area, New Delhi 110 016, India</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 30973700</telephone>
+                              <fax>(11) 26856274</fax>
+                              <internet>www.unescap.org/subregional-office/south-south-west-asia</internet>
+                         </address-block>
+                         <found-date>2011</found-date>
+                         <content-note style="NORMAL">serves Afghanistan, Bangladesh, Bhutan, India, Iran, the Maldives, Nepal, Pakistan, Sri Lanka and Türkiye</content-note>
+                         <role-group>
+                              <role>Head</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Mikiko</forename>
+                                        <surname>Tanaka</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Subregional Office for South-East Asia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Rajadamnern Nok Ave, Bangkok 10200, Thailand</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(22) 882902</telephone>
+                              <email>escap-sro-sea@un.org</email>
+                              <internet>www.unescap.org/subregional-office/south-east-asia</internet>
+                         </address-block>
+                         <found-date>2019</found-date>
+                         <content-note style="NORMAL">serves Brunei Darusallam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Viet Nam</content-note>
+                         <role-group>
+                              <role>Head</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Ruhimat</forename>
+                                        <surname>Soerakoesoemah</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.986" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Subregional Office for the Pacific</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Kadavu House, Level 5, 414 Victoria Parade, PMB, Suva, Fiji</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">331-9669</telephone>
+                              <fax>331-9671</fax>
+                              <email>escap-pacific@un.org</email>
+                              <internet>www.unescap.org/subregional-office/pacific</internet>
+                         </address-block>
+                         <found-date>1984</found-date>
+                         <content-note style="NORMAL">serves Australia, New Zealand and the Pacific Islands</content-note>
+                         <role-group>
+                              <role>Head</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andie Mary</forename>
+                                        <surname>Fong Toy</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.987" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>
+      In May 2023 the 79th session of the Commission, convened in Bangkok, adopted several resolutions aimed at strengthening regional collaboration towards achieving the UN’s 
+      <xr pageref="N" ref="IO-UNDP.001">2030 Agenda</xr>
+      . These included recommitting to curbing greenhouse gas emissions (more than one-half of which, globally, originate in the region); promoting clean energy technologies; developing the use of climate change-related statistics; advancing digital co-operation and inclusion; increasing the use of space applications; strengthening sustainable urban development; and minimizing the consequences of water depletion in the (Central Asian) Aral Sea. The session included meetings focused on means of catalyzing climate finance and investments, and a climate solutions-themed fair.
+    </p>
+          <int-org-section id="ESCAP.IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Sustainable Development</heading>
+               <p>
+        Since 2014 ESCAP has supported the organization of an annual Asia-Pacific Forum on Sustainable Development (APFSD), with participation by regional stakeholders including representatives of governments, civil society, and the private sector. The fourth APFSD, convened in March 2017, adopted a roadmap to guide regional co-operation in the implementation of the 
+        <xr pageref="N" ref="IO-UNDP.001">2030 Agenda</xr>
+        . At the eighth APFSD, held in March 2021, a Regional Collaborative Platform: Asia and the Pacific (RCP: Asia and the Pacific) was inaugurated, with participation by UN development entities active in the region. The Platform is chaired by the UN Deputy Secretary-General, with ESCAP’s Executive Secretary and the Director of the UNDP Regional Bureau for Asia and the Pacific acting as Vice-Chairs. ESCAP’s annual 
+        <publ-name>Progress Report</publ-name>
+         on the implementation of the UN Sustainable Development Goals (SDGs) was published in mid-February 2024; subtitled `Showcasing Transformative Actions’, it outlined successful trends as well as outstanding challenges in the regional pursuit of the Goals. The value in enhancing SDG indicator data availability—especially for most vulnerable population groups—was emphasized. The 11th APFSD was convened later in February, in Bangkok, on the theme `Reinforcing the 2030 Agenda for Sustainable Development and eradicating poverty in times of multiple crises: The effective delivery of sustainable, resilient and innovative solutions in Asia and the Pacific’. At the meeting the UN Deputy Secretary-General warned that, on the current trajectory, the region was 32 years behind schedule in achieving the SDGs.
+      </p>
+               <p>
+        ESCAP works closely in a partnership with 
+        <xr pageref="N" ref="IO-UN.1311">UNDP</xr>
+         and the 
+        <xr pageref="N" ref="ASIANDB.IO">Asian Development Bank</xr>
+         to support the effective implementation of the SDGs and to monitor their progress. It maintains an online statistical dashboard on progress within the Asia-Pacific region, as well as SDG country profiles and indicators, and publishes a regular joint report.
+      </p>
+               <p usage="edio ewyb fea">
+        In May 2023 the Commission and the 
+        <xr pageref="N" ref="PIF.IO">Pacific Islands Forum (PIF)</xr>
+         signed a Memorandum of Understanding (MOU) on aligning strategic activities aimed at advancing the SDGs, climate action, resilient development, social inclusion, and economic and trade co-operation. In November ESCAP and the 
+        <xr pageref="N" ref="PIF.IO">PIF</xr>
+         jointly organized the Seventh Pacific Forum on Sustainable Development, in Suva, Fiji. 
+      </p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.334" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Environment and Development</heading>
+               <p>ESCAP is concerned with strengthening national capabilities to achieve environmentally sound and sustainable development by integrating issues such as the sustainable management of natural resources into economic planning and policies. The Environment and Development Division focuses on energy; water, green growth and green economy; quality of growth (ensuring inclusive development); and urban development. Activities include the consideration of energy resource options, such as rural energy supply, energy conservation and the planning of power networks; strengthening the formulation of policies on the sustainable development of land and mineral resources; and the promotion of integrated water resources development and management, including water quality and conservation and a reduction in water-related natural disasters. The Division collates information on issues related to climate change, conducts regional seminars on climate change adaptation, and provides training in clean technologies and guidance on the reduction of harmful gas emissions.</p>
+               <p>At the inaug­ural meeting of an Asian and Pacific Energy Forum (APEF), convened by ESCAP in May 2013, ministers responsible for energy in member countries determined to strengthen energy security and the sustainable use of energy throughout the region. In May 2015 the Commission initiated an internet-based Asia Pacific Energy Portal, and agreed to establish an ESCAP Committee on Energy; this met for the first time in January 2017. The second APEF, convened, under ESCAP auspices, in April 2018, in Bangkok, committed to increasing the share of renewable energy and rationalizing the use of fossil fuels in the region. The third APEF was held in October 2023, in Bangkok. A ministerial declaration was adopted by the Forum emphasizing the need to enhance the region’s energy resilience and security, while pursuing initiatives to secure affordable and sustainable energy for all. A fifth Forum of Ministers and Environment Authorities of Asia Pacific was also convened in that month, in Colombo, Sri Lanka and online (the first such Forum had been held in May 2015). The participants committed collectively to addressing the interlinked crises of climate change, pollution and biodiversity loss.</p>
+               <p usage="ewyb edio sasia fea">In May 2005 the 61st ESCAP conference endorsed the Seoul Initiative on Green Growth (SINGG), which had been launched by the South Korean Government, and has participation by ESCAP member states. A fourth phase of the initiative was launched in July 2021, with a focus on advancing member states’ capacity to implement climate action and green recovery policies. The 18th SINGG Policy Consultation Forum was held in October 2023, on the theme `Accelerating Collaborative Efforts for Climate Action in Asia and the Pacific’.</p>
+               <p>
+        A report issued by ESCAP in May 2023 titled 
+        <publ-name>Race to Net Zero: Accelerating Climate Action in Asia and the Pacific</publ-name>
+         found that most countries in the region did not have the necessary data or financial means to support climate adaptation and natural disaster mitigation activities, and set out proposals for urgent transformations that would be required in the areas of low-carbon mobility and logistics, energy, and international trade and investment.
+      </p>
+               <p>Since 2018 ESCAP has sponsored an annual Asia-Pacific Day for the Ocean (observed in 2023 on 30 October).</p>
+               <p usage="edio fea">In May 2020 ESCAP, with the Japanese Government, initiated a pilot scheme to reduce plastic waste pollution reaching the marine environment from cities. It was to be implemented in Kuala Lumpur, Malaysia, Surabaya, Indonesia, Nakhon Si Thammarat, Thailand and Da Nang, Viet Nam.</p>
+               <p>
+        In June 2021 ESCAP and partners launched an e-learning course titled 
+        <publ-name>Cities and Marine Plastic Pollution: Building a Circular Economy,</publ-name>
+         focused on using modern techniques and technologies to measure and monitor plastic waste in both urban and marine environments.
+      </p>
+               <p>The eighth Asia-Pacific Urban Forum (APUF-8, the first having been held in June 2011) was convened in October 2023, in Suwon, South Korea, on the theme `Reforging post-pandemic pathways to sustainable development in Asia and the Pacific’.</p>
+               <p usage="fea">ESCAP supported the Sixth Pacific Urban Forum (PUF6), which was convened in September 2023, in Suva (Fiji).</p>
+               <p>In June 2021 ESCAP and partners convened an Asia-Pacific Regional Food Systems Dialogue, with a focus on redressing weaknesses in food systems.</p>
+               <p usage="edio eerca fea">The Division administers a North-East Asia Subregional Programme for ­Environmental Co-operation.</p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.923" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Macroeconomic Policy, Poverty Reduction and Financing for Development</heading>
+               <p>
+        The Macroeconomic Policy and Financing for Development Division aims to increase understanding of the economic and social development situation in the region, with particular attention given to the attainment of the SDGs, promoting resilience, macroeconomic monitoring, financing for development, regional economic co-operation and integration, and enhancing the position of the region's disadvantaged economies, including least developed, landlocked and island developing countries. The Division publishes the annual 
+        <publ-name>Economic and Social Survey of Asia and the Pacific</publ-name>
+        ; the 2023 edition, released in April, emphasized the need to rethink methods of assessing public debt sustainability while supporting the UN’s 2030 Agenda for Sustainable Development.
+      </p>
+               <p>In December 2013 the first Ministerial Conference on Regional Economic Co-operation and Integration (RECI) in Asia and the Pacific, convened in Bangkok, under ESCAP auspices, adopted the Bangkok Declaration on Regional Economic Co-operation and Integration in Asia and the Pacific, outlining a roadmap towards the creation of a regional economic community, which was to provide for an integrated regional market, financial co-operation, and full energy and transport connectivity. The third RECI Ministerial Conference, hosted from Bangkok in September 2022 in a hybrid in-person and online format, focused on achieving resilience and inclusive sustainable development through trade and investment, value chains and seamless connectivity in areas including ICT, energy and transport, and through building digital economies and societies.</p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.998" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Trade, Investment and Innovation</heading>
+               <p>
+        Since 2004 the Trade, Investment and Innovation Division has supported a normally annual Asia-Pacific Business Forum, involving representatives of governments, the private sector and civil society. The 2023 Forum —organized in November, in Hong Kong, on the theme `An Asia Pacific Green Deal for Business: Driving the Green Transformation’—had a focus on the decarbonization of business and supply chain operations. The 2023 Forum was co-organized by the ESCAP Sustainable Business Network (ESBN), established in 2019 to promote private sector efforts in working towards the UN’s 2030 Agenda. The Division acts as the secretariat of the Asia-Pacific Research and Training Network on Trade, established in 2004, which aims to enhance the region’s research capacity. The Division also helps to prepare the biennial 
+        <publ-name>Asia-Pacific Trade and Investment Report.</publ-name>
+         The 2023/24 edition of the report was issued in December 2023, titled `Unleashing digital trade and investment for sustainable development’. ESCAP, with the World Trade Organization (WTO), undertakes a technical assistance programme, helping member states to implement WTO agreements and to participate in multilateral trade negotiations.
+      </p>
+               <p usage="ewyb edio sasia fea">The Trade, Investment and Innovation Division functions as the secretariat of the Asia-Pacific Trade Agreement (APTA), concluded in 1975 to promote regional trade through mutually agreed concessions by the participating states (in 2024 they comprised Bangladesh, China, India, Lao PDR, Mongolia, South Korea and Sri Lanka). The fourth meeting of the APTA Ministerial Council, convened in January 2017, in Busan, South Korea, determined to increase significantly the number of products under the Agreement’s preferential tariff schedule.</p>
+               <p>In September 2023 ESCAP helped to organize the second UN Asia-Pacific Innovation Forum, in Xiamen, People’s Republic of China, on the theme `Boosting Foreign Direct Investment in the Digital Economy for Sustainable Development. (The inaugural Forum had been held in June 2019.)</p>
+               <p>In March 2009, to advance the digitalization of trade, ESCAP launched the UN Network of Experts for Paperless Trade in Asia and the Pacific (UN NExT). A Framework Agreement on Facilitation of Cross-border Paperless Trade in Asia and the Pacific, adopted in May 2016 by ESCAP’s 72nd session, entered into force in February 2021. The inaugural session of a Paperless Trade Council, tasked with implementing the Agreement, was held in April 2022. An online Regional Integration and Value Chain Analyzer was initiated by ESCAP in July 2021. The Commission contributed to the fifth UN Global Survey on Digital and Sustainable Trade Facilitation, undertaken during January-June 2023, and subsequent report, which presented analysis of the implementation of 60 trade facilitation measures in more than 160 countries worldwide. At the beginning of April 2024 ESCAP co-organized the 11th Asia-Pacific Trade Facilitation Forum, in Samarkand, Uzbekistan. </p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.553" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Social Development</heading>
+               <p>ESCAP’s Social Development Division covers the following areas: ageing societies; disability-inclusive development; gender equality; HIV/AIDS; inequality; social protection; social inclusion; international migration; population and development; and youth empowerment. The Division aims to assess and respond to regional trends and challenges in social development, and to help member countries to build more inclusive societies. It works to strengthen the capacity of public and non-governmental institutions to address the problems of marginalized social groups and to promote initiatives to provide income to the poor, as well as to promote the advancement of women by helping to improve their access to education, economic resources and ICT, and their engagement in decision making. It is committed to combating violence against women and ­trafficking.</p>
+               <p>The Division implements global and regional mandates, such as the Programme of Action of the World Summit for Social Development and the Jakarta Plan of Action on Human Resources Development. A high-level intergovernmental meeting convened by ESCAP in October 2022 adopted the Jakarta Declaration on the Asian and Pacific Decade of Persons with Disabilities (2023-32). It aimed to advance the implementation of a previous `Incheon Strategy’, with a set of regional disability-inclusive development goals. The Commission prepares specific publications relating to population and implements the Programme of Action of the 1994 International Conference on Population and Development (ICPD). The secretariat co-ordinates the Asia-Pacific Population Information Network. An online Social Protection Toolbox was launched by ESCAP in April 2018. In 2022 ESCAP and the other UN regional commissions participated in the regional phase of the Fourth Review and Appraisal of the 2002 Madrid International Plan on Ageing. The Seventh Asian and Pacific Population Conference was convened in November 2023, in Bangkok and online.</p>
+               <p>In September 2004 ESCAP convened a senior-level intergovernmental meeting on the regional review and implementation of the Beijing Platform for Action (Beijing+10), relating to gender equality. Further intergovernmental review meetings have been organized by ESCAP, including the Beijing+25 Review, which was held in November 2019 (and which adopted an Asia-Pacific Declaration on Advancing Gender Equality and Women’s Empowerment). In 2019 ESCAP initiated a Catalyzing Women’s Entrepreneurship programme, with the aim of advancing business and market participation by women in the region. A Women Enterprise Recovery Fund, which was to support innovative solutions to address constraints to women’s entrepreneurship in South and South-East Asia, was launched by ESCAP, the UN Capital Development Fund and partners in January 2021.</p>
+               <p usage="fea sasia">A Regional Framework for Action on HIV and AIDS, adopted in May 2012 by the 71st session of the Commission, aimed to end the AIDS epidemic by 2030.</p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.444" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ICT and Disaster Risk Reduction</heading>
+               <p>ESCAP’s ICT and Disaster Risk Reduction Division aims to strengthen capacity for access to and the application of ICT, to advance digital inclusion, and to help member states to build their capacity to withstand and recover from natural disasters. It supports the development of cross-sectoral policies and strategies, and also supports regional co-operation aimed at sharing knowledge between advanced and developing economies and in areas such as cybercrime and information security. The Incheon, South Korea-based Asian and Pacific Training Centre for ICT for Development supports the inclusion of space technology, such as Geospatial Artificial Intelligence (GeoAI), in national development planning—for example the use of satellites in meteorology, disaster prevention, drought monitoring, remote sensing and distance learning. ESCAP maintains an e-Resilience Monitoring Dashboard.</p>
+               <p usage="ewyb edio fea">In October 2022 the Fourth Ministerial Conference on Space Applications for Sustainable Development in Asia and the Pacific, organized by ESCAP and the Indonesian Government, endorsed the Jakarta Ministerial Declaration on Space Applications for Sustainable Development in Asia and the Pacific.</p>
+               <p>In October 2014 ESCAP convened a gathering of experts to develop a roadmap for an Asia-Pacific Information Superhighway (AP-IS), in order to strengthen the underlying internet infrastructure in the region and thereby to increase the availability and affordability of high-speed broadband internet, with a particular focus on rural areas. An AP-IS Action Plan covering the period 2022-26 had the following three pillars: Connectivity for all; Digital technologies and applications; and Digital data. In November 2022 ESCAP and the South Korean Government jointly organized the First Asia-Pacific Digital Ministerial Conference, in Seoul, which confirmed support for the implementation of the AP-IS Action Plan. An Asia-Pacific Digital Transformation Forum was also convened by ESCAP in November.</p>
+               <p usage="fea">ESCAP has supported the development of a Pacific Internet exchange point (IXP) to enhance digital access and the use of fintech (financial technology) solutions in the Pacific region.</p>
+               <p>ESCAP’s policy in relation to disaster risk reduction is guided by the Sendai Framework, covering the period 2015-30, which was adopted by the Third World Conference on Disaster Risk Reduction, held in Sendai City, Japan, in March 2015. An ESCAP Committee on Disaster Risk Reduction was inaugurated in March 2009, and in September 2010 a Regional Drought Mechanism was established. The inaugural session of the Governing Council of an Asian and Pacific Centre for the Development of Disaster Information Management was convened in November 2016.</p>
+               <p>
+        The 2023 edition of the biennial 
+        <publ-name>Asia and Pacific Disaster Report,</publ-name>
+         issued in July, addressed the urgent need for transformative disaster risk resilience to counter the potential devastating impact of rising sea levels and more frequent extreme weather events. The report estimated that climate-related disasters affected 64m. people in the region in 2022, causing economic damage of US $57,000m.
+      </p>
+               <p usage="eerca">
+        Sub-regional reports on 
+        <publ-name>Pathways to Adaptation and Resilience</publ-name>
+         were published for East and North-East Asia in October 2022, and for North and Central Asia in January 2023.
+      </p>
+               <p usage="ewyb edio fea sasia">ESCAP administers a voluntary Multi-Donor Trust Fund for Tsunami, Disaster and Climate Preparedness in Indian Ocean and South-East Asian Countries, inaugurated in late 2005 (and renamed in 2012) to support the development of the Regional Integrated Multi-Hazard Early Warning System for Africa and Asia (RIMES), and to assist post-disaster reconstruction. The Fund’s geographic scope was extended in 2015 to include southwestern Pacific small island developing states. By 31 December 2022 it had supported 31 projects in 20 countries, at a total cost of US&#8201;$16.1m.</p>
+               <p>In May 2022 the 78th session of the Commission endorsed a Regional Plan of Action on Sand and Dust Storms in Asia and the Pacific. A meeting on its implementation was convened in July 2023.</p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.111" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Transport</heading>
+               <p>ESCAP’s Transport Division aims to improve the regional movement of goods and people, and to assist member states to manage and to benefit from globalization. It focuses on transport policy options and programmes; transport infrastructure; transport safety, efficiency and logistics; applications of new transport technologies; support for relevant international agreements; and harmonization of transport standards and documents. It aims to enhance private sector involvement in national infrastructure development, including through public-private partnerships, and works to reduce the adverse environmental impact of the provision of infrastructure facilities and to promote more equitable and accessible social amenities. The fourth ESCAP Ministerial Conference on Transport was convened in December 2021, in a virtual format (the inaugural Conference having been hosted by South Korea in 2006, in Busan). It endorsed the second phase, covering 2022-26, of a regional action programme for sustainable transport connectivity in Asia and the Pacific.</p>
+               <p>
+        An Intergovernmental Agreement on the establishment of a Trans-Asian Railway Network was concluded, under ESCAP auspices, in April 2006, and entered into force in June 2009. By 2024 it had been ratified by 21 member states, and comprised more than 125,000&#160;km of rail routes in 28 countries. An Intergovernmental Agreement on the Asian Highway Network was adopted (likewise, under ESCAP auspices) in 2003, and came into effect in July 2005; by 2024 there were 30 states parties to the Agreement, which covered more than 145,000 km of roads. In September 2019 the intergovernmental Working Group on the Asian Highway approved several amendments to the Asian Highway Network, including the designation of a new route, `AH9’, that connected Lianyungang, China (on the Pacific Ocean coast) via Kazakhstan to St Petersburg, Russia (in the Baltic Sea region). Furthermore, more than 15,000&#160;km of potential routes in China were to be converted into formal routes, and routes in Georgia and Iran connecting to major ports were to be developed. In June 2023 the 10th gathering of the Working Group addressed, 
+        <i>inter alia</i>
+        , prioritizing low carbon and resilient infrastructure along the network. In May 2013 the Commission adopted the Intergovernmental Agreement on Dry Ports, which had been formulated to promote the development of dry ports along the Asian Highway and Trans-Asian Railway networks; this entered into force in April 2016, and had been ratified by 17 states by 2024. An ESCAP Working Group on Dry Ports reviews the implementation of the Agreement.
+      </p>
+               <p>A Sustainable Urban Transport Index (SUTI), endorsed in November 2018 by ESCAP’s Committee on Transport, measures the sustainability of regional urban transport systems and services. By February 2024 SUTI Mobility Assessment Reports had been compiled for 28 urban areas in the Asia-Pacific region.</p>
+          </int-org-section>
+          <int-org-section id="IO-ESCAP.543" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Statistics</heading>
+               <p>ESCAP’s Statistics Division provides training and advice in priority areas, including civil registration and population; economy; environment and agriculture; gender; and data and analysis. It supports co-ordination throughout the region of the development, implementation and revision of selected international statistical standards. Training is provided by the Statistical Institute for Asia and the Pacific.</p>
+               <p>In November 2014 ESCAP organized a Ministerial Conference on Civil Registration and Vital Statistics (CRVS), which launched the Asian and Pacific CRVS Decade, covering 2015-24, aimed at achieving universal civil registration in the region. A Regional Steering Group for CRVS in Asia-Pacific was inaugurated by the Commission in 2015 and meets annually. The Second Ministerial Conference on CRVS in Asia and the Pacific, convened by ESCAP in November 2021, in Bangkok, issued a declaration which recommitted to expanding registration. The declaration noted that 65m. children in the region had not been formally registered at birth and were thus at heightened risk of being denied access to education, health care, and other social protections; and emphasized the role played by CRVS in efficiently preparing for and responding to crises.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1005" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Co-operation with Other Organizations</heading>
+               <p>ESCAP works with other UN agencies and non-UN international organizations, non-governmental organizations, academic institutions and the private sector. Such co-operation includes framework agreements under MOUs, joint planning of programmes, the preparation of studies and reports, participation in meetings, and sharing information and technical expertise. </p>
+               <p usage="ewyb edio eerca">In May 2013 ESCAP, the UN Economic Commission for Europe (UNECE) and the Eurasian Economic Community signed a tripartite MOU on strengthening co-operation in areas including sustainable development and environmental protection, the efficient use of water and energy resources, the development of transport networks, trade facilitation, and business development. ESCAP works with UNECE to support a Special Programme for the Economies of Central Asia (SPECA), established in 1998 to strengthen subregional co-operation. An annual SPECA Economic Forum is convened, in conjunction with an annual meeting of the Governing Council. In November 2023 the inaugural summit of SPECA heads of state or of government, held in Baku, Azerbaijan, issued the Baku Declaration, which welcomed a proposed SPECA Multi-Partner Trust Fund, and endorsed a roadmap for the digitalization of data and documentation exchange along the Trans-Caspian Transport Corridor.</p>
+               <p usage="ewyb edio fea">In August 2017, at a meeting attended by the ESCAP Executive Secretary, foreign ministers and heads of delegations of the 36 member states of the Forum for East Asia-Latin America Cooperation (FEALAC, established in 1999), agreed to establish a FEALAC Fund, which was to support intensified engagement between the two regions.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1014" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.1015">ESCAP's programme expenditure for 2024, an appropriation from the UN budget, was US&#8201;$56.8m. The regular budget is supplemented annually by funds from various sources for technical assistance.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1016" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia and the Pacific SDG Progress Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Countries with Special Needs Development Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Digital Transformation Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Disaster Report</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific in Figures</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Sustainable Development Journal</publ-name>
+                    <content-note style="NORMAL">2 a year</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Trade and Investment Report</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Asia-Pacific Trade and Investment Trends</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Economic and Social Survey of Asia and the Pacific</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ESCAP Newsletter</publ-name>
+                    <content-note style="NORMAL">monthly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ESCAP Population Data Sheet</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ESCAP Trade Insights</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Regional Energy Trends Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Review of Sustainable Transport Connectivity in Asia and the Pacific</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Social Outlook for Asia and the Pacific</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Transport and Communications Bulletin for Asia and the Pacific</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.1017">The `ESCAP Library’ includes, additionally, in its physical and electronic collections, policy briefs, working papers, country and trade profiles, databases and statistics.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1007" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio fea sasia">
+          <heading>Associated Bodies</heading>
+          <org-list>
+               <org-entry id="IO-UN.1010" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>ESCAP/WMO Typhoon Committee</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Av. de 5 de Outubro, Coloane, Macau SAR</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">88010531</telephone>
+                         <fax>88010530</fax>
+                         <email>info@typhooncommittee.org</email>
+                         <internet>www.typhooncommittee.org</internet>
+                    </address-block>
+                    <found-date>1968</found-date>
+                    <content-note style="NORMAL">
+          an intergovernmental body affiliated to ESCAP and the Tropical Cyclone Programme of the 
+          <xr pageref="N" ref="IO-UN.2609">World Meteorological Organization</xr>
+          ; promotes disaster preparedness, trains personnel in meteorology, hydrology and disaster risk reduction and co-ordinates research
+        </content-note>
+                    <content-note style="NORMAL">55th session held in March 2023 (in a virtual format)</content-note>
+                    <stats>mems: Cambodia, People’s Rep. of China, Democratic People’s Rep. of Korea, Rep. of Korea, Hong Kong SAR, Japan, Lao People’s Democratic Rep., Macao SAR, Malaysia, Philippines, Singapore, Thailand, USA, Viet Nam</stats>
+                    <role-group>
+                         <role>Sec.</role>
+                         <person>
+                              <person-name>
+                                   <title>Dr</title>
+                                   <forename>Yihong</forename>
+                                   <surname>Duan</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1013" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--access info through WMO website-->
+                    <org-entry-head>
+                         <org-entry-name>WMO/ESCAP Panel on Tropical Cyclones</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>PTC Secretariat, c/o India Meteorological Dept, Lodi Rd, New Delhi 110003, India</verbatim-address>
+                         </address>
+                         <internet>ptc-wmoescap.org</internet>
+                    </address-block>
+                    <found-date>1972</found-date>
+                    <content-note style="NORMAL">aims to mitigate damage caused by tropical cyclones in the Bay of Bengal and the Arabian Sea, co-ordinates monitoring and facilitates the sharing of information</content-note>
+                    <content-note style="NORMAL">50th session held in Dec. 2023, in Manama, Bahrain</content-note>
+                    <stats>mems: Bangladesh, India, Iran, Maldives, Myanmar, Oman, Pakistan, Qatar, Saudi Arabia, Sri Lanka, Thailand, UAE, Yemen</stats>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <int-org-section id="IO-UNESCAP.10" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Regional Institutions</heading>
+          <org-list>
+               <org-entry id="IO-UN.1008.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Asian and Pacific Centre for the Development of Disaster Information Management</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>16 Sepand St, Ostad Nejatollahi Ave, Tehran, Iran</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(21) 88901879</telephone>
+                         <email>escap-apdim@un.org</email>
+                         <internet>apdim.unescap.org</internet>
+                    </address-block>
+                    <found-date>2015</found-date>
+                    <content-note style="NORMAL">aims to strengthen capacity in the area of disaster information management and to provide essential technical assistance in the event of a major disaster</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Letizia</forename>
+                                   <surname>Rossano</surname>
+                              </person-name>
+                              <person-note>Italy</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1008" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Asian and Pacific Centre for Transfer of Technology (APCTT)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>APCTT Bldg, POB 4575, C-2 Qutab Institutional Area, New Delhi 110 016, India</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(11) 30973700</telephone>
+                         <fax>(11) 26856274</fax>
+                         <email>postmaster.apctt@un.org</email>
+                         <internet>www.apctt.org</internet>
+                    </address-block>
+                    <found-date>1977</found-date>
+                    <content-note style="NORMAL">assists ESCAP mem. states by strengthening their capacity to develop, transfer and adopt technologies relevant to the region</content-note>
+                    <content-note style="NORMAL">operates Business Asia Network to promote technology-based co-operation, particularly between SMEs</content-note>
+                    <content-note style="NORMAL">a new strategic plan for 2023-27 was endorsed by the Governing Council in Dec. 2022</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Preeti</forename>
+                                   <surname>Soni</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+                    <content-note style="NORMAL">
+          publs 
+          <publ-name>Asia Pacific Tech Monitor</publ-name>
+           (quarterly), other handbooks, manuals and working papers
+        </content-note>
+               </org-entry>
+               <org-entry id="IO-UN.UNESCAP.001" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Asian and Pacific Training Centre for ICT for Development (APCICT)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>G-Tower, 175 Art center-daero, Yeonsu-gu, Incheon 22004, Republic of Korea</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(32) 458-6650</telephone>
+                         <fax>(32) 458-6691</fax>
+                         <email>apcict@un.org</email>
+                         <internet>www.unapcict.org</internet>
+                    </address-block>
+                    <found-date>2006</found-date>
+                    <content-note style="NORMAL">aims to provide training to ICT policymakers and professionals, advisory services and analytical studies, to promote best practices in the field of ICT, and to contribute to narrowing the digital divide in the region</content-note>
+                    <content-note style="NORMAL">in 2024 was implementing the following flagship initiatives: an Academy of ICT Essentials for Government Leaders; the Women ICT Frontier Initiative (WIFI); and the Primer Series on ICT for Development for Youth</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Kiyoung</forename>
+                                   <surname>Ko</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1009" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Centre for Sustainable Agricultural Mechanization (CSAM)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Rm 2060, Beijing Sunflower Tower, 37 Maizidian St, Chaoyang District, Beijing 100125, People’s Republic of China</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(10) 82253581</telephone>
+                         <fax>(10) 82253584</fax>
+                         <email>escap-csam@un.org</email>
+                         <internet>www.un-csam.org</internet>
+                    </address-block>
+                    <found-date>1977 as the Regional Network for Agricultural Engineering and Machin­ery, elevated to regional centre (as the Asian and Pacific Centre for Agricultural Engineering and Machinery) in 2002; present name adopted in 2012</found-date>
+                    <content-note style="NORMAL">aims to achieve, through sustainable agricultural mechanization, resilient, inclusive production gains, improved rural livelihoods and poverty alleviation</content-note>
+                    <content-note style="NORMAL">supports meetings of the Asian and Pacific Network for Testing of Agricultural Machinery (ANTAM) and the formulation of ANTAM Codes, aimed at eliminating unsafe and substandard farm machinery, and at improving environmental sustainability in farming</content-note>
+                    <content-note style="NORMAL">helped organize, in Nov. 2023, the 10th Regional Forum on Sustainable Agricultural Mechanization for Asia and the Pacific</content-note>
+                    <stats>mems: 53; 9 assoc. mems</stats>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Li</forename>
+                                   <surname>Yutong</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1012" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Statistical Institute for Asia and the Pacific (SIAP)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>JETRO-IDE Bldg, 2-2 Wakaba 3-chome, Mihama-ku, Chiba-shi, Chiba 2618787, Japan</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(43) 299-9796</telephone>
+                         <email>escap-siap@un.org</email>
+                         <internet>www.unsiap.or.jp</internet>
+                    </address-block>
+                    <found-date>1970 as Asian Statistical Institute, present name adopted in 1977; became a subsidiary body of ESCAP in 1995</found-date>
+                    <content-note style="NORMAL">provides training in official statistics to govt statisticians</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <title>Dr</title>
+                                   <forename>Shailja</forename>
+                                   <surname>Sharma</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <!--8.iv.24 - 5,244 words-->
+</int-org-entry>

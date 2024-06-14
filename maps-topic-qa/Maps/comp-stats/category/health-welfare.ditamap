@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Health Welfare</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.24" navtitle="Reserves of foreign exchange">
+        <topicref href="../../../Topics/comp-stats/category/health-welfare/stats.table.24.dita"
+            navtitle="Reserves of foreign exchange"/>
+    </chapter>
+    <chapter id="stats.table.25" navtitle="Access to basic drinking water">
+        <topicref href="../../../Topics/comp-stats/category/health-welfare/stats.table.25.dita"
+            navtitle="Access to basic drinking water"/>
+    </chapter>
+    <chapter id="stats.table.26" navtitle="Access to basic sanitation">
+        <topicref href="../../../Topics/comp-stats/category/health-welfare/stats.table.26.dita"
+            navtitle="Access to basic sanitation"/>
+    </chapter>
+    <chapter id="stats.table.28" navtitle="Health expenditure per head">
+        <topicref href="../../../Topics/comp-stats/category/health-welfare/stats.table.28.dita"
+            navtitle="Health expenditure per head"/>
+    </chapter>
+    <chapter id="stats.table.34" navtitle="Clean (renewable, incl. hydro) electricity output">
+        <topicref href="../../../Topics/comp-stats/category/health-welfare/stats.table.34.dita"
+            navtitle="Clean (renewable, incl. hydro) electricity output"/>
+    </chapter>
+</bookmap>

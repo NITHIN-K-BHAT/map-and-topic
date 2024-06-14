@@ -1,0 +1,1050 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61960" sllink="SLSDOCRF" sllinkid="61959" slsdocid="58408" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.213" id-root="hr.dir" iso="hr" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="HR.DIR.214" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL3235557" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3235556" slsdocid="3235404" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294822873" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>24 Sata</org-entry-name>
+                                             <alt-name>24 Hours</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      10010 Zagreb, Oreškovićeva 6
+                      <sc>h</sc>
+                      /1
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6069500</telephone>
+                                             <fax>(1) 6069660</fax>
+                                             <email>redakcija@24sata.hr</email>
+                                             <internet>www.24sata.hr</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivan</forename>
+                                                       <surname>Buča</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586512" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586511" slsdocid="58767" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.217" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Glas Istre</org-entry-name>
+                                             <alt-name>Voice of Istria</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>52100 Pula, Japodska 28</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(52) 591500</telephone>
+                                             <fax>(52) 591555</fax>
+                                             <email>redakcija@glasistre.hr</email>
+                                             <internet>www.glasistre.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivica</forename>
+                                                       <surname>Božan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert</forename>
+                                                       <surname>Frank</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586505" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586504" slsdocid="58768" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.215" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Glas Slavonije</org-entry-name>
+                                             <alt-name>Voice of Slavonia</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>31000 Osijek, Hrvatske Republike 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 223223</telephone>
+                                             <fax>(31) 223211</fax>
+                                             <email>glas@glas-slavonije.hr</email>
+                                             <internet>www.glas-slavonije.hr</internet>
+                                        </address-block>
+                                        <found-date>1920</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Pres. and Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bojan</forename>
+                                                       <surname>Divjak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP details are here: http://www.glas-slavonije.hr/Impressum-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3014034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3014033" slsdocid="3014016" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1274700471" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--MR 06.01.2022 Pres. not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Jutarnji List</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Koranska 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6103100</telephone>
+                                             <fax>(1) 6103148</fax>
+                                             <email>jutarnji.list@hanzamedia.hr</email>
+                                             <internet>www.jutarnji.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Smetiško</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Goran</forename>
+                                                       <surname>Ogurlić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586517" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586516" slsdocid="58766" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.219" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Novi List</org-entry-name>
+                                             <alt-name>New Paper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      51001 Rijeka, Zvonimirova 20
+                      <sc>a</sc>
+                      , POB 130
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 650011</telephone>
+                                             <email>redakcija@novilist.hr</email>
+                                             <internet>www.novilist.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ankica</forename>
+                                                       <surname>Kruljac</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivica</forename>
+                                                       <surname>Tomić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3014420" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3014419" slsdocid="3014338" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1274771627" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Poslovni Dnevnik</org-entry-name>
+                                             <alt-name>Business News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      10010 Zagreb, Oreškovićeva 6
+                      <sc>h</sc>
+                      /1
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6326756</telephone>
+                                             <fax>(1) 6326060</fax>
+                                             <email>redakcija@poslovni.hr</email>
+                                             <internet>www.poslovni.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Renato</forename>
+                                                       <surname>Ivanuš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimir</forename>
+                                                       <surname>Nišević</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586526" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586525" slsdocid="58762" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.223" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Slobodna Dalmacija</org-entry-name>
+                                             <alt-name>Free Dalmatia</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>21000 Split, ul. Hrvatske Mornarice 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 352900</telephone>
+                                             <fax>(21) 383102</fax>
+                                             <email>edakcija@slobodnadalmacija.hr</email>
+                                             <internet>slobodnadalmacija.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miroslav</forename>
+                                                       <surname>Ivić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sandra Lapenda</forename>
+                                                       <surname>Lemo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586530" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586529" slsdocid="58759" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.227" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--MR 06.01.2022 pres. not found-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sportske Novosti</org-entry-name>
+                                             <alt-name>Sports News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Koranska 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6103100</telephone>
+                                             <fax>(1) 6103148</fax>
+                                             <email>info@sportskenovosti.hr</email>
+                                             <internet>sportske.jutarnji.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Smetiško</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Siniša</forename>
+                                                       <surname>Sušec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586536" slsdocid="58758" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.228" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Večernji List</org-entry-name>
+                                             <alt-name>Evening Paper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      10010 Zagreb, Oreškovićeva 6
+                      <sc>h</sc>
+                      /1
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6300605</telephone>
+                                             <fax>(1) 6300676</fax>
+                                             <email>vecernji@vecernji.hr</email>
+                                             <internet>www.vecernji.hr</internet>
+                                        </address-block>
+                                        <frequency>evening</frequency>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Renato</forename>
+                                                       <surname>Ivanuš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dražen</forename>
+                                                       <surname>Klarić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 05.06.2013 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2586521" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2586520" slsdocid="58764" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.220" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>La Voce del Popolo</org-entry-name>
+                                             <alt-name>Voice of the People</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      51000 Rijeka, Zvonimirova 20
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 672119</telephone>
+                                             <fax>(51) 672112</fax>
+                                             <email>lavoce@edit.hr</email>
+                                             <internet>editfiume.com/lavoce</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <content-note style="NORMAL">Italian</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Errol</forename>
+                                                       <surname>Superina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christiana</forename>
+                                                       <surname>Babić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HR.DIR.230" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL3235939" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3235938" slsdocid="3235873" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294833880" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>DuList</org-entry-name>
+                                             <alt-name>Dubrovnik News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>20000 Dubrovnik, Ćira Carića 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 350670</telephone>
+                                             <fax>(20) 350675</fax>
+                                             <email>info@dulist.hr</email>
+                                             <internet>www.dulist.hr</internet>
+                                        </address-block>
+                                        <found-date>2011</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Barbara</forename>
+                                                       <surname>Đurasović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3016436" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3016435" slsdocid="3014352" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1274773088" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Glas Koncila</org-entry-name>
+                                             <alt-name>The Voice of the Council</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Kaptol 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4874300</telephone>
+                                             <fax>(1) 4874303</fax>
+                                             <email>redakcija@glas-koncila.hr</email>
+                                             <internet>www.glas-koncila.hr</internet>
+                                        </address-block>
+                                        <found-date>1962</found-date>
+                                        <content-note style="NORMAL">weekly</content-note>
+                                        <content-note style="NORMAL">Catholic</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Branimir</forename>
+                                                       <surname>Stanić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4157762" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4157761" slsdocid="58751" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.234" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Globus</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Koranska 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6103100</telephone>
+                                             <fax>(1) 6103204</fax>
+                                             <email>jutarnji.list@hanzamedia.hr</email>
+                                             <internet>www.jutarnji.hr/globus</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>political weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Goran</forename>
+                                                       <surname>Ogurlić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL67062" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67061" slsdocid="58750" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.235" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--MR 06.01.2022 Pres. not found-->
+                                        <org-entry-head>
+                                             <org-entry-name>Gloria</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Koranska 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6103100</telephone>
+                                             <fax>(1) 6103148</fax>
+                                             <email>gloria@hanzamedia.hr</email>
+                                             <internet>www.gloria.hr</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">popular culture</content-note>
+                                        <content-note style="NORMAL">owned by Hanza Media</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Smetiško</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alenka</forename>
+                                                       <surname>Ostrihon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3236616" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3236615" slsdocid="3236568" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294907713" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <!--NS 24.01.2017 role group http://magazin.hrt.hr/368437/predstavljeno-redizajnirano-izdanje-hrvatskoga-slova-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hrvatsko Slovo</org-entry-name>
+                                             <alt-name>Croatian Letter</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Hrvatske Bratske Zajednice 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6190112</telephone>
+                                             <fax>(1) 6190111</fax>
+                                             <email>hkz@zg.htnet.hr</email>
+                                             <internet>www.hkz.hr</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">culture</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stjepan</forename>
+                                                       <surname>Šešelj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3304849" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3304848" slsdocid="3236823" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294915009" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Karlovački Tjednik</org-entry-name>
+                                             <alt-name>The Karlovac Weekly</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>47000 Karlovac, ul. A. Vranyczanyja 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(47) 611400</telephone>
+                                             <fax>(47) 611404</fax>
+                                             <email>redakcija@karlovacki.hr</email>
+                                             <internet>karlovacki.hr</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">news from Karlovac County</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vanda</forename>
+                                                       <surname>Basta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivica</forename>
+                                                       <surname>Pilaković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 13.01.2011 the paper was originally published as the voice of the "District Committee" of some "national liberation war Karlovca" organization. Exact name of the organization still needs to be searched for-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3236738" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3236737" slsdocid="3236722" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294911338" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Lider</org-entry-name>
+                                             <alt-name>The Leader</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10144 Zagreb, trg Žrtava Fašizma 6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6333500</telephone>
+                                             <fax>(1) 6333599</fax>
+                                             <email>webredakcija@lider.media</email>
+                                             <internet>lider.media</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">business</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miodrag</forename>
+                                                       <surname>Šajatović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3014409" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3014408" slsdocid="3014386" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1274774420" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <data-protection date-added="13.06.2018" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Majstor</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, ul. Ivanićgradska 64</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6055777</telephone>
+                                             <fax>(1) 2450163</fax>
+                                             <email>majstor@majstor.hr</email>
+                                             <internet>www.majstor.hr</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">quarterly</content-note>
+                                        <content-note style="NORMAL">trade-related technology</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lidija</forename>
+                                                       <surname>Orešković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3236817" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3236816" slsdocid="3236758" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294913875" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <data-protection date-added="17.01.2023" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Međimurje</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>40000 Čakovec, Zrinsko Frankopanska 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(40) 311331</telephone>
+                                             <fax>(40) 311330</fax>
+                                             <email>urednik@medjimurje.hr</email>
+                                             <internet>medjimurje.hr</internet>
+                                        </address-block>
+                                        <frequency>weekly, Tue.</frequency>
+                                        <content-note style="NORMAL">regional</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bojan</forename>
+                                                       <surname>Benčik</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimir</forename>
+                                                       <surname>Trstenjak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3013794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3013793" slsdocid="58747" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.238" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Nacional</org-entry-name>
+                                             <alt-name>The National</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Maksimirska 120</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(91) 6049723</telephone>
+                                             <email>nacional@nacional.hr</email>
+                                             <internet>www.nacional.hr</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <frequency>independent weekly</frequency>
+                                        <content-note style="NORMAL">also daily online edn, in Croatian and English</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Berislav</forename>
+                                                       <surname>Jelinić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3236955" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3236954" slsdocid="3236942" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294918453" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Narodni List</org-entry-name>
+                                             <alt-name>The People's Paper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>23000 Zadar, Poljana Zemaljskog odbora 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(23) 224810</telephone>
+                                             <fax>(23) 224824</fax>
+                                             <email>redakcija@narodni-list.hr</email>
+                                             <internet>www.narodni-list.hr</internet>
+                                        </address-block>
+                                        <found-date>1862</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pero</forename>
+                                                       <surname>Livajić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3013700" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3013699" slsdocid="2641838" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1241695801" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <!--MR 06.01.2022 Not sure about address-->
+                                        <org-entry-head>
+                                             <org-entry-name>Novi Plamen</org-entry-name>
+                                             <alt-name>A New Flame</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Pavla Hatza 14</verbatim-address>
+                                             </address>
+                                             <email>redakcija@noviplamen.net</email>
+                                             <internet>www.noviplamen.net</internet>
+                                        </address-block>
+                                        <found-date>2007</found-date>
+                                        <content-note style="NORMAL">online</content-note>
+                                        <content-note style="NORMAL">democratic socialist</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivica</forename>
+                                                       <surname>Mladenović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Goran</forename>
+                                                       <surname>Marković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL67072" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67071" slsdocid="58745" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.240" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Privredni Vjesnik</org-entry-name>
+                                             <alt-name>Economic Herald</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Kačićeva 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 5600000</telephone>
+                                             <fax>(1) 5600002</fax>
+                                             <email>redakcija@privredni.hr</email>
+                                             <internet>www.privredni.hr</internet>
+                                        </address-block>
+                                        <found-date>1953</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">economics, finance</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Jurčić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL67074" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67073" slsdocid="58744" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.241" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <data-protection date-added="11.01.2022" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Republika</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, trg bana Josipa Jelačića 7/I</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4816931</telephone>
+                                             <fax>(1) 4816959</fax>
+                                             <email>dhk@dhk.hr</email>
+                                             <internet>www.dhk.hr</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <frequency>bimonthly</frequency>
+                                        <content-note style="NORMAL">publ. by Društvo Hrvatskih Književnika</content-note>
+                                        <content-note style="NORMAL">literary review</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zlatko</forename>
+                                                       <surname>Krilić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editors-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jullijana</forename>
+                                                       <surname>Matanović</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mario</forename>
+                                                       <surname>Kolar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3096336" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3096335" slsdocid="58713" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.268" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Školske Novine</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Andrije Hebranga 40</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4855720</telephone>
+                                             <fax>(1) 4855712</fax>
+                                             <email>info@skolskenovine.hr</email>
+                                             <internet>www.skolskenovine.hr</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <content-note style="NORMAL">educational weekly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Blaženko</forename>
+                                                       <surname>Odak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marijan</forename>
+                                                       <surname>Šimeg</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HR.DIR.244" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL67080" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67079" slsdocid="58739" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.245" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <data-protection date-added="26.01.2016" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>HINA News Agency—Hrvatska Izvještajna Novinska Agencija</org-entry-name>
+                                             <alt-name>Croatian News Agency</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, trg Marulidev 16</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4808600</telephone>
+                                             <fax>(1) 4808822</fax>
+                                             <email>hina@hina.hr</email>
+                                             <internet>www.hina.hr</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Majda</forename>
+                                                       <surname>Tafra-Vlahović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Branka</forename>
+                                                       <surname>Gabriela Valentić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL67082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67081" slsdocid="58738" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.246" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>IKA—Informativna Katolička Agencija</org-entry-name>
+                                             <alt-name>Catholic Press Agency</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      10000 Zagreb, Ksaverska cesta 12
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 5635070</telephone>
+                                             <email>ika@ika.hr</email>
+                                             <internet>ika.hkm.hr</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Fabijan</forename>
+                                                       <surname>Svalina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Siniša</forename>
+                                                       <surname>Kovačić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3235748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3235747" slsdocid="3235725" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1294830171" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <!--MR 10.01.2022 name of Dir not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>STINA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>21000 Split, Šetaliste Bačvice 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 488945</telephone>
+                                             <fax>(21) 321421</fax>
+                                             <email>stina@zamir.net</email>
+                                             <internet>www.stina.hr</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Goran</forename>
+                                                       <surname>Vežić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stojan</forename>
+                                                       <surname>Obradović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Associations</heading>
+                         <org-list>
+                              <org-entryref id="SL6205582" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6205581" slsdocid="6205524" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1526964642" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Croatian Journalists’ Association</org-entry-name>
+                                             <abbr>HND</abbr>
+                                             <alt-name>Hrvatsko Novinarsko Društvo</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Perkovčeva 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4828333</telephone>
+                                             <fax>(1) 4828332</fax>
+                                             <email>hnd@hnd.hr</email>
+                                             <internet>www.hnd.hr</internet>
+                                        </address-block>
+                                        <found-date>1910</found-date>
+                                        <content-note style="NORMAL">
+                  part of 
+                  <xr pageref="N" ref="ICFTU.IO.97">International Federation of Journalists</xr>
+                                        </content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hrvoje</forename>
+                                                       <surname>Zovko</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

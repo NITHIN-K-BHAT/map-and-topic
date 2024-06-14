@@ -1,0 +1,1163 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61834" sllink="SLSDOCRF" sllinkid="61833" slsdocid="56719" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="CZ.DIR.270" id-root="cz.dir" iso="cz" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="CZ.DIR.271" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online) </heading>
+                         <org-list>
+                              <org-entryref id="SL8628706" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8628705" slsdocid="8628554" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1690178968" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Aktuálně.cz</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pernerová 673/47, 186 00, Prague 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">233071111</telephone>
+                                             <fax>224800370</fax>
+                                             <email>redakce@aktualne.cz</email>
+                                             <internet>www.aktualne.cz</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <content-note style="NORMAL">first Czech online daily</content-note>
+                                        <content-note style="NORMAL">owned by Economia media gp since 2014</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pavel</forename>
+                                                       <surname>Svec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2839785" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2839784" slsdocid="945379" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1086618955" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--Sc1 20.11.2018 role group and add confirmed at http://www.unievydavatelu.cz/cs/unie_vydavatelu/clenove_jejich_tituly?titul-detail=548 tel and fax confirmed at http://img.ostium.cz/file-public/384/5-cenik_e15_2018.pdf-->
+                                        <org-entry-head>
+                                             <org-entry-name>Blesk</org-entry-name>
+                                             <alt-name>Lightning</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Komunardů 1548/42, 170 00 Prague 7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225977616</telephone>
+                                             <email>tip@blesk.cz</email>
+                                             <internet>www.blesk.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">popular</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Radek</forename>
+                                                       <surname>Lain</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587591" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587590" slsdocid="57215" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.273" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Brněnský Deník—Rovnost</org-entry-name>
+                                             <alt-name>Brno Daily—Equality</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Milady Horákové 9, 602 00 Brno</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">602595109</telephone>
+                                             <email>redakce.brnensky@denik.cz</email>
+                                             <internet>brnensky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1885</found-date>
+                                        <content-note style="NORMAL">
+                  fmrly 
+                  <i>Rovnost</i>
+                   (Equality)
+                </content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Michal</forename>
+                                                       <surname>Šupálek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587669" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587668" slsdocid="1291628" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1118676898" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies - Prague">
+                                        <!--Sc1 28.01.2022 20.11.2018 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>České Noviny</org-entry-name>
+                                             <alt-name>Czech Happenings</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Neris s.r.o. Opletalova 5/7, 111&#160;44 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222098111</telephone>
+                                             <fax>222098113</fax>
+                                             <email>novinky@ctk.cz</email>
+                                             <internet>www.ceskenoviny.cz</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">online only; in Czech and English</content-note>
+                                        <content-note style="NORMAL">
+                  also produces 
+                  <i>Finanční Noviny</i>
+                   (Financial News) and 
+                  <i>Sportovní Noviny</i>
+                   (Sport News)
+                </content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Karel</forename>
+                                                       <surname>Petrák</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587605" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587604" slsdocid="57214" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.275" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 30.01.2017 details verified from http://www.vlmedia.cz/kontakty/regiony/ceskobudejovicky_denik.html-->
+                                        <!--sc1 20.11.2018 tel confirmed at https://m.facebook.com/budejovickydenik/?__tn__=C-R-->
+                                        <org-entry-head>
+                                             <org-entry-name>Českobudějovický Deník</org-entry-name>
+                                             <alt-name>České Budějovice Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Přemysla Otakara II 8/5, 370 01 České Budějovice</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">725179282</telephone>
+                                             <email>denik@mojepredplatne.cz</email>
+                                             <internet>ceskobudejovicky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kamil</forename>
+                                                       <surname>Kacerovský</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015286" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015285" slsdocid="3014632" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274782210" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--NS 30.01.2017 details verified from http://www.vlmedia.cz/kontakty/regiony/ceskokrumlovsky_denik.html-->
+                                        <!--SBE 26.02.2015 Role group not verified-->
+                                        <!--Sc1 20.11.2018 tel and fax confirmed at http://www.unievydavatelu.cz/Upload/420.pdf-->
+                                        <org-entry-head>
+                                             <org-entry-name>Českokrumlovský Denik</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Přemysla Otakara II 8/5, 370 01 České Budějovice</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">602667627</telephone>
+                                             <email>redakce.ceskokrumlovsky@denik.cz</email>
+                                             <internet>ceskokrumlovsky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zuzana</forename>
+                                                       <surname>Kyselová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8694730" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8694729" slsdocid="8694107" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1694079628" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--nb 07 09 2023 could not verify founding date-->
+                                        <org-entry-head>
+                                             <org-entry-name>Deník</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>U. Trezorky 921/2, 158 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">272015111</telephone>
+                                             <email>sekretariat@vlmedia.cz</email>
+                                             <internet>www.denik.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">publ. by Vltava Labe Media a.s.</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Roman</forename>
+                                                       <surname>Gallo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8694826" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8694825" slsdocid="8694776" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1694082924" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Deník N</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Spálená 97/29, 110 00 Nové Město</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">770174295</telephone>
+                                             <email>info@denikn.cz</email>
+                                             <internet>denikn.cz</internet>
+                                        </address-block>
+                                        <found-date>2018</found-date>
+                                        <content-note style="NORMAL">independent; based on Slovakian daily Denník N</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pavel</forename>
+                                                       <surname>Tomášek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015282" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015281" slsdocid="3014576" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274780524" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Haló Noviny</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Politických vězňů 9, 111 21 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222897111</telephone>
+                                             <email>halonoviny@halonoviny.cz</email>
+                                             <internet>www.halonoviny.cz</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">communist</content-note>
+                                        <content-note style="NORMAL">published by Futura</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petr</forename>
+                                                       <surname>Kojzar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587695" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587694" slsdocid="57207" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.288" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--SBE 26.02.2015 http://strategie.hnonline.sk/spravy/media/potvrdene-novou-sefredaktorkou-hospodarskych-novin-je-marcela-simkova-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hospodářské Noviny</org-entry-name>
+                                             <alt-name>Economic News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pernerova 673/47, 186 00 Prague 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">233071111</telephone>
+                                             <email>redakce@hn.cz</email>
+                                             <internet>ihned.cz</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jaroslav</forename>
+                                                       <surname>Mašek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587613" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587612" slsdocid="57213" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.277" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 30.01.2017 details from http://www.vlmedia.cz/kontakty/regiony/hradecky_denik.html-->
+                                        <!--SBE 26.02.2015 Role group not verified-->
+                                        <!--sc1 20.11.2018 tel confirmed at http://www.rocenkaunievydavatelu.cz/2016/index.php?akce=det&detail=20-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hradecký Deník</org-entry-name>
+                                             <alt-name>Hradec Králové Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kladská 17, 500 03 Hradec Králové</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">606694444</telephone>
+                                             <email>denik@mojepredplatne.cz</email>
+                                             <internet>hradecky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">
+                  fmrly 
+                  <i>Hradecké Noviny</i>
+                   (Hradec Králové News)
+                </content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Fremuth</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587703" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587702" slsdocid="57206" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.289" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Lidové Noviny</org-entry-name>
+                                             <alt-name>People’s News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Karla Engliše 519/11, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225067103</telephone>
+                                             <email>inzerce@lidovky.cz</email>
+                                             <internet>www.lidovky.cz</internet>
+                                        </address-block>
+                                        <found-date>1893, re-established in 1988</found-date>
+                                        <ownership>owned by the Mafra media gp, a subsidiary of Agrofert</ownership>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petr</forename>
+                                                       <surname>Busta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587732" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587731" slsdocid="57205" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.290" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--Sc 28.01.2022 role group at https://www.mafra.cz/o-spolecnosti.aspx?cat=reditele-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mladá Fronta Dnes</org-entry-name>
+                                             <abbr>DNES</abbr>
+                                             <alt-name>The Youth Front Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Anděl Media Centrum, POB 43, Karla Engliše 519/11, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225555522</telephone>
+                                             <email>predplatne@mafra.cz</email>
+                                             <internet>www.mfdnes.cz</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <ownership>owned by Mafra media gp, a subsidiary of Agrofert</ownership>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jaroslav</forename>
+                                                       <surname>Plesl</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587629" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587628" slsdocid="57211" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.281" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--NS 30.01.2017 details from http://www.vlmedia.cz/kontakty/regiony/moravskoslezsky_denik.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Moravskoslezský Deník</org-entry-name>
+                                             <alt-name>Moravia-Silesia Daìly</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Mlýnská 10, 702 00 Ostrava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">724092457</telephone>
+                                             <email>denik@mojepredplatne.cz</email>
+                                             <internet>moravskoslezsky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aleš</forename>
+                                                       <surname>Uher</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587653" slsdocid="57208" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.286" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--sc 28.01.2022 email not confirmed-->
+                                        <!--NS 30.01.2017 details from http://www.vlmedia.cz/kontakty/regiony/plzensky_denik.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Plzeňský Deník</org-entry-name>
+                                             <alt-name>Plzeň Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kováršká 4, 301 00 Plzeň</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">725179282</telephone>
+                                             <email>redakce.plzensky@denik.cz</email>
+                                             <internet>www.plzensky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kamil</forename>
+                                                       <surname>Kacerovský</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015290" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015289" slsdocid="3014683" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274784209" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--Sc 28.01.2022 role group not confrimed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Prague Daily Monitor</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Janovského 767/29, 170 00 Prague 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">234715828</telephone>
+                                             <email>editors@praguemonitor.com</email>
+                                             <internet>praguemonitor.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Man Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kenny</forename>
+                                                       <surname>Phipps</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587739" slsdocid="57204" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.291" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--nb 25 08 2023 novinky is also a section of the internet portal seznam.cz-->
+                                        <org-entry-head>
+                                             <org-entry-name>Právo</org-entry-name>
+                                             <alt-name>Right</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Slezská 2127/13, 121 50 Prague 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">221001476</telephone>
+                                             <fax>221001488</fax>
+                                             <email>vyrobaodbyt_vo@pravo.cz</email>
+                                             <internet>www.pravo.cz</internet>
+                                        </address-block>
+                                        <found-date>
+                  1920 as 
+                  <i>Rudé Právo</i>
+                                        </found-date>
+                                        <content-note style="NORMAL">present name adopted in 1991</content-note>
+                                        <content-note style="NORMAL">features the online news magazine Novinky.cz (f. 1998, internet www.novinky.cz)</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petr</forename>
+                                                       <surname>Šabata</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7654688" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7654687" slsdocid="7654680" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1627274174" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINICIPAL DAILIES">
+                                        <!--Sc 31.01.2022 email not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Seznam Zprávy</org-entry-name>
+                                             <alt-name>Message List</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Radlická 3294/10, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">234694111</telephone>
+                                             <email>zpravy@seznam.cz</email>
+                                             <internet>www.seznamzpravy.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">online</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief (News)</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Kubík</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587745" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587744" slsdocid="57202" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.293" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--sc1 28.05.2019 add and email confirmed at https://sip.denik.cz/pribehy-a-udalosti/dedo-ja-bych-ji-sned20090820.html tel cofirmed at https://www.vlmedia.cz/kontakty/sidlo-a-vedeni-spolecnosti.html role gorup confirmed at https://www.linkedin.com/in/michalbroz/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Šíp</org-entry-name>
+                                             <alt-name>The Arrow</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>U Trezorky 921/2, 158 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">272015105</telephone>
+                                             <email>sefredaktor@siponline.cz</email>
+                                             <internet>sip.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <content-note style="NORMAL">popular</content-note>
+                                        <content-note style="NORMAL">
+                  also weekly edn, 
+                  <i>Šíp Plus</i>
+                   (f. 2009)
+                </content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename> Jan</forename>
+                                                       <surname>Novák</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2587750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2587749" slsdocid="57201" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.295" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--Sc 31.01.2022 email at https://www.facebook.com/usteckydenik/about/?ref=page_internal-->
+                                        <!--NS 30.01.2017 details from http://www.vlmedia.cz/kontakty/regiony/ustecky_denik.html-->
+                                        <!--sb 05.06.2013 fax,role group not confirmed. SBE 27.02.2015 Fax not confirmed-->
+                                        <!--Sc1 20.11.2018 tel and email confirmed at http://mojepredplatne.denik.cz/inzerce-predplatne/kontakty-denik/zatecky_denik.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ústecký Deník</org-entry-name>
+                                             <alt-name>Ústí nad Labem Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Velká Hradební 238/10, 400 01 Ústí nad Labem</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">272015015</telephone>
+                                             <email>ustecky@denik.cz</email>
+                                             <internet>ustecky.denik.cz</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimír</forename>
+                                                       <surname>Mayer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 18.01.2011 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="CZ.DIR.296" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Principal Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL2841820" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2841819" slsdocid="2841552" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1263877081" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>21. Století</org-entry-name>
+                                             <alt-name>The 21st Century</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bohdalecká 6/1420, 101 00 Prague 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">281090610</telephone>
+                                             <email>21.stoleti@rf-hobby.cz</email>
+                                             <internet>www.21stoleti.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">science and technology</content-note>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jan</forename>
+                                                       <surname>Zelenka</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172536" slsdocid="57194" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.302" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Divadelní Noviny</org-entry-name>
+                                             <alt-name>Theatre News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Celetná 17, 110 00 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">224809115</telephone>
+                                             <email>redakce@divadelni-noviny.cz</email>
+                                             <internet>www.divadelni-noviny.cz</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <frequency>22 a year</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josef</forename>
+                                                       <surname>Herman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172544" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172543" slsdocid="57193" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.303" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--details could be found on http://economia.ihned.cz/135/obsah-sekce/kontakty/-->
+                                        <!--sc1 21.11.2018 stats not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ekonom</org-entry-name>
+                                             <alt-name>Economist</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pernerova 673/47, 186 00 Prague 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">233071111</telephone>
+                                             <fax>224800370</fax>
+                                             <email>economia@economia.cz</email>
+                                             <internet>ekonom.cz</internet>
+                                        </address-block>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petr</forename>
+                                                       <surname>Kain</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2841634" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2841633" slsdocid="2841602" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1263879106" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>History Revue</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bohdalecká 6/1420, 101 00 Prague 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">281090611</telephone>
+                                             <email>sekretariat@rf-hobby.cz</email>
+                                             <internet>rf-hobby.cz/profil/history-revue</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">history magazine</content-note>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ilona</forename>
+                                                       <surname>Kučerová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1296806" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1296805" slsdocid="1296139" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cz" id="CZ.DIR.1118943543" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Instinkt</org-entry-name>
+                                             <alt-name>Instinct</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Mikuleckého 1309/4, 147 00 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222994110</telephone>
+                                             <email>instinkt@instinkt-online.cz</email>
+                                             <internet>instinkt.tyden.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">
+                  fmrly 
+                  <i>Mladý Svět</i>
+                   (The Young World)
+                </content-note>
+                                        <content-note style="NORMAL">illustrated weekly</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Venuše</forename>
+                                                       <surname>Baxová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172550" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172549" slsdocid="57192" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.304" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Katolický Týdeník</org-entry-name>
+                                             <alt-name>Catholic Weekly</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Antala Staška 511/40, 140 00 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">224250395</telephone>
+                                             <fax>224257041</fax>
+                                             <email>sekretariat@katyd.cz</email>
+                                             <internet>www.katyd.cz</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kateřina</forename>
+                                                       <surname>Koubová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 18.01.2011 circ fig not updated. SBE 05.03.2015 Same-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3014774" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3014773" slsdocid="3014710" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274785163" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>LandesECHO</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vocelova 602/3, 120 00 Prague 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">235354282</telephone>
+                                             <fax>235365903</fax>
+                                             <email>redaktion@landesecho.cz</email>
+                                             <internet>landesecho.cz</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">German</content-note>
+                                        <content-note style="NORMAL">expressing the interests of the German minority</content-note>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steffen</forename>
+                                                       <surname>Neumann</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2841699" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2841698" slsdocid="2841652" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1263880584" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--Sc 31.01.2022 info at https://casopisy.mafra.cz/redakce-->
+                                        <org-entry-head>
+                                             <org-entry-name>Pestrý Svět</org-entry-name>
+                                             <alt-name>Colourful World</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Karla Engliše 519/11, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225008366</telephone>
+                                             <email>redakce.pestrysvet@mafra.cz</email>
+                                             <internet>casopisy.mafra.cz/vydani/pestry-svet/2022/4?tab=inzerce</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">social</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Štépánka</forename>
+                                                       <surname>Fefferová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3096381" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3096380" slsdocid="3014787" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274786972" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--Sc 31.01.2022 role gorup at https://www.pragerzeitung.cz/impressum/-->
+                                        <!--sb 12.06.2013 email not verified. SBE 05.03.2015 DITTO-->
+                                        <!--sc1 21.11.2018 tel fax and email confirmed at http://www.pragerzeitung.cz/index.php/aboservice-->
+                                        <org-entry-head>
+                                             <org-entry-name>Prager Zeitung</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Koněvova 1705/138, 130 00 Prague 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222250125</telephone>
+                                             <email>post@pragerzeitung.cz</email>
+                                             <internet>www.pragerzeitung.cz</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">in German</content-note>
+                                        <content-note style="NORMAL">politics, economy, culture and sport</content-note>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">Thur.</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marcus</forename>
+                                                       <surname>Hundt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015307" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015306" slsdocid="3014920" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1274790364" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Raport</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ottova 418, 269 01 Rakovník</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">313512601</telephone>
+                                             <fax>313512992</fax>
+                                             <email>raport@raport.cz</email>
+                                             <internet>raport.cz</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">focus on people and events of Central Bohemia</content-note>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pavel</forename>
+                                                       <surname>Sklenička</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172577" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172576" slsdocid="57186" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.309" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Reflex</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Komunardů 42, 170 00 Prague 7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225977442</telephone>
+                                             <email>rxonline@reflex.cz</email>
+                                             <internet>www.reflex.cz</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">general</content-note>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">Thur.</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marek</forename>
+                                                       <surname>Stoniš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172580" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172579" slsdocid="57185" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.310" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Respekt</org-entry-name>
+                                             <alt-name>Respect</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pernerova 47, 186 00 Prague 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">233074525</telephone>
+                                             <email>redakce@respekt.cz</email>
+                                             <internet>www.respekt.cz</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>political and cultural weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Erik</forename>
+                                                       <surname>Tabery</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2839847" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2839846" slsdocid="57182" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.313" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Revue Sondy</org-entry-name>
+                                             <alt-name>Revue Soundings</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>W. Churchilla 2, 113 59 Prague 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">739534613</telephone>
+                                             <email>sondy@cmkos.cz</email>
+                                             <internet>www.esondy.cz</internet>
+                                        </address-block>
+                                        <found-date>
+                  2008 to replace 
+                  <i>Sondy</i>
+                   (weekly)
+                </found-date>
+                                        <frequency>12 a year</frequency>
+                                        <content-note style="NORMAL">journal of the Czech (Bohemian)-Moravian Confederation of Trade Unions</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Köppl</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2841740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2841739" slsdocid="2841715" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1263883191" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--sc 31.01.2022 contact at https://casopisy.mafra.cz/redakce-->
+                                        <org-entry-head>
+                                             <org-entry-name>Rytmus Života</org-entry-name>
+                                             <alt-name>Rhythm of Life</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Karla Engliše 519/11, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225008614</telephone>
+                                             <email>redakce.rytmuszivota@mafra.cz</email>
+                                             <internet>casopisy.mafra.cz/rytmus-zivota</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">Mon.</content-note>
+                                        <content-note style="NORMAL">social</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Václav</forename>
+                                                       <surname>Nekvapil</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172601" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172600" slsdocid="950558" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1086962732" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--sc1 21.11.2018 details confirmed at https://marketingsales.tyden.cz/kontakty-a-redakce_1026_stranka.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Týden</org-entry-name>
+                                             <alt-name>The Week</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Mikuleckého 1309/4, 147 00 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222994110</telephone>
+                                             <email>tyden@tyden.cz</email>
+                                             <internet>www.tyden.cz</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">general</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ondřej</forename>
+                                                       <surname>Švec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2841781" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2841780" slsdocid="2841767" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1263884593" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Žena a Život</org-entry-name>
+                                             <alt-name>Woman and Life</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Karla Engliše 519/11, 150 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225008260</telephone>
+                                             <email>redakce.zenaazivot@mafra.cz</email>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <frequency>every two weeks</frequency>
+                                        <content-note style="NORMAL">lifestyle</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Etela Lukeš</forename>
+                                                       <surname>Fiantová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="CZ.DIR.326" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL64522" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64521" slsdocid="57167" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.327" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <data-protection date-added="12.03.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Česká Tisková Kancelář</org-entry-name>
+                                             <abbr>ČTK</abbr>
+                                             <alt-name>Czech News Agency</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Opletalova 5/7, 111 44 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222098111</telephone>
+                                             <email>ctk@ctk.cz</email>
+                                             <internet>www.ctk.cz</internet>
+                                        </address-block>
+                                        <found-date>Nov. 1992</found-date>
+                                        <content-note style="NORMAL">Czech and English general and economic news service</content-note>
+                                        <content-note style="NORMAL">publishes daily bulletins in English</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Majstr</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="CZ.DIR.342" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Associations</heading>
+                         <org-list>
+                              <org-entryref id="SL64550" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64549" slsdocid="57151" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.343" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Syndicate of Journalists of the Czech Republic</org-entry-name>
+                                             <alt-name>Syndikát Novinářů České Republiky</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Senovážné nám. 978/23, 110 00 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">224142456</telephone>
+                                             <email>kancelar@syndikat-novinaru.cz</email>
+                                             <internet>syndikat-novinaru-cr-z-s.webnode.cz</internet>
+                                        </address-block>
+                                        <found-date>1877</found-date>
+                                        <content-note style="NORMAL">reorg. in 1990</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adam</forename>
+                                                       <surname>Černý</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 19.01.2011 chair name found on: http://syndikat-novinaru.cz/1/3/22/syndikat/gremium-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

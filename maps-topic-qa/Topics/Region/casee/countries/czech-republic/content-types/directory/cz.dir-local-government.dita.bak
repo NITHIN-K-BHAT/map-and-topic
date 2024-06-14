@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61824" sllink="SLSDOCRF" sllinkid="61823" slsdocid="56718" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="CZ.DIR.65" id-root="cz.dir" iso="cz" sect-type="local-government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <!--sc1 23.04.2018 headline content checked-->
+                    <!--sc1 09.07.2019 headline content chceked-->
+                    <heading>Local Government</heading>
+                    <p id="CZ.DIR.66">In 1997 the legislature approved the establishment of new self-governing units (kraji, regions). Regional elections took place on 2-3 October 2020, and local elections were held on 23-24 September 2022.</p>
+                    <!--CM Hejtman transl. online as Captain.. changed on one reply from Gov. to Pres. of Region. DH G -->
+                    <org-list>
+                         <org-entryref id="SL938875" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938874" slsdocid="938868" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085492336" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--sc 08.06.2023 role group at https://www.linkedin.com/in/petra-peckov%C3%A1-896a629b/?originalSubdomain=cz IG: It is also on the official website, no need to use linked in - https://stredoceskykraj.cz/web/urad/hejtmanka-kraje-->
+                                   <org-entry-head>
+                                        <org-entry-name>Central Bohemia (Středočeský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Zborovská 11, 150 21 Prague 5</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">257280111</telephone>
+                                        <fax>257280203</fax>
+                                        <email>podatelna@kr-s.cz</email>
+                                        <internet>stredoceskykraj.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Petra</forename>
+                                                  <surname>Pecková</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4989215" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4989214" slsdocid="939008" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085495083" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 08.06.2023 role group confirmed at https://www.promestaobce.cz/dotace-finance/vitezslav-schrek-sance-na-vyplatu-vkladu-sberbank-je-i-pro-mesta-obce-a-kraje-opet-o-neco-vyssi-insolvencni-spravkyne-uz-nevylucuje-vraceni-100-zadrzene-castky/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Highlands (Vysočina) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Žižkova 1882/57, 586 01 Jihlava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">564602111</telephone>
+                                        <email>posta@kr-vysocina.cz</email>
+                                        <internet>www.kr-vysocina.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vítězslav</forename>
+                                                  <surname>Schrek</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938957" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938956" slsdocid="938950" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085494395" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 03.02.2021 idnes.cz/hradec-kralove/zpravy/hejtman-martin-cervicek-hradec-kralovehradecky-volba-radni.A201102_121029_hradec-zpravy_tuu-->
+                                   <!--Sc 11.11.2020 https://www.ceskenoviny.cz/zpravy/novym-hejtmanem-hradeckeho-kraje-zvolen-martin-cervicek-ods/1953075-->
+                                   <org-entry-head>
+                                        <org-entry-name>Hradec Králové (Královéhradecký) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Pivovarské nám. 1245, 500 03 Hradec Králové</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">495817111</telephone>
+                                        <email>posta@khk.cz</email>
+                                        <internet>www.khk.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Martin</forename>
+                                                  <surname>Červíček</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938912" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938911" slsdocid="938901" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085493349" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Karlovy Vary (Karlovarský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Závodní 353/88, 360 06 Karlovy Vary</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">354222300</telephone>
+                                        <email>epodatelna@kr-karlovarsky.cz</email>
+                                        <internet>www.kr-karlovarsky.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Petr</forename>
+                                                  <surname>Kulhánek</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938942" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938941" slsdocid="938930" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085494021" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 08.06.2021 add not confirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Liberec (Liberecký) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    U Jezu 642/2
+                    <sc>a</sc>
+                    , 461 80 Liberec 2
+                  </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">485226111</telephone>
+                                        <email>podatelna@kraj-lbc.cz</email>
+                                        <internet>www.kraj-lbc.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Martin</forename>
+                                                  <surname>Půta</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL939069" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="939068" slsdocid="939055" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085495968" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 09.06.2023 https://english.radio.cz/anos-krkoska-becomes-governor-moravia-silesia-8785395-->
+                                   <!--Sc 08.06.2023 add tel and email confirmed at https://www.facebook.com/nasemoravskoslezsko/?locale=en_GB rolegroup at https://www.irozhlas.cz/zpravy-domov/ivo-vondrak-hejtman-moravskoslezskeho-kraje-rezignace_2306080925_ako-->
+                                   <!--Sc 30.05.2022 website not working contact details confirmed at https://www.facebook.com/nasemoravskoslezsko/about/?ref=page_internal role geoup at https://www.facebook.com/vondrakivo/-->
+                                   <!--Sc 0806.2021 role group not confirmed-->
+                                   <!--Sc 03.02.2021 role group confirmed at https://www.linkedin.com/in/ivo-vondrak-4a4a8b12/-->
+                                   <data-protection date-added="22.07.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Moravia-Silesia (Moravskoslezský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>28 Října 117/2771, Ostrava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">595622222</telephone>
+                                        <email>posta@msk.cz</email>
+                                        <internet>www.msk.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Josef</forename>
+                                                  <surname>Belica</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL939053" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="939052" slsdocid="939046" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085495696" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 08.06.2023 role group confirmed at https://www.facebook.com/suchanek.ol/-->
+                                   <org-entry-head>
+                                        <org-entry-name>Olomouc (Olomoucký) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    Jeremenkova 40
+                    <sc>a</sc>
+                    , 779 00 Olomouc
+                  </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">585508111</telephone>
+                                        <email>posta@olkraj.cz</email>
+                                        <internet>www.olkraj.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Josef</forename>
+                                                  <surname>Suchánek</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL939004" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="939003" slsdocid="938963" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085494755" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Pardubice (Pardubický) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Komenského nám. 125, 532 11 Pardubice</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">466026111</telephone>
+                                        <fax>466611220</fax>
+                                        <email>posta@pardubickykraj.cz</email>
+                                        <internet>www.pardubickykraj.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Martin</forename>
+                                                  <surname>Netolický</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938896" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938895" slsdocid="938887" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085492971" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--sc 12.06.2020 https://www.ceskenoviny.cz/zpravy/hejtmana-plzenskeho-kraje-odvolali-do-voleb-bude-kraj-bez-nej/1899859-->
+                                   <org-entry-head>
+                                        <org-entry-name>Plzeň (Plzeňský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Škroupova 1760/18, 306 13 Plzeň, POB 313</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">377195111</telephone>
+                                        <email>posta@plzensky-kraj.cz</email>
+                                        <internet>www.plzensky-kraj.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Rudolf</forename>
+                                                  <surname>Špoták</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938863" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938862" slsdocid="938852" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085491457" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 08.06.2021 role group confirmed at https://cor.europa.eu/EN/members/Pages/memberprofile.aspx?MemberId=2037456 addd and email confirmed at https://www.praha.eu/jnp/en/about_prague/city_administration/city_hall/contacts/index.html-->
+                                   <!--Sc1 16.11.2018 https://www.radio.cz/en/section/news/zdenek-hrib-officially-elected-prague-mayor-->
+                                   <!--Sc 08.06.2023 telnot confirmed12.06.2020 tel not confirmed-->
+                                   <org-entry-head>
+                                        <org-entry-name>Prague City (Pražský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Mariánské nám. 2, 110 01 Prague 1</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">236001111</telephone>
+                                        <fax> 236007102</fax>
+                                        <email>info@praha.eu</email>
+                                        <internet>www.praha.eu</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Mayor</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Bohuslav</forename>
+                                                  <surname>Svoboda</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938885" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938884" slsdocid="938878" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085492661" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="08.07.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>South Bohemia (Jihočeský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>U zimního stadionu 1952/2, 370 76 České Budějovice</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">386720111</telephone>
+                                        <email>posta@kraj-jihocesky.cz</email>
+                                        <internet>www.kraj-jihocesky.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Martin</forename>
+                                                  <surname>Kuba</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL939041" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="939040" slsdocid="939031" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085495401" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--Sc 30.05.2022 role group confired at https://www.facebook.com/HejtmanJMK/-->
+                                   <!--Sc 11.11.2020 https://www.ceskenoviny.cz/zpravy/jihomoravskym-hejtmanem-se-stal-grolich-nahradil-simka/1956921-->
+                                   <!--SBE smail not confirmed-->
+                                   <!--sc1 12.06.2020 email not confirmed-->
+                                   <data-protection date-added="22.07.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>South Moravia (Jihomoravský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Žerotínovo nám. 449/3, 601 82 Brno</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">541651111</telephone>
+                                        <email>posta@jmk.cz</email>
+                                        <internet>www.jmk.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jan</forename>
+                                                  <surname>Grolich</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL938927" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="938926" slsdocid="938920" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085493630" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <data-protection date-added="12.07.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Ústí nad Labem (Ústecký) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Velká Hradební 3118/48, 400 01 Ústí nad Labem</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">475657111</telephone>
+                                        <email>epodatelna@kr-ustecky.cz</email>
+                                        <internet>www.kr-ustecky.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jan</forename>
+                                                  <surname>Schiller</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL939086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="939085" slsdocid="939057" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CZ.DIR.1085496185" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Zlín (Zlínský) Regional Administration</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Třída Tomáše Bati 21, 761 90 Zlín</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">577043111</telephone>
+                                        <email>podatelna@kr-zlinsky.cz</email>
+                                        <internet>zlinskykraj.cz</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Radim</forename>
+                                                  <surname>Holis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

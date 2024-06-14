@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62208" sllink="SLSDOCRF" sllinkid="62207" slsdocid="61005" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SI.DIR.537" id-root="si.dir" iso="si" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="SI.DIR.538">Slovenia offers a variety of tourist attractions, including Mediterranean resorts to the west, the Julian Alps and the lakes of Bled and Bohinj to the north and, in the south, the karst limestone regions, with more than 6,000 caves.</p>
+                    <p>In May 2022 the Government adopted a new, seven-year strategy for the development of tourism in 2022-28.</p>
+                    <org-list>
+                         <org-entryref id="SL70648" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70647" slsdocid="61151" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="SI.DIR.539" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="04.05.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Slovenian Tourist Board</org-entry-name>
+                                        <abbr>STB</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Dimičeva 13, 1000 Ljubljana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 5898550</telephone>
+                                        <email>info@slovenia.info</email>
+                                        <internet>www.slovenia.info</internet>
+                                   </address-block>
+                                   <found-date>1996</found-date>
+                                   <role-group>
+                                        <role>Dir-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Maja</forename>
+                                                  <surname>Pak</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

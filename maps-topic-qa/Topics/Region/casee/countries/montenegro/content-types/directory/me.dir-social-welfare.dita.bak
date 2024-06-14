@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654154" sllink="SLSDOCRF" sllinkid="1654153" slsdocid="1654017" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.DIR.1152191487" id-root="me.dir" iso="me" sect-type="social-welfare" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Social Welfare</heading>
+                    <p>In May 2019 the Government confirmed an increase in the minimum wage to a level equivalent to 43% of the average salary, with effect from 1 July, to be followed by a reduction in the health insurance contribution paid by employers, from a rate of 4.3% to 2.3%.</p>
+                    <p>In response to the COVID-19 pandemic, in April 2020 the Government announced wide-ranging financial support measures to soften the economic impact on businesses and workers. In addition, the European Union provided immediate support amounting to some €3m. for the country’s health sector, and allocated funds of up to €50m. under its pre-accession instrument to aid Montenegro’s social and economic recovery.</p>
+                    <dir-section id="ME.DIR.11533272031" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <!--MR 23.07.2021 headline content checked-->
+                         <heading>Health and Welfare Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL2373546" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2373545" slsdocid="2373542" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1215019569" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Non-governmental Organizations">
+                                        <!--sC1 03.07.2018 allother details confirmed athttps://www.caritas.eu/country/montenegro-->
+                                        <org-entry-head>
+                                             <org-entry-name>Caritas Montenegro</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      85000 Bar, Popovići 98
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(30) 341642</telephone>
+                                             <fax>(30) 304169</fax>
+                                             <email>carbar@t-com.me</email>
+                                             <internet>www.caritas.eu/caritas-montenegro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">Roman Catholic welfare org.</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Đelović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7171630" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7171629" slsdocid="7171530" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1594880030" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Institute of Public Health of Montenegro</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Podgorica, Dzona Džeksona b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 412888</telephone>
+                                             <fax>(20) 243728</fax>
+                                             <email>ijzcg@ijzcg.me</email>
+                                             <internet>www.ijzcg.me</internet>
+                                        </address-block>
+                                        <found-date>1922</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Igor</forename>
+                                                       <surname>Galić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7171636" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7171635" slsdocid="7171605" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1594881770" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <!--MR 07.06.2022 Ditto-->
+                                        <!--MR 23.07.2021 No recent info about role group-->
+                                        <org-entry-head>
+                                             <org-entry-name>National Coordination Body for Infectious Diseases</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Podgorica</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 242530</telephone>
+                                             <fax>(20) 242329</fax>
+                                        </address-block>
+                                        <content-note style="NORMAL">under government of Montenegro</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Milutin</forename>
+                                                       <surname>Simovic</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1667822" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1667821" slsdocid="1667814" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1153327280" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Non-Governmental Organization">
+                                        <data-protection date-added="15.06.2018" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Red Cross of Montenegro</org-entry-name>
+                                             <alt-name>Crveni Krst Crne Gore</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, Jovana Tomaševića 6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 241819</telephone>
+                                             <fax>(20) 241613</fax>
+                                             <email>ckcg@t-com.me</email>
+                                             <internet>ckcg.me</internet>
+                                        </address-block>
+                                        <found-date>1875</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gordana</forename>
+                                                       <surname>Mijović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Gen. Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jelena</forename>
+                                                       <surname>Dubak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

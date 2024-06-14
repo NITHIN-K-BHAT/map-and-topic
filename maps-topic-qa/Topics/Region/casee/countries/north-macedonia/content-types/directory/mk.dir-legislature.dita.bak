@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1863581" sllink="SLSDOCRF" sllinkid="1863580" slsdocid="1863545" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="MK.DIR.1171303188" id-root="mk.dir" iso="mk" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <heading>Legislature</heading>
+                    <org-expandref id="SL1863563" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1863562" slsdocid="1216197" slsdocty="org-entry-expanded org-expanddtd">
+                         
+                         <org-entry-expanded id="MK.DIR.766735135" id-root="mk.dir" iso="mk" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>Assembly</org-entry-name>
+                                   <alt-name>Sobranie</alt-name>
+                              </org-entry-head>
+                              <!--TP 04.07.2013 fax no not verified-->
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>1000 Skopje, 11 Oktomvri b.b.</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(2) 3112255</telephone>
+                                   <fax>(2) 3237947</fax>
+                                   <email>sobranie@sobranie.mk</email>
+                                   <internet>www.sobranie.mk</internet>
+                              </address-block>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1216224" sllink="SLSDOCRF" sllinkid="1216223" slsdocid="177247" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="MK.DIR.383" id-root="mk.dir" iso="mk" section="President and Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="SOBRANJE">
+                                             <dir-entry-name>President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jovan</forename>
+                                                            <surname>Mitrevski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <table-blockref id="SL1216229" sllink="SLSDOCRF" sllinkid="1216228" slsdocid="177560" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                   
+                                   <table-block id="MK.DIR.384" id-root="mk.dir" iso="mk" section="President and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="SOBRANIE" type="OTHER">
+                                        <table-heading>Legislative Elections, 8 May 2024</table-heading>
+                                        <table pgwide="NO" style="WITH-RULES">
+                                             <tgroup cols="4">
+                                                  <colspec colname="PARTY" colwidth="13cm" />
+                                                  <colspec colname="COLSPEC0" colwidth="2.5cm" />
+                                                  <colspec colname="PERCENTAGEOFVOTES" colwidth="2.5cm" />
+                                                  <colspec colname="SEATS" colwidth="2.0cm" />
+                                                  <thead>
+                                                       <row>
+                                                            <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                       </row>
+                                                  </thead>
+                                                  <tbody>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                          Tvoja Makedonija (Your Macedonia)
+                          <endnoteref idref="MK.DIR.1715255481" ref-symbol="*" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">436,036</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">43.32</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">58</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                          Za Evropska Idnina (For a European Future)
+                          <endnoteref idref="MK.DIR.202107241657" ref-symbol="†" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">154,687</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">15.37</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">18</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                          Evropski Front (European Front)
+                          <endnoteref idref="MK.DIR.202107241658" ref-symbol="‡" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">137,561</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">13.67</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">19</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                          Vlen (Worth)
+                          <endnoteref idref="MK.DIR.202107241659" ref-symbol="‖" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">107,081</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">10.64</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Levica (The Left)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">68,663</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">6.82</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Za Nasha Makedonija (For Our Macedonia)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">56,288</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">5.59</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Others</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">18,642</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">1.86</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Invalid votes</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">27,474</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">2.73</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER" />
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                                                                 <b>Total</b>
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">1,006,432</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">120</entry>
+                                                       </row>
+                                                  </tbody>
+                                             </tgroup>
+                                        </table>
+                                        <endnote id="MK.DIR.1715255481" ref-symbol="*">A coalition led by the Vnatrešno-Makedonska Revolucionerna Organizacija-Demokratska Partija za Makedonsko Nacionalno Edinstvo (VMRO-DPMNE, Internal Macedonian Revolutionary Organization-Demo­cratic Party for Macedonian National Unity).</endnote>
+                                        <endnote id="MK.DIR.202107241657" ref-symbol="†">A coalition led by the Socijaldemokratski Sojuz na Makedonija (SDSM—Social Democratic Alliance of Macedonia).</endnote>
+                                        <endnote id="MK.DIR.202107241658" ref-symbol="‡">A coalition led by the Bashkimi Demokratik për Integrim/Demokratska Unija za Integracija (BDI—Democratic Union for Integration).</endnote>
+                                        <endnote id="MK.DIR.202107241659" ref-symbol="‖">A coalition including the BESA, Alternativa (Alternative) and the faction of the Aleanca për Shqiptarët (Alliance for Albanians) led by Arben Taravari.</endnote>
+                                   </table-block>
+                              </table-blockref>
+                         </org-entry-expanded>
+                    </org-expandref>
+               </dir-section>
+          </dir-sectref>
+          

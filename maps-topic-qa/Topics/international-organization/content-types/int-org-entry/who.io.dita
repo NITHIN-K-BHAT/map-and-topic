@@ -1,0 +1,947 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.2442" id-root="io-un.2442" iso="io-un.2442" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee sacac ass mena sasia fea eerca"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>World Health Organization</org-entry-name>
+               <abbr>WHO</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">UNITED NATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee sacac ass mena sasia fea eerca">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Specialized Agencies and Related Organizations)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">World Health Organization</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="casee">The United Nations in Central and South-Eastern Europe</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sacac">The United Nations in South America, Central America and the Caribbean</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">The United Nations in Africa South of the Sahara</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="mena">The United Nations in the Middle East and North Africa</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sasia">The United Nations in South Asia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="fea">The United Nations in the Far East and Australasia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="eerca">The United Nations in Eastern Europe, Russia and Central Asia</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>20 ave Appia, 1202 Geneva 27, Switzerland</verbatim-address>
+               </address>
+               <telephone alsofax="N">227912111</telephone>
+               <fax>227913111</fax>
+               <email>info@who.int</email>
+               <internet>www.who.int</internet>
+          </address-block>
+          <p id="IO-UN.2443">WHO, established in 1948, is the lead agency within the UN system concerned with the protection and improvement of public health. It co-ordinates and undertakes disease control, prevention and surveillance, promotes lifelong good health, and supports the development of equitable, sustainable health systems.</p>
+          <int-org-section id="IO-UN.2444" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio">
+               <heading>Members</heading>
+               <p id="IO-UN.2445">WHO has 194 members.</p>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.2446" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.2447" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>World Health Assembly (WHA)</heading>
+               <p>The Assembly meets once a year (in May) in Geneva, Switzerland, and is responsible for policymaking. It also reviews budgetary contributions, sets the biennial budget, appoints the Director-General, and admits new members. The 77th (2024) WHA was to be held in late May-early June.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2449" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Executive Board</heading>
+               <p id="IO-UN.2450">The Board is composed of 34 health experts designated by a member state that has been elected by the WHA to serve on the Board; each expert serves for three years. The Board holds a principal annual meeting every January to agree the agenda of the next WHA, and a second meeting in May to follow up the Assembly. The Board is responsible for putting into effect the decisions and policies of the Assembly.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2452" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Headquarters</heading>
+               <p>The following staff report directly to the Director-General: the Executive Director for Health Emergencies; WHO Chief Scientist (who leads the Science Division); Chef de Cabinet; Executive Director of the WHO Academy; Head of a WHO liaison office in New York (USA); and Assistant Executive Directors leading divisions of Universal Health Coverage (UHC), Life Course; UHC, Healthier Populations; UHC, Communicable and Noncommunicable Diseases; Access to Medicines and Health Products; Antimicrobial Resistance; Data, Analytics and Delivery; External Relations and Governance; and Business Operations.</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.2453" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Director-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Tedros</forename>
+                                        <surname>Adhanom Ghebreyesus</surname>
+                                   </person-name>
+                                   <person-note>Ethiopia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <!--~ 24.v.22 - Ghebreyesus elected to a second 5-yr term 2022- 27 Dep.-->
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Director, Health Emergencies</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Michael</forename>
+                                        <surname>Ryan</surname>
+                                   </person-name>
+                                   <person-note>Ireland</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Chief Scientist</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Jeremy</forename>
+                                        <surname>Farrar</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.2456" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee sacac ass mena sasia fea eerca">
+               <heading>Principal Offices</heading>
+               <p id="IO-UN.2457">Each of WHO's six geographical regions has its own organization, consisting of a regional committee representing relevant member states and associate members, and a regional office staffed by experts in various fields of health.</p>
+               <org-list>
+                    <org-entry id="IO-UN.2458" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass mena">
+                         <org-entry-head>
+                              <org-entry-name>Africa Office</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Cité du Djoue, BP 06, Brazzaville, Republic of the Congo</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">83-94-02</telephone>
+                              <email>afrgocom@who.int</email>
+                              <internet>www.afro.who.int</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Matshidiso Rebecca</forename>
+                                        <surname>Moeti</surname>
+                                   </person-name>
+                                   <person-note>Botswana</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--Moeti took office in Feb. 2015, for a five-year term, reelected for a second term in 2020-->
+                    <org-entry id="IO-UN.2459" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Americas Office</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Pan-American Health Organization, 525 23rd St, NW, Washington, DC 20037, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 974-3000</telephone>
+                              <!--GS 01.06.2016 Has a contact form-->
+                              <internet>www.paho.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also administers the Caribbean Epidemiology Centre (CAREC)</content-note>
+                         <content-note style="NORMAL">
+            concluded in Oct. 2012 a Practical Arrangement with the 
+            <xr pageref="N" ref="IO-UN.1837">IAEA</xr>
+            , covering collaboration in areas including quality and safety in radiation medicine, radiological safety, radiological security and emergencies, and environmental medicine
+          </content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Jarbas</forename>
+                                        <surname>Barbosa da Silva</surname>
+                                        <gen-name>Jr</gen-name>
+                                   </person-name>
+                                   <person-note>Brazil</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2460" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Eastern Mediterranean Office</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 7608, Abdul Razzak al Sanhouri St, Cairo (Nasr City) 11371, Egypt</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 2765000</telephone>
+                              <fax>(2) 6702492</fax>
+                              <internet>www.emro.who.int</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Hanan</forename>
+                                        <surname>Hassan Balkhy</surname>
+                                   </person-name>
+                                   <person-note>Saudi Arabia</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2461" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="casee edio eerca">
+                         <data-protection date-added="08.01.2008" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Europe Office</org-entry-name>
+                              <abbr>WHO/Europe</abbr>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>51 Marmorvej, 2100 Copenhagen Ø, Denmark</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">45-33-70-00</telephone>
+                              <internet>www.euro.who.int</internet>
+                         </address-block>
+                         <content-note style="NORMAL">subsidiary offices incl. the Bonn, Germany-based WHO European Centre for Environment and Health; the European Office for the Prevention and Control of Noncommunicable Diseases (in May 2023 the 76th WHA voted to relocate this from Moscow, Russian Fed., to Copenhagen); the İstanbul, Türkiye-based European Centre for Preparedness for Humanitarian and Health Emergencies; the WHO European Office for Investment for Health and Development (Venice, Italy); and the WHO European Centre for Primary Health Care (AlmatI, Kazakhstan)</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Hans Henri P.</forename>
+                                        <surname>Kluge</surname>
+                                   </person-name>
+                                   <person-note>Belgium</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--~ WHO Lyon Office removed 02.iv.2023 -->
+                    <org-entry id="IO-UN.2462" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sasia fea">
+                         <org-entry-head>
+                              <org-entry-name>South-East Asia Office</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>World Health House, Indraprastha Estate, Mahatma Gandhi Rd, New Delhi 110002, India</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 43040200</telephone>
+                              <fax>(11) 23368355</fax>
+                              <internet>www.searo.who.int</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Saima</forename>
+                                        <surname>Wazed</surname>
+                                   </person-name>
+                                   <person-note>Bangladesh</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2463" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Western Pacific Office</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 2932, Manila 1000, Philippines</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 5288001</telephone>
+                              <email>wprocom@who.int</email>
+                              <internet>www.who.int/westernpacific</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Saia</forename>
+                                        <surname>Ma’u Piukala</surname>
+                                   </person-name>
+                                   <person-note>Tonga</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.WHOACAD.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>WHO Academy</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <internet>www.who.int/about/who-academy</internet>
+                         </address-block>
+                         <content-note style="NORMAL">to become operational during 2024, headquartered at WHO’s Lyon Hub (France)</content-note>
+                         <content-note style="NORMAL">aims to offer a single digital learning platform, as well as in-person courses, for WHO internal staff and also for outside learners, supporting lifelong learning on health issues, as well as mid-career training programmes, and health emergency preparedness training and simulations</content-note>
+                         <role-group>
+                              <role>Exec. Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>David</forename>
+                                        <surname>Atchoarena</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.WHO.0001" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>WHO Centre for Health Development</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>I. H. D. Centre Bldg, 9th Floor, 5-1-1 Wakinohama-Kaigandori, Chuo-ku, Kobe, Japan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(78) 230-3100</telephone>
+                              <fax>(78) 230-3178</fax>
+                              <email>wkc@who.int</email>
+                              <internet>extranet.who.int/kobe_centre/en</internet>
+                         </address-block>
+                         <found-date>1995</found-date>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Sarah Louise</forename>
+                                        <surname>Barber</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.WHO.0002" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio casee">
+                         <org-entry-head>
+                              <org-entry-name>WHO European Office for Investment for Health and Development</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Castello 6777, 30122 Venice, Italy</verbatim-address>
+                              </address>
+                              <email>whovenice@who.int</email>
+                         </address-block>
+                         <found-date>2003</found-date>
+                         <content-note style="NORMAL">aims to develop a systematic approach to the integration of social and economic factors into European countries' development strategies</content-note>
+                    </org-entry>
+               </org-list>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2464" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>WHO is the UN system’s co-ordinating authority for health (defined as `a state of complete physical, mental and social wellbeing and not merely the absence of disease and infirmity'). WHO's objective is stated in its Constitution as `the attainment by all peoples of the highest possible level of health'. It aims to provide leadership on global public health matters, in partnership with other agencies, as well as to help to shape the global health research agenda, and to monitor and assess health trends. WHO provides technical and policy support to member countries and extends aid following emergencies and natural disasters.</p>
+          <p>
+      WHO supports the pursuit of the 
+      <xr id="IO-UNDP.001" pageref="N">Sustainable Development Goals</xr>
+       (SDGs), which were designed to contribute—either directly or indirectly—to improved global health. SDG 3 explicitly aimed `to ensure healthy lives and promote wellbeing for all at all ages’, and was underpinned by some 13 health targets to be achieved by 2030. These included reducing the maternal mortality ratio to less than 70 per 100,000 live births; ending preventable deaths of newborns, to at least as low as 12 per 1,000 live births, and lowering the under-five mortality rate to at least as low as 25 per 1,000 live births; ending the epidemics of AIDS, tuberculosis (TB), malaria, and neglected tropical diseases, and combating hepatitis, water-borne diseases and other communicable diseases; reducing by one-third—through prevention and treatment—premature mortality from non-communicable diseases (NCDs); promoting mental health and wellbeing; ensuring universal access to sexual and reproductive health services; strengthening prevention and treatment of substance abuse; enhancing the implementation of the Framework Convention on Tobacco Control; substantially lowering numbers of deaths and illnesses from hazardous chemicals, environmental pollution and contamination; ensuring UHC, including financial risk protection, and access to high-quality essential healthcare services, essential medicines and vaccines for all; advancing research, development and affordability of vaccines and essential medicines for those communicable and NCDs that mainly impact developing countries; significantly increasing health financing and the recruitment, development and training of the health workforce in developing countries; strengthening the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks; and reducing by one-half the number of global deaths and injuries arising from road traffic accidents.
+    </p>
+          <p-group>
+               <heading>General Programme of Work</heading>
+               <p>WHO’s 13th General Programme of Work, which guided the organization’s activities during 2019-23, had a particular focus on advancing UHC, developing protection against health emergencies, and promoting health and wellbeing. WHO welcomed the establishment in May 2020 of the independent Geneva-based grant-making WHO Foundation to support the Programme’s delivery. The 14th General Programme of Work, to cover the period 2025-28, was under development in 2024.</p>
+          </p-group>
+          <int-org-section id="WHO.IO.PREPAREDNESS.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Pandemic Prevention, Preparedness and Response</heading>
+               <p>
+        WHO keeps diseases and other health problems under constant surveillance, promotes the exchange of prompt and accurate information and of notification of outbreaks of diseases, and administers the binding 2005 International Health Regulations, which aim to support the international community in preventing and reacting to severe potentially transboundary public health risks. Within the UN system, WHO co-ordinates the international response to emergencies and natural disasters in the health field, in close co-operation with other agencies. In this context, WHO provides expert advice on epidemiological surveillance, control of communicable diseases, public health information, and health emergency training. Its emergency preparedness activities include co-ordination, policymaking and planning, awareness-building, technical advice, training, publication of standards and guidelines, and research. Its emergency relief activities include organizational support, the provision of emergency drugs and supplies, and conducting technical emergency assessment missions. WHO’s 
+        <i>R&amp;D Blueprint</i>
+         is a global preparedness plan focused on the swift activation of research and development activities during epidemics.
+      </p>
+               <p>Under the International Health Regulations, states parties are required to follow safeguarding procedures including reporting certain critical public health events to WHO, and WHO may declare as a Public Health Emergency of International Concern (PHEIC) any extraordinary event that represents a public health risk to multiple countries, and which requires intensified mobilization of resources, and a co-ordinated global response, under the guidance of a dedicated International Health Regulations Emergency Committee of relevant experts. During the period 2009-March 2024 seven PHEICs were declared, in respect of outbreaks of H1N1 (swine flu) in 2009, wild poliovirus in 2014 (still in force in 2024), Ebola Virus Disease (EVD) in 2014 and 2019, the Zika virus in 2016, novel coronavirus disease (COVID-19) during the period 30 January 2020-5 May 2023, and mpox (initially referred to as Monkeypox, subsequently renamed) during 23 July 2022-12 May 2023.</p>
+               <p usage="ewyb edio">In May 2018, during the 71st WHA, WHO and the World Bank Group jointly launched the Global Preparedness Monitoring Board (GPMB)— tasked with strengthening global health security through independent monitoring of preparedness to address outbreaks of disease, pandemics, and other serious health emergencies.</p>
+               <p>WHO’s Global Alert and Response framework aims to provide an effective international system for co-ordinated response to epidemics and other public health emergencies. The Global Outbreak Alert and Response Network (GOARN), established in 2000 by WHO and several partner institutions in epidemic surveillance, maintains constant vigilance regarding outbreaks of disease, and links worldwide expertise to provide an immediate response capability. WHO assists member states in the development and implementation of domestic capacities for epidemic preparedness and response through strengthening national laboratory capacities and early warning alert and response mechanisms; supporting training programmes; and promoting standardized approaches in relation to biorisk reduction and epidemic-prone infections. In July 2011 WHO launched the Global Infection Prevention and Control (GIPC) Network, which provides technical support to member states, through the dissemination of epidemic-prone infection prevention and control (IPC) policies and guidance; the compilation of relevant indicators; and generic training curricula. In May 2023 the 76th WHA resolved to draft, during 2023-24, the inaugural Global Strategy on IPC.</p>
+               <p usage="ewyb edio">WHO works to ensure that efficient planning and standards relating to disease surveillance, risk assessment and response are applied at established points of mass convergence of international travellers, for example airports and seaports, and also at mass international social gatherings, such as major sporting tournaments and religious pilgrimages.</p>
+               <p>WHO aims to strengthen the national capacity of member states to reduce the adverse health consequences of disasters, including conflict, natural disasters and food insecurity. WHO has also taken into consideration the potential malevolent use of bacteria, viruses, toxins, or of chemical agents, in acts of biological or chemical terrorism. In responding to emergency situations, WHO works to develop projects and activities that will assist national authorities in rebuilding or strengthening their own capacity to handle the impact of such situations. In April 2015 WHO initiated a global registry of fast-response Emergency Medical Teams (EMTs). In October 2022 the 5th EMT Global Meeting, held in Yerevan, Armenia, launched an EMTs 2030 Strategy, focused on collectively addressing natural disasters and disease outbreaks.</p>
+               <p>The sudden emergence and global severity of the COVID-19 crisis, from 2020, had a catalytic impact on the development of the global pandemic preparedness and response architecture. A WHO BioHub System for Preparedness and Response to Epidemics and Pandemics, announced in November 2020, aimed to enhance the rapid sharing of viruses and other pathogens between research laboratories worldwide. The first WHO BioHub Facility, based in Switzerland, was initiated in May 2021. A Berlin, Germany-based WHO Hub for Pandemic and Epidemic Intelligence, inaugurated in September, was to support national governments in monitoring emerging variants of concern of COVID-19 and in promptly detecting and responding to pandemic and epidemic risks. In October WHO established a Scientific Advisory Group for the Origins of Novel Pathogens (SAGO), tasked with investigating the origins of the COVID-19 pandemic, and with assessing outbreaks of new diseases. A special session of the WHA held on 1 December agreed to establish an intergovernmental negotiating body to draft a new global framework instrument on pandemic prevention, preparedness and response (as recommended by an Independent Panel for Pandemic Preparedness and Response—established by the WHA in May 2020 to conduct an independent and comprehensive evaluation of the global response to the COVID-19 pandemic). In March 2022 WHO initiated a Global Genomic Surveillance Strategy for Pathogens with Pandemic and Epidemic Potential, to cover the period 2022-32. In April 2023 WHO launched a new Preparedness and Resilience for Emerging Threats (PRET) initiative, which was to have an initial focus on coronaviruses, influenza, respiratory syncytial viruses, and other respiratory pathogens. WHO and partners launched an International Pathogen Surveillance Network (IPSN) in the following month.</p>
+          </int-org-section>
+          <!--~ 15.v.19 - removed edio-only (1998) Health for all in the 21st century section-->
+          <int-org-section id="WHO.IO.18" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>WHO Chief Scientist and Science Division</heading>
+               <p>The WHO Chief Scientist and Science Division covers norms and standards, research and knowledge, and aims to scale up the application of advances in digital health and innovation. The WHO Science Council—comprising nine distinguished scientists—was inaugurated in April 2021, and provides guidance on the organization’s science and research strategy. In April 2022 the Science Division issued a policy brief stipulating that all research undertaken by WHO or with WHO’s support should be shared equitably, ethically and efficiently.</p>
+               <p>WHO works to develop national drugs policies and global guidelines, and promotes the rational use of medicines, and compliance with international drug control requirements. It supports national drug-regulatory authorities and drug-procurement agencies and facilitates international pharmaceutical trade through the exchange of technical information and the harmon­ization of internationally respected norms and standards.</p>
+               <p>WHO’s Family of International Classifications (WHO-FIC) includes the International Classification of Diseases (ICD), providing an etiological framework of health conditions.</p>
+               <p usage="ewyb edio">Since 1948 the ICD has been regularly revised: the 11th revision was endorsed by the WHA in May 2019. The WHO-FIC Network, comprising WHO collaborating centres that have been designated to work on international classifications, WHO regional offices, and relevant departments, meets on an annual basis, and develops, disseminates and maintains the WHO-FIC.</p>
+               <p usage="ewyb edio">
+        WHO publishes the 
+        <i>International Pharmacopoeia (Ph. Int.)</i>
+        —11th edition in effect from January 2023; the 
+        <i>Consultative List of International Nonproprietary Names for Pharmaceutical Substances,</i>
+         and reports of Expert Committees responsible for determining relevant international standards for the manufacture and specification of pharmaceutical and biological products in international commerce. WHO maintains the pharmaceuticals section of the UN 
+        <i>Consolidated List of Products whose Consumption and/or Sale have been Banned, Withdrawn, Severely Restricted or Not Approved by Governments.</i>
+         The 
+        <i>WHO Model List of Essential Medicines</i>
+         is updated every two years and is complemented by corresponding models prescribing information: the 23rd 
+        <i>Model List</i>
+         was published in July 2023; the ninth 
+        <i>Model List of Medicines for Children</i>
+         was also issued at that time. In January 2021 WHO issued an updated 
+        <i>Essential Diagnostics List.</i>
+         The 
+        <i>WHO Model Formulary</i>
+         provides detailed information on the safe and effective use of all essential drugs. 
+        <publ-name>WHO Drug Information</publ-name>
+        , published quarterly, provides current news on drug development and regulation. In February 2024 WHO released the 10th edition of its 
+        <publ-name>Quality Assurance of Pharmaceuticals</publ-name>
+        .
+      </p>
+               <p usage="ewyb edio">An expert WHO Prequalification Team compiles the WHO List of Prequalified Medicinal Products, with the aim of guaranteeing the safety and quality of medicines supplied by procurement agencies.</p>
+               <p usage="ewyb edio ass sacac fea sasia">WHO supports member states in the integration of traditional medicine (TM, also referred to as complementary or alternative medicine—CAM) into national health care systems, and in the appropriate use of traditional medicine, through the provision of technical guidelines, standards and methodologies. The Jamnagar, Gujarat, India-based WHO Global Centre for Traditional Medicine, inaugurated in April 2022, aims to collate evidence and data on TM products and practices. An inaugural WHO Traditional Medicine Global Summit was convened in August 2023, in Gandhinagar, Gujarat.</p>
+               <p usage="ewyb edio">In June 2021 WHO issued guidance on the ethics and governance for artificial intelligence (AI) and health, focused on the following six principles: Protect human autonomy (i.e. human control of healthcare systems and medical decisions, within a framework that protects privacy and confidentiality); Promote human wellbeing and safety, and the public interest; Ensure transparency, explainability and intelligibility; Foster responsibility and accountability; Ensure inclusiveness and equity; and Promote responsive, sustainable AI.</p>
+               <p usage="ewyb edio">In July 2021 WHO issued the first global recommendations on the use of human genome editing for the advancement of public health (for example in supporting more accurately targeted treatments).</p>
+               <p usage="ewyb edio">WHO and development partners established a Health Data Collaborative in March 2016. This aimed to support states in improving the quality of their health data, with a view to tracking progress towards the attainment of the SDGs.</p>
+               <p usage="ewyb edio">The WHO International Clinical Trials Registry Platform (ICTRP) links clinical trials worldwide (i.e. all research studies that assign human participants to health-related interventions, with a view to evaluating the health outcomes of these), and aims to ensure complete transparency of clinical research and its accessibility to all those involved in health care decision making. In May 2022 the 75th WHA adopted a resolution on strengthening clinical trials to provide high-quality evidence on health interventions and to improve research quality and co-ordination.</p>
+               <p usage="ewyb edio">
+        WHO co-ordinates the Health InterNetwork Access to Research Initiative, which was launched in July 2001 to enable relevant authorities in developing countries to access biomedical journals through the internet at no or greatly reduced cost, in order to improve the worldwide circulation of scientific information. The WHO Academy (to be launched in 2024) was to provide courses on health, and WHO’s Global Health Observatory maintains a detailed online repository of indicators and data on health topics, and provides access to WHO’s annual 
+        <publ-name>World Health Statistics</publ-name>
+        . WHO’s SCORE for Health Data Technical Package was designed to strengthen data systems in member states.
+      </p>
+               <p usage="ewyb edio">WHO’s Global Strategy on Digital Health, covering 2020-25, prioritizes the development of accessible, appropriate, affordable, sustainable, `person-centric’ digital technologies as a means of promoting UHC and of achieving the SDGs. The Strategy emphasizes that health data must be classified as sensitive personal information that requires a high security standard. Under a partnership on digital health initiated in June 2023 by WHO and the European Commission, WHO was to use the European Union’s system of seamless cross-border digital COVID-19 certification (introduced in mid-2021) as the template for developing a new WHO Global Digital Health Certification Network (GDHCN). The GDHCN aimed to facilitate co-ordinated global mobility and protection in the event of future pandemics or other global health threats.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2524" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>UHC and the Life Course</heading>
+               <p-group>
+                    <heading>UHC</heading>
+                    <p>In December 2016 WHO launched the UHC Data Portal, which tracks what proportion of national populations have access to 16 essential health services, and provides data on the financial impact on households of private health care. In September 2019 WHO, with 11 other agencies, launched a Global Action Plan for Healthy Lives and Wellbeing for All, under which they pledged to provide more streamlined support to countries’ delivery of UHC and of the health-related SDG targets. The first UN High-level Meeting on UHC was convened in that month at the UN General Assembly, in New York, USA, with participation by heads of state and of government, other senior political representatives, health leaders, and policymakers. The meeting adopted a Political Declaration on advancing commitments towards the achievement of UHC. Commitments included the implementation of a recommended additional primary health care investment equivalent to 1% of GDP, the establishment of mechanisms to ensure that no one should suffer financial hardship linked to the cost of health care, and the implementation of interventions to combat diseases, and to protect women’s and children’s health through accessible essential health services, such as antenatal care, immunization and healthy lifestyle advice. Leaders committed to strengthening their health workforces, health infrastructures, and health governance capacity.</p>
+                    <p>In November 2020 the 73rd WHA established a Council on the Economics of Health for All, to focus on using investments in health to foster sustainable economic growth; its component 11 leading experts on health and economics were appointed in May 2021.</p>
+                    <p usage="ewyb edio">
+          In December 2021 WHO issued 
+          <publ-name>Global expenditure on health: Public spending on the rise?</publ-name>
+          , which noted that over the past two decades out-of-pocket spending (referred to as `OOPS’) had accounted for 44% of health expenditure in low income countries. In June 2022 WHO, with the World Bank, issued 
+          <publ-name>Tracking Universal Health Coverage: 2021 Global Monitoring Report,</publ-name>
+           which reported an upwards trend in the proportion of people worldwide confronted with an impoverishing level of OOPS on personal health.
+        </p>
+                    <p>In June 2023, during the Summit for a New Global Financing Pact, convened in Paris, France, WHO, the African Development Bank, European Investment Bank and Islamic Development Bank collectively launched a Health Impact Investment Platform, focused on strengthening essential, climate and crisis-resilient primary health care services in low and middle income states. Initially some €1,500m. in concessional loans and grants was to be made available through the platform. WHO was to have responsibility for the overall co-ordination of policy, ensuring the alignment of the Platform’s financing decisions with national health priorities and strategies.</p>
+                    <p>
+          The 
+          <publ-name>2023 Universal Health Coverage Global Monitoring Report</publ-name>
+          , released by WHO and the World Bank in advance of a High-level Meeting on UHC that was convened in September at the UN General Assembly, found that more than one-half of the global population still did not have access to essential health services.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Access to Medicines and Health Products</heading>
+                    <p>WHO promotes access to essential drugs of good quality at low cost, and supports the November 2001 Doha Declaration on the Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS) and Public Health, which affirms the right of developing countries to protect public health through the full use of flexible TRIPS provisions. The WHO Essential Medicines and Health Products Price and Availability Monitoring application analyses data on the availability and cost of medicines. WHO provides information to health agencies and care providers on the safety and efficacy of drugs, with particular regard to counterfeit and substandard products, and works to keep substandard medicines away from the global supply chain.</p>
+                    <p usage="ewyb edio sasia ass sacac fea eerca">WHO participates in the `Accelerating Access' initiative, which aims to expand access to care and support, and to advance access to antiretroviral therapy (ART) for people living with the human immunodeficiency virus/acquired immunodeficiency syndrome (HIV/AIDS). It also hosts the secretariat of the International HIV Treatment Access Coalition, founded in December 2002 to facilitate access to ART for people in low- and middle-income countries. In September 2017 a global pricing agreement was announced by UNAIDS and global partners that aimed to accelerate the availability in 92 low- and middle-income countries of an affordable generic single-pill ART treatment regimen containing dolutegravir (DTG), an integrase (viral enzyme) inhibitor that was widely available in most high-income states. In July 2019 WHO declared DTG to be the preferred first- and second-line treatment for all populations, on the basis of new clinical trial evidence assessing its risks versus its benefits. However, in March 2024 WHO reported increasing levels of drug resistance to DTG.</p>
+                    <p>WHO Patient Safety facilitates the development of patient safety policy and practice across all WHO member states. WHO promotes worldwide co-operation on blood safety and clinical technology, supporting states in ensuring access (based on Voluntary Non-Remunerated Donation) to safe blood, blood products and transfusions, as well as to related technologies. WHO supported the organization of the sixth Global Ministerial Summit on Patient Safety, to be convened in mid-April 2024, Santiago, Chile.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio">Health Workforce</heading>
+                    <p usage="edio">
+          In May 2016 the WHA endorsed a Global Strategy on Human Resources for Health: Workforce 2030, which aimed to ensure equitable access to health workers in all countries in order to accelerate progress towards UHC and the achievement of the SDGs. The 
+          <i>WHO Global Code of Practice on the International Recruitment of Health Personnel</i>
+           sets out voluntary principles and practices aimed at underpinning the ethical international recruitment of health personnel.
+        </p>
+                    <p usage="edio">In May 2019 the WHA adopted a new guideline aimed at strengthening best practices and working conditions for community health workers.</p>
+               </p-group>
+               <p-group>
+                    <heading>Life Course and Ageing</heading>
+                    <p>WHO supports the Global Strategy for Women’s, Children’s and Adolescents’ Health, which was initiated by the UN Secretary-General in September 2015. The Global Strategy laid out a roadmap that comprised targets aligned with the SDGs—to be achieved by 2030—and was aimed at ending all preventable deaths of women, children and adolescents, and at ensuring that they should thrive and should transform the world. In February 2017 WHO, UNICEF and partners initiated a Network for Improving Quality of Care for Maternal, Newborn and Child Health. The inaugural meeting of a new WHO Youth Council was convened in January 2023. </p>
+                    <p usage="ewyb edio sasia sacac ass fea">In May 2012 the WHA adopted a resolution on raising awareness of early marriage (entered into by more than 30% of women in developing countries) and adolescent pregnancy, and the consequences thereof for young women and infants.</p>
+                    <p usage="ewyb edio ass mena">In May 2016 WHO issued guidelines to assist health workers in supporting all girls and women with the physical and mental health consequences of female genital mutilation (FGM)—estimated to number more than 200m. worldwide. In February 2018 WHO released a series of guidelines aimed at establishing global care standards for healthy pregnant women; these aimed to minimize unnecessary medical interventions.</p>
+                    <p usage="ewyb edio">In September 1997 WHO, in collaboration with UNICEF, formally initiated a programme advocating the Integrated Management of Childhood Illness (IMCI). In April 2013 WHO and UNICEF launched an Integrated Global Action Plan for the Prevention and Control of Pneumonia and Diarrhoea, focusing on interventions such as improved nutrition and maintaining a clean environment to protect children from contracting both diseases. </p>
+                    <p>WHO forecasts that by 2050 nearly 2,000m. people globally will be aged over 60 years. Its Global Network of Age-Friendly Cities and Communities aims to support the creation of environments that would enable older people to remain active and healthy. A UN Decade of Healthy Ageing was being observed during 2021-30, with a focus on age-friendly environments; combating ageism; integrated care; and long-term care.</p>
+               </p-group>
+               <p-group>
+                    <heading>Immunization and Vaccines</heading>
+                    <p>
+          WHO’s guiding Strategic Advisory Group of Experts (SAGE) on Immunization was established in 1999. WHO’s Immunization Agenda 2030 (IA2030) aimed to extend vaccines `to everyone everywhere’ by 2030. WHO is a founding partner of 
+          <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance</xr>
+          , which was established in 2000 to enhance immunization coverage in developing countries through direct funding and new pricing arrangements with manufacturers.
+        </p>
+                    <p>WHO, UNICEF and partners collaborated in reducing the global immunization coverage from 20% in the early 1980s to a targeted rate of 80% by the end of 1990. Some 84% of infants were estimated to have received three doses of a DTP (diphtheria, tetanus and pertussis) vaccine in 2022 (following a downwards trend in vaccination coverage during the COVID-19 pandemic). The number of so-called `zero-dose’ children—i.e. completely unvaccinated—stood at 14.3m., globally, in 2022.</p>
+                    <p usage="ewyb edio">By the end of 2021 global coverage stood at 71% for three doses of vaccine against Haemophilus influenzae type b (Hib) (which causes meningitis and pneumonia); 80% with Hepatitis B vaccine; 15% for the Human papillomavirus (HPV) vaccine (which aims to prevent cases of cervical cancer); and 51% for Pneumococcal disease vaccine (which combats diseases such as pneumonia and sinusitis).</p>
+                    <p usage="ass">By the end of 2021 some 350m. people in Africa had received MenAfriVac, a vaccine that was introduced in 2010 to combat Meningitis A infections (which have long-term health impacts on one-fifth of affected patients).</p>
+                    <p>The WHO Vaccine Pipeline Tracker publishes lists of candidate vaccines under development in selected pathogen areas. In 2024 WHO was defining regional priority targets for new vaccine development for non-epidemic pathogens, with a focus on TB, HIV, Klebsiella pneumoniae, Streptococcus pyogenes, Shigella, and respiratory syncytial virus.</p>
+                    <p>WHO’s Emergency Use Listing (EUL) procedure reviews the safety, quality and efficacy of as yet unlicensed vaccines, therapeutics and diagnostics.</p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="IO-UN.2478" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>UHC/Communicable and Noncommunicable Diseases</heading>
+               <p>WHO aims to reduce the burden of infectious and parasitic communicable diseases, identifying these as a major obstacle to social and economic progress, particularly in developing countries. Emerging and re-emerging diseases, those likely to cause epidemics, zoonoses (diseases or infections passed from vertebrate animals to humans by means of parasites, viruses, bacteria or unconventional agents), diseases attributable to factors such as environmental changes and changes in farming practices, outbreaks of unknown etiology, and the undermining of some drug therapies by the spread of antimicrobial resistance, are main areas of concern.</p>
+               <p>In May 2017 the 70th WHA adopted a Global Vector Control Response programme which, during the period 2017-30, was to support countries and development partners in strengthening vector control as a principal means of preventing and addressing outbreaks of communicable diseases.</p>
+               <p>
+        WHO works with animal health sector partners at the human-animal interface at national level to identify and reduce animal health and public health risks. In May 2021 WHO, FAO, the UN Environment Programme (UNEP) and the 
+        <xr pageref="N" ref="IO-ORG.ANIMAL.1">World Organisation for Animal Health</xr>
+         (WOAH) established a One Health High-Level Expert Panel, which was tasked with advancing understanding of the emergence and spread of zoonotic diseases that have the potential to generate human pandemics. In April 2022 the four organizations concluded a Memorandum of Understanding that provided for the establishment of a Quadripartite Collaboration for One Health, which was collectively to address challenges at the human-animal-plant-ecosystem interface. In October 2022 the Quadripartite launched a One Health Joint Plan of Action (OH-JPA), which was aimed at collectively integrating systems and capacities to enhance the prevention, detection and response to threats posed to the health of humans, animals, plants and the environment, while also contributing to sustainable development. In March 2023 the Quadripartite heads jointly issued a call to global action, urging that the concept of One Health should be prioritized in the international political agenda; that One Health policies, strategies and plans should be strengthened and accelerated; that intersectoral One Health-focused workforces should be established; that the prevention of pandemics and health threats should be addressed at source, with specific focus on activities and locations that present a significant risk of zoonotic spillover from animals to humans; that One Health-related scientific knowledge sharing should be strengthened; and that investment in One Health strategies and plans should be increased. A Quadripartite Technical Group on the Economics of Antimicrobial Resistance was established in June 2023.
+      </p>
+               <!--One Health -->
+               <p usage="ewyb edio">
+        In May 2022 WHO issued its first 
+        <publ-name>Global Report on Infection Prevention and Control,</publ-name>
+         which found that practices such as good hand hygiene can prevent up to 70% of infections. The report noted a healthcare-associated infection (`HAI’) mortality rate of around 10% for patients who acquire at least one HAI during hospital stays.
+      </p>
+               <p>
+        Combating HIV/AIDS, TB and malaria are organization-wide priorities and, as such, are supported not only by their own areas of work but also by activities undertaken in other areas. TB is the principal cause of death for people infected with the HIV virus and an estimated one-third of people living with HIV/AIDS globally are co-infected with TB. In July 2000 a meeting of the G7 and the Russian Federation launched the 
+        <xr pageref="N" ref="IO-WHO.0001">Global Fund to Fight AIDS, TB and Malaria</xr>
+         (as previously proposed by the UN Secretary-General and recommended by the WHA).
+      </p>
+               <p-group>
+                    <heading>COVID-19 Pandemic</heading>
+                    <p>On 31 December 2019 WHO’s country office in the People’s Republic of China reported that a cluster of cases of an apparently zoonotic viral respiratory illness had emerged in Wuhan City, Hubei Province; a week later the Chinese authorities confirmed that a newly identified coronavirus was in circulation. WHO experts were deployed immediately to address the emerging virus, and technical guidance was issued on relevant clinical management, case definitions, surveillance, infection prevention and control, and on reducing zoonotic transmission; advisory notices for international traffic were also released. On 30 January 2020 WHO formally declared the intensifying new coronavirus epidemic to be a PHEIC. (The new virus was officially termed severe acute respiratory syndrome coronavirus 2—SARS-CoV-2—in February, and the disease that it was causing in humans named COVID-19.) At the beginning of February WHO launched a preparedness and response plan, with a focus on ending human-human and zoonotic transmission of the virus, protecting frontline health workers, strengthening the capacity of fragile health systems to detect and diagnose the virus and to support patients, and minimizing the social and economic impact of the crisis. A Global Research Roadmap was formulated to effect a co-ordinated scientific response to the epidemic. On 11 March WHO declared the outbreak to be a global pandemic, expressing deep concern at `the alarming levels of spread and severity’. In the following month WHO and partners initiated the Access to COVID-19 Tools (ACT)-Accelerator (q.v.), and in early June a US&#8201;$2,000m. procurement fund was announced to support poorer countries to access COVID-19 vaccines. In May 2021 WHO assigned a new naming system for public discourse of the identified variants of SARS-CoV-2 based on the Greek alphabet, rather than by the country or region where they were first detected. WHO’s Director-General participated from mid-2021 in a Multilateral Leaders Taskforce on vaccines access with the WTO Director-General, IMF Executive Director and World Bank President. In August WHO published guidelines on the technical requirements for the issuance of digital certificates demonstrating vaccination against COVID-19. A WHO-WTO-World Intellectual Property Organization Trilateral COVID-19 Technical Assistance Platform was initiated in April 2022. In the following month the second Global COVID-19 Summit raised commitments that were directly in support of COVID-19 and related response activities that totalled nearly $2,500m.</p>
+                    <p>As at January 2024 16 COVID-19 vaccines had been validated for emergency use by WHO’s EUL prodecure. According to WHO nearly 13,600m. COVID-19 vaccine doses had been administered globally by that time. By the end of 2023 more than two-thirds of the eligible global population had completed a primary COVID-19 vaccination schedule, and around one-third had received at least one booster dose (i.e. reinforcing the completed primary schedule). According to the Global Dashboard for Vaccine Equity—an initiative of WHO, UNDP and the University of Oxford—32.8% of people in low-income countries globally had received at least one dose of a COVID-19 vaccine by 29 November, compared with 79.9% in high-income nations.</p>
+                    <p usage="edio ewyb eerca sacac sasia mena fea sacac">
+          The ACT-Accelerator was tasked with accelerating the development and production of tools to combat the COVID-19 pandemic, and ensuring their equitable distribution. It was focused on four pillars: diagnostics, treatment, health system strengthening, and vaccines. The latter pillar, known as the COVID-19 Vaccines Global Access—COVAX Facility, was co-led by WHO, 
+          <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance,</xr>
+           and CEPI. By the termination of the initiative, on 31 December 2023, COVAX had delivered nearly 2,000m. doses of COVID-19 vaccines to 146 countries. According to WHO, this prevented an estimated 2.7m. deaths in lower-income countries, and enabled them to achieve, collectively, a vaccine coverage level of 57%. Lower-income countries were to continue to receive COVID-19 vaccines through 
+          <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance</xr>
+           during 2024-25.
+        </p>
+                    <p usage="edio">In May 2023 a Global Oxygen Alliance was launched, replacing the ACT-Accelerator’s Oxygen Emergency Taskforce to secure future reliable supplies of oxygen for medical purposes and upgrade treatment facilities in lower-income countries.</p>
+                    <p>Notable discrepancies have been reported between countries’ COVID-19 data methodologies. Data collection on confirmed COVID-19 case numbers has depended upon the extent of national testing programmes, which by 2022 had largely subsided in states with high COVID-19 vaccination coverage, and was from the start of the pandemic very significantly lower across low-income countries. During the period 5 January 2020-17 March 2024 some 7,040,264 COVID-19-related deaths worldwide were formally reported to WHO, of which 3,012,873 were in the Americas, 2,270,922 in Europe, 808,542 in South-East Asia, 420,477 in the Western Pacific region, 351,932 in the Eastern Mediterranean region and 175,505 in Africa.</p>
+                    <!--~ as at 6.i.24 ratio/100,000 popn not being recorded by WHO-->
+                    <p usage="edio fea">In July 2021 the Chinese authorities refused a request by WHO to audit national laboratories, as part of an ongoing investigation into the origins of COVID-19—deeming it disrespectful to imply that safety protocols there might have been breached. A senior official from the Wuhan Institute of Virology stated at that time that no pathogen leakages or staff infection accidents had ever occurred there. In response to suspicions relating to a decision by the Institute in 2019 to take gene sequence and sample databases offline, the Institute responded that this had related to concerns over cyber attacks. In March 2023 WHO urged all states constructively to share with WHO and the wider global scientific community any available information relating to the origins of the COVID-19 pandemic.</p>
+               </p-group>
+               <p-group>
+                    <heading>Other Communicable Acute Respiratory Diseases</heading>
+                    <p>From March 2003 WHO co-ordinated an international investigation into Severe Acute Respiratory Syndrome (SARS), a previously unknown atypical coronavirus, and provided logistical, epidemiological and clinical support to combat its spread. </p>
+                    <p usage="ewyb edio mena fea">WHO monitors the spread of the related Middle East respiratory syndrome coronavirus (MERS-CoV); as at 16 February 2024 some 2,609 laboratory-confirmed cases of MERS-CoV had been reported since June 2012, including 939 related deaths. The reported cases had initially arisen in Saudi Arabia (primarily), Iran, Jordan, Kuwait, Qatar, the United Arab Emirates (UAE) and Yemen; by 2024 cases in 20 other countries had been recorded. Evidence of MERS-CoV infection has been found in dromedary camels, representing a direct zoonotic risk to humans.</p>
+                    <p usage="fea">The largest outbreak of MERS-CoV away from the Middle East arose in South Korea in mid-2015; this was introduced by a traveller in May, and, in all, 185 cases and 38 deaths had been reported in that country.</p>
+                    <p>
+          In March 2024 WHO launched CoViNet, a network comprising 36 laboratories worldwide that aimed to co-ordinate global expertise and capacities for the prompt, accurate detection and monitoring 
+          
+          of SARS-CoV-2, MERS-CoV and novel coronaviruses of public health importance.
+        </p>
+                    <!--~ case-fatality rate of MERS - 34.3%, and of Ebola - around 50% Marburg - Guinea, viii.21-->
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio sasia sacac ass mena fea">Cholera</heading>
+                    <p usage="ewyb edio sasia sacac ass mena fea">In October 2017 WHO’s Global Task Force on Cholera Control issued `Ending Cholera: A Global Roadmap to 2030’, in accordance with which best practices—including with regard to the provision of safe water and sanitation, and use of oral vaccines—were to be shared, partnerships strengthened and resources aligned, with a view to reducing deaths from cholera by 90%, and eliminating the disease in up to 20 affected countries by 2030. However, from mid-2021 WHO reported a significant upsurge in cholera infections, with high mortality rates.</p>
+                    <p usage="ewyb edio mena ass sacac">In January 2024 WHO appealed for US $49.9m. to fund its cholera control activities during that year. During the period 1 January 2023-29 February 2024 some 787,813 cholera cases and 5,586 related deaths were reported globally across five regions—including 468,495 cases in eight countries the Eastern Mediterranean, causing 520 deaths; 250,649 cases in 18 countries in Africa, causing 4,240 deaths (of which 1,151 were in Malawi); and 56,355 cases in Haiti, causing 779 deaths.</p>
+                    <p usage="sacac">WHO supports the implementation of the UN Haiti Cholera Response Multi-Partner Trust Fund, which was established in October 2016 by the UN Secretary-General to generate funds in support of UN system-wide efforts to assist Haiti in ending a persistent epidemic of cholera that had killed more than 9,000 Haitians since 2010. Sound and sufficient national water, sanitation and health systems have been promoted and emergency response to arresting transmission, as well as rapid access to treatment, prioritized.</p>
+               </p-group>
+               <p-group>
+                    <heading>Influenza</heading>
+                    <p>
+          In March 2014 WHO issued an updated version of a 
+          <i>Global Influenza Preparedness Plan</i>
+           originally launched in 2005. In May 2011 the 64th WHA adopted a Pandemic Influenza Preparedness (PIP) Framework, which aimed to broaden access to anti-influenza vaccines. In March 2019 WHO initiated a Global Influenza Strategy, covering the period 2019-30, with a focus on preventing seasonal influenza (believed to cause up to 650,000 deaths annually), controlling the spread of influenza from animals to humans, and pandemic preparedness. Updated WHO 
+          <publ-name>Guidelines for the clinical management of severe illness from influenza virus infections</publ-name>
+           were released in March 2022. In 2024 WHO’s Global Influenza Surveillance and Response System (GISRS) comprised 129 national influenza centres, seven WHO collaborating centres and four essential regulatory laboratories.
+        </p>
+                    <p usage="ewyb edio fea sasia">From the end of 2003 WHO monitored the spread through several Asian countries of the virus H5N1 (a rapidly mutating strain of zoonotic highly pathogenic avian influenza—HPAI) that was transmitting to human populations through contact with diseased birds. In 2014 WHO reported that H5N1—which had become endemic among poultry in parts of Asia and Africa—did not appear to transmit easily among people. In May 2005, in co-operation with FAO and WOAH, WHO launched a Global Strategy for the Progressive Control of Highly Pathogenic Avian Influenza. By 26 February 2024 a total of 887 human cases of H5N1 had been laboratory confirmed, in 23 countries, resulting in 462 deaths. Two further general sub-types of avian influenza—H7 and H9—have also been reported in humans. During early 2013-2 March 2024 1,568 cases of H7N9 in humans had been reported to WHO, resulting in at least 616 fatalities (with the last case having been recorded in 2019, in the Western Pacific region). In April 2009 WHO declared an epidemic of `swine flu’—a new form of H1N1 that had emerged in Mexico, apparently combining bird, swine and human forms of influenza—as the first ever PHEIC, and from June WHO designated the H1N1 crisis as a pandemic. By 2010, when the spread of H1N1 had been contained, as many as 200,000 swine flu human fatalities were reported to have occurred.</p>
+               </p-group>
+               <p-group>
+                    <heading>Malaria</heading>
+                    <!--~ Resistant malaria SE Asia 2019-->
+                    <p usage="ewyb edio ass sasia">In October 1998 WHO, jointly with UNICEF, the World Bank and the UN Development Programme (UNDP), formally launched the Roll Back Malaria (RBM) programme. The global multi-stakeholder RBM Partnership aims to mobilize resources and support for controlling malaria. WHO recommends a number of guidelines for malaria control, focusing on the need for prompt, effective antimalarial treatment, and the issue of drug resistance; vector control, including the use of insecticide-treated bed nets; malaria in pregnancy; malaria epidemics; and monitoring and evaluation activities. WHO’s Global Technical Strategy for Malaria (GTS), covering the period 2016-30 (and updated in mid-2021) aims—through a continued focus on the promotion of universal access to malaria prevention, diagnosis and treatment; strengthening surveillance; and the achievement of national malaria-free status—to reduce malaria cases globally by 90% by 2030, as well as to eliminate the disease entirely in at least 35 countries by 2030. A complementary RBM advocacy plan: Action and Investment to defeat Malaria 2016-30 (AIM) was being implemented simultaneously. The GTS and AIM were aligned with the SDGs, including SDG 3, Target 3.3. A large-scale clinical trial of the first ever vaccine against malaria (known as RTS,S/AS01, or `Mosquirix’, and thought to cause a 30% reduction in deadly severe malaria) was initiated in April 2019 in Malawi, and then extended to Ghana and Kenya. In a landmark decision in October 2021 WHO recommended the widespread preventive use of RTS,S/AS01 among children in sub-Saharan Africa and in other regions with moderate to high malaria transmission (according to a schedule of four doses given from the age of five months). In December Gavi, the Vaccine Alliance approved US&#8201;$160m. in funding to assist the delivery of the vaccine throughout sub-Saharan Africa during 2022-25. In December 2022 WHO reported that more than 1.2m. children in Ghana, Kenya and Malawi had already received one or more RTS,S/AS01 doses. A second malaria vaccine, R21/Matrix-M, was approved by WHO in October 2023.</p>
+                    <p usage="ewyb edio ass">In December 2023 WHO estimated that in 2022 there were 249m. cases of malaria, in 85 malaria-endemic countries, and 608,000 deaths from the disease. Around 94% of confirmed cases in 2022 occurred in WHO’s Africa region; 2% arose in WHO’s South East Asia region, where numbers fell from 23m. in 2000 to 5m. in 2022 (India accounted for 66% of the cases reported there in 2022). Some 96% of the caseload in 2022 occurred in 29 countries (with 27% of cases arising in Nigeria, and 12% in the Democratic Republic of the Congo—DRC). It was reported that 260m. insecticide-treated mosquito nets were provided to malaria-endemic countries during 2022. Of 88 malaria-endemic countries that had supplied data for the period 2010-20 29 had detected resistance to all four of the most frequently used classes of insecticide, and 78 had detected resistance to at least one insecticide class. In November 2022 WHO launched a strategy to counter antimalarial drug resistance in Africa. Funding for research on malaria control and elimination amounted to US&#8201;$4,100m. in 2022.</p>
+                    <p usage="sasia sacac mena fea">In 1998 WHO declared the control of malaria a priority concern, and, with partners, launched a Roll Back Malaria (RBM) initiative. The disease was estimated to have acutely affected 249m. people in 2022, and to have killed 608,000. (The majority of malaria cases occur in sub-Saharan Africa.) In May 2015 the WHA endorsed a new Global Malaria Strategy, covering the period 2016-30, which—through a continued focus on the promotion of universal access to malaria prevention, diagnosis and treatment; strengthening surveillance; and on the achievement of national malaria-free status—aimed to reduce malaria cases globally by 90% by 2030, as well as to eliminate the disease entirely in at least 35 countries by 2030. In a landmark decision in October 2021 WHO recommended the widespread preventive use of a new vaccine against malaria, RTS,S/AS01 (`Mosquirix’), among children in regions with moderate to high malaria transmission. A second malaria vaccine, R21/Matrix-M, was approved by WHO at the beginning of October 2023.</p>
+                    <p usage="sasia">In 2022 2% of confirmed malaria cases arose in WHO’s South East Asia region, where numbers fell from 23m. in 2000 to 5m. in 2022 (India accounted for 66% of the cases reported there in 2022).</p>
+                    <p id="IO-CASEE.WHO.50" usage="casee eerca">In April 2016 WHO declared that in 2015 Europe had become the first of its regions to be malaria-free, no indigenous cases having been reported in that year (compared with a total of 90,712 in 1995). In September 2017 the WHO Europe Office issued the Aşgabat Statement: Preventing the Re-establishment of Malaria Transmission in the WHO European Region.</p>
+                    <p id="IO-CASEE.WHO.50.1" usage="eerca">Azerbaijan and Tajikistan were declared malaria-free in March 2023.</p>
+                    <p usage="sacac">In recent years WHO had certified the following countries in its Americas region as malaria-free: Paraguay (in June 2018), Argentina (May 2019), El Salvador (February 2021) and Belize (June 2023).</p>
+                    <p usage="sasia">By 2024 WHO had certified two countries in South Asia as malaria-free: the Maldives (in 2015), and Sri Lanka (in 2016).</p>
+                    <p usage="ass">
+          By early 2024 WHO had certified the following countries or territories, 
+          <i>inter alia,</i>
+           as malaria-free: Cabo Verde (in January 2024), Mauritius (1973) and La Réunion (1979).
+        </p>
+                    <p usage="mena">
+          By 2024 WHO had certified the following countries, 
+          <i>inter alia</i>
+          , as malaria-free: UAE (in 2007), Morocco (2010), and Algeria (2019).
+        </p>
+                    <p usage="fea">At the end of June 2021 WHO declared China to be malaria-free.</p>
+               </p-group>
+               <p-group>
+                    <heading>mpox/Monkeypox</heading>
+                    <p>From mid-2022 WHO and partners supported surveillance of and analysed a multi-country outbreak of mpox (then known as Monkeypox)—a zoonotic infection originating in areas of Central and West Africa—transmission of which, atypically, had recently spread in non-endemic locations. On 23 July WHO designated the outbreak as a PHEIC. The most significant caseload was reported from WHO’s Europe region. Initial evidence had indicated that undetected transmission in the new locations might have been ongoing for some time. Anti-smallpox vaccines were reported to protect against the disease. In November WHO confirmed that the virus would be named mpox, in order to counter any negative connotations. The PHEIC was terminated on 12 May 2023. By 22 December some 92,783 cases of mpox, and 171 related deaths, had been confirmed in 116 countries and territories worldwide since 1 January 2022. It was estimated by UNAIDS that between 38%-50% of people diagnosed with mpox in 2022 were living with HIV.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio ass sasia fea sacac">Neglected Tropical Diseases</heading>
+                    <p usage="ewyb edio ass sasia fea sacac">In November 2020 the WHA endorsed a new roadmap to guide the control, elimination and eradication during 2021-30 of 20 neglected tropical diseases (NTDs) and disease groups. This was to be supported by a Global Strategy on WASH and NTDs (2021−30), addressing cross-sector interaction with water, sanitation and hygiene provision.</p>
+                    <!--~ ass only - maybe add Dracunculiasis - endemic in Chad, Ethiopia, Mali, South Sudan-->
+                    <p id="IO-UN.2485" usage="ewyb edio ass">An Expanded Special Project for Elimination of NTDs (ESPEN) was launched in mid-2016, to support African countries in the elimination of onchocerciasis (`river blindness', spread by blackflies), lymphatic filariasis and other neglected tropical diseases. WHO’s SAFE strategy for the elimination of blinding trachoma—a bacterial tropical disease that causes visual impairment or full blindness in around 1.9m. people—consists of: Surgery; Antibiotics (particularly the mass administration of azithromycin, which is donated by the International Trachoma Initiative); Facial cleanliness; and Environmental improvement (with a focus on improving water and sanitation provision). Ghana, The Gambia and Togo were declared trachoma-free in, respectively, June 2018, April 2021, and May 2022.</p>
+                    <p usage="ewyb edio ass sacac sasia fea">In March 2022 WHO launched a Global Arbovirus Initiative, with a focus on eradicating mosquito, fly, and tick-borne viruses with epidemic and pandemic potential (i.e. such as Chikungunya, Dengue, Yellow fever and Zika Virus Disease—ZIKV).</p>
+                    <p usage="ewyb edio ass">In June 2022 WHO initiated a strategic framework that addressed the control and management until 2030 of skin-related NTDs (including leprosy, onchocerciasis and Buruli Ulcer). WHO’s inaugural global meeting on skin-related NTDs was convened in March 2023, in Geneva.</p>
+                    <!--~azithromycin - Zithromax-->
+                    <p usage="edio">In 2017 WHO categorized snakebite envenoming as a high-priority neglected tropical disease. In May 2018 the WHA adopted a resolution that aimed to reduce the number of people around the world who are either killed (estimated at 81,000-138,000 annually), or who (in around 400,000 cases each year) become physically or mentally disabled by snakebite incidents.</p>
+                    <p usage="edio ewyb sasia sacac ass fea">In May 2019 the WHA launched a Snakebite Envenoming Strategy for Prevention and Control, which set the objective of reducing fatalities and disabilities caused by snakebite by one-half by 2030. Priority was to be placed on improved community-based prevention activities, improved integration of snakebite into health systems, health worker training, diagnosis, treatment, and access to safe, effective and affordable high-quality antivenoms. WHO was to establish a stockpile of antivenoms. In June 2023 WHO published the first guidance aimed at improving the quality of antivenom products.</p>
+                    <p usage="fea">A Regional Action Plan for the Prevention and Control of Snakebite Envenoming in South-East Asia, covering 2022-30, was issued in February 2023.</p>
+                    <p>Noma (a severe gangrenous disease of the face) was formally recognized by WHO as an NTD in December 2023.</p>
+               </p-group>
+               <p-group>
+                    <heading>HIV/Hepatitis</heading>
+                    <p id="IO-UN.WHO.001" usage="ewyb edio">The total number of people worldwide living with HIV/AIDS in 2022 was estimated at 39m., including some 1.5m. children under 15 years of age. Some 25.6m. of the people living with HIV/AIDS were in sub-Saharan Africa. It was reported that 1.3m. people were newly infected during that year, and around 630,000 deaths from AIDS-related illnesses were recorded. New HIV infections were significantly higher in so-called key populations (including people who inject drugs and sex workers), and their partners. Nearly 40.4m. people worldwide were estimated to have died of AIDS-related illnesses by 2022 since the onset of the epidemic. In March 2024 WHO issued new Global Hepatitis B Guidelines (focused on prevention, diagnosis and treatment).</p>
+                    <!--2022, key populations- new HIV infections compared with base population, globally: 14x higher among transgender people; 11x higher among men-sex-with-men; 7x people-who-inject-drugs; 4x sex workers-->
+                    <p>
+          WHO supports governments to develop effective health sector responses to the HIV/AIDS epidemic through enhancing their planning capabilities, implementation capacity, and health systems resources. Guidelines on managing the HIV/AIDS epidemic are regularly revised and updated. WHO and other agencies sponsor the 
+          <xr pageref="N" ref="IO-WHO.2506">Joint United Nations Programme on HIV/AIDS</xr>
+           (UNAIDS, q.v.); the UNAIDS secretariat is based at WHO headquarters. A WHO-UNAIDS HIV Vaccine Initiative was launched in 2000.
+        </p>
+                    <p usage="ewyb edio sacac sasia ass fea eerca">The principal goals of UNAIDS are reducing sexual transmission of HIV; preventing HIV among drug users; eliminating new infections among children; increasing access to ART; avoiding TB deaths; eliminating gender inequalities; closing the resources gap; integrating HIV-related services; eliminating travel restrictions on people living with HIV; and eliminating HIV-related stigma and discrimination. In June 2021 the UN General Assembly adopted a Political Declaration on HIV and AIDS: Ending Inequalities and Getting on Track to End AIDS by 2030. This supported a series of evidence-informed targets that were incorporated in UNAIDS’ 2021-26 Global AIDS Strategy. Parallel global strategies on HIV, viral hepatitis, and sexually transmitted infections for the period 2022-30 were endorsed by the WHA in May 2022. The inaugural Global Hepatitis Resource Mobilization Conference was convened in May 2023.</p>
+                    <p usage="ewyb edio ass mena casee">By the end of 2022 five countries globally—Botswana, Eswatini, Rwanda, Tanzania and Zimbabwe—had achieved a 95-95-95 `Fast-Track’ target on HIV treatment, set by UNAIDS to be widely achieved by 2030, of at least 95% of people living with HIV being aware of their serostatus (i.e. presence or not in the blood of detectable antibodies to the virus); 95% of these taking ART; and 95% being virally suppressed. A further target envisaged that annual new HIV infections were to be reduced by 2030 to (globally) 200,000.</p>
+                    <p usage="ewyb edio">Globally in 2022 86% of people living with HIV globally knew their HIV status, 76% received ART, and 71% were virally suppressed.</p>
+                    <p id="IO-CASEE.WHO.200" usage="casee eerca">In 2022 3m. people in Europe were reported to have HIV/AIDS, of whom 63% were receiving ART). An estimated 180,000 new cases arose there during 2022, and around 52,000 deaths from AIDS-related illnesses were recorded.</p>
+                    <p id="IO-SACAC.WHO.200" usage="sacac">In 2022 3.8m. people in the Americas were reported to have HIV/AIDS. Some 160,000 new cases were diagnosed in each region during that year, and in total 41,000 deaths from AIDS-related illnesses were recorded. An estimated 71% of people living with HIV/AIDS in the Americas in 2022 had access to ART.</p>
+                    <p id="IO-ASS.WHO.444" usage="ass">Of the 25.6m. people reported to be living with HIV/AIDS in Africa in 2022, an estimated 660,000 were estimated to have been newly infected in that year. Some 380,000 deaths on the continent in 2022 were attributed ito HIV-related causes. It was estimated that 82% of people living with HIV/AIDS in Africa in that year knew their status.</p>
+                    <p id="IO-MENA.WHO.200" usage="mena">In 2022 some 490,000 people in WHO’s Eastern Mediterranean Region were reported to have HIV/AIDS, of whom an estimated 27% were receiving ART. Some 56,000 new cases were diagnosed there during 2022, and around 20,000 deaths from AIDS-related illnesses were recorded.</p>
+                    <p id="IO-FEA.WHO.888" usage="fea">In 2022 3.9m. people in South East Asia and 2.2m. in the Western Pacific were reported to have HIV/AIDS—of whom, respectively, 65% and 73% were receiving ART. During 2022 110,000 new cases were diagnosed in South East Asia (140,000 in the Western Pacific), and around 85,000 deaths AID-related deaths (51,000 in the Western Pacific) were reported .</p>
+                    <p>In April 2014 WHO issued its first guidelines on the treatment of chronic Hepatitis C infections, with a view to reducing the number of deaths globally (estimated at up to 500,000 annually) from Hepatitis C-related cirrhosis and cancer of the liver. In July 2019 WHO reported that 257m. people were living with chronic Hepatitis B infection in 2016, and (in 2015) 71m. people had chronic Hepatitis C.</p>
+               </p-group>
+               <p-group>
+                    <heading>TB</heading>
+                    <p id="IO-UN.2482" usage="ewyb edio sasia ass fea">According to WHO estimates, about one-quarter of the world's population carries the Mycobacterium tuberculosis (TB) bacillus. Most infected people do not develop the disease; however, of those who do and are not treated, the case-fatality rate is around 50%. Standard four-six month courses of anti-TB drugs cure around 85% of TB patients. WHO is actively involved in all aspects of the detection, diagnosis and treatment of TB. In November 2023 WHO reported that 7.5m. people had been newly diagnosed with TB during 2022 (the highest level since WHO began monitoring numbers in 1995, and believed to be attributable to diagnostic delays caused by the disruption of the COVID-19 pandemic). Some 1.3m. deaths from TB were estimated to have occurred in 2022. Global expenditure on essential TB services was reported to have declined from US&#8201;$6,500m. in 2019 to $5,800m. in 2022. In that year, by WHO region, 46% of new TB cases were in South East Asia, 23% in Africa, and 18% in the Western Pacific. Two-thirds of cases globally in 2022 were concentrated in eight countries: India (27% of all cases), Indonesia (10%), China, the Philippines, Pakistan, Nigeria, Bangladesh and the DRC.</p>
+                    <p usage="ewyb edio sasia eerca">In 2022 410,000 reported new cases were believed to be resistant to the antibiotic rifampicin (known as rifampicin-resistant TB—RR-TB) or multidrug-resistant (MDR-TB). India accounted for some 27% of global MDR-TB cases in 2022, followed by the Philippines and Russia (both 7.5%). WHO defines extensively drug-resistant TB (XDR-TB) as MDR-TB plus resistance to any fluoroquinolone, and to at least one additional `Group A’ (i.e. most potent) second-line treatment of MDR-TB. In January 2021 WHO introduced a new definition, alongside XDR-TB, of Pre-XDR-TB—`MDR/RR-TB which is resistant to any fluoroquinolone’. In 2022 some 27,035 MDR-TB cases were believed to be also XDR-TB or pre-XDR-TB. In that year 73% of bacteriologically confirmed TB cases were also tested for RR-TB (compared with 41% in 2017).</p>
+                    <p>Vaccination with the bacille Calmette-Guérin (BCG) vaccine can confer protection, especially from severe forms of TB in children. At the end of 2022 the global BCG vaccination coverage rate stood at 87%.</p>
+                    <p>
+          In May 2014 the WHA adopted a long-term End TB Strategy, aimed at reducing the global incidence of TB by 90% by 2035. In December 2022 WHO released 
+          <publ-name>Implementing the End TB Strategy: The Essentials 2022,</publ-name>
+           representing a compendium of policies, guidelines and other resources that support the ongoing strategy. A third edition of WHO’s 
+          <publ-name>Roadmap towards ending TB in children and adolescents</publ-name>
+           was issued in November 2023.
+        </p>
+                    <p>A `Stop TB' partnership initiative was launched by WHO in 1999 with the World Bank, the US Government and a coalition of NGOs. The Global TB Drug Facility, initiated by Stop TB in 2001, aims to increase access to high-quality anti-TB drugs for sufferers in developing countries. Targets (to be attained by 2030) of the Stop TB coalition’s Global Plan to End TB during 2023-30 included: all high-risk and vulnerable populations were to have access to periodic screening; 95% of people with TB were to receive a diagnosis; and 50m. people with TB were to have access to appropriate treatments. Furthermore, the plan envisaged that at least one new TB vaccine would be introduced by 2026 for widespread use. A second UN high-level meeting on TB was convened in September 2023 (the first having been held in 2018), at which a Global Action Pledge to End TB by 2030 was adopted, incorporating measures to achieve that target.</p>
+                    <p>In June 2023 WHO initiated an online TB Research Tracker, focused on new TB treatment regimens, vaccines, and projects related to TB prevention, treatment, and care.</p>
+                    <p usage="casee sacac mena">An End TB Strategy was approved by the WHA in May 2014, setting long-term targets for the prevention, care and control of TB (including a 95% reduction in TB deaths and a 90% reduction in TB incidence by 2035). In September 2014 WHO, jointly with the European Respiratory Society, launched a new framework aimed at eliminating TB in countries with low levels of infection.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio">Smallpox</heading>
+                    <p id="IO-UN.2483" usage="edio ewyb">One of WHO's major achievements was the eradication of smallpox. Following a massive international campaign of vaccina­tion and surveillance (begun in 1958 and intensified in 1967), the last case was detected in 1977 and the eradication of the disease was declared in 1980. In May 1996 the WHA resolved that, pending a final endorsement, all remaining stocks of the variola virus (which causes smallpox) were to be destroyed on 30 June 1999, although 500,000 doses of smallpox vaccine were to remain, along with a supply of the smallpox vaccine seed virus, in order to ensure that a further supply of the vaccine could be made available if required. In May 1999, however, the Assembly authorized a temporary retention of stocks of the virus until 2002. In late 2001, in response to fears that illegally held virus stocks could be used in acts of biological terrorism, WHO reassembled a team of technical experts on smallpox. In January 2002 the Executive Board determined that stocks of the virus should continue to be retained, to enable research into more effective treatments and vaccines. By 2024 no deadline had been nominated for the destruction of the remaining virus stocks.</p>
+               </p-group>
+               <p-group>
+                    <heading>Polio</heading>
+                    <p usage="ewyb edio sasia">In 1988 the WHA launched the Global Polio Eradication Initiative (GPEI). An increase in the spread of wild poliovirus occurred from 2014 and was in May declared by WHO a PHEIC. A GPEI Strategy, covering the period 2022-26, had the following strategic objectives: re-envisioning the GPEI’s relationship with governments and systematizing political advocacy; bringing about increased vaccine acceptance through community engagement; expediting progress through expanded partnerships; reforming campaign and outbreak response operations; and enhancing poliomyelitis (polio) surveillance, detection and response. The GPEI has been phasing down the traditional use of (highly effective) live bivalent oral polio vaccines (bOPVs), as they carry a small risk of passing on vaccine-associated paralytic poliomyelitis (VAPP). More costly (also very effective) inactivated poliovirus vaccines (IPVs) do not carry this risk. In October 2022 WHO organized a pledging summit that raised US&#8201;$2,600m. in support of the GPEI Strategy. During 2023 the GPEI and partners vaccinated more than 400m. children.</p>
+                    <p usage="casee eerca mena sacac ass fea">In 1988 the WHA launched the Global Polio Eradication Initiative (GPEI), which has most recently set a deadline of 2026 to achieve the elimination of poliomyelitis.</p>
+                    <p usage="edio">Under the auspices of an independent Global Certification Commission which oversees the process for formally declaring polio eradication, certification commissions have been established in each of WHO’s six regions. Since the inauguration of the GPEI the following regions have—following a period of at least three years without transmission—been declared free of wild poliomyelitis transmission: the Americas (1994); Western Pacific (2000); Europe (2002); South-East Asia (2014); and Africa (in August 2020—however, wild poliovirus outbreaks subsequently emerged in Malawi and Mozambique.).</p>
+                    <p usage="ewyb edio sasia">In 1988 35,000 polio cases had been confirmed in 125 countries globally, with the actual number of cases estimated at around 350,000. By 2024 only Afghanistan and Pakistan were classed as polio endemic countries, while a number of countries were classed as `outbreak countries’—i.e. having ended indigenous wild poliovirus, but remaining prone to re-infection via the importation of wild or vaccine-derived poliovirus.</p>
+                    <p usage="ass">At April 2024 29 African states were classified by the GPEI as polio outbreak countries—i.e. having ended indigenous wild poliovirus, but remaining prone to re-infection via the importation of wild or vaccine-derived poliovirus.</p>
+                    <p usage="sacac">WHO declared the Americas to be `polio-free' in 1994. (However, at April 2024 Canada and the USA were classified by the GPEI as polio outbreak countries.)</p>
+                    <p id="IO-CASEE.WHO.60" usage="casee eerca">WHO's regional office for Europe declared the continent to be `polio-free' in June 2002 (nevertheless, sporadic poliovirus importations into the region have occurred: as at April 2024 Ukraine and the United Kingdom was classified as polio outbreak countries—i.e. having ended indigenous wild poliovirus, but remaining prone to re-infection via the importation of wild or vaccine-derived poliovirus.</p>
+                    <p usage="mena">As at April 2024 Egypt, Israel and Yemen were classified by the GPEI as polio outbreak countries—i.e. having ended indigenous wild poliovirus, but remaining prone to re-infection via the importation of wild or vaccine-derived poliovirus.</p>
+                    <p usage="fea">As at April 2024 Indonesia was classified by the GPEI as a polio outbreak country—i.e. having ended indigenous wild poliovirus, but remaining prone to re-infection via the importation of wild or vaccine-derived poliovirus.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio sacac ass sasia fea">Leprosy</heading>
+                    <p id="IO-UN.2486" usage="ewyb edio ass sasia sacac fea">WHO is committed to the elimination of leprosy. The use of a highly effective combination of drugs (known as multidrug therapy—MDT) resulted in a reduction in the number of new leprosy cases worldwide from 10m.-12m. in 1988 to 174,087 in 2022. In the latter year 39% of new leprosy cases were characterized by grade 2 disability (`G2D’). In the latter year India accounted for more than one-half of new cases. Clinical trials in humans of the first vaccine against leprosy were initiated in 2016. A Special Rapporteur on the elimination of discrimination against persons affected by leprosy and their family members was appointed by the UN Human Rights Council in 2017. WHO’s Global Leprosy Strategy 2021-30 aimed to eliminate the disease by 2030, including through facilitating an uninterrupted supply of cost-free MDT medicines.</p>
+               </p-group>
+               <p-group>
+                    <heading>Measles</heading>
+                    <p>WHO’s Measles and Rubella Strategic Framework covering the period 2021-30 aimed to combat, through routine immunization, deaths from measles (which is particularly dangerous for children under the age of five and malnourished children), and also congenital rubella syndrome. WHO, with Gavi, the Vaccine Alliance, UNICEF and other agencies, participates in a wider Measles and Rubella Partnership, which supports the implementation of the Framework. By the end of 2018 82 countries were reported to have eliminated measles, and 81 to have eliminated rubella. Some 128,000 fatal cases of measles were reported in 2021 (compared with 761,000 in 2000). At the end of 2022 global coverage of children with both of two required measles vaccinations stood at 73%.</p>
+                    <p usage="edio sacac">WHO and the Pan-American Health Organization (PAHO) declared the Americas to be the first region to be free of rubella in April 2015, and of measles in September 2016. In 2017, however, measles re-emerged in Venezuela (which from 2014 had been in social and economic crisis), and also spread to neighbouring states. PAHO launched an immunization campaign, and the total number of measles-related fatalities in Venezuela fell from 75 in 2018 to zero during 2020-21.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio sacac">Onchocerciasis and Chagas Disease</heading>
+                    <p id="IO-UN.WHO.2000" usage="edio sacac">The Onchocerciasis Elimination Programme in the Americas, launched in 1992, co-ordinates work to control the disease in six Latin American countries where it has been endemic. In 2013, 2014, 2015 and 2016, respectively, Colombia, Ecuador, Mexico and Guatemala were declared free of onchocerciasis. South American trypanosomiasis (`Chagas disease’) is endemic in Central and South America, infecting around 6m.-7m. people, and causing about 12,000 deaths each year. A regional intergovernmental commission is implementing a programme to eliminate Chagas from the Southern Cone region of Latin America.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio ass">Buruli Ulcer</heading>
+                    <p usage="edio ass">In 1998 WHO launched the Global Buruli Ulcer Initiative, which aimed to co-ordinate control of and research into Buruli ulcer, another mycobacterial disease. In July of that year the Director-General of WHO and representatives of more than 20 countries, meeting in Yamoussoukro, Côte d'Ivoire, signed a declar­ation on the control of Buruli ulcer; a further declaration was signed in March 2009 by WHO’s Regional Director for Africa, representatives of affected countries, and other stakeholders.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio ass">Ebola Virus Disease (EVD)</heading>
+                    <p usage="ewyb edio ass">In the aftermath of the EVD PHEIC declared in West Africa during August 2014-March 2016 WHO supported the Governments of Guinea, Liberia and Sierra Leone in building capacity to break promptly any future chains of transmission, with a focus on prevention, surveillance and response. WHO, with partners, also facilitated survivors’ access to medical care and to psychosocial support, and organized screenings aimed at detecting dormant persistent cases of the virus. During late 2013-mid-2016 28,616 EVD cases and 11,319 related deaths were confirmed in West Africa.</p>
+                    <p usage="ewyb edio ass">By 2024 WHO had supported the DRC Government in controlling 15 outbreaks of EVD in recent years. An outbreak of EVD that occurred in western Uganda during 20 September 2022-11 January 2023 (when it was declared to have ended) resulted in 142 confirmed cases, 22 `probable’ cases, and 55 confirmed deaths. WHO and partners supported the Ugandan authorities by deploying experts; providing laboratory kits, and training on contact tracing, testing and patient care; and by supporting the construction of isolation facilities.</p>
+                    <p usage="ewyb edio ass">
+          In November 2019, for the first time, WHO `prequalified’ a new injectable Ebola vaccine, Ervebo—certifying that it met appropriate standards for quality, safety and (with a success rate of 97%) efficacy. In January 2021 WHO, UNICEF, the International Federation of Red Cross and Red Crescent Societies and Médecins Sans Frontières announced the creation of a global Ebola vaccine stockpile, which was being facilitated with financial assistance from 
+          <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance</xr>
+          .
+        </p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio sacac sasia fea">Dengue</heading>
+                    <p usage="ewyb edio sacac sasia fea">During 2021-30 WHO was implementing a global strategy for the prevention and control of the mosquito-borne dengue virus, the incidence of which has increased significantly in humans in recent years, with at least 50m. new cases arising annually, resulting in some 20,000 deaths in more than 100 endemic countries, particularly in the Asia-Pacific region and Latin America. The strategy focused on improving outbreak prediction and detection, and on the deployment of locally adapted vector control measures.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ass">Plague</heading>
+                    <p usage="ass">In January 2018 the WHO Director-General presented a vision for ending intermittent epidemics of plague in Madagascar. This included strategic investments in the health system, with a focus on improved access to health care; enhanced preparedness, surveillance and response capabilities, and thoroughly implementing the International Health Regulations. During 2018 104 cases of plague were reported in that country (resulting in five fatalities), compared with 661 cases (87 deaths) in the previous year. Also, 133 cases (and five related deaths) were recorded in the DRC in 2018. The case-fatality ratio for untreated plague is between 30%-100%.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio sacac">ZIKV</heading>
+                    <p usage="edio sacac">On 1 February 2016 WHO declared a PHEIC with respect to an increase in clusters of babies born with microcephaly and, or central nervous system malformation, as well as raised incidence of Guillain-Barré Syndrome and of other neurological disorders, in particular in Brazil; the increase in microcephaly and neurological disorders was conclusively proven in April to be caused by an epidemic of the Aedes mosquito-borne Zika virus. In mid-February a multi-agency Zika Strategic Response Framework and Joint Operations Plan were launched, under the leadership of WHO. In November WHO announced that the ZIKV epidemic—while remaining a significant enduring public health challenge necessitating heightened vigilance and intensive action—was no longer a PHEIC. In November 2019 WHO, the Special Programme for Research and Training in Tropical Diseases, the IAEA and FAO jointly issued a guidance document on testing the Sterile Insect Technique—a process involving sexually sterilizing male mosquitoes, with a view to controlling mosquito-borne viruses such as Zika and dengue. Low-level Zika transmission has persisted in the Americas, with some 22,885 ZIKV cases reported in 2020. </p>
+               </p-group>
+               <p-group>
+                    <heading>NCDs</heading>
+                    <p>The surveillance, prevention and management of NCDs and mental health are organization-wide priorities. Tobacco use, unhealthy diet, harmful use of alcohol and physical inactivity are regarded as common, preventable risk factors for the four most prominent NCDs, i.e. cardiovascular diseases, cancer, chronic respiratory disease and diabetes. It is estimated that these NCDs are collectively responsible for an estimated 35m. deaths—60% of all deaths—globally each year, and that up to 80% of cases of heart disease, stroke and type 2 diabetes, and more than one-third of cancers, could be prevented by eliminating shared risk factors. WHO aims to monitor the global epidemiological situation of NCDs, to co-ordinate multinational research activities concerned with prevention and care, and to analyse determining factors such as gender and poverty.</p>
+                    <p usage="ewyb edio">In May 2014 the 67th WHA endorsed the terms of reference of a WHO Global Coordination Mechanism on the Prevention and Control of NCDs. WHO leads an inter-agency UN Task Force on the Prevention and Control of NCDs. In May 2017 the 70th WHA endorsed a revised series of policy options and interventions relating to the prevention and control of NCDs, with a particular focus on measures aimed at reducing exposure to risk factors—such as prohibiting tobacco advertising, promoting taxation on tobacco products and sugar-sweetened beverages, and reducing the salt content of food products. In October a high-level Commission on NCDs was created, tasked with identifying means of preventing NCDs. A WHO Global Conference on NCDs was also convened at that time, in Montevideo, Uruguay.</p>
+                    <p>In March 2018 a WHO Independent Global High-level Commission was inaugurated, tasked with formulating innovative solutions aimed at advancing the prevention and control of NCDs. A Fourth UN General Assembly High-level Meeting on the Prevention and Control of NCDs was scheduled to be held in 2025.</p>
+                    <!--REPLACE trans-fat elimination-->
+                    <p usage="ewyb edio">WHO’s activities with regard to cancer focus on prevention, improving screening and early detection, effective treatment and access to appropriate palliative care. WHO estimates that 30%-50% of cancers are preventable by avoiding risk factors or implementing prevention strategies (with tobacco use responsible for an estimated 22% of annual cancer deaths). During 2019 WHO drafted a Global Strategy to Accelerate the Elimination of Cervical Cancer, with specific global targets to be achieved by 2030 with regard to HPV vaccination, screening and early diagnosis and treatment. The Strategy was formally launched in November 2020, with the aim of reducing by 40% new cases of cervical cancer by 2050 and preventing 5m. related deaths. </p>
+                    <p>An International Task Force on Obesity aims to encourage the development of innovative policies for managing obesity. WHO guidelines aimed at managing childhood obesity were issued in October 2017. In May 2018 the WHA endorsed a WHO Global Action Plan on Physical Activity (GAPPA), with a focus on promoting healthy lifestyles and increasing inclusive participation. A WHO Acceleration Plan to Stop Obesity was endorsed by the 75th WHA in May 2022. In May 2023, in the framework of the Acceleration Plan, WHO initiated a Health Service Delivery Framework for Prevention and Management of Obesity.</p>
+                    <!--www.gacd.org-->
+                    <p usage="ewyb edio">In March 2015, with a view to reducing levels of obesity and dental decay, WHO issued updated guidelines on the intake of sugars, which recommended that free sugars and naturally present sugars, should provide less than 10% of total energy intake per day. In May 2021 the 74th WHA issued a resolution on improving oral care globally, with a view to minimizing dental caries and severe periodontal disease (which was believed at that time to affect nearly 10% of the global population). It was noted that largely preventable oral diseases have been linked to NCDs such as diabetes, cardiovascular problems, obesity, cancers, and pneumonia.</p>
+                    <p>WHO launched a Global Diabetes Compact in April 2021, with the aim of supporting effective national diabetes prevention and management programmes. In May the 74th WHA agreed a resolution aimed at enhancing the prevention, diagnosis and control of diabetes and the prevention and management of related risk factors (such as obesity).</p>
+                    <p usage="edio">WHO's Cardiovascular Diseases Programme aims to prevent and control the major cardiovascular diseases, which are responsible for more than 14m. deaths each year. It is estimated that one-third of these deaths could be prevented with existing scientific knowledge. Programmes for diabetes mellitus, chronic rheumatic diseases and asthma assist with the development of national initiatives, based upon goals and targets for the improvement of early detection, care and reduction of long-term complications.</p>
+                    <p usage="ewyb edio">The WHO Human Genetics Programme manages genetic approaches for the prevention and control of common hereditary diseases and of those with a genetic predisposition representing a major health factor. The Programme also concentrates on the further development of genetic approaches suitable for incorporation into health care systems, as well as developing a network of international collaborating programmes.</p>
+                    <p>WHO’s Substance Abuse Programme offers technical support to member countries to address the misuse of all psychoactive substances, irrespective of legal status. In May 2010 WHO endorsed a global strategy to reduce the harmful use of alcohol; this promoted measures including taxation on alcohol, minimizing outlets selling alcohol, raising age limits for those buying alcohol, and the employment of effective measures to deter people from driving while under the influence of alcohol.</p>
+                    <p>In 2012 WHO estimated that tobacco would lead to more than 8m. deaths annually by 2030 (through lung cancer, heart disease, chronic bronchitis and other effects). The Tobacco or Health Programme aims to reduce the use of tobacco, by educating tobacco-users and preventing young people from adopting the habit. In May 1999 the WHA endorsed the formulation of a Framework Convention on Tobacco Control (FCTC) to help to combat the increase in tobacco use; it entered into force in February 2005. A Protocol to Eliminate Illicit Trade in Tobacco Products entered into force on 25 September 2018. The second Meeting of the Parties to the Protocol, held in November 2021, agreed to establish an investment fund to secure financing and strengthen implementation of the Protocol.</p>
+                    <p usage="ewyb edio">From 2008, to support countries in implementing the FCTC, WHO focused on six key proven strategies, collectively known as the MPOWER package: monitoring tobacco use and implementing prevention policies; protecting people from tobacco smoke; offering support to people to enable them to give up tobacco use; warning about the dangers of tobacco; enforcing bans on tobacco advertising, promotion and sponsorship; and raising taxes on tobacco. The FCTC obligates its states parties to require large health warnings about tobacco use to appear on tobacco packaging, and recommends that these warnings contain pictures.</p>
+                    <p>WHO monitors and reviews emerging evidence on the health impacts of electronic nicotine delivery systems (ENDS, also known as e-cigarettes) and electronic non-nicotine delivery systems (ENNDS), and offers related guidance to governments.</p>
+                    <p usage="ewyb edio">WHO is a joint partner in the Global Campaign against Epilepsy: Out of the Shadows, which aims to advance understanding, treatment, services and prevention of epilepsy worldwide. In November 2020 WHA unanimously endorsed a resolution to scale up integrated action on epilepsy and other neurological disorders (including stroke, dementia, meningitis and migraine) and to develop a global action plan. A draft intersectoral global action plan (IGAP) on epilepsy and other neurological disorders was approved by the WHA in May 2022.</p>
+                    <p usage="edio ewyb">In May 2017 the Assembly adopted a global action plan on the public health response to dementia, covering the period 2017-25. In December 2017 WHO established a web-based Global Dementia Observatory, to track progress on the development of services for people with dementia. At that time WHO reported that—owing to the rapid projected increase in the global population—it was envisaged that the number of people living with dementia would rise to 152m. by 2050, from 50m.</p>
+                    <p usage="edio ewyb">In May 2016 the WHA approved a Global Plan of Action on Violence, in particular against women and girls, which had the following four strategic objectives: improving programming aimed at preventing interpersonal violence; strengthening health system leadership and governance; enhancing the provision of health care to victims of violence; and developing relevant information and evidence.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio">Mental Health</heading>
+                    <p usage="ewyb edio">
+          WHO defines mental health as a `state of wellbeing in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community'. WHO's Mental Health Programme is concerned with unipolar and bipolar affective disorders, psychosis, epilepsy, dementia, Parkinson's disease, multiple sclerosis, drug and alcohol dependency, and neuro­psychiatric disorders such as post-traumatic stress disorder (PTSD), obsessive compulsive disorder and panic disorder. WHO aims to increase awareness of mental health issues and promote improved mental health ser­vices and primary care. In October 2008 WHO launched the mental health Gap Action Programme (mhGAP), which aimed to improve services addressing mental, neurological and substance use (MNS) disorders, with a special focus on low- and middle-income countries. In August 2013 WHO extended mhGAP to incorporate new clinical protocols and guidelines aimed at supporting health care workers in treating PTSD. The third edition of mhGAP guidelines on appropriate treatment and care of MNS disorders was published in November 2023. A WHO Mental Health Action Plan, covering the period 2013-30, has the objectives of strengthening effective mental health leadership and governance; providing comprehensive, integrated and responsive mental health and social care services in community-based settings; implementing strategies for mental health prevention and promotion; and strengthening information systems, evidence and research. A WHO Mental Health Forum meets annually. WHO regularly collates and publishes a 
+          <publ-name>Mental Health Atlas</publ-name>
+          .
+        </p>
+               </p-group>
+               <!--sdgs-->
+          </int-org-section>
+          <int-org-section id="IO-UN.2500" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>UHC/Healthier Populations</heading>
+               <p usage="ewyb edio">WHO supports the UN Convention, and its Optional Protocol, on the Rights of Persons with Disabilities, which came into force in May 2008, and seeks to address challenges that prevent the full participation of people with disabilities in the social, economic and cultural lives of their communities and societies. The WHO Disability Assessment Schedule, introduced in November 2012, measures health and disability across six areas: cognition (understanding and communicating); mobility; self-care (hygiene, dressing, eating and coping alone); interaction with other people; life activities (including domestic responsibilities, leisure, education and work); and participation in community life. WHO supports Community-based Rehabilitation, aimed at providing a more enabling environment for people with disabilities. In May 2021 the 74th WHA adopted a resolution on means of achieving the highest attainable standard of health for persons with disabilities. In May 2023 the 76th WHA adopted a resolution on strengthening rehabilitation services within health systems. New WHO guidelines on wheelchair provision were issued in the following month.</p>
+               <p usage="ewyb edio">
+        WHO’s inaugural 
+        <publ-name>World Report on Vision</publ-name>
+        , issued in October 2019, estimated that, globally, at least 2,200m. people had a partial or full vision impairment, and that at least 1,000m. of those impairments either could have been preventable or could be addressed. The report made several recommendations, including enhanced integration of eye care within national health services, and a focus on access to rehabilitation services for people with severe eye health conditions.
+      </p>
+               <p>
+        In May 2020 the 73rd WHA adopted a resolution on integrated people-centred eye care (referred to as IPEC), aimed at ensuring the widespread use of IPEC. In May 2021 the 74th WHA resolved that by 2030 global coverage of surgery to address refractive errors and cataracts should increase by 40% and 30%, respectively. During the 75th WHA, in May 2022, a WHO 
+        <publ-name>Eye Care in Health Systems—Guide for Action </publ-name>
+         was issued.
+      </p>
+               <p-group>
+                    <heading>Climate Change, Health and Environment</heading>
+                    <p>In January 2018 WHO and UNEP signed an agreement establishing an extensive new programme of WHO-UN Environment collaboration, comprising joint actions aimed at combating environmental health risks, such as antimicrobial resistance, air pollution, and climate change. Furthermore, co-ordination was to be strengthened in the areas of waste and chemicals management, food and nutrition, and water quality. A joint work programme was to be developed, and the two agencies were to convene an annual high-level meeting, to follow up progress and make recommendations for advancing the collaboration. In May 2019 the WHA endorsed a Global Strategy on Health, Environment and Climate Change, which aimed to address environmental health risks and challenges until 2030. A Special Envoy for Climate Change and Health has been appointed.</p>
+                    <p usage="edio">In July 2014 WHO, with the World Meteorological Office, established an office of climate and health to promote the development and use of climate services to enhance public health, such as through disease surveillance and emergency preparedness.</p>
+                    <p>WHO's programme area on environmental health addresses the increasing threats to health and wellbeing from a changing environment, especially in relation to air pollution, water quality, sanitation, protection against UV-radiation, management of hazardous waste, chemical safety and housing hygiene. In October-November 2018 WHO, with UNEP and other partners, organized the inaugural Global Conference on Air Pollution and Health; this committed to a goal of reducing deaths from air pollution by two-thirds by 2030. In April 2022 WHO reported that 99% of the global population was breathing air that did not meet WHO’s air quality limits on fine particulate matter and nitrogen dioxide.</p>
+                    <p>In 2022 WHO attributed some 829,000 deaths annually to diarrhoea caused by unsafe drinking water, sanitation systems and hand hygiene. Around 2,000m. people worldwide in 2020 were reported to have no access to clean drinking water. In August 2019 WHO released a report on microplastics in drinking water and urged further assessment of the risks posed to human health by microplastics in the environment.</p>
+                    <!--chemical safety-->
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio sacac fea ass">Social Determinants of Health</heading>
+                    <p usage="ewyb edio">WHO’s activities take into consideration the need to address the social and environmental determinants of health and internationally agreed development goals, in particular the health-related SDGs. In October 2011 a global conference convened by WHO adopted the Rio Political Declaration on Social Determinants of Health, expressing commitment to reducing inequities in health and health care provision. In February 2020 WHO, with the Government of Sweden, organized, in the Swedish capital Stockholm, a Global Ministerial Conference on Road Safety, in order to address preventable road traffic deaths and injuries (totalling an estimated 1.3m. fatalities each year and a further 50m. injuries) in the context of the SDGs. At that time WHO estimated road traffic accidents to be the leading cause of death among young people aged five-29 years.</p>
+                    <p usage="ewyb edio ass">In 2023 a WHO Roadmap for the Global Health and Peace Initiative was under development (the Initiative having been launched in 2020 to address the social determinants of critical health requirements in fragile, conflict-affected and vulnerable environments).</p>
+                    <p usage="ewyb edio ass sacac fea">In May 2023 the 76th WHA approved a resolution that requested WHO’s Director-General to develop a Global Plan of Action for the Health of Indigenous Peoples. The Plan was to be developed in consultation with Indigenous peoples (as well as a other stakeholders) who have an average lower life expectancy and higher reported incidence of malnutrition and diseases such as diabetes than non-Indigenous communities. It was to be presented to the 79th WHA in 2026.</p>
+                    <p usage="edio">The 76th WHA also determined to establish a Global Alliance for Drowning Prevention.</p>
+               </p-group>
+               <p-group>
+                    <heading>Nutrition and Food Safety</heading>
+                    <p usage="ewyb edio">WHO aims to enhance member states' capabilities in dealing with their nutrition situations, and in addressing scientific issues related to preventing, managing and monitoring protein-energy malnutrition; micronutrient malnutrition, including iodine deficiency disorders, vitamin A deficiency, and nutritional anaemia; and diet-related conditions and NCDs such as obesity, cancer and heart disease. In collaboration with other international agencies, WHO is implementing a comprehensive strategy for promoting appropriate infant, young child and maternal nutrition, and for dealing effectively with nutritional emergencies in large populations. Priorities include promoting practices that enhance successful breastfeeding (recommended by WHO as the best means of feeding babies until at least six months of age); appropriate complementary feeding; refining the use and interpretation of body measurements for assessing nutritional status; relevant information, education and training; and action to give effect to the International Code of Marketing of Breast-milk Substitutes.</p>
+                    <p usage="ewyb edio">WHO participates in the Steering Committee of UN-Nutrition, which was initiated in 2020 to co-ordinate UN agencies in advancing nutrition and eliminating hunger, malnutrition and obesity. In April 2016 the UN General Assembly designated 2016-25 as the UN Decade of Action on Nutrition. Implementation of the Decade was to be led jointly by WHO and FAO.</p>
+                    <p usage="edio ewyb">
+          WHO aims to protect human health against risks associated with biological and chemical contaminants and additives in food. With FAO, WHO establishes food standards (through the work of the 
+          <xr pageref="N" ref="IO-UN.1821">Codex Alimentarius Commission</xr>
+           and its subsidiary committees) and evaluates food additives, pesticide residues and other contaminants and their implications for health. The programme provides expert advice on such issues as foodborne diseases and pathogens (e.g. bovine spongiform encephalopathy, campylobacter, escherichia coli, listeria, and salmonella), production methods (e.g. aquaculture) and food biotechnology (e.g. genetic modification). WHO also addresses the methods of producing, processing and preparing foods that contribute to the incidence (especially in parts of East and South-East Asia and Latin America) of foodborne trematode infections (parasitic infections caused by flatworms). WHO’s Global Foodborne Infections Network, established in 2001, promotes integrated laboratory-based surveillance and intersectoral collaboration among human health, veterinary and food-related entities. In July 2001 the 
+          <xr pageref="N" ref="IO-UN.1821">Codex Alimentarius Commission</xr>
+           adopted the first global principles for assessing the safety of genetically modified (GM) foods. In March 2002 an intergovernmental task force established by the Commission finalized `principles for the risk analysis of foods derived from biotechnology', which were to provide a framework for assessing the safety of GM foods and plants. A Codex Trust Fund, initiated in 2003, assists the efficient participation of developing countries in the work of the Commission.
+        </p>
+                    <p usage="casee eerca sacac fea ass mena sasia">
+          WHO aims to protect human health against risks associated with biological and chemical contaminants and additives in food. With FAO, WHO establishes food standards (through the work of the 
+          <xr pageref="N" ref="IO-UN.1821">Codex Alimentarius Commission</xr>
+           and its subsidiary committees) and evaluates food additives, pesticide residues and other contaminants and their implications for health. WHO also addresses the methods of producing, processing and preparing foods that contribute to the incidence of foodborne trematode infections (parasitic infections caused by flatworms). WHO’s Global Foodborne Infections Network, established in 2001, promotes integrated laboratory-based surveillance and intersectoral collaboration among human health, veterinary and food-related entities.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio">Health Promotion</heading>
+                    <p usage="edio">WHO defines health promotion as `the process of enabling people to increase control over, and to improve their health’. The ninth Global Conference on Health Promotion, convened by WHO and the Chinese Government in November 2016, in Shanghai, China, issued the Shanghai Declaration on Health Promotion, which focused on the linkages between health and the UN 2030 Agenda and SDGs. (The first International Conference on Health Promotion was held in Ottawa in 1986.) </p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="WHO-IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Antimicrobial Resistance</heading>
+               <p usage="ewyb edio">In September 2016 the UN General Assembly issued a Political Declaration on tackling antimicrobial resistance (AMR): the spread of infections caused by micro-organisms (bacteria, viruses, parasites and fungi) that evolve to become `super-pathogens’, resistant to conventional treatments. First-line medicines are increasingly failing, with second- and third-line agents proving generally significantly more costly. A Global Action Plan on AMR, endorsed by the WHA in May 2015, aimed to address contributory factors such as over-prescribing, the use of antimicrobials in livestock reared for human consumption, and weak national drug policies and regulation in many countries (enabling, for example, the open-market purchase of non-prescribed antimicrobial medicines). In October WHO established the Global Antimicrobial Surveillance System (GLASS) to work in collaboration with WHO centres and existing surveillance mechanisms. In December 2022 WHO reported that 127 states or territories were participating in the initiative.</p>
+               <p>
+        A UN Interagency Coordination Group on Antimicrobial Resistance was established in March 2017, under the joint chairmanship of the WHO Director-General and the UN Deputy Secretary-General. In June 2019 WHO, FAO and the World Organisation for Animal Health collectively established an AMR Multi Partner Trust Fund, with initial funding of US&#8201;$5m. In June 2023 WHO published its first global research agenda on AMR in human health, which outlined 40 research topics relating to drug-resistant bacteria, fungi and TB. In February 2024 an updated 
+        <publ-name>WHO Medically Important Antimicrobials List for Human Medicine</publ-name>
+         was issued (identifying antibiotic-resistant `priority pathogens’ that pose the most critical risk to human health).
+      </p>
+               <!--AMR in gonorrhoea plan-->
+          </int-org-section>
+          <int-org-section id="WHO.IO.12" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading usage="edio">External Relations</heading>
+               <p usage="edio">
+        In May 2016 the 69th WHA adopted a new Framework of Engagement with Non-State Actors to guide WHO’s extensive engagement with bodies such as private commercial interests, non-governmental organizations (NGOs), philanthropic foundations, and academic institutions, and including, for example, the influential 
+        <xr pageref="N" ref="IO-WHO.0001">Global Fund to Fight AIDS, TB and Malaria</xr>
+         and 
+        <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance</xr>
+        . The Framework outlined five key overarching principles to guide any such engagement, as follows: interaction between WHO and non-state actors must demonstrate a clear benefit to public health; must respect the intergovernmental nature of WHO, with no non-state actor expecting to have the same decision making privileges as WHO’s member states; must support WHO’s ethos of basing the development of norms, standards, policies and strategies on the systematic use of scientific evidence, free from the influence of any form of—commercial or otherwise—bias or vested interest; must be actively managed, so as to reduce any form of risk to WHO (including conflicts of interest); and must be underpinned by transparency and inclusiveness.
+      </p>
+               <p usage="edio">WHO negotiates and sustains national and global partnerships. It may propose international conventions and agreements, or promote the development and testing of new technologies, tools and guidelines. In March 2016 WHO and the World Federation of Public Health Associations jointly adopted a Global Charter for the Public’s Health.</p>
+               <p usage="edio">Globally there are more than 700 WHO collaborating centres in some 80 countries; networks of centres covering specific areas of expertise have been established, including (as well as those designated for developing international classifications) communicable diseases, food safety, nursing and midwifery, nutrition, occupational health, prevention of injuries and violence, radiation, tobacco control, and traditional medicine.</p>
+          </int-org-section>
+          <int-org-section id="WHO.IO100" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio eerca mena ass fea sasia sacac">
+               <heading>Emergency Appeals</heading>
+               <p usage="edio eerca mena ass sasia sacac">In January 2024 WHO appealed for US $1,500m. to support more than 87m. people during 2024 who were affected by 41 emergencies. Some $705m. was allocated to the Eastern Mediterranean regiona; $334m. to Africa; $183m. to Europe; $131m. to the Americas; $49m. to South-East Asia; and $15m. to the Western Pacific.</p>
+               <p usage="fea">In 2004 WHO established a South-East Asia Regional Health Emergency Fund (SEARHEF), to which it allocates US&#8201;$1m. every two years. In January 2024 WHO appealed for $49m. to support its emergency operations during that year in South-East Asia, and $15.2m. for emergency operations in the Western Pacific.</p>
+               <!--~ Syria chemical weapons-->
+               <!--~ poisoning prevention and management ; chemical incidents and emergencies-->
+               <p id="IO-MENA.WHO.708" usage="mena">
+        WHO has, since 1950, provided technical supervision of 
+        <xr pageref="N" ref="IO-UN.1643">UNRWA</xr>
+        ’s programme to provide health care to Palestinians living in the Occupied Territories. A WHO Special Representative is based at UNRWA’s headquarters.
+      </p>
+               <!--~ Last paras to go into an emergency appeals section-->
+          </int-org-section>
+          <int-org-section id="IO-UN.2527" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio ewyb">
+               <heading>Health Days</heading>
+               <p id="IO-UN.2528" usage="edio ewyb">World Health Day is observed on 7 April every year, and is used to promote awareness of a particular health topic (`My health, my right’ in 2024). World Leprosy Day is held every year on 23 January, World Neglected Tropical Diseases Day on 30 January, World TB Day on 24 March, World Chagas Day on 14 April, World No Tobacco Day on 31 May, World Blood Donor Day on 14 June, World Hepatitis Day on 28 July, World Heart Day on 24 September, World Patient Safety Day on 17 September, World Mental Health Day on 10 October, World Diabetes Day, in association with the International Diabetes Federation, on 14 November, World AIDS Day on 1 December, World Asthma Day on 11 December, Universal Health Coverage Day on 12 December.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2531" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p usage="ewyb edio">In May 2022 the 75th WHA adopted a landmark decision in accordance with which member states’ assessed contributions were to be increased to account for at least one-half of WHO’s core budgetary expenditure by 2030-31 (compared with 16% in 2020-21).</p>
+          <p-alternates default="EWYB" type="ALTERNATES">
+               <p id="IO-UN.2533" usage="ewyb edio">WHO's regular budget, representing less than one-quarter of overall expenditure, is provided by assessment of member states and associate members. Funding for specific projects is provided by voluntary contributions from members and other sources, including UNDP and UNFPA. A total budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2024-25, comprising $4,968.2m. for its base programmes, and an additional $1,000.0m. for emergency operations and appeals, $694.3m. for polio eradication, and $171.7m. for special programmes.</p>
+               <p usage="casee eerca">A total programme budget of US $6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 6.9% was provisionally allocated to the Europe office.</p>
+               <p usage="sacac">A total programme budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 4.6% was provisionally allocated to the Americas office.</p>
+               <p usage="ass">A total programme budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 23.8% was provisionally allocated to the Africa office (including 27.4% of the total budget for emergency operations and appeals).</p>
+               <p usage="mena">A total programme budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 19.0% was provisionally allocated to the Eastern Mediterranean office (including 33.4% of the total budget for emergency operations and appeals and 49.3% of the budget for polio eradication).</p>
+               <p usage="sasia">A total programme budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 7.9% was provisionally allocated to the South-East Asia office (which includes Bangladesh, Bhutan, India, the Maldives, Nepal and Sri Lanka).</p>
+               <p usage="fea">A total programme budget of US&#8201;$6,834.2m. was approved by the WHA in May 2023 for the two years 2023-24, of which 7.9% was provisionally allocated to the South-East Asia office and 6.3% to the Western Pacific office.</p>
+          </p-alternates>
+     </int-org-section>
+     <int-org-section id="IO-UN.2535" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Bulletin of the World Health Organization</publ-name>
+                    <content-note style="NORMAL">monthly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Global Status Report on Alcohol and Health</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Global Tuberculosis Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>International Classification of Diseases</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>International Health Regulations</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>International Pharmacopoeia</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>International Travel and Health</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Levels and Trends in Child Mortality</publ-name>
+                    <content-note style="NORMAL">every 2 years, with the World Bank and UNICEF</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Model List of Essential Medicines</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Public Health Panorama</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Tracking Universal Health Coverage</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Weekly Epidemiological Record</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>WHO Drug Information</publ-name>
+                    <content-note style="NORMAL">quarterly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>WHO Report on the Global Tobacco Epidemic</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>World Cancer Report</publ-name>
+                    <content-note style="NORMAL">every 5-6 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>World Health Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>World Health Statistics</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>World Malaria Report</publ-name>
+                    <content-note style="NORMAL">annually, with UNICEF</content-note>
+               </publ-entry>
+          </publ-list>
+          <p usage="ewyb edio">
+      Through its regional offices WHO also publishes a quarterly 
+      <publ-name>Pan-American Journal of Public Health</publ-name>
+      , the 
+      <publ-name>African Health Monitor</publ-name>
+      , the annual 
+      <publ-name>Eastern Mediterranean Health Journal</publ-name>
+      , the 
+      <publ-name>WHO South-East Asia Journal of Public Health</publ-name>
+      , and 
+      <publ-name>Western Pacific Surveillance and Response</publ-name>
+      .
+    </p>
+          <p usage="sacac">
+      WHO also publishes a quarterly 
+      <publ-name>Pan-American Journal of Public Health</publ-name>
+      .
+    </p>
+          <p usage="ass">
+      WHO also publishes an 
+      <publ-name>African Health Monitor</publ-name>
+      .
+    </p>
+          <p usage="mena">
+      WHO also publishes the annual 
+      <publ-name>Eastern Mediterranean Health Journal</publ-name>
+      .
+    </p>
+          <p usage="fea">
+      WHO also publishes the 
+      <publ-name>WHO South-East Asia Journal of Public Health</publ-name>
+       and 
+      <publ-name>Western Pacific Surveillance and Response</publ-name>
+      .
+    </p>
+          <p id="IO-UN.2536">Technical report series; guidelines; catalogues of specific scientific, technical and medical fields are available.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.2529" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Associated Agencies</heading>
+          <p>
+      WHO works in close partnership with 
+      <xr pageref="N" ref="IO-GAVI.1">Gavi, the Vaccine Alliance</xr>
+       and the 
+      <xr pageref="N" ref="IO-WHO.0001">Global Fund to Fight AIDS, TB and Malaria</xr>
+      .
+    </p>
+          <org-list>
+               <org-entry id="IO-WHO.2506" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Joint United Nations Programme on HIV/AIDS</org-entry-name>
+                         <abbr>UNAIDS</abbr>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>20 ave Appia, 1211 Geneva 27, Switzerland</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">227913666</telephone>
+                         <fax>227914187</fax>
+                         <email>communications@unaids.org</email>
+                         <internet>www.unaids.org</internet>
+                    </address-block>
+                    <found-date>1996 to lead, strengthen and support an expanded response to the global HIV/AIDS pandemic</found-date>
+                    <content-note style="NORMAL">guided by UN Security Council Resolution 1308, focusing on the possible impact of AIDS on social instability and emergency situations, and the potential impact of HIV on the health of international peacekeeping personnel; by the Declaration of Commitment on HIV/AIDS agreed in June 2001 by a Special Session of the UN General Assembly on HIV/AIDS, which acknowledged the AIDS epidemic as a `global emergency'; and by subsequent Political Declarations adopted by the General Assembly, including, in June 2021, on Ending Inequalities and Getting on Track to End AIDS by 2030</content-note>
+                    <content-note style="NORMAL">activities focus on prevention, care and support, reducing vulnerability to infection, and alleviating the socioeconomic and human effects of HIV/AIDS</content-note>
+                    <content-note style="NORMAL">launched the Global Coalition on Women and AIDS in Feb. 2004</content-note>
+                    <content-note style="NORMAL">the UNAIDS 2012-26 Strategy was based on 3 strategic priorities: Maximize equitable and equal access to HIV services and solutions; Break down barriers to achieving HIV outcomes; and Fully resource and sustain efficient HIV responses and integrate them into health, social protection, humanitarian, and pandemic response situations</content-note>
+                    <stats>co-sponsors: WHO, UN Women, UNICEF, UNDP, UNFPA, UNODC, the ILO, UNESCO, the World Bank, WFP, UNHCR</stats>
+                    <role-group>
+                         <role>Exec. Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Winnie</forename>
+                                   <surname>Byanyima</surname>
+                              </person-name>
+                              <person-note>Uganda</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.2530" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>International Agency for Research on Cancer</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>150 Cours Albert Thomas, 69372 Lyon Cedex 08, France</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">4-72-73-84-85</telephone>
+                         <!--GS 01.06.2016 Have contact form-->
+                         <internet>www.iarc.fr</internet>
+                    </address-block>
+                    <found-date>1965 as a self-governing body within the framework of WHO</found-date>
+                    <content-note style="NORMAL">organizes international research on cancer</content-note>
+                    <content-note style="NORMAL">maintains its own laboratories, an IARC Biobank, a web-based Global Cancer Observatory (GCO), and runs a research programme on the environmental factors causing cancer</content-note>
+                    <content-note style="NORMAL">
+          issues a series of monographs on the identification of carcinogenic hazards to humans and publishes 
+          <publ-name>The Cancer Atlas</publ-name>
+          , providing an overview of cancer worldwide
+        </content-note>
+                    <stats>mems: 26 countries</stats>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <title>Dr</title>
+                                   <forename>Elisabete</forename>
+                                   <surname>Weiderpass</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+          <!--~ UNITAID-->
+     </int-org-section>
+</int-org-entry>

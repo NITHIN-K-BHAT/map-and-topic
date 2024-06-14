@@ -1,0 +1,847 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61758" sllink="SLSDOCRF" sllinkid="61757" slsdocid="55840" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BG.DIR.261" id-root="bg.dir" iso="bg" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="BG.DIR.262" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online) </heading>
+                         <org-list>
+                              <org-entryref id="SL62916" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62915" slsdocid="56317" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.263" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>24 Chasa</org-entry-name>
+                                             <alt-name>24 Hours</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. Cyril and Methodius 84</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 942-25-14</telephone>
+                                             <email>onlinevgb@gmail.com</email>
+                                             <internet>www.24chasa.bg</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">wholly owned by Westdeutsche Allgemeine Zeitung (Germany)</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Borislav</forename>
+                                                       <surname>Zjumbjulev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3720404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3720403" slsdocid="56305" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.274" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Capital Daily</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. I. Vazov 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 461-53-00</telephone>
+                                             <fax>(2) 461-52-35</fax>
+                                             <email>pisma@capital.bg</email>
+                                             <internet>www.capital.bg</internet>
+                                        </address-block>
+                                        <found-date>
+                  2011 through merger of the print editions of 
+                  <i>Dnevnik</i>
+                   and 
+                  <i>Pari</i>
+                                        </found-date>
+                                        <content-note style="NORMAL">part of Economedia business media gp</content-note>
+                                        <role-group>
+                                             <role>Man. Eds</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivaylo</forename>
+                                                       <surname>Stanchev</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Teodors</forename>
+                                                       <surname> Vasileva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alexey</forename>
+                                                       <surname>Lazarov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62920" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62919" slsdocid="56315" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.265" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--MR 03.01.2022 ditto-->
+                                        <!--NS 28.02.2017 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Chernomorsky Far</org-entry-name>
+                                             <alt-name>Black Sea Lighthouse</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>8000 Burgas Oblast, Burgas, ul. Milin Kamak 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(56) 82-54-35</telephone>
+                                             <email>far@chfar.com</email>
+                                             <internet>www.faragency.bg</internet>
+                                        </address-block>
+                                        <found-date>1920</found-date>
+                                        <content-note style="NORMAL">regional independent</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Silviya</forename>
+                                                       <surname>Shatarova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL957016" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="957015" slsdocid="957008" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1088011005" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Dnevnik.bg</org-entry-name>
+                                             <alt-name>Dnevnik.bg</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. I. Vazov 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 461-53-00</telephone>
+                                             <email>dnevnik@dnevnik.bg</email>
+                                             <internet>www.dnevnik.bg</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">online only since 2011</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Velislava</forename>
+                                                       <surname>Popova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62921" slsdocid="56314" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.266" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Duma</org-entry-name>
+                                             <alt-name>Word</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1301 Sofia, bul. Pozitano 20
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 970-52-12</telephone>
+                                             <email>duma@duma.bg</email>
+                                             <internet>www.duma.bg</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">leftist</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivelin</forename>
+                                                       <surname>Nikolov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8929379" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8929378" slsdocid="8929357" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1709027513" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Mediapool.bg</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1000 Sofia, ul. G. S. Rakovski 153
+                      <sc>B</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 987-11-50</telephone>
+                                             <email>mediapool@mediapool.bg</email>
+                                             <internet>www.mediapool.bg</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <content-note style="NORMAL">online only</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stoyana</forename>
+                                                       <surname>Georgieva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL956937" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="956936" slsdocid="956915" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1088008003" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--MR 03.01.2022 address not confirmed-->
+                                        <!--NS 28.02.2017 only tel and role group could be updated-->
+                                        <!--sb 27.02.2015 only role group confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Monitor</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1527 Sofia, ul. Ekzarh Yosif 119</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 960-22-35</telephone>
+                                             <email>monitor@monitor.bg</email>
+                                             <internet>www.monitor.bg</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petya</forename>
+                                                       <surname>Bakharova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--06.03.2015 IG found phone number etc here: www.monitor.bg/-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62928" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62927" slsdocid="56310" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.269" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Narodno Delo</org-entry-name>
+                                             <alt-name>People’s Cause</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>9000 Varna, bul. Miladinovi 68</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(52) 58-02-30</telephone>
+                                             <fax>(52) 61-50-80</fax>
+                                             <email>office@narodnodelo.bg</email>
+                                             <internet>narodnodelo.bg</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <frequency>6 a week</frequency>
+                                        <content-note style="NORMAL">regional independent</content-note>
+                                        <content-note style="NORMAL">business, politics and sport</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Markov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 03.06.2013 contact page is not easily visible. It is here: http://www.narodnodelo.bg/kontakti.php, right below the Subscribe tab-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL957006" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="957005" slsdocid="956995" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1088010594" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Sega</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1504 Sofia, bul. Evlogi and Hristo Georgievi 169</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 428-23-00</telephone>
+                                             <email>editors@segabg.com</email>
+                                             <internet>www.segabg.com</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <frequency>6 a week</frequency>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Teodora</forename>
+                                                       <surname>Peeva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62946" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62945" slsdocid="56301" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.278" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Standart News</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, bul. Aleksandŭr Stamboliiski 55</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 818-23-11</telephone>
+                                             <fax>(2) 818-23-06</fax>
+                                             <email>office@standartnews.com</email>
+                                             <internet>www.standartnews.com</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Slavka</forename>
+                                                       <surname>Bozukova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8929352" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8929351" slsdocid="8929271" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1709023638" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Svobodna Europa</org-entry-name>
+                                             <alt-name>Free Europe</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia</verbatim-address>
+                                             </address>
+                                             <email>svobodnaevropa@rferl.org</email>
+                                             <internet>www.svobodnaevropa.bg</internet>
+                                        </address-block>
+                                        <found-date>2019</found-date>
+                                        <content-note style="NORMAL">owned by Radio Free Europe/Radio Liberty</content-note>
+                                        <content-note style="NORMAL">online only</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivan</forename>
+                                                       <surname>Bedrov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3012856" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3012855" slsdocid="56299" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.279" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Trud</org-entry-name>
+                                             <alt-name>Trud Daily Newspaper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. Hristo Belchev 1, 5th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 905-74-00</telephone>
+                                             <email>trud@trud.bg</email>
+                                             <internet>trud.bg</internet>
+                                        </address-block>
+                                        <found-date>1936</found-date>
+                                        <content-note style="NORMAL">organ of the Confederation of Independent Trade Unions in Bulgaria</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Petyo</forename>
+                                                       <surname>Blaskov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BG.DIR.284" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL971313" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="971312" slsdocid="56293" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.285" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sb 02.03.2015 info available on www.168chasa.bg/Contacts.asp-->
+                                        <org-entry-head>
+                                             <org-entry-name>168 Chasa</org-entry-name>
+                                             <alt-name>168 Hours</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1202 Sofia, ul. Kiril i Metodij 84</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 942-27-22</telephone>
+                                             <fax>(2) 942-28-24</fax>
+                                             <email>press@168chasa.bg</email>
+                                             <internet>www.168chasa.bg</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">business, politics, entertainment</content-note>
+                                        <content-note style="NORMAL">owned by Westdeutsche Allgemeine Zeitung (Germany)</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Slavi</forename>
+                                                       <surname>Angelov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62966" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62965" slsdocid="56289" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.289" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Az Buki</org-entry-name>
+                                             <alt-name>Alphabet</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1113 Sofia, bul. Tsarigradsko 125</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 425-04-70</telephone>
+                                             <email>azbuki@mon.bg</email>
+                                             <internet>azbuki.bg</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">for schools</content-note>
+                                        <content-note style="NORMAL">sponsored by the Ministry of Education and Science</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nadya</forename>
+                                                       <surname>Kantareva-Baruh</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3013074" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3013073" slsdocid="3012873" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1274437833" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" region="CASEE" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--sb 02.03.2015 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Bankera</org-entry-name>
+                                             <alt-name>Banker</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1421 Sofia, bul. Cherni Vrykh 25
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 440-94-40</telephone>
+                                             <email>info@banker.bg</email>
+                                             <internet>www.banker.bg</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">weekly</content-note>
+                                        <content-note style="NORMAL">banking and finance</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bistra</forename>
+                                                       <surname>Georgieva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3226802" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3226801" slsdocid="3226779" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1293789235" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Bulka</org-entry-name>
+                                             <alt-name>Bride</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1784 Sofia, POB 138</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(89) 787-77-63</telephone>
+                                             <email>bulka@gbg.bg</email>
+                                             <internet>spisaniebulka.com</internet>
+                                        </address-block>
+                                        <frequency>quarterly</frequency>
+                                        <content-note style="NORMAL">fashion and weddings</content-note>
+                                        <content-note style="NORMAL">owned by 75 Gp Ltd</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Violeta</forename>
+                                                       <surname>Tsacheva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1164657" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1164656" slsdocid="56283" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.295" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Durzhaven Vestnik</org-entry-name>
+                                             <alt-name>State Gazette</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1169 Sofia, bul. K. Aleksandar 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 939-35-23</telephone>
+                                             <email>dvest@parliament.bg</email>
+                                             <internet>dv.parliament.bg</internet>
+                                        </address-block>
+                                        <found-date>1879</found-date>
+                                        <frequency>twice weekly</frequency>
+                                        <content-note style="NORMAL">official publication of the Republic of Bulgaria</content-note>
+                                        <content-note style="NORMAL">parliamentary proceedings and the promulgation of legis­lation</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivonna</forename>
+                                                       <surname>Kovacheva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3226865" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3226864" slsdocid="3226838" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1293792067" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>EVA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1123 Sofia, ul. Mizia 23</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(2) 987-34-39</telephone>
+                                             <email>eva@atticaeva.bg</email>
+                                             <internet>eva.bg</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">monthly</content-note>
+                                        <content-note style="NORMAL">fashion and lifestyle</content-note>
+                                        <content-note style="NORMAL">in Bulgarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Deyana</forename>
+                                                       <surname>Angelova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL62996" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="62995" slsdocid="56274" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.304" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Kultura</org-entry-name>
+                                             <alt-name>Culture</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1164 Sofia,ul. Shesti Septemvri 17</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 434-10-54</telephone>
+                                             <email>redaktori@kultura.bg</email>
+                                             <internet>www.kultura.bg</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <frequency>10 a year</frequency>
+                                        <content-note style="NORMAL">arts, publicity and cultural affairs</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tony</forename>
+                                                       <surname>Nikolov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL63010" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63009" slsdocid="56267" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.311" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Napravi Sam</org-entry-name>
+                                             <alt-name>Do It Yourself</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1527 Sofia, ul. Panayot Volov 11</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 857-65-65</telephone>
+                                             <email>napravisam@newteck.bg</email>
+                                             <internet>napravisam.net</internet>
+                                        </address-block>
+                                        <found-date>1980</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Georgi</forename>
+                                                       <surname>Balanski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL63016" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63015" slsdocid="56264" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.314" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Novo Vreme</org-entry-name>
+                                             <alt-name>New Time</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, ul. Pozitano 20</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 810-72-70</telephone>
+                                             <email>novovreme@novovreme.com</email>
+                                             <internet>www.novovreme.com</internet>
+                                        </address-block>
+                                        <found-date>1897</found-date>
+                                        <frequency>6 a year</frequency>
+                                        <content-note style="NORMAL">organ of the Balgarska Sotsialisticheska Partiya</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Georgi</forename>
+                                                       <surname>Pirinski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL63030" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63029" slsdocid="56256" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.321" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Starshel</org-entry-name>
+                                             <alt-name>The Hornet</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, pl. Slaveykov 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 988-08-16</telephone>
+                                             <email>starshel@mail.bg</email>
+                                             <internet>starshel.bg</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <ownership>Starshel i Polovina Ltd</ownership>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">satirical</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mikhail</forename>
+                                                       <surname>Veshim</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL63044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63043" slsdocid="56249" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.328" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <data-protection date-added="08.12.2020" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Zhenata Dnes</org-entry-name>
+                                             <alt-name>Women Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1164 Sofia, bul. Dzheimz Baucher 23</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 424-49-39</telephone>
+                                             <email>jenatadnes1945@gmail.com</email>
+                                             <internet>www.jenatadnes.com</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Liliya</forename>
+                                                       <surname>Popova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BG.DIR.330" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL63048" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63047" slsdocid="56246" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.331" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <data-protection date-added="27.06.2018" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Bulgaria News Agency</org-entry-name>
+                                             <abbr>BTA</abbr>
+                                             <alt-name>Balgarska Telegrafna Agentsia</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1124 Sofia, bul. Tsarigradsko 49</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 988-17-19</telephone>
+                                             <fax>(2) 981-42-08</fax>
+                                             <email>bta@bta.bg</email>
+                                             <internet>www.bta.bg</internet>
+                                        </address-block>
+                                        <found-date>1898</found-date>
+                                        <content-note style="NORMAL">official news agency</content-note>
+                                        <content-note style="NORMAL">domestic, Balkan and international news in Bulgarian and English; also economic and sports news</content-note>
+                                        <content-note style="NORMAL">publishes weekly surveys of science and technology, international affairs, literature and art</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kiril</forename>
+                                                       <surname>Valchev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3012410" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3012409" slsdocid="3012407" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1274419677" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" region="CASEE" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <!--MR 04.01.2022 Role group not found-->
+                                        <!--NS 24.12.2018 Petrov no more editor new name not found https://www.linkedin.com/in/angel-petrov-31907586/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sofia News Agency</org-entry-name>
+                                             <alt-name>Novinite</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1680 Sofia, ul. Poduevo 10, 1st Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 920-17-09</telephone>
+                                             <email>office@novinitegroup.com</email>
+                                             <internet>www.novinite.com</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">English-language news provider</content-note>
+                                        <content-note style="NORMAL">part of One Click Media Group</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BG.DIR.350" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Associations</heading>
+                         <org-list>
+                              <org-entryref id="SL3012370" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3012369" slsdocid="3012358" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1274416089" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" region="CASEE" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Press Associations">
+                                        <org-entry-head>
+                                             <org-entry-name>Bulgarian Journalists’ Union</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, Graf Ignatiev 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 987-28-08</telephone>
+                                             <email>sbj@sbj-bg.eu</email>
+                                             <internet>www.sbj-bg.eu</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <content-note style="NORMAL">seven brs</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Snezhana</forename>
+                                                       <surname>Todorova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anna</forename>
+                                                       <surname>Zarkova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kadrinka</forename>
+                                                       <surname>Kadrinova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3012389" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3012388" slsdocid="3012374" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BG.DIR.1274417233" id-root="bg.dir" iso="bg" media="PRINTANDONLINE" print-only="NO" region="CASEE" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Press Associations">
+                                        <org-entry-head>
+                                             <org-entry-name>Union des Journalistes Bulgares Podkrepa</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Sofia, Angel Kantchev 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 987-68-82</telephone>
+                                             <email>president@podkrepa.org</email>
+                                             <internet>podkrepa.org</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Velina</forename>
+                                                       <surname>Hristova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Area - population</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.1" navtitle="Surface area">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.1.dita"
+            navtitle="Surface area"/>
+    </chapter>
+    <chapter id="stats.table.2" navtitle="Population at mid-year">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.2.dita"
+            navtitle="Population at mid-year"/>
+    </chapter>
+    <chapter id="stats.table.3" navtitle="Population density">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.3.dita"
+            navtitle="Population density"/>
+    </chapter>
+    <chapter id="stats.table.4" navtitle="Life expectancy">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.4.dita"
+            navtitle="Life expectancy"/>
+    </chapter>
+    <chapter id="stats.table.23" navtitle="Annual rate of population change">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.23.dita"
+            navtitle="Annual rate of population change"/>
+    </chapter>
+    <chapter id="stats.table.27" navtitle="Average rate of unemployment">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.27.dita"
+            navtitle="Average rate of unemployment"/>
+    </chapter>
+    <chapter id="stats.table.31" navtitle="Employment by sector">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.31.dita"
+            navtitle="Employment by sector"/>
+    </chapter>
+    <chapter id="stats.table.32" navtitle="International migrant population">
+        <topicref href="../../../Topics/comp-stats/category/area-population/stats.table.32.dita"
+            navtitle="International migrant population"/>
+    </chapter>
+</bookmap>

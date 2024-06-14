@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.1643" id-root="io-un.1643" iso="io-un.1643" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio mena"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>United Nations Relief and Works Agency for Palestine Refugees in the Near East</org-entry-name>
+               <abbr>UNRWA</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="mena">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Other Bodies)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">UNRWA</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="mena">The United Nations in the Middle East and North Africa</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Gamal Abd al-Nasser St, Gaza City</verbatim-address>
+               </address>
+               <telephone alsofax="N">(8) 2887701</telephone>
+               <fax>(8) 2887699</fax>
+          </address-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Bayader Wadi Seer, POB 140157, Amman 11814, Jordan</verbatim-address>
+               </address>
+               <telephone alsofax="N">(6) 5808100</telephone>
+               <fax>(6) 5808335</fax>
+               <email>gazapio@unrwa.org</email>
+               <internet>www.unrwa.org</internet>
+          </address-block>
+          <p id="IO-UN.1644">UNRWA was established by the UN General Assembly to provide relief, health, education and welfare services for Palestinian refugees in the Near East, initially on a short-term basis. UNRWA began operations in May 1950 and, in the absence of a solution to the refugee problem, its mandate has subsequently been extended by the General Assembly.</p>
+          <!--~ The UN General Assembly granted non-member observer status (and consequently recognition of de facto statehood) to Palestine in November 2012.-->
+     </int-org-block>
+     <int-org-section id="IO-UN.1645" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <p>The Commissioner-General is the head of UNRWA operations and reports directly to the UN General Assembly. UNRWA has no governing body, but its activities are reviewed and guided by a 27-member Advisory Commission—AdCom—which meets twice a year. The Palestinian (National) Authority, the European Community and the League of Arab States (Arab League) participate in the Commission as observers. UNRWA employs some 120 international staff and more than 30,000 local staff, mainly Palestinian refugees.</p>
+          <dir-list>
+               <dir-entry id="IO-UN.1648" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                    <dir-entry-name>Commissioner-General</dir-entry-name>
+                    <person-group>
+                         <person>
+                              <person-name>
+                                   <forename>Philippe</forename>
+                                   <surname>Lazzarini</surname>
+                              </person-name>
+                              <person-note>Switzerland</person-note>
+                         </person>
+                    </person-group>
+               </dir-entry>
+               <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio mena">
+                    <dir-entry-name>Deputy Commissioner-General, Programmes and Partnerships</dir-entry-name>
+                    <person-group>
+                         <person>
+                              <person-name>
+                                   <forename>Nathalie</forename>
+                                   <surname>Boucly</surname>
+                              </person-name>
+                              <person-note>France</person-note>
+                         </person>
+                    </person-group>
+               </dir-entry>
+               <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio mena">
+                    <dir-entry-name>Deputy Commissioner-General, Operational Support</dir-entry-name>
+                    <person-group>
+                         <person>
+                              <person-name>
+                                   <forename>Antonia Marie</forename>
+                                   <surname>De Meo</surname>
+                              </person-name>
+                              <person-note>USA</person-note>
+                         </person>
+                    </person-group>
+               </dir-entry>
+          </dir-list>
+          <int-org-section id="IO-UN.1649" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Field Offices</heading>
+               <p>Each field office is headed by a director and has departments responsible for education, health and relief and social services programmes, finance, administration, supply and transport, legal affairs and public information. Operational support officers work in Gaza and the West Bank to monitor and report on the humanitarian situation and facilitate UNRWA field activities.</p>
+               <!--RC 26.05.2020 updated-->
+               <org-list>
+                    <org-entry id="IO-UN.1651" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <!--rc 29.01.2021 cannot confirm role groups-->
+                         <data-protection date-added="16.03.2006" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Gaza</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Rimal Quarter, al-Azhar Rd, Gaza City</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(8) 2887457</telephone>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Thomas</forename>
+                                        <surname>White</surname>
+                                   </person-name>
+                                   <person-note>Australia</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1652" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Jordan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 143464, 11814 Amman</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(6) 5809100</telephone>
+                              <fax>(6) 5809134</fax>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Mohammed</forename>
+                                        <surname>Adar</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1653" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <data-protection date-added="16.03.2006" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Lebanon</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Bir Hassan, Ghobeiri, Beirut 1107 2060</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 840490</telephone>
+                              <fax>(1) 840466</fax>
+                              <email>h.samra@unrwa.org</email>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Claudio</forename>
+                                        <surname>Cordone</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1654" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Syrian Arab Republic</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address> Mezzeh Highway/Beirut Rd intersection, Damascus</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 6133035</telephone>
+                              <fax>(11) 6133047</fax>
+                              <email>h.mukhles@unrwa.org</email>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Amanya Michael</forename>
+                                        <surname> Ebye</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1655" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>West Bank</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Sheikh Jarrah, East Jerusalem</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 5890400</telephone>
+                              <fax>(2) 5322714</fax>
+                         </address-block>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Gwyn</forename>
+                                        <surname>Lewis</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p>There are UNRWA liaison offices in Brussels, Belgium; Cairo, Egypt; Geneva, Switzerland; and New York and Washington, DC, USA.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1660" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <int-org-section id="IO-UN.1661" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Routine Assistance Activities</heading>
+               <p id="IO-UN.1662" usage="edio">To be eligible for assistance, a refugee must reside in one of the five areas in which UNRWA operates (Lebanon, Jordan, the Syrian Arab Republic, the West Bank and the Gaza Strip) and be in need. A refugee's descendants who fulfil certain criteria are also eligible for UNRWA assistance. Following the renewal of Arab-Israeli hostilities in the Middle East in June 1967, hundreds of thousands of people fled from the fighting and from Israeli-occupied areas to east Jordan, Syria and Egypt. UNRWA provided emergency relief for displaced refugees and was additionally empowered by a UN General Assembly resolution to provide `humanitarian assistance, as far as practicable, on an emergency basis and as a temporary measure' for those persons other than Palestine refugees who were newly displaced and in urgent need. In practice, UNRWA lacked the funds to aid the other displaced persons and the main burden of supporting them devolved on the Arab governments concerned.</p>
+               <p>UNRWA's humanitarian support activities for Palestin­ian refugees in Lebanon, Syria, Jordan, the West Bank and the Gaza Strip include the provision of basic food and medical supplies; activities aimed at generating employment and income for labourers with dependants, while improving the local infrastructure; the provision of extra schooling days to make up for those missed because of the conflict, trauma counselling for children, protection activities, and post-injury rehabilitation; and the reconstruction of shelters. The Agency’s delivery of services is guided by its Medium-Term Strategy, covering 2023-28, which works towards seven strategic outcomes: protecting refugees through the realization of their rights under international law; enabling them to lead healthy lives; providing inclusive, equitable quality education for refugee children; enhancing livelihood opportunities; ensuring that the most vulnerable refugees have access to effective social assistance; ensuring that basic needs for shelter, water and sanitation are met; and effectively and responsibly implementing UNRWA’s mandate.</p>
+               <p>At the start of 2023 UNRWA was providing essential services to 5.9m. registered refugees, and 762,962 other registered persons. Nearly one-third of refugees were living in 58 official camps serviced by the Agency (19 were in the West Bank; 12 in Lebanon; 10 in Jordan; nine in Syria; and eight in Gaza), while the remaining refugees had settled in local towns and villages and host communities, as well as in 10 further (unofficial) camps.</p>
+               <p-group>
+                    <heading>Health Care</heading>
+                    <p>
+          In 2022 there were 140 UNRWA-run primary health care units providing outpatient medical care, disease prevention and control, maternal and child health care and family planning services. (Also, 124 of the health care units offered dental services.) The number of health staff totalled 3,050. UNRWA also operates a hospital in the West Bank and offers assistance towards emergency and other secondary treatment, mainly through contractual agreements with non-governmental and private hospitals. Technical assistance for the health programme is provided by the 
+          <xr pageref="N" ref="IO-UN.2442">World Health Organization (WHO)</xr>
+          . The Agency extended antenatal services to 67,070 women in 2022. As a core element of its operations UNRWA offers mental health and psychosocial care to refugees (in particular children) who are experiencing psychological stress. In 2021 UNRWA integrated a mental health and psychosocial support element into all of its health centres. UNRWA maintains mobile phone applications on non-communicable diseases and on maternal and child health.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Education</heading>
+                    <p>In the 2022/23 school year 543,080 pupils were enrolled in 706 UNRWA schools, and there were 19,730 UNRWA educational staff. At that time some 7,810 students were enrolled under UNRWA’s Technical Vocational Education and Training (TVET) Programme at eight specialized TVET centres. A further 2,051 students were enrolled at two teacher training colleges. The Agency also manages an online Education in Emergencies (EiE) programme, which uses an UNRWA Digital Learning Platform that was inaugurated in April 2021. Technical co-operation for the Agency's education programme is provided by the UN Educational, Scientific and Cultural Organization. An annual meeting is convened between UNRWA and the Arab League’s Council of Educational Affairs. An UNRWA Education Expert Advisory Group was established in June 2022. In the following month an UNRWA Information and Communication Technology for Education (ICT4E) Strategy was launched. In June 2023 the fifth workshop was held of an elected UNRWA student parliament, which had been established in 2017, and has representation from the West Bank, Gaza, Jordan, Lebanon and Syria.</p>
+               </p-group>
+               <p-group>
+                    <heading>Relief and Social Services</heading>
+                    <p>`Decent standard of living’ services include the distribution of food rations, the provision of emergency shelter and the organization of welfare programmes for the poorest refugees. In 2022 special social safety net assistance was being extended to 5.5% of the total registered refugee population (of whom one-quarter were residing in Syria). Furthermore, UNRWA was providing food and emergency cash assistance to 1.8m. beneficiaries at that time. UNRWA rehabilitated 551 camps in 2022, of which 440 were in Lebanon and 89 in Jordan.</p>
+               </p-group>
+               <p-group>
+                    <heading>Microfinance support</heading>
+                    <p>In order to encourage self-reliance the Agency issues grants to ailing businesses and loans to families who qualify as special hardship cases. UNRWA’s microfinance programme, launched in 1991, promotes income generating opportunities for Palestinian refugees as well as for low-income communities living near refugee populations. Under the programme (available to refugees in the Occupied Territories, Jordan and Syria) credit and complimentary financial services are extended to small and micro business owners, and to households, with the objective of creating sustainable employment, and with a particular focus on empowering women and children. By 2022 some 632,630 loans, with a total estimated value of US&#8201;$672.9m., had been awarded under the programme.</p>
+               </p-group>
+               <org-list>
+                    <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio mena">
+                         <org-entry-head>
+                              <org-entry-name>UNRWA Microfinance Department Headquarters</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 19149, Jerusalem; 21 Zalman Sharagi St, Sheikh Jarrah Qtr, East Jerusalem</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 5890221</telephone>
+                         </address-block>
+                         <content-note style="NORMAL">the microfinance programme also operates through national field offices and several local branch offices</content-note>
+                         <content-note style="NORMAL">launched in Feb. 2012 a `Mubadarati’ initiative that was to provide loans to young entrepreneurs in the West Bank and Gaza</content-note>
+                    </org-entry>
+               </org-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.1673" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Gaza and the West Bank</heading>
+               <p>From 2007, following the election in early 2006 in the Palestinian Autonomous Territories of a militant Islamic Resistance Movement (Hamas) administration, both Israel and Egypt imposed a land, air and sea blockade against Gaza, with consequent severe socioeconomic and humanitarian impacts. No parliamentary or presidential elections have been held in Palestine since 2006. In early 2023 UNRWA reported that 71% of Palestinian refugees in Gaza were existing below the abject poverty line, 80% were dependent on emergency food assistance, and almost 47% were unemployed.</p>
+               <p-group>
+                    <heading usage="edio mena">2018-22</heading>
+                    <p usage="edio mena">In March 2018 a series of `Great March of Return’ demonstrations was launched, conducted at the Gaza-Israel border and aimed at highlighting the plight of exiled Palestinian refugees, prompting an escalation of hostilities. Further violence occurred in May, following Palestinian demonstrations against the repositioning in that month of the US embassy in Israel to Jerusalem. Some 61 Palestinian protesters were reportedly killed by Israeli security forces at that time. Great March of Return protests continued throughout 2019. In February of that year a report into the 2018 border violence issued by a UN Independent Commission of Inquiry accused Israeli soldiers of having intentionally fired at civilians; it also criticized Palestinian protestors who had launched cans of burning petrol over the border fence. In late January 2020 mass demonstrations, termed `A Day of Rage’, were organized in Gaza and the West Bank in opposition to a proposed Israel-Palestine peace deal that had recently been announced by US President Trump (and which sanctioned the large-scale annexation of West Bank territory by Israel). In the following month Palestine severed relations with Israel and the USA. In August UNRWA’s Commissioner-General, noting the background of the long-term blockade on Gaza, stated extreme concern at the recent closure of Gaza’s only power plant—owing to the suspension by Israel of fuel shipments to the territory, in retaliation at the hostile launching of incendiary balloons across the Gaza-Israel border. He called for the unimpeded passage into Gaza of all vital goods, including fuel.</p>
+                    <p usage="edio mena">In May 2021, against the background of an intensification of clashes at Jerusalem’s al-Aqsa Mosque/Temple Mount compound and a severe escalation of Hamas-Israeli conflict, UNRWA stated its opposition to the pending forced eviction of several Palestinian families from their long-term homes in the Sheikh Jarrah neighbourhood of East Jerusalem. At that time the UN Secretary-General stated his deep concern over mounting numbers of casualties caused by the intensive Israeli air strikes against densely populated Gaza and by rockets and mortars fired from Gaza to target Israeli population centres. On 19 May UNRWA issued an urgent appeal for US&#8201;$38m. to support the provision of immediate food, non-food, health, pychosocial, water, sanitation and hygiene (WASH) and other emergency response activities over the following 30 days. A ceasefire between Hamas and Israel, mediated by Egypt, entered into effect on 21 May. By that time some 242 Palestinians, of whom 65 were children, had been killed during the intensive bombardment of the strip. According to the Gaza health authorities, a further 1,948 Palestinians, including 610 children, had been injured, and around 2,500 Gaza-based Palestinians had been made homeless. At least 40 UNRWA education facilities were reported to have been damaged by the Israeli bombardment, and Gaza’s power supply had been significantly reduced. Meanwhile, 12 people, including two children, had reportedly been killed and around 710 injured by militant attacks against Israel. A further escalation of violence erupted on 5 August 2022, following the sudden initiation of an Israeli military aerial offensive aimed at targets in Gaza associated with the Palestinian Islamic Jihad militant grouping; the latter retaliated with, reportedly, 1,100 rocket and mortar attacks against Israel. Some 48 Palestinians were killed, and 450 were internally displaced (some sought shelter in UNRWA schools). On 7 August an Egypt-mediated truce entered into effect.</p>
+               </p-group>
+               <!--~ Hamas: &#160;arakat al-Muq&#160;wamah al-Islamiyyah-->
+               <p-group>
+                    <heading>2023-24</heading>
+                    <p>In January 2023 UNRWA appealed for US&#8201;$344.9m. to support humanitarian activities during the coming year in Gaza (to which $311.4m. was allocated) and the West Bank, including East Jerusalem (allocated $32.9m.). The appeal was underpinned by three strategic priorities: facilitating increased access to food for crisis-affected Palestinian refugees (including through the provision of food assistance, cash-for-work, and cash vouchers); maintaining refugees’ access to health, education, shelter, shelter repairs, and other critical services; and the effective management and co-ordination of the emergency response processes. In May at least 15 Palestinian refugees were reported by UNRWA to have been killed by Israeli forces. All UNRWA schools were temporarily closed, and the online EiE programme was activated. In June UNRWA deplored the killing of two Palestinian secondary school children during an Israeli military operation at the (West Bank) Jenin refugee camp that had escalated into a wider violent confrontation between the Israeli security forces and Palestinian armed actors (in total at least seven Palestinian and four Israeli deaths were reported); all parties were called upon to refrain from using violence. In July the Agency’s Commissioner-General stated deep concern at the impacts of a new major Israeli operation in the West Bank (reportedly the largest there for two decades)—Israeli forces having launched a massive aerial raid against the Jenin camp, that involved at least 10 drone strikes and an estimated 2,000 troops. Israeli special forces were reported to have searched properties in the camp and to have made numerous arrests of alleged terrorists; at least 12 Palestinian fatalities occurred at that time, and more than 4,000 people were displaced from their homes. UNRWA subsequently appealed for $23.8m. to fund a multisectoral emergency response, focused on restoring basic services and rebuilding homes and livelihoods.</p>
+                    <p>On 7 October 2023 Hamas militants led a violent incursion into Israeli territory, killing some 1,200 people and taking around 250 hostages. The Israeli Government declared a state of war and imposed an immediate full siege of Gaza. On 10 October UNRWA issued an urgent appeal for US&#8201;$104m. to support its humanitarian response over the next 90 days in Gaza—where supplies of water, food and power had been severed. Soon afterwards, in response to an Israeli ultimatum that civilians in Gaza must evacuate the northern part of the enclave, in advance of an IDF operation aimed at eliminating Islamist militants, UNRWA relocated its staff to Rafah (in the south, near the border with Egypt). On 15 October the UNRWA Commissioner-General stated that the enclave was running out of provisions and that the number of civilians seeking shelter was `absolutely overwhelming’. He stressed the need for all parties to the conflict to respect international humanitarian law, noting that imposing a siege and bombarding civilian infrastructure in a densely populated area, as collective punishment for the atrocities perpetrated in Israel by Hamas, was not a strategy that would bring peace or security to the region. UNRWA staff received, stored and distributed supplies of food, potable water and medicines that were delivered by a small number of humanitarian convoys that were given access to Gaza from 21 October. On 27 October the UN General Assembly adopted a non-binding resolution that called for a humanitarian truce in Gaza, while UNRWA continued to advocate intensively for further humanitarian aid, including fuel, to be allowed into the enclave. The agency maintained a much reduced primary healthcare clinic service (in Rafah, Khan Younis and Gaza’s Middle Areas), and was extending services within shelters through mobile medical units and medical teams. Its operations were hindered by severe restrictions on fuel supplies and by direct and indirect military incidents impacting its facilities. In early November UNRWA issued a flash appeal for $481m. to cover the most critical near-term humanitarian needs of people in Gaza and the West Bank. A humanitarian pause in the fighting was secured for a period of seven days from 24 November. On 28 November UNRWA suspended its operations in the Jenin refugee camp, including four schools, as a result of Israeli security force activity.</p>
+                    <p>At 25 March 2024 Gaza’s health authorities reported that 32,333 Palestinians had been killed in the Gaza Strip since 7 October 2023, while (according to the UN Office for the Coordination of Humanitarian Affairs) 434 Palestinians had been killed in the West Bank. UNRWA estimated at 25 March that up to 1.7m. Palestinians (more than three-quarters of the population) had been displaced within Gaza since the commencement of the escalation of hostilities, many multiple times, and had sought shelter, in very overcrowded conditions, in or near 154 UNRWA installations. UNRWA estimated that up to 250,000 people remained in hard-to-reach northern areas. Only eight, out of 24, health centres were believed to be operational in the enclave (one in the north, two in the middle areas, two further south in Khan Younis, and three in Rafah—which was under threat of a planned ground offensive by Israel). UNRWA continued to extend food and WASH assistance where possible. At that time the Agency confirmed that 171 staff members had been killed since the start of the conflict.</p>
+                    <p>
+          In late January 2024 several donor nations, including the USA, United Kingdom, Australia and Canada, paused additional funding allocations to UNRWA, pending a review of allegations made by Israel that 12 Agency personnel had been involved in the atrocities perpetrated by Hamas on 7 October 2023. UNRWA’s Commissioner-General subsequently announced that the contracts of several Agency employees had been terminated, and that a full, independent review would be conducted (the UN Office of Internal Oversight Services—OIOS initiated an investigation in February). Meanwhile, the heads of 14 UN agencies and partners issued a statement that emphasized the degree to which the population of Gaza depended on UNRWA and stressed that the entire Agency should not be prevented from delivering on its humanitarian mandate. Presenting its initial findings on 20 March the OIOS stated that UNRWA had in place a significant number of mechanisms and procedures aimed at ensuring compliance with the humanitarian principle of neutrality; recommendations on critical areas requiring action were to be made in a final report to be issued in late April. On 24 March Israel declared that it would no longer approve UNRWA-organized shipments of food assistance to northern Gaza—where the remaining residents were reported to be on the brink of famine. On the following day the UN Security Council 
+          
+          adopted a resolution that demanded an immediate ceasefire in Gaza for the remainder of the Muslim holy month of Ramadan, as well as for an increase in the flow of humanitarian aid, guaranteed humanitarian access to the enclave, and the immediate release of all hostages detained there. By that time some funding had been resumed to UNRWA; the USA and UK, both normally large donors, were continuing to withhold resources.
+        </p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="UNRWA.IO.100" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Jordan, Lebanon and Syria</heading>
+               <p>
+        In January 2023 UNRWA issued an emergency appeal for US&#8201;$436.7m. to fund its assistance operations for Palestinian refugees in Jordan, Lebanon and Syria. Of the total, some $247.2m. was to support the requirements of vulnerable Palestinian refugees remaining in Syria (where 57% of the refugees were reported to have borderline to poor food consumption), $160m. to assist Palestinian refugees sheltering in Lebanon (where 93% were living below the poverty line and 86% were relying on UNRWA cash assistance as their primary income source), and $28.8m. to those in Jordan (where there was reported to be an 89% unemployment rate among Palestinian refugee youth). Refugees in need within Syria were to receive UNRWA cash and food assistance, non-food items, and winterization support. Cash assistance was to amount to $23 per person per month, or $33 for those in most acute circumstances. Following the onset in 2011 of the Syrian civil war the capability of that country’s national authorities to provide health services to resident Pales­tin­ian refugees diminished, resulting in strong reliance on UNRWA’s health care provision. In 2023 the Agency maintained a total of 23 health centres or `health points’ within Palestinian refugee camps in Syria, and two mobile clinics there (deployed on a flexible basis, when and where needed). These all provided, 
+        <i>inter alia,</i>
+         outpatient consultations, immunization, and medicine dispensaries. The Agency also subsidized access to further care via a series of partnerships with external hospitals and laboratories. In Lebanon and Jordan UNRWA subsidized some hospitalization costs for Palestinian refugees. In March UNRWA issued a $16.2m. six-month Syria-Lebanon Flash Appeal to support Palestinian refugees impacted by the devastating earthquakes that had struck northern Syria and southern Türkiye in early February (also causing damage to refugee shelters and UNRWA infrastructure in Lebanon). Within Syria, Palestinian refugees based in Aleppo city and in the Latakia, Neirab, Ein el-Tal and Hama camps were reported to have been particularly badly affected. At mid-May UNRWA reported that 1,076 Palestinian shelters had been damaged (166 severely), and 2,355 Palestine refugees remained displaced by the natural disaster.
+      </p>
+               <p>In August 2023 UNRWA appealed for US&#8201;$15.5m. to fund a multisectoral emergency response following lethal armed clashes that occurred during late July-early August in the Ein el-Hilweh Palestinian refugee camp, located in southern Lebanon, causing 13 fatalities, massive displacement, and the occupation by armed militants of the agency’s eight local schools. UNRWA was preparing alternative schooling locations, organizing repair and relief interventions, and raising awareness locally of unexploded ordnances. The armed combatants were urged to leave the schools (two of which had been transformed into militant bases). A (fragile) ceasefire was declared on 11 September. UNRWA’s last designated emergency shelter reportedly closed on 6 October. Nevertheless, at that time some 2,700 Palestinian households from Ein el-Hilweh reportedly remained displaced, in other emergency shelters or hosted within the local community.</p>
+               <p usage="edio mena">UNRWA has overseen the long-term rehabilitation of the Nahr el-Bared camp in Lebanon, which had been extensively damaged from May 2007 by fighting between Lebanese government and rebel forces; the reconstruction of the camp (hindered by budgetary restrictions) aimed to provide 5,000 houses, 1,500 shops, six school complexes and sufficient public space, in order to accommodate more than 27,000 Palestinian refugees.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1675" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio mena">
+          <heading>Statistics</heading>
+          <table-block id="IO-UN.1676" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>
+        Refugees Registered with UNRWA
+        <endnoteref idref="IO-UNRWA.1" ref-symbol="*" />
+               </table-heading>
+               <heading-note>31 December 2021</heading-note>
+               <table style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="9.5cm" />
+                         <colspec colwidth="6cm" />
+                         <colspec colwidth="4cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Country</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">% of total</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Jordan</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,334,789</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">40.3</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Gaza Strip</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,516,258</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">26.2</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">West Bank</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">883,950</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.3</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Syria</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">575,234</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.9</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Lebanon</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">482,676</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8.3</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Total</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5,792,907</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100.0</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <!--www.unrwa.org/what-we-do/unrwa-statistics-bulletin-->
+               <endnote id="IO-UNRWA.1" ref-symbol="*">Additionally, UNRWA was providing assistance to 727,876 eligible other registered persons.</endnote>
+          </table-block>
+     </int-org-section>
+     <int-org-section id="IO-UN.1677" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p>
+      UNRWA is financed almost entirely by voluntary contributions from governments and the European Union (EU), the remainder being provided by UN bodies, non-governmental organizations, business corporations and private sources, which also contribute to extra-budgetary activities. Successive crises have long placed extreme pressure on the Agency’s resources, and reduced funding for priority initiatives (for example rehabilitation projects resulting from conflict). Following a Pledging Conference for UNRWA that was convened in June 2023 by the President of the UN General Assembly, at which US $828.3m. was pledged, the Agency’s Commissioner-General warned that the funding thus far received would be insufficient adequately to sustain operations. In January 2024 several donor nations paused additional funding allocations to UNRWA, pending a review of the allegations levelled by Israel of involvement by 12 Agency personnel in the atrocities perpetrated by Hamas on 7 October 2023 (see 
+      <i>Gaza and the West Bank</i>
+      ).
+    </p>
+          <p usage="mena">In March 2019 the UNRWA Commissioner-General welcomed a decision by the Organization of Islamic Cooperation to establish a new Waqf (endowment) Fund to Support Palestine Refugees. </p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1679" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report of the Commissioner-General of UNRWA</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p>Reports on labour markets, microfinance, youth outreach, etc.</p>
+     </int-org-section>
+     <!--8.vi.24: 3,884 words-->
+</int-org-entry>

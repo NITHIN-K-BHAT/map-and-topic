@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Int org group</mainbooktitle>
+     </booktitle>
+     <chapter id="other-1.io" navtitle="Other international organizations">
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io.dita" navtitle="Other international organizations" keyscope="int-org-group" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-arts-culture.dita" navtitle="Arts and culture" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-commodities.dita" navtitle="Commodities" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-economic-sustainable.dita" navtitle="Economic and sustainable development co operation" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-economics-finance.dita" navtitle="Economics and finance" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-education.dita" navtitle="Education" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-environment-energy.dita" navtitle="Environment and energy" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-governance-security.dita" navtitle="Governance and security" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-industrial-professional.dita" navtitle="Industrial and professional relations" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-law.dita" navtitle="Law" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-medicine-health.dita" navtitle="Medicine and health" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-posts-telecommunications.dita" navtitle="Posts and telecommunications" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-pressradio-television.dita" navtitle="Press, radio and television" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-religion.dita" navtitle="Religion" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-science.dita" navtitle="Science" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-social-sciences.dita" navtitle="Social sciences" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-social-welfare.dita" navtitle="Social welfare and human rights" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-sport-recreations.dita" navtitle="Sport and recreations" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-technology.dita" navtitle="Technology" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-tourism.dita" navtitle="Tourism" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-trade-industry.dita" navtitle="Trade and industry" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-transport.dita" navtitle="Transport" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+          <topicref href="../../../Topics/international-organization/content-types/int-org-group/other.io-youth-students.dita" navtitle="Youth and students" keyscope="int-org-sectref" keys="int-org-group" format="dita" />
+     </chapter>
+</bookmap>

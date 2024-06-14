@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<int-org-entry id="CIS.IO" id-root="cis.io" iso="cis.io" original-filename="wb02038.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio eerca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Commonwealth of Independent States</org-entry-name>
+               <abbr>CIS</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">MAJOR NON-UN ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="eerca">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE">Commonwealth of Independent States</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>220030 Minsk, vul. Kirova 17, Belarus</verbatim-address>
+               </address>
+               <telephone alsofax="N">(17) 215-50-01</telephone>
+               <email>cr@cis.minsk.by</email>
+               <internet>www.cis.minsk.by</internet>
+          </address-block>
+          <p id="CIS.IO.4">The CIS is a voluntary associ­ation of states, established at the time of dissolution of the Union of Soviet Socialist Republics (USSR) in December 1991.</p>
+          <int-org-section id="CIS.IO.5" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <table-block-simple id="CIS.IO.115" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="2">
+                              <colspec colwidth="10cm" />
+                              <colspec colwidth="10cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Armenia</entry>
+                                        <entry style="NO-DOT-LEADER">Moldova</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Azerbaijan</entry>
+                                        <entry style="NO-DOT-LEADER">Russian Federation</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belarus</entry>
+                                        <entry style="NO-DOT-LEADER">Tajikistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Kazakhstan</entry>
+                                        <entry style="NO-DOT-LEADER">Uzbekistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Kyrgyzstan</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+               <p id="CIS.IO.17">Note: Turkmenistan has associate membership, reduced from full membership in August 2005. Georgia withdrew from the organization in 2009.</p>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="CIS.IO.6" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>May 2024</heading-note>
+          <int-org-section id="CIS.IO.7" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Council of Heads of State</heading>
+               <p>As the supreme body of the CIS, on which all member states are represented at the level of head of state, the Council considers issues relating to the co-ordination of Commonwealth activities and the development of the Minsk Agreement. Decisions are taken by common consent, with each state having equal voting rights. The Council meets at least once a year. An extraordinary meeting may be convened on the initiative of the majority of Commonwealth heads of state. The chairmanship of the Council is normally rotated among member states (2024: Russia). The 2023 ordinary summit meeting of the Council of Heads of State was held in Bishkek, Kyrgyzstan, in October. An informal summit of CIS heads of state is hosted by President Putin of Russia annually in late December.</p>
+          </int-org-section>
+          <int-org-section id="CIS.IO.8" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Council of Heads of Government</heading>
+               <p>This Council convenes for meetings at least once every three months; an extraordinary sitting may be convened on the initiative of a majority of Commonwealth heads of government, and joint sittings of the two Councils may be held. The two Councils may discuss and take necessary decisions on important domestic and external issues.</p>
+               <p>Working and auxiliary bodies, composed of authorized representatives of the participating states, may be set up on a permanent or interim basis.</p>
+          </int-org-section>
+          <int-org-section id="CIS.IO.9" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Executive Committee</heading>
+               <p>
+        The Executive Committee co-operates closely with other CIS bodies including the councils of ministers responsible for foreign affairs and defence; the Economic Council; Council of Border Troops Commanders; the Collective Security Council; the Secretariat of the Council of the 
+        <xr pageref="N" ref="IO-CIS.IPA.1">Inter-parliamentary Assembly</xr>
+        ; and the Interstate Committee for Statistics.
+      </p>
+               <dir-list>
+                    <dir-entry id="CIS.IO.22" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Sergei Nikolaevich</forename>
+                                        <surname>Lebedev</surname>
+                                   </person-name>
+                                   <person-note>Russia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <!--~ Lebedev-s term extended in Oct. 2022 for a further 3 years, Fmly CIS Exec. Sec. + Chair. of the Exec. Cttee- post retitled from 1.i.23.-->
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio eerca">
+                         <dir-entry-name>First Deputy Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Anfimov Leonid</forename>
+                                        <surname>Vasilievich</surname>
+                                   </person-name>
+                                   <person-note>Belarus</person-note>
+                                   <!--Russia-born-->
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="CIS.IO.10" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>On 8 December 1991 the heads of state of Belarus, the Russian Federation and Ukraine signed the Minsk Agreement, providing for the establishment of a Commonwealth of Independent States. Formal recognition of the dissolution of the USSR was incorporated in a second treaty (the Alma-Ata Declaration), signed by 11 heads of state , later in that month. Documents relating to the legal succession of the Soviet Union were signed at a meeting of heads of state in July 1992. In January 1993 the CIS Charter was adopted, providing for a defence alliance, an inter-state court and an economic co-ordination committee—to serve as a framework for closer co-operation. All the then members signed, excepting Turkmenistan and Ukraine.</p>
+          <p>In October 2007 CIS heads of state adopted a `Concept for Further Development of the CIS’ and an action plan for its implementation. Georgia and Turkmenistan declined to endorse the document, while Azerbaijan reserved the right to abstain from implementing certain clauses. The Concept cited the `long-term formation of an integrated economic and political association' as a major objective of the Commonwealth, and determined that the multi-sector nature of the organization should be retained. Further goals included supporting regional socioeconomic stability and international security; improving the economic competitiveness of member states; supporting the accession of member states to the World Trade Organization; improving regional living standards and conditions; promoting interparliamentary co-operation; increasing co-operation between national migration agencies; harmonizing national legislation; and standardizing CIS structures and bodies. In April 2018, meeting in Minsk, the CIS ministers responsible for foreign affairs determined to start updating the Concept, in particular with regard to economic co-operation—taking into account modern areas of interaction, such as electronic commerce and the digital economy—and the strengthening of scientific, technical and innovation activities. A new Concept and supporting action plan were adopted in December 2020. A CIS interstate programme to guide co-operation in fostering scientific and technical innovation until 2030 was adopted in November.</p>
+          <p>An Interstate Co-ordinating Council for Scientific and Technical Information was established in November 1992. A Convention on Interregional Co-operation—defining the legalities of and modal laws on cross-border trade, economic, technical, scientific, technical, cultural, legal and humanitarian co-operation—was signed at a meeting of the Council of Heads of State in September 2016 and entered into force in March 2020.</p>
+          <!--~ CIS Forum of the Regions-->
+          <p usage="eerca">In May 2009 Armenia, Azerbaijan, Belarus, Georgia, Moldova and Ukraine, and the European Union (EU) issued a Joint Declaration on establishing an Eastern Partnership, under which the EU was to support political and socioeconomic reforms in interested partner countries, to create the necessary conditions to accelerate political association and further economic integration with the EU.</p>
+          <p usage="eerca">
+      Member states of the CIS have formed alliances of various kinds among themselves, thereby potentially undermining the unity of the Commonwealth. In January 2000 a Treaty on the Creation of a Union State of Russia and Belarus entered into force. In October 2001 Belarus, Kazakhstan, Kyrgyzstan, Russia and Tajikistan formed the Eurasian Economic Community (EurAsEC). Azerbaijan, Georgia, Moldova and Ukraine co-operated increasingly from the late 1990s as the GUAM group. Uzbekistan was a member of the group during the period April 1999-May 2005, during which time it was known as GUUAM. Meeting in Kyiv, Ukraine, in May 2006 the GUAM heads of state adopted a charter formally inaugurating the grouping as a full international organization and renaming it the Organization for Demo­cracy and Economic Development—GUAM. In April 2003 Armenia, Belarus, Kazakhstan, Kyrgyzstan, Tajikistan and Russia established the Collective Security Treaty Organization. In 1994 Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan formed the Central Asian Economic Community. In February 2002 those countries relaunched the grouping as the Central Asian Co-operation Organization (CACO), which Russia joined in 2004. In October 2005, at a summit of CACO leaders in St Petersburg, Russia, it was announced that the organization would be merged with EurAsEC. This was achieved in January 2006 with the accession to EurAsEC of Uzbekistan, which had hitherto been the only member of CACO that did not also belong to the Community. In November 2008 Uzbekistan announced the suspension of its membership of EurAsEC. In October 2014 an agreement on the termination of EurAsEC was concluded, in view of the entry into effect from 1 January 2015 of the 
+      <xr pageref="N" ref="WB0231XC.IO.TXT.201">Eurasian Economic Union</xr>
+      .
+    </p>
+          <p>In October 2021 CIS heads of state endorsed an agreement on the formation of a Council of Presidents of the Supreme (Higher) Courts, which aimed to strengthen the exchange of information on legal proceedings.</p>
+          <!--x.23: Statement of the Heads of State of the Commonwealth of Independent States on International Relations in a Multipolar World-->
+          <int-org-section id="CIS.IO.12" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic Co-operation</heading>
+               <p>At the Council of Heads of Government meeting in September 1994 all member states, except Turkmenistan, agreed to establish an Interstate Economic Committee to implement economic treaties adopted within the context of an economic union. The establishment of a payments union to improve the settlement of accounts was also agreed. A CIS agreement establishing an Interstate Monetary Committee was approved in 1995. In April 1998 CIS heads of state resolved to incorporate the functions of the Interstate Economic Committee, along with those of other working bodies and sectional committees, into a CIS Executive Committee. Kazakhstan announced its withdrawal from the CIS Agreement on the Interstate Monetary Committee in July 2022.</p>
+               <p>
+        Guidelines adopted by the Council of Heads of State in April 1999 concerning the future development of the CIS identified economic co-operation and the establishment of a free trade zone as priority areas for action. A CIS economic summit is convened annually in March, in Moscow. A (normally annual) St Petersburg International Economic Forum was inaugurated by the 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+         in 1997, and was in 2006 recognized as the major economic summit of the CIS. The 27th edition of the Forum was to be convened in June 2024. A CIS Economic Court, established by an agreement concluded in 1992 and amended by a protocol signed in September 2017, adjudicates on disputes between its signatory states (Belarus, Kazakhstan, Kyrgyzstan, Russia and Tajikistan) that arise from their economic obligations.
+      </p>
+               <p id="CIS.IO.36" usage="eerca">In March 1998 Russia, Belarus, Kazakhstan and Kyrgyzstan signed an agreement establishing a customs union, which was to be implemented in two stages. Tajikistan joined the union in February 1999. In October the heads of state of the five member states of the customs union approved a programme to harmonize national legislation to create a single economic space, and in May 2000 they determined to raise the status of the customs union to that of an inter-state economic organization. Consequently, in October, the leaders signed the founding treaty of EurAsEC. Under the new structure member states aimed to formulate a unified foreign economic policy, and, taking into account existing customs agreements, collectively to pursue the creation of the planned single economic space. In the following month the five member governments signed an agreement enabling visa-free travel within the new Community, which was formally inaugurated in October 2001.</p>
+               <p usage="eerca">In June 2000 the Council of Heads of State adopted a plan and schedule for the implementation of priority measures related to the creation of the long-proposed free trade zone. In September 2003 the leaders of Belarus, Kazakhstan, Russia and Ukraine (Union of Four) reached an agreement on establishing the framework for a Common Economic Space (CES), envisaging the creation of a free trade zone and the gradual harmonization of tariffs, customs and transport legislation. While participation at each stage would remain optional, decisions would be obligatory and certain areas of sovereignty would eventually be ceded to a council of heads of state and a commission. The Union of Four accord entered into force in April 2004. In October 2007, EurAsEC leaders determined to establish a fully operational customs union over the next three years, with Belarus, Kazakhstan and Russia as the founding members, and Kyrgyzstan, Tajikistan and Uzbekistan to join at a later date, once they had achieved the requisite accession conditions. Despite significant growth in the gross domestic product of the poorer states of the CIS at that time (Armenia, Azerbaijan, Georgia, Kyrgyzstan, Moldova, Tajikistan and Uzbekistan, then known as the CIS-7), in April 2005 the International Monetary Fund called for greater harmonization of trade rules within the CIS, as well as liberalization of transit policies and the removal of non-tariff barriers.</p>
+               <p>
+        In October 2011, meeting in St Petersburg, the leaders of Russia, Armenia, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Tajik­istan and Ukraine (therefore all CIS states except for Azerbaijan, Uzbekistan and Turkmenistan) signed an Agreement establishing the CIS Free Trade Area—CISFTA; this aimed to simplify trade and economic relations, and to regulate a free trade regime, replacing several previous multilateral agreements and around 100 bilateral agreements. The leaders also adopted an accord on basic principles of currency regulation and currency controls within the CIS. The CISFTA Agreement entered into force in September 2012, providing for the elimination of all import tariffs, with the exception of those on sugar; meanwhile, negotiations were to be initiated on phasing out existing export tariffs. In December an accord was concluded governing co-operation in organizing an integrated currency market for the CIS countries; this was subsequently ratified by Armenia, Belarus, Kazakhstan, Kyrgyzstan and Russia. A protocol to the CISFTA providing for Uzbekistan’s accession was signed in May 2013, and subsequently ratified by the 
+        <xr pageref="N" ref="WB0231XC.IO.TXT.201">Eurasian Economic Union</xr>
+         member states plus Tajikistan, Moldova, Ukraine and Uzbekistan. In December 2015 Russia suspended the extension of trade preferences to Ukraine under the CISFTA, reportedly owing to concerns over a new EU-Ukraine trade accord. In March 2016 CIS ministers responsible for the economy approved a draft protocol to the CISFTA Agreement covering rules and procedures for regulating public procurement. Moldova’s minister responsible for foreign affairs noted in January 2023 that that country had not in recent years been a fully functioning member of the CISFTA.
+      </p>
+               <p>In May 2013 CIS heads of government endorsed the creation of a regional data bank of patents and innovations. In May 2021 CIS heads of government approved an agreement on co-operation in the prevention and suppression of the use of false trademarks and geographical indications.</p>
+               <p usage="edio eerca">
+        In January 1993, at the signing of the CIS Charter, the member countries endorsed the establishment of the 
+        <xr pageref="N" ref="IO-CIS.INTER-STATE.1">Interstate Bank</xr>
+         to facilitate payments between the republics and to co-ordinate monetary credit policy.
+      </p>
+               <p>In June 2001 CIS heads of state determined to establish a CIS Business Center for Economic Development. An Advisory Council for the Support and Development of Small Business in the CIS Member States meets biennially.</p>
+               <p> In November 2020 CIS heads of government adopted an action plan to guide the implementation of phase one (covering 2021-25) of a new Economic Development Strategy of the CIS until 2030. The action plan addressed 29 areas of co-operation, including trade and economic matters, transport, industry, agro-industry, fuel and energy, communications, labour, and monetary policy. Fostering scientific potential and a favourable business climate were emphasized.</p>
+               <p>Meeting in March 2022—following the imposition of global sanctions against Russia and Belarus, in response to their military aggression against Ukraine—the CIS Economic Council established a working group that was tasked with monitoring onwards economic developments. At that time the Council issued a decision on the use of CIS member states’ national currencies as a means of strengthening economic interaction. The meeting also considered priority measures to be incorporated into a Strategy for Ensuring Information Security of the Member States of the CIS for the Period up to 2030. In December 2022 the CIS Economic Council established a high-level working group to consider solutions to challenges to intra-CIS trade. The CIS Secretary-General stated in February 2024 that solidarity between the CIS member states in response to the sanctions was prompting an expansion of intra-CIS trade.</p>
+               <p>In June 2023 CIS heads of government, meeting in Sochi, Russia, adopted a landmark Agreement on Free Trade in Services, Establishment, Operations and Investments. Furthermore, a Decision on the Concept for the Development of Industrial Cooperation of the CIS Member States and a Package of Measures for the Development of Industrial Cooperation of the CIS Member States for the Period up to 2030 were approved.</p>
+               <p>In April 2024 the Interstate Committee for Statistics. reported economic growth of 4% across the CIS member states in 2023. The annual average rate of inflation across the Community was 7.2% in that year.</p>
+          </int-org-section>
+          <int-org-section id="CIS.IO.15" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Security</heading>
+               <p>
+        At a meeting of heads of government in March 1992 agreements on settling inter-state conflicts were signed by all participating states (except Turkmenistan). At the same meeting an agreement on the status of border troops was concluded. In May a five-year Collective Security Treaty was signed. Further documents were signed on collective security in July, and it was agreed to establish joint forces to intervene peacefully in CIS disputes. In November 1995 the Council of Defence Ministers authorized the establishment of a Joint Air Defence System, to be co-ordinated largely by Russia. In April 1999 Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia and Tajik­istan signed a protocol to extend the Collective Security Treaty (while Azerbaijan, Georgia and Uzbekistan then withdrew from the agreement). In April 1998 the Council proposed drawing up a draft programme for military and technical co-operation between member countries and also discussed procedures ad­vising on the use and maintenance of armaments and military hardware. The programme was approved by CIS heads of state in October 2002. In September 2003 the 
+        <xr pageref="N" ref="WB0231XD.IO.TXT.100">Collective Security Treaty Organization (CSTO)</xr>
+         was established by the signatory states of the Collective Security Treaty. In March 2010 the Secretaries-General of the CSTO and the UN signed a declaration on co-operation, giving the CSTO full recognition as a regional security organization, similar to that accorded to NATO. In May 2022 CIS ministers responsible for foreign affairs, meeting in Dushanbe, Tajikistan, decided to request observer status for the CIS at the CSTO.
+      </p>
+               <p>In September 2004 the CIS Council of Heads of State determined to establish a Security Council, comprising the ministers responsible for foreign affairs and for defence, and heads of security and border control. In February 2009 Belarus and Russia signed an agreement on establishing a joint integrated air defence system, and in January 2013 a similar accord was concluded between Russia and Kazakhstan. In June 2018 CIS defence ministers, meeting in Kyzyl, Russia, signed intergovernmental agreements covering the use of military satellite communications systems and co-operation in the exchange of geospatial information. A Concept on the Development of Military Co-operation until 2025 was endorsed by the CIS heads of state in December 2020. A Coordinating Committee on Field Training meets annually under the auspices of the secretariat of the Council of Defence Ministers (2024: in Tajikistan).</p>
+               <p>
+        A CIS Anti-Terrorism Centre was inaugurated in Moscow in June 2001, and in October 2002 a Central Asian sub-division of the Centre was established in Bishkek. In August 2005 CIS member states adopted a blueprint on joint co-operation in combating terrorism and extrem­ism, which provided for the mutual exchange of relevant information and for the extradition of individuals suspected of financing or committing terrorist acts. Collective anti-terrorist exercises are regularly undertaken. In July 2017 a CIS Treaty on Combating the Laundering of Criminal Proceeds, Financing Terrorism and Financing the Proliferation of Weapons of Mass Destruction was finalized. In October 2023 the Council of Heads of State agreed to establish an International Center for Risk Assessment of Money Laundering and the Financing of Terrorism. In the same month member states of the CIS and 
+        <xr pageref="N" ref="WB0231XD.TXT.IO.44">Shanghai Cooperation Organization</xr>
+         participated in Eurasia-Antiterror-2023, hosted by Kyrgyzstan. A CIS programme of co-operation against terrorism and other violent manifestations of extremism was being implemented during 2023-25.
+      </p>
+               <p>In October 2023 the Council of Heads of State adopted an Interstate Programme of Joint Measures to Combat Crime, covering the period 2024-28. At that time the heads of state also endorsed the establishment of a CIS Coordinating Council in the Field of Forensic Studies. A CIS Programme of Co-operation in Strengthening Border Security on the External Borders was being undertaken during 2021-25.</p>
+               <!--Paris Pact Border Guard of the Commonwealth - journal-->
+               <p>An Agreement on the Co-operation of the CIS Member States in Combating Trafficking in Persons, Human Organs and Tissues was adopted in November 2005 and has been ratified by Azerbaijan, Armenia, Belarus, Kyrgyzstan and Russia.</p>
+               <p usage="eerca">In late June 2023 it was reported that Russia’s President Vladimir Putin held telephone discussions with the other CIS heads of state to discuss the security situation in Russia, in view of a short-lived mutiny against Russia’s military high command by the Wagner Group (a Russian private paramilitary and security contractor).</p>
+          </int-org-section>
+          <int-org-section id="CIS.IO.16" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Other Activities</heading>
+               <p>
+        In October 1994 a Convention on the rights of minorities was adopted at the meeting of the heads of state; this has been ratified by Azerbaijan, Armenia, Belarus, Kyrgyzstan and Tajikistan. In May 1995, at the sixth plenary session of the 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+        , several acts to improve co-ordination of legislation were approved, relating to migration of labour, consumer rights, and the rights of prisoners of war; revised legislation on labour migration and the social protection of migrant workers was adopted in November 2005. A CIS Convention on Human Rights and Fundamental Freedoms was adopted at that time, incorporating the Statute of a proposed CIS Commission on Human Rights. A Protocol to the Convention, signed in July 2022, provided for the establishment of a seven-member CIS Commission on Human Rights; the Commission’s inaugural meeting was held in November 2023. In November 2006 an agreement on the protection of participants in the criminal justice system was signed by eight member states. A CIS Convention on the Legal Status of Working Migrants and their Families was signed by the heads of member states in November 2008. Annual meetings are held of an Advisory Council on Labour, Employment and Social Protection of the Population of the CIS Member States. Humanitarian activities are organized within the framework of a CIS Council for Humanitarian Co-operation and Interstate Fund for Humanitarian Co-operation. A CIS Plan of Priority Measures in the Field of Humanitarian Co-operation, covering the period 2023-24, was finalized in March 2022. A St Petersburg International Labour Forum is convened annually; the agenda of the eighth, held in February 2024, included consideration of the establishment of a CIS common migration space.
+      </p>
+               <p>
+        The Council of Ministers of Internal Affairs, established in 1996, promotes co-operation between the law enforcement bodies of member states. The 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+         has approved a number of model laws, relating to areas including banking and financial services; charity; defence; ecology; the economy; education; the regulation of refugee problems; combating terrorism; and social issues, including obligatory social insurance against production accidents and occupational diseases. CIS Interstate Councils for Anti-Corruption and on the Legal Protection and Protection of Intellectual Property meet regularly. In August 2020 the Council endorsed an agreement concerning the protection of copyright in the digital environment. An agreement on fostering information exchange between CIS member states to advance the digital development of society was adopted in November. In December CIS heads of state adopted an agreement on mutual legal assistance in administrative matters with respect to personal data exchange.
+      </p>
+               <p>In December 2020 the CIS heads of state adopted a statement on international information security, which expressed concern over the potential use of modern information and communication technologies for purposes that threaten stability, security and international peace. They urged increased global co-operation in preventing the use of such technologies for malicious purposes, including for spreading misinformation.</p>
+               <p>In May 2021 CIS heads of government approved a medium-term action plan aimed at counteracting the spread of infectious diseases.</p>
+               <p>The inaugural conference of the CIS Agricultural Trade Policy Network—with participation by regional research centres and universities—was convened in March 2015, in Kaliningrad, Russia. A CIS Intergovernmental Council on Agro-Industrial Complexes, Coordination Council for Plant Quarantine, Intergovernmental Coordinating Council on Seed Production, Intergovernmental Council for Timber and Forestry, and Intergovernmental Council for Cooperation in the Field of Veterinary Medicine meet regularly. A convention governing the conservation of agro-biodiversity was signed in June 2016. In October 2019 CIS heads of government adopted a set of joint actions, to be pursued during 2020-25, on the prevention and control of avian influenza and Newcastle disease (another poultry infection). In May 2021 CIS heads of government approved a set of joint measures on the prevention and control (until 2025) of foot-and-mouth disease (a viral disease of livestock). An additional package of measures aimed at preventing locust pest damage to crops was adopted in November 2020, and in June 2021 the CIS Economic Council adopted a roadmap for the development and implementation of phytomonitoring and locust pest control programmes.</p>
+               <p>An Interstate Ecological Council, established in 1992, addresses innovative solutions to environmental challenges. An Agreement on Co-operation in the Prevention and Mitigation of Natural and Man-made Disasters was adopted in January 1993. A 2001 Agreement on Co-operation in the Field of Industrial Safety at Hazardous Production Facilities provided for the establishment of an Interstate Council for Industrial Safety. A CIS commission on the use of atomic energy for peaceful purposes meets regularly. In May 2015 CIS heads of state adopted a revised programme on the reclamation of areas affected by uranium production, and in June 2016 CIS heads of government signed an accord governing the exchange of information on accidents at national energy facilities. In November 2020 CIS heads of government endorsed a framework programme of co-operation in the peaceful use of atomic energy until 2030, and an action plan to guide its implementation; an agreement on the transboundary transport of radioactive materials in CIS member states was also adopted at that time. In October 2021 CIS heads of state adopted a statement on co-operation in the field of biological safety.</p>
+               <p>In November 2013 a Concept of Cooperation of the CIS Member States in the Field of Renewable Energy Sources was approved; a related plan of priority actions was being implemented during 2023-30. A CIS Concept in the Field of Innovative Energy and Development of Advanced Energy Technologies was adopted by CIS heads of government in June 2018. In June 2023 a CIS Concept for the Digital Transformation of the Fuel and Energy Complex of the CIS Member States, and an accompanying action plan, were endorsed by the Economic Council. A CIS Oil and Gas Summit is convened annually.</p>
+               <p>The inaugural meeting of an Interstate Space Council was convened in January 2020. It considered future collective CIS peaceful exploration and use of outer space.</p>
+               <p>The CIS Convention on Democratic Elections Standards, Electoral Rights and Freedoms in Member States, adopted in October 2002, has been ratified by Armenia, Kyrgyzstan, Moldova, Russia and Tajikistan. A CIS Election Monitoring Organ­ization (CIS-EMO) was established—and registered as a non-governmental organization—in September 2003, primarily to observe elections conducted in the post-Soviet region.</p>
+               <p>In early 2024 IPA-CIS monitoring missions observed parliamentary elections that were organized in Belarus (in February); and presidential elections held in Azerbaijan (in February) and in Russia (in March).</p>
+               <p>
+        In July 1992 CIS member states agreed to establish Mir, an inter-state television and radio company. The 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+         estab­lished a Council of Heads of News Agencies in February 1995, in order to promote the concept of a single information area. In April 2023 CIS ministers responsible for foreign affairs designated a new organization for the training and retraining of journalists in CIS member states.
+      </p>
+               <p>
+        A CIS Council for Cultural Cooperation was established in May 1995. In November 2013 CIS heads of state approved the creation of a common CIS tourist space. A CIS Tourism Council meets annually. A draft Convention for the Protection of the Cultural Heritage of the Member States of the CIS was adopted by the 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+         in March 2020. Following the onset of the COVID-19 pandemic in that year a working group was established to address the revitalization of tourism in member states. In May 2020 CIS heads of state adopted a tourism co-operation strategy to cover the period 2021-30, with a special focus on youth tourism. Samarkand (Uzbekistan) was designated as the 2024 CIS cultural capital. An action plan was finalized in July 2023 to guide the implementation of the 2021-30 tourism co-operation strategy during the period 2024-27.
+      </p>
+               <p>At the summit meeting held in October 2022, CIS heads of state declared 2024 to be the Year of the Volunteer Movement; 2025 was designated the Year of Peace and Unity in the Fight against Nazism; and 2026 was declared the Year of Health Protection.</p>
+               <p>A CIS Network University comprises 35 participating educational institutions from member states. In October 2023 the CIS heads of state signed a Treaty on the Establishment of an International Russian Language Organization.</p>
+               <p>In June 2022 it was announced that unified textbooks on the `Great Patriotic War’ (i.e. Second World War) would be introduced across the CIS member states, to counter external narratives on the history of the USSR and on Russia’s role in the development of the Central Asian and Transcaucasian member states. In October 2023 the Council of Heads of Government approved an action plan to prepare for the celebration in 2025 of the CIS 80th Anniversary of Victory in the Great Patriotic War.</p>
+               <p>A CIS Youth Council meets regularly. A CIS strategy was formulated to guide international youth co-operation during the period 2021-30. In June 2023 CIS heads of government designated the organization’s first youth capitals: Tashkent (Uzbekistan), in 2024; Gabala (Azerbaijan) in 2025; and Kapan (Armenia) in 2026. The first CIS International Conference of Child Psychologists, Social Pedagogues and Social Workers was convened, online, in May 2024.</p>
+               <p>
+        The second edition of the CIS Games was hosted by Belarus in August 2023. Gyumri (Armenia) was commemorated as Sports Capital of the Commonwealth for 2024. In late February-early March of that year sports teams from the CIS and 
+        <xr pageref="N" ref="IO.BRICS.1">BRICS</xr>
+         groupings, as well from countries from South-East Asia, Latin America and Africa, participated in a Games of the Future cybersports event, in Kazan (Russia).
+      </p>
+               <!--sports capitals - 2025: Ganja, Azerbaijan; 2026: AlmatI, Kazakhstan - decided iv.24-->
+          </int-org-section>
+          <int-org-section id="CIS.EXTERNALRELS.IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>External Relations</heading>
+               <p>
+        The CIS has developed working relations with several intergovernmental organizations, including the United Nations (UN) Economic Commission for Europe, the 
+        <xr pageref="N" ref="IO-UN.1443">UN High Commissioner for Refugees</xr>
+        , the 
+        <xr pageref="N" ref="IO-UN.2442">World Health Organization</xr>
+         and the 
+        <xr pageref="N" ref="EU.IO">EU</xr>
+        . In June 1998 the 
+        <xr pageref="N" ref="IO-CIS.IPA.1">IPA-CIS</xr>
+         approved a decision to sign the European Social Charter (see 
+        <xr pageref="N" ref="CE.IO">Council of Europe</xr>
+        ); a declaration of co-operation between the Assembly and the 
+        <xr pageref="N" ref="OSCE.IO.EERCA.90.1">Parliamentary Assembly</xr>
+         of the Organization for Security and Co-operation in Europe (OSCE) was also signed. In November 2016 the UN General Assembly adopted a resolution affirming co-operation between the UN and the CIS.
+      </p>
+               <p-group>
+                    <heading>Relations with Ukraine</heading>
+                    <p>
+          Ukraine ratified the foundation documents that established the CIS in 1991; while it did not subsequently ratify the CIS Charter to become a full member state, it did participate in activities of the organization. Tensions emerged within the CIS in 2014, following the deployment by Russia in February of troops to the hitherto Ukrain­ian autonomous region of Crimea. In March Ukraine renounced its 2014 chairmanship of the CIS Council of Heads of State, in view of Russia’s recognition of the emphatically pro-independence outcome of a controversial referendum held in Crimea (illegally under Ukrainian and international law) on the question of the territory’s secession from Ukraine. From April Ukraine reduced its participation in the organization. Meeting in that month CIS ministers responsible for foreign affairs urged Ukraine not to withdraw, and emphasized the need for the continuation of multi-stakeholder dialogue. In May 2018 then Ukrainian President Petro Poroshenko announced Ukraine’s impending formal withdrawal from CIS co-operation, and in August the Ukrainian mission to the CIS statutory bodies was closed. In January 2019 Ukraine terminated participation in three CIS economic co-operation agreements, covering the inter-state exchange of economic information, the transfer of information on foreign economic activity, and co-operation in foreign economic activity. In August 2020 Ukraine determined to withdraw from further collective agreements, including on civil aviation, veterinary medicine, and relating to membership of the CIS Council for Cultural Co-operation. In February 2022 Ukraine’s legislature voted to end participation in the CIS Anti-Terrorism Centre (q.v.). Following Russia’s full-scale invasion of Ukraine at the end of that month, Ukraine denounced further agreements with the CIS, relating, 
+          <i>inter alia,</i>
+           to the arbitration of economic disputes, agriculture, mobile communication systems, and on mutual assistance in customs matters. In February 2024 the CIS Secretary-General stated that Ukraine remained a `de jure member’ of the organization.
+        </p>
+               </p-group>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="CIS.IO.FINANCE.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p>In October 2023 CIS heads of government approved a unified budget of 1,275.6m. Russian roubles for 2024.</p>
+     </int-org-section>
+     <int-org-section id="IO-CIS.ASSOC.BODY.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <!--~CIS Anti-Terrorism Centre entry contact details? -->
+          <heading>Associated Bodies</heading>
+          <org-list>
+               <org-entry id="CIS-IO.ATC.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                    <org-entry-head>
+                         <org-entry-name>
+            CIS Anti-Terrorism Centre 
+            <abbr>CIS-ATC</abbr>
+                         </org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>119030 Moscow, Khrushchevsky Pereulok 5, Bld. 3, Russian Federation</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(495) 987-04-44</telephone>
+                         <email>info@cisatc.org</email>
+                         <internet>eng.cisatc.org</internet>
+                    </address-block>
+                    <found-date>2000 to co-ordinate co-operation between the security agencies of the CIS mem. states and oversee collective activities focused on combating extremism and terrorism</found-date>
+                    <content-note style="NORMAL">
+          in Jan. 2024 signed a Memorandum of Co-operation with the 
+          <xr pageref="N" ref="WB0231XD.IO.TXT.100">CSTO</xr>
+                    </content-note>
+                    <stats>mems: Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russian Fed., Tajikistan, Uzbekistan</stats>
+                    <role-group>
+                         <role>Head</role>
+                         <person>
+                              <person-name>
+                                   <title>Col-Gen.</title>
+                                   <forename>Evgeniy</forename>
+                                   <surname>Sysoev</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-CIS.IPA.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Interparliamentary Assembly of Member Nations of the Commonwealth of Independent States (IPA-CIS)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>191015 St Petersburg, ul. Shpalernaya 47, Tavricheskii dvorets, Russian Federation</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(812) 404-57-80</telephone>
+                         <fax>(812) 272-22-48</fax>
+                         <email>kanz@iacis.ru</email>
+                         <internet>iacis.ru</internet>
+                    </address-block>
+                    <found-date>1992</found-date>
+                    <content-note style="NORMAL">the inaugural Assembly was held in Bishkek, Kyrgyzstan, in Sept. 1992 </content-note>
+                    <content-note style="NORMAL">makes model legislation (with more than 600 model legal acts having been adopted by the end of 2022); develops the legal framework for a common economic space</content-note>
+                    <content-note style="NORMAL">an International Institute of Monitoring Democracy Development, Parliamentarianism and Suffrage Protection for the Citizens of the IPA-CIS Member Nations, established by the IPA-CIS Council in Feb. 2006, trains election officials, researches best practices in election observation, and dispatches observation missions to monitor elections in the region</content-note>
+                    <content-note style="NORMAL">the Assembly organizes the annual St Petersburg International Economic Forum</content-note>
+                    <content-note style="NORMAL">a Youth IPA-CIS Assembly is normally convened annually, and an IPA-CIA-sponsored Eurasian Women’s Forum is convened periodically</content-note>
+                    <stats>mem. parliaments: Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Russian Fed., Tajikistan, Uzbekistan</stats>
+                    <role-group>
+                         <role>Sec.-Gen.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Dmitry A.</forename>
+                                   <surname>Kobitsky</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-CIS.INTER-STATE.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Interstate Bank</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>115162 Moscow, ul. Shukhova 15, Russian Federation</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(495) 228-31-00</telephone>
+                         <email>info@isbnk.org</email>
+                         <internet>www.isbnk.org</internet>
+                    </address-block>
+                    <found-date>1993</found-date>
+                    <content-note style="NORMAL">aims to facilitate payments between the republics and to co-ordinate monetary credit policy, and in general to promote the devt of mem. economies</content-note>
+                    <content-note style="NORMAL">managed by a Council comprising the governors of central banks, and governmental representatives, of the founding mems</content-note>
+                    <content-note style="NORMAL">has direct access to the national payment systems of Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia and Tajikistan</content-note>
+                    <content-note style="NORMAL">implements arrangements for combating laundering of proceeds from crime</content-note>
+                    <stats>mems: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russian Fed., Tajikistan, Turkmenistan</stats>
+                    <role-group>
+                         <role>Pres.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Nikolai Vyacheslavovich</forename>
+                                   <surname>Gavrilov</surname>
+                              </person-name>
+                              <person-note>Russia</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <int-org-section id="CIS-DECL.IO.115" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>The Minsk Agreement</heading>
+          <heading-note>8 December 1991</heading-note>
+          <legal-block>
+               <legal-block>
+                    <heading>Preamble</heading>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.56">We, the Republic of Belarus, the Russian Federation and the Republic of Ukraine, as founder states of the Union of Soviet Socialist Republics (USSR), which signed the 1922 Union Treaty, further described as the high contracting parties, conclude that the USSR has ceased to exist as a subject of international law and a geopolitical reality</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.57">Taking as our basis the historic community of our peoples and the ties which have been established between them, taking into account the bilateral treaties concluded between the high contracting parties</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.58">striving to build democratic law-governed states; intending to develop our relations on the basis of mutual recognition and respect for state sovereignty, the inalienable right to self-determination, the principles of equality and non-interference in internal affairs, repudiation of the use of force and of economic or any other methods of coercion, settlement of contentious problems by means of mediation and other generally recognized principles and norms of international law</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.59">considering that further development and strengthening of relations of friendship, good-neighbourliness and mutually beneficial co-operation between our states correspond to the vital national interests of their peoples and serve the cause of peace and security</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.60">confirming our adherence to the goals and principles of the United Nations Charter, the Helsinki Final Act and other documents of the Conference on Security and Co-operation in Europe</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.61">and committing ourselves to observe the generally recognized internal norms on human rights and the rights of peoples, we have agreed the following</p>
+                         </item>
+                    </gen-list>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.117">
+                                   <i>Article 1</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.62">The high contracting parties form the Commonwealth of Independent States.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.118">
+                                   <i>Article 2</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.63">The high contracting parties guarantee their citizens equal rights and freedoms regardless of nationality or other distinctions. Each of the high contracting parties guarantees the citizens of the other parties, and also persons without citizenship that live on its territory, civil, political, social, economic and cultural rights and freedoms in accordance with generally recognized international norms of human rights, regardless of national allegiance or other distinctions.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.119">
+                                   <i>Article 3</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.64">The high contracting parties, desiring to promote the expression, preservation and development of the ethnic, cultural, linguistic and religious individuality of the national minorities resident on their territories, and that of the unique ethno-cultural regions that have come into being, take them under their protection.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.120">
+                                   <i>Article 4</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.65">The high contracting parties will develop the equal and mutually beneficial co-operation of their peoples and states in the spheres of politics, the economy, culture, education, public health, protection of the environment, science and trade and in the humanitarian and other spheres, will promote the broad exchange of information and will conscientiously and unconditionally observe reciprocal obligations.</p>
+                    <p id="CIS-DECL.IO.66">The parties consider it a necessity to conclude agreements on co-operation in the above spheres.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.121">
+                                   <i>Article 5</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.67">The high contracting parties recognize and respect one another's territorial integrity and the inviolability of existing borders within the Commonwealth.</p>
+                    <p id="CIS-DECL.IO.68">They guarantee openness of borders, freedom of movement for citizens and of transmission of information within the Commonwealth.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.122">
+                                   <i>Article 6</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.69">The member states of the Commonwealth will co-operate in safeguarding international peace and security and in implementing effective measures for reducing weapons and military spending. They seek the elimination of all nuclear weapons and universal total disarmament under strict international control.</p>
+                    <p id="CIS-DECL.IO.70">The parties will respect one another's aspiration to attain the status of a non-nuclear zone and a neutral state.</p>
+                    <p id="CIS-DECL.IO.71">The member states of the Commonwealth will preserve and maintain under united command a common military-strategic space, including unified control over nuclear weapons, the procedure for implementing which is regulated by a special agreement.</p>
+                    <p id="CIS-DECL.IO.72">They also jointly guarantee the necessary conditions for the stationing and functioning of and for material and social provision for the strategic armed forces. The parties contract to pursue a harmonized policy on questions of social protection and pension provision for members of the services and their families.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.123">
+                                   <i>Article 7</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.73">The high contracting parties recognize that within the sphere of their activities, implemented on the equal basis through the common co-ordinating institutions of the Commonwealth, will be the following:</p>
+                    <gen-list>
+                         <item>
+                              <p>co-operation in the sphere of foreign policy</p>
+                         </item>
+                         <item>
+                              <p>co-operation in forming and developing the united economic area, the common European and Eurasian markets, in the area of customs policy</p>
+                         </item>
+                         <item>
+                              <p>co-operation in developing transport and communication systems</p>
+                         </item>
+                         <item>
+                              <p>co-operation in preservation of the environment, and participation in creating a comprehensive international system of eco­logical safety</p>
+                         </item>
+                         <item>
+                              <p>migration policy issues</p>
+                         </item>
+                         <item>
+                              <p>and fighting organized crime.</p>
+                         </item>
+                    </gen-list>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.124">
+                                   <i>Article 8</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.80">The parties realize the planetary character of the Chernobyl catastrophe and pledge themselves to unite and co-ordinate their efforts in minimizing and overcoming its consequences.</p>
+                    <p id="CIS-DECL.IO.81">To these ends they have decided to conclude a special agreement which will take consideration of the gravity of the consequences of this catastrophe.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.125">
+                                   <i>Article 9</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.82">The disputes regarding interpretation and application of the norms of this agreement are to be solved by way of negotiations between the appropriate bodies, and, when necessary, at the level of heads of the governments and states.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.126">
+                                   <i>Article 10</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.83">Each of the high contracting parties reserves the right to suspend the validity of the present agreement or individual articles thereof, after informing the parties to the agreement of this a year in ad­vance.</p>
+                    <p id="CIS-DECL.IO.84">The clauses of the present agreement may be addended to or amended with the common consent of the high contracting parties.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.127">
+                                   <i>Article 11</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.85">From the moment that the present agreement is signed, the norms of third states, including the former USSR, are not permitted to be implemented on the territories of the signatory states.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.128">
+                                   <i>Article 12</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.86">The high contracting parties guarantee the fulfilment of the international obligations binding upon them from the treaties and agreements of the former USSR.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.129">
+                                   <i>Article 13</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.87">The present agreement does not affect the obligations of the high contracting parties in regard to third states.</p>
+                    <p id="CIS-DECL.IO.88">The present agreement is open for all member states of the former USSR to join, and also for other states which share the goals and principles of the present agreement.</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.130">
+                                   <i>Article 14</i>
+                              </p>
+                         </item>
+                    </gen-list>
+                    <p id="CIS-DECL.IO.89">The city of Minsk is the official location of the co-ordinating bodies of the Commonwealth.</p>
+                    <p id="CIS-DECL.IO.90">The activities of bodies of the former USSR are discontinued on the territories of the member states of the Commonwealth.</p>
+               </legal-block>
+          </legal-block>
+     </int-org-section>
+     <int-org-section id="CIS-DECL.IO.131" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>The Alma-Ata Declaration</heading>
+          <heading-note>21 December 1991</heading-note>
+          <legal-block>
+               <legal-block>
+                    <heading>Preamble</heading>
+                    <p id="CIS-DECL.IO.91">The independent states:</p>
+                    <gen-list>
+                         <item>
+                              <p id="CIS-DECL.IO.92">The Republic of Armenia, the Republic of Azerbaijan, the Republic of Belarus, the Republic of Kazakhstan, the Republic of Kyrgyzstan, the Republic of Moldova, the Russian Federation, the Republic of Tajikistan, the Republic of Turkmenistan, the Republic of Ukraine and the Republic of Uzbekistan</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.93">seeking to build democratic law-governed states, the relations between which will develop on the basis of mutual recognition and respect for state sovereignty and sovereign equality, the inalienable right to self-determination, principles of equality and non-interference in the internal affairs, the rejection of the use of force, the threat of force and economic and any other methods of pressure, a peaceful settlement of disputes, respect for human rights and freedoms, including the rights of national minorities, a conscientious fulfilment of commitments and other generally recognized principles and standards of international law</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.94">recognizing and respecting each other's territorial integrity and the inviolability of the existing borders</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.95">believing that the strengthening of the relations of friendship, good neighbourliness and mutually advantageous co-operation, which has deep historic roots, meets the basic interests of nations and promotes the cause of peace and security</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.96">being aware of their responsibility for the preservation of civilian peace and inter-ethnic accord</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.97">being loyal to the objectives and principles of the agreement on the creation of the Commonwealth of Independent States</p>
+                         </item>
+                         <item>
+                              <p id="CIS-DECL.IO.98">are making the following statement</p>
+                         </item>
+                    </gen-list>
+               </legal-block>
+               <legal-block>
+                    <heading>The Declaration</heading>
+                    <p id="CIS-DECL.IO.99">Co-operation between members of the Commonwealth will be carried out in accordance with the principle of equality through co-ordinating institutions formed on a parity basis and operating in the way established by the agreements between members of the Commonwealth, which is neither a state, nor a super-state structure.</p>
+                    <p id="CIS-DECL.IO.100">In order to ensure international strategic stability and security, allied command of the military-strategic forces and a single control over nuclear weapons will be preserved, the sides will respect each other's desire to attain the status of a non-nuclear and (or) neutral state.</p>
+                    <p id="CIS-DECL.IO.101">The Commonwealth of Independent States is open, with the agreement of all its participants, to the states—members of the former USSR, as well as other states—sharing the goals and principles of the Commonwealth.</p>
+                    <p id="CIS-DECL.IO.102">The allegiance to co-operation in the formation and development of the common economic space, and all-European and Eurasian markets, is being confirmed.</p>
+                    <p id="CIS-DECL.IO.103">With the formation of the Commonwealth of Independent States, the USSR ceases to exist. Member states of the Commonwealth guarantee, in accordance with their constitutional procedures, the fulfilment of international obligations, stemming from the treaties and agreements of the former USSR.</p>
+                    <p id="CIS-DECL.IO.104">Member states of the Commonwealth pledge to observe strictly the principles of this declaration.</p>
+               </legal-block>
+          </legal-block>
+     </int-org-section>
+     <int-org-section id="CIS-DECL.IO.134" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>Agreement on Strategic Forces</heading>
+          <heading-note>30 December 1991</heading-note>
+          <legal-block>
+               <p id="CIS-DECL.IO.105">Guided by the necessity for a co-ordinated and organized solution to issues in the sphere of the control of the strategic forces and the single control over nuclear weapons, the Republic of Armenia, the Republic of Azerbaijan, the Republic of Belarus, the Republic of Kazakhstan, the Republic of Kyrgyzstan, the Republic of Moldova, the Russian Federation, the Republic of Tajikistan, the Republic of Turkmenistan, the Republic of Ukraine and the Republic of Uzbekistan, subsequently referred to as `the member states of the Commonwealth', have agreed on the following:</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.135">
+                              <i>Article 1</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.106">The term `strategic forces' means: groupings, formations, units, institutions, the military training institutes for the strategic missile troops, for the air force, for the navy and for the air defences; the directorates of the Space Command and of the airborne troops, and of strategic and operational intelligence, and the nuclear technical units and also the forces, equipment and other military facilities designed for the control and maintenance of the strategic forces of the former USSR (the schedule is to be determined for each state participating in the Commonwealth in a separate protocol).</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.136">
+                              <i>Article 2</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.107">The member states of the Commonwealth undertake to observe the international treaties of the former USSR, to pursue a co-ordinated policy in the area of international security, disarmament and arms control, and to participate in the preparation and implementation of programmes for reductions in arms and armed forces. The member states of the Commonwealth are immediately entering into negotiations with one another and also with other states which were formerly part of the USSR, but which have not joined the Commonwealth, with the aim of ensuring guarantees and developing mechanisms for implementing the aforementioned treaties.</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.137">
+                              <i>Article 3</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.108">The member states of the Commonwealth recognize the need for joint command of strategic forces and for maintaining unified control of nuclear weapons, and other types of weapons of mass destruction, of the armed forces of the former USSR.</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.138">
+                              <i>Article 4</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.109">Until the complete elimination of nuclear weapons, the decision on the need for their use is taken by the President of the Russian Federation in agreement with the heads of the Republic of Belarus, the Republic of Kazakhstan and the Republic of Ukraine, and in consultation with the heads of the other member states of the Commonwealth.</p>
+               <p id="CIS-DECL.IO.110">Until their destruction in full, nuclear weapons located on the territory of the Republic of Ukraine shall be under the control of the Combined Strategic Forces Command, with the aim that they not be used and be dismantled by the end of 1994, including tactical nuclear weapons by 1 July 1992.</p>
+               <p id="CIS-DECL.IO.111">The process of destruction of nuclear weapons located on the territory of the Republic of Belarus and the Republic of Ukraine shall take place with the participation of the Republic of Belarus, the Russian Federation and the Republic of Ukraine under the joint control of the Commonwealth states.</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.139">
+                              <i>Article 5</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.112">The status of strategic forces and the procedure for service in them shall be defined in a special agreement.</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.140">
+                              <i>Article 6</i>
+                         </p>
+                    </item>
+               </gen-list>
+               <p id="CIS-DECL.IO.113">This agreement shall enter into force from the moment of its signing and shall be terminated by decision of the signatory states or the Council of Heads of State of the Commonwealth.</p>
+               <p id="CIS-DECL.IO.114">This agreement shall cease to apply to a signatory state from whose territory strategic forces or nuclear weapons are withdrawn.</p>
+               <gen-list>
+                    <item>
+                         <p id="CIS-DECL.IO.141">
+                              <i>Note:</i>
+             The last nuclear warheads were removed from Kazakhstan in April 1995, from Belarus in March 1996 and from Ukraine in May-June 1996.
+          </p>
+                         <!--All strategic offensive arms in Belarus and Kazakhstan have been destroyed, and those in Ukraine are being eliminated.-->
+                    </item>
+               </gen-list>
+          </legal-block>
+     </int-org-section>
+     <!--9.iv.24 - 7,429 words-->
+</int-org-entry>

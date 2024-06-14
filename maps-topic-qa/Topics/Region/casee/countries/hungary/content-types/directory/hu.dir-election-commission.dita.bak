@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1599458" sllink="SLSDOCRF" sllinkid="1599457" slsdocid="1464892" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HU.DIR.1136983290" id-root="hu.dir" iso="hu" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--AK 21.07.2023 headline content checked-->
+                    <!--nb 10 04 2024 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1464904" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1464903" slsdocid="1464901" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HU.DIR.1136983531" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>National Election Office</org-entry-name>
+                                        <abbr>NVI</abbr>
+                                        <alt-name>Nemzeti Választási Iroda</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1054 Budapest, Alkotmány u. 3</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 795-8401</telephone>
+                                        <email>international@nvi.hu</email>
+                                        <internet>www.valasztas.hu</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Attila</forename>
+                                                  <surname>Nagy</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

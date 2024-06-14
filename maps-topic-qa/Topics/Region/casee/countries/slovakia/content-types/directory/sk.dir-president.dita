@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89784" sllink="SLSDOCRF" sllinkid="89783" slsdocid="72422" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.66" id-root="sk.dir" iso="sk" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--sc1 01.04.2019 http://www.volbysr.sk/en/data03.html-->
+                    <heading>President</heading>
+                    <table-blockref id="SL1241672" sllink="SLSDOCRF" sllinkid="1241671" slsdocid="1241668" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="SK.DIR.1113936938" id-root="sk.dir" iso="sk" section="President" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="ELECTION">
+                              <table-heading>Presidential Election, First Ballot, 23 March 2024</table-heading>
+                              <!--nb 26 03 2024 data from https://www.volbysr.sk/sk/vysledky_hlasovania_kolo1.html-->
+                              <table style="WITH-RULES">
+                                   <tgroup cols="3">
+                                        <colspec colwidth="12cm" />
+                                        <colspec colname="COLSPEC0" colwidth="4cm" />
+                                        <colspec colwidth="4cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Candidates</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Ivan Korčok</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">958,393</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">42.51</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Peter Pellegrini</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">834,718</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">37.02</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Štefan Harabin</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">264,579</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">11.73</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Krisztián Forró</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">65,588</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2.90</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Igor Matovič</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">49,201</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2.18</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Ján Kubiš</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">45,957</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2.03</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Others</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">35,770</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.56</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2,254,206</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                    </table-blockref>
+                    <table-blockref id="SL92418" sllink="SLSDOCRF" sllinkid="92417" slsdocid="72909" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="SK.DIR.67" id-root="sk.dir" iso="sk" section="President" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Entries" type="ELECTION">
+                              <table-heading>Second Ballot, 7 April 2024</table-heading>
+                              <!--nb 08 04 2024 source https://www.volbysr.sk/en/vysledky_hlasovania_kolo2.html-->
+                              <table style="WITH-RULES">
+                                   <tgroup cols="3">
+                                        <colspec colname="CANDIDATES" colwidth="12.0cm" />
+                                        <colspec colname="NUMBER" colwidth="4.0cm" />
+                                        <colspec colname="PERCENTAGE" colwidth="4.0cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Candidates</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Peter Pellegrini</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1,409,255</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">53.12</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Ivan Korčok</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1,243,709</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">46.87</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2,652,964</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

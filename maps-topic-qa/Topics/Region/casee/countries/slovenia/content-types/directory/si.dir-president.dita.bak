@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1863643" sllink="SLSDOCRF" sllinkid="1863642" slsdocid="1863618" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SI.DIR.1171304991" id-root="si.dir" iso="si" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <heading>President</heading>
+                    <table-blockref id="SL1863624" sllink="SLSDOCRF" sllinkid="1863623" slsdocid="61537" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="SI.DIR.83" id-root="si.dir" iso="si" section="President and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="PRESIDENT" type="ELECTION">
+                              <table-heading>Presidential Election, First Ballot, 23 October 2022</table-heading>
+                              <table style="WITH-RULES">
+                                   <tgroup cols="3">
+                                        <colspec colwidth="13cm" />
+                                        <colspec colwidth="3.5cm" />
+                                        <colspec colwidth="3.5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Candidate</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Anže Logar (Independent)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">296,000</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">33.95</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Nataša Pirc Musar (Independent)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">234,361</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">26.88</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Milan Brglez (
+                      <xr pageref="N" ref="SI.DIR.299">SD</xr>
+                      )
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">134,726</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">15.45</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Vladimir Prebilič (Independent)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">92,456</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">10.60</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Sabina Senčar (
+                      <xr pageref="N" ref="SI.DIR.1650910015">Resni.ca</xr>
+                      )
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">51,767</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">5.94</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Others</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">62,631</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">7.18</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">871,941</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                    </table-blockref>
+                    <table-blockref id="SL1863627" sllink="SLSDOCRF" sllinkid="1863626" slsdocid="556104" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="SI.DIR.1052828212" id-root="si.dir" iso="si" section="President and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Legislature" type="ELECTION">
+                              <table-heading>Presidential Election, Second Ballot, 13 November 2022</table-heading>
+                              <table style="WITH-RULES">
+                                   <tgroup cols="3">
+                                        <colspec align="left" colname="COL1" colwidth="13cm" />
+                                        <colspec align="right" colname="COL2" colwidth="3.5cm" />
+                                        <colspec align="right" colname="COL3" colwidth="3.5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Candidate</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Nataša Pirc Musar (Independent)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">483,812</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">53.89</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                      Anže Logar (
+                      <xr pageref="N" ref="SI.DIR.298">SDS</xr>
+                      )
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">414,029</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">46.11</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">897,841</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

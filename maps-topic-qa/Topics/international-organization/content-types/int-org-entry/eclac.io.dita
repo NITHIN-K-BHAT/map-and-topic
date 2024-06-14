@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.1018" id-root="io-un.1018" iso="io-un.1018" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio sacac"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Economic Commission for Latin America and the Caribbean</org-entry-name>
+               <abbr>ECLAC</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">UNITED NATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="sacac">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Regional Commissions)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">Economic Commission for Latin America and the Caribbean</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sacac">The United Nations in South America, Central America and the Caribbean</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Edif. Naciones Unidas, Avda Dag Hammarskjöld 3477, Vitacura, Casilla 179-D, Santiago, Chile</verbatim-address>
+               </address>
+               <telephone alsofax="N">(2) 2471-2000</telephone>
+               <email>prensa@cepal.org</email>
+               <internet>www.cepal.org</internet>
+          </address-block>
+          <p id="IO-UN.ECLAC">ECLAC was established in 1948 (as the UN Economic Commission for Latin America, present name adopted in 1984) to co-ordinate policies for the promotion of economic development in the Latin American region.</p>
+          <int-org-section id="IO-UN.1020" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="sacac edio">
+               <heading>Members</heading>
+               <table-block-simple id="IO-UN.1021" type="OTHER">
+                    <table style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6cm" />
+                              <colspec colwidth="6cm" />
+                              <colspec colwidth="6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Antigua and Barbuda</entry>
+                                        <entry style="NO-DOT-LEADER">France</entry>
+                                        <entry style="NO-DOT-LEADER">Panama</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Argentina</entry>
+                                        <entry style="NO-DOT-LEADER">Germany</entry>
+                                        <entry style="NO-DOT-LEADER">Paraguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bahamas</entry>
+                                        <entry style="NO-DOT-LEADER">Grenada</entry>
+                                        <entry style="NO-DOT-LEADER">Peru</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Barbados</entry>
+                                        <entry style="NO-DOT-LEADER">Guatemala</entry>
+                                        <entry style="NO-DOT-LEADER">Portugal</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belize</entry>
+                                        <entry style="NO-DOT-LEADER">Guyana</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Kitts and Nevis</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bolivia</entry>
+                                        <entry style="NO-DOT-LEADER">Haiti</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Lucia&#8195;</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Brazil</entry>
+                                        <entry style="NO-DOT-LEADER">Honduras</entry>
+                                        <entry style="NO-DOT-LEADER">Saint Vincent and the Grenadines</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Canada</entry>
+                                        <entry style="NO-DOT-LEADER">Italy</entry>
+                                        <entry style="NO-DOT-LEADER">Spain</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chile</entry>
+                                        <entry style="NO-DOT-LEADER">Jamaica</entry>
+                                        <entry style="NO-DOT-LEADER">Suriname</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Colombia</entry>
+                                        <entry style="NO-DOT-LEADER">Japan</entry>
+                                        <entry style="NO-DOT-LEADER">Trinidad and Tobago</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Costa Rica</entry>
+                                        <entry style="NO-DOT-LEADER">Korea, Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Türkiye (Turkey)&#8195;</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cuba</entry>
+                                        <entry style="NO-DOT-LEADER">Mexico</entry>
+                                        <entry style="NO-DOT-LEADER">United Kingdom&#8195;</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Dominica</entry>
+                                        <entry style="NO-DOT-LEADER">Netherlands</entry>
+                                        <entry style="NO-DOT-LEADER">USA</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Dominican Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Nicaragua</entry>
+                                        <entry style="NO-DOT-LEADER">Uruguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Ecuador</entry>
+                                        <entry style="NO-DOT-LEADER">Norway</entry>
+                                        <entry style="NO-DOT-LEADER">Venezuela</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">El Salvador</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+          <int-org-section id="IO-UN.1022" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="sacac edio">
+               <heading>Associate Members</heading>
+               <table-block-simple id="IO-UN.1023" type="OTHER">
+                    <table style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6cm" />
+                              <colspec colwidth="6cm" />
+                              <colspec colwidth="6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Anguilla</entry>
+                                        <entry style="NO-DOT-LEADER">Curaçao</entry>
+                                        <entry style="NO-DOT-LEADER">Puerto Rico</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Aruba</entry>
+                                        <entry style="NO-DOT-LEADER">French Guiana</entry>
+                                        <entry style="NO-DOT-LEADER">Sint Maarten</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bermuda</entry>
+                                        <entry style="NO-DOT-LEADER">Guadaloupe</entry>
+                                        <entry style="NO-DOT-LEADER">Turks and Caicos</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">British Virgin Islands</entry>
+                                        <entry style="NO-DOT-LEADER">Martinique</entry>
+                                        <entry style="NO-DOT-LEADER">US Virgin Islands</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cayman Islands</entry>
+                                        <entry style="NO-DOT-LEADER">Montserrat</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.1024" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.1025" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Commission</heading>
+               <p>The Commission normally meets every two years at ministerial level. It considers matters relating to the economic and social development of the region, reviews activities of the organization, and adopts programmes of work. The 40th session was scheduled to be hosted by Peru, in October 2024. Member states may gather between Commission meetings in ECLAC’s Committee of the Whole. The Commission has established the following ad hoc and permanent subsidiary bodies:</p>
+               <gen-list>
+                    <item>Caribbean Development and Co-operation Committee</item>
+                    <item>Committee of the Whole</item>
+                    <item>Conference on Science, Innovation and Information and Communications Technologies</item>
+                    <item>Regional Conference on Population and Development</item>
+                    <item>Regional Conference on Social Development</item>
+                    <item>Regional Conference on South-South Cooperation</item>
+                    <item>Regional Conference on Women</item>
+                    <item>Regional Council for Planning</item>
+                    <item>Statistical Conference of the Americas</item>
+               </gen-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.1033" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p>The secretariat is headed by the Offices of the Executive Secretary and of the Secretary of the Commission. ECLAC's work programme is carried out by the following divisions: Economic Development; Social Development; Economic and Social Planning (ILPES); Gender Affairs; International Trade and Integration; Natural Resources; Population (CELADE); Statistics; Sustainable Development and Human Settlements; Production, Productivity and Management; Programme Planning and Operations; and Publications and Web Services.</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.1035" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Secretary</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>José Manuel</forename>
+                                        <surname>Salazar-Xirinachs</surname>
+                                   </person-name>
+                                   <person-note>Costa Rica</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.1037" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Subregional Offices</heading>
+               <p usage="ewyb">There are Subregional Offices in Port of Spain, Trinidad and Tobago (for the Caribbean) and in Mexico City, Mexico (for Central America and Spanish-speaking Caribbean).</p>
+               <org-list>
+                    <org-entry id="IO-UN.1038" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Caribbean</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1 Chancery Lane, POB 1113, Port of Spain, Trinidad and Tobago</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">224-8075</telephone>
+                              <email>media-pos@eclac.org</email>
+                              <internet>www.cepal.org/headquarters-and-offices/eclac-caribbean</internet>
+                         </address-block>
+                         <found-date>1966</found-date>
+                         <content-note style="NORMAL">covers non-Spanish-speaking Caribbean countries</content-note>
+                         <content-note style="NORMAL">functions as the secretariat for the Caribbean Development and Co-operation Committee</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Diane</forename>
+                                        <surname>Quarless</surname>
+                                   </person-name>
+                                   <person-note>Jamaica</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.1039" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Central America and Spanish-speaking Caribbean</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Edif. Corporativo MCS, Blvd Miguel de Cervantes Saavedra 193, 12°, 11520 Ciudad de México, Mexico</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(55) 4170-5600</telephone>
+                              <email>registromexico@cepal.org</email>
+                         </address-block>
+                         <found-date>1951</found-date>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Hugo&#160;E.</forename>
+                                        <surname>Beteta</surname>
+                                   </person-name>
+                                   <person-note>Guatemala</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p id="IO-UN.1040">There are also national offices in Buenos Aires, Argentina; Brasília, Brazil; Bogotá, Colombia; and Montevideo, Uruguay; and a liaison office in Washington, DC, USA.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1041" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>ECLAC collaborates with regional governments in the investigation and analysis of regional and national economic issues, and provides guidance in the formulation of development plans. It advises member states on planning matters in support of the implementation of the UN’s 2030 Agenda for Sustainable Development, and related Sustainable Development Goals (SDGs). </p>
+          <!--~ UNDP-LAC-->
+          <p>In November 2020 the inaugural meeting was held of the Regional Collaborative Platform for Latin America and the Caribbean (RCP: Latin America and the Caribbean), which aims to enhance the effectiveness and co-ordination of UN development entities. The Platform is chaired by the UN Deputy Secretary-General, with ECLAC’s Executive Secretary and the Director of the UNDP Regional Bureau for Latin America and the Caribbean acting as Vice-Chairs.</p>
+          <p>During 2023-24, to commemorate the 75th anniversary of ECLAC’s foundation, a series of lectures by scholars and innovators was underway, addressing regional and global challenges.</p>
+          <int-org-section id="UN.ECLAC.IO.3" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic Development, International Trade and Integration</heading>
+               <p>A fundamental objective of ECLAC is to promote equitable long-term economic growth in the region. It supports governments in formulating and implementing sustainable macroeconomic policies, undertakes extensive economic monitoring, and evaluates the effectiveness of economic policies and reforms. Priority areas include promoting financial inclusion; addressing the impacts of modern technological transformations—such as promoting productive jobs and combating social risks arising from higher levels of labour informality; and enhancing links between technical and vocational education and training and employment.</p>
+               <p>
+        ECLAC supports member countries in negotiations on bilateral or subregional free trade agreements. In July 2012, with the aim of strengthening interregional co-operation, ECLAC, the 
+        <xr pageref="N" ref="LAIA.IO">Latin American Integration Association</xr>
+        , and the 
+        <xr pageref="N" ref="CAN.IO.42">Corporación Andina de Fomento</xr>
+         (CAF) established the internet-based Latin America/Asia-Pac­ific Observatory, covering 19 Latin American and 18 Asia-Pacific economies. In August 2016 ECLAC, the Inter-American Development Bank (IDB), and the 
+        <xr pageref="N" ref="CAN.IO.42">CAF</xr>
+         jointly launched the INFRALATAM website, providing data on infrastructure investments made in countries of the region.
+      </p>
+               <p>In December 2021 ECLAC’s Committee of the Whole established a Regional Conference on South-South Cooperation in Latin America and the Caribbean. The first session of the Regional Conference, comprising five roundtables addressing international co-operation for development, was convened at ECLAC’s headquarters in May 2023.</p>
+               <p>
+        In January 2023 ECLAC’s Secretary-General proposed promoting `clusters’ (a type of public-private partnership in which all stakeholders collectively promote innovation, financing, competitiveness, job creation, etc.) to advance economic expansion. In July 2023 ECLAC reported that during 2022 Latin America and the Caribbean had received inflows of foreign direct investment that totalled US&#8201;$224,579m. (an increase of 55.2% over the level in 2021). A joint ECLAC-International Labour Organization publication that was released in July 2023, 
+        <publ-name>Employment Situation in Latin America and the Caribbean</publ-name>
+         (the 28th in a long series), found that the main labour indicators in the region had returned to their 2019 (pre-COVID-19) status. The 2023 edition of ECLAC’s 
+        <publ-name>Economic Survey of Latin America and the Caribbean,</publ-name>
+         issued in September, forecast subdued average regional GDP growth of 1.7% in 2023, with a contraction to 1.5% (South America: 1.2%, Central America and Mexico: 2.1%, and the Caribbean, excluding Guyana: 2.8%) envisaged in 2024.
+      </p>
+               <p>In July 2023 the First Latin American and Caribbean Summit for an Inclusive, Sustainable and Equitable Global Tax Order, convened in Cartagena, Colombia, with participation by ministers responsible for economy, finance and treasury, determined to establish a Regional Tax Cooperation Platform for Latin America and the Caribbean. ECLAC was to provide technical secretariat services to the Platform.</p>
+          </int-org-section>
+          <int-org-section id="UN.ECLAC.IO.5.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Natural Resources</heading>
+               <p>ECLAC aims to strengthen the institutional capacity of member states to improve the governance, sustainable management and use of natural resources.</p>
+               <p>In April 2021 a new binding Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean (`Escazú Agreement’) entered into force. This addressed the so-called Principle 10 of the 1992 Rio Declaration on Environment and Development, and was notably the first multilateral agreement to have been negotiated under ECLAC auspices. The first conference of the parties (COP) to the Agreement was convened in April 2022, in Santiago, Chile. The meeting established a task force that was to monitor risks to environmental defenders in the region, and determined that representatives of the general public should participate in the management of the Agreement. The second COP, convened in April 2023, in Buenos Aires (Argentina), elected a seven-member Committee to Support Implementation and Compliance of the Escazú Agreement; the Committee was inaugurated in August. An ECLAC Observatory on Principle 10 promotes enhanced access to information and justice on environmental matters.</p>
+               <p>In February 2023 ECLAC hosted a Regional Water Dialogues event. A Regional Water Action Agenda, endorsed at the meeting, outlined the following four action pillars aimed at accelerating SDG 6 (on ensuring the availability and sustainable management of water and sanitation for all): guaranteeing the human right to safely managed drinking water and sanitation through a significant increase in investment; promoting regulatory changes to facilitate affordable and equitable access to water; promoting oversight and regulation with a view to reversing pollution and over-exploitation of water resources; and moving from linear to circular water resources management.</p>
+               <p>
+        A special report titled 
+        <publ-name>Lithium Extraction and Industrialization: Opportunities and Challenges for Latin America and the Caribbean Natural Resources</publ-name>
+        , issued in July 2023, considered the role of ECLAC’s lithium-producing member states (primarily Argentina, Brazil and Chile) in the lithium-ion batteries global value chain, and addressed related local governance, regulatory and fiscal regimes.
+      </p>
+               <p usage="sacac">In November 2017 ECLAC established a task force to assist a Caribbean Debt for Climate Adaptation Swap Initiative that was initiated by the Commission in early 2016. In July 2022 a high-level meeting was convened to consider the development of an ECLAC Caribbean Resilience Fund.</p>
+          </int-org-section>
+          <int-org-section id="UN.ECLAC.IO.4" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Sustainable Development and Human Settlements</heading>
+               <p>
+        In April 2017 the inaugural meeting took place, in Mexico City, of a Forum of the Countries of Latin America and the Caribbean on Sustainable Development, which was mandated to follow up and review the implementation of the 2030 Agenda and the SDGs, and the Addis Ababa Action Agenda (adopted in July 2015 by the Third International Conference on Financing for Development). In March 2022 the fifth session of the Forum, held in San José, Costa Rica, considered a report on regional progress towards achieving the 2030 Agenda, titled 
+        <publ-name>A decade of action for a change of era.</publ-name>
+         This observed that the economic impact of the COVID-19 pandemic had been particularly hard in Latin America and the Caribbean; noted other ongoing threats, such as global warming and the region’s environmental vulnerability; and emphasized the importance of strengthening multilateralism, especially in the area of financing for development, enhancing the implementation of social and environmental policies, strengthening institutional resilience, and resolving conflicts by means of agreements and compacts.
+      </p>
+               <p>In October 2021 the mayors of eight major municipalities in the region signed a Declaration of Circular Cities in Latin America and the Caribbean, to promote urban sustainability and a transition to a more circular economy.</p>
+               <!--~ Caribbean First strategy -->
+          </int-org-section>
+          <int-org-section id="UN.ECLAC.IO.5" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Social Development</heading>
+               <p>
+        In November 2015 the inaugural meeting was held of a Regional Conference on Social Development, established with the aim of advancing bilateral, regional and international co-operation towards, and improving national policies on, social development; and, furthermore, examining and improving the measurement of multidimensional poverty in the region. A third Regional Conference on Social Development, convened in October 2019, in Mexico City, approved a Regional Agenda for Inclusive Social Development. The fourth meeting, held in October 2021, in a virtual format, considered means of supporting recovery from the COVID-19 pandemic, including: the provision of an emergency basic income; advancing care systems and women’s labour inclusion; an annual investment of 1% of GDP in a basic digital basket; and rethinking social protection systems. The First Regional Seminar on Social Development, also convened in October 2021, as a virtual event, focused on education; and a second seminar in that series, addressing social security, took place in late August 2022-early September, likewise in an online format. The 2023 edition of ECLAC’s annual 
+        <publ-name>Social Panorama of Latin America,</publ-name>
+         issued in December, was subtitled `Labour inclusion as a key axis for inclusive social development’. In June 2023 the Third Regional Seminar on Social Development—organized by ECLAC, in Santiago, with participation by ministers responsible for labour, as well as academics, other experts, and representatives of trade unions and employers’ organizations—emphasized the need to promote labour inclusion.
+      </p>
+               <p>ECLAC implements programmes on technical transformations in Latin America; strengthening the capacity of developing countries to design and implement policies and programmes aimed at enhancing equality; strengthening the institutional framework for universal and sustainable social protection; and addressing child and adolescent labour, poverty and inequality.</p>
+               <p>A Comprehensive Plan for Health Self-Sufficiency was finalized by the Commission in September 2021. ECLAC supported regional technical workshops for vaccine manufacturing in Latin America and the Caribbean that were held in October 2021 and February 2022.</p>
+               <p>In May 2019 ECLAC finalized—within the context of the Global Compact for Safe, Orderly and Regular Migration, adopted in December 2018—an El Salvador-Guatemala-Honduras-Mexico Comprehensive Development Plan, which analysed the causes of and addressed sustainable solutions to complex migratory patterns in the sub-region. The Plan placed a priority focus on the right to development in places of origin (with the aim of rendering migration an option rather than a necessity), and outlined 30 recommendations based on the four programmatic pillars of: economic development, social wellbeing, environmental sustainability and risk management, and the comprehensive management of the migratory cycle with a focus on human security.</p>
+          </int-org-section>
+          <int-org-section id="UN.ECLAC-IO.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Population</heading>
+               <p>ECLAC works to enhance capacity building in demographic analysis, and to integrate population factors into development policies and planning, with a focus on understanding and combating poverty and inequalities. The regional Latin American and Caribbean Demographic Centre (Centro Latinoamericano y Caribeno de Demografia—CELADE) was integrated into the ECLAC system in 1997 as its Population Division, providing technical expertise, analysis and strategic leadership.</p>
+               <p>A fourth Regional Conference on Population and Development, convened in June 2022 in a hybrid format, hosted from ECLAC’s headquarters in Santiago, reviewed implementation of measures aimed at supporting the Montevideo Consensus on Population and Development, which had been adopted in August 2013 by the inaugural such gathering. ECLAC maintains a virtual online platform that monitors implementation of the Montevideo Consensus.</p>
+               <p>A Fifth Regional Intergovernmental Conference on Ageing and the Rights of Older People was convened in December 2022.</p>
+               <p>From 2018 ECLAC supported the development of the Urban and Cities Platform of Latin America and the Caribbean, which comprises a virtual Forum, and an Observatory that compiles indicators relating to the implementation of the SDGs and New Urban Agenda, urban plans, relevant case studies, projects and legal instruments.</p>
+          </int-org-section>
+          <int-org-section id="UN.ECLAC.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Gender Affairs</heading>
+               <p>
+        ECLAC acts as the secretariat for the Observatory on Gender Equality for Latin America and the Caribbean, which was established in 2008 and is supported by partners that include 
+        <xr pageref="N" ref="UN-WOMEN.IO">UN Women</xr>
+         and UNFPA. The Observatory has developed a series of indicators assessing economic autonomy (for example with respect to income, work hours, and unpaid work time); the role of women in decision making; and also physical autonomy (including femicide, maternal mortality and teenage maternity rates). In October 2016 the 13th session of ECLAC’s Regional Conference on Women, convened in Montevideo, Uruguay, adopted the Montevideo Strategy to Achieve Gender Equality in the Region by 2030. This focused on equality and rule of law; multidimensional and integrated gender equality policies for institutions; the democratization of policy and society; basing public administration on equality and non-discrimination; and on mobilizing sustainable, sufficient resources for pursuing gender equality. Communications and technology were also emphasized. The 15th session of the Regional Conference for Women, hosted by Argentina in November 2022, issued the Buenos Aires Commitment, which supported the findings of a recent publication titled 
+        <publ-name>The care society: a horizon for sustainable recovery with gender equality,</publ-name>
+         that urged a new development model prioritizing sustainability, and recognized `care’ as underpinning human rights that facilitate wellbeing. In that month the Observatory on Gender Equality reported that in 2021 at least 4,473 women were victims of femicide in 29 countries and territories in Latin America and the Caribbean.
+      </p>
+          </int-org-section>
+          <int-org-section id="ECLAC.UN.IO.5" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Statistics and Digital Agenda</heading>
+               <p>ECLAC organizes the Statistical Conference of the Americas, which is convened every two years to promote the development and improvement of national statistics (in particular their comparability), and to encourage co-operation between national statistical offices and regional and international organizations. ECLAC maintains CEPALSTAT, a general database of regional statistics (updated in 2021), as well as REDATAM (collating data from population censuses, administrative records and surveys); and—covering trade and commerce—the SIGCI, TRADECAN and MAGIC PLUS statistical databases.</p>
+               <p>In May 2011 ECLAC launched a Regional Broadband Observatory (ORBA), which aims to facilitate public policy decision making with regard to the provision of broadband services. In June 2016 ECLAC, the Organization of American States, the Inter-American Telecommunication Commission, as well as academics and private sector experts, adopted the 2030 ICT Alliance for the Americas initiative, which aimed to expand connectivity in the region over a 15-year period. In December 2021 the third ECLAC Conference on Science, Innovation and ICTs, hosted by Argentina in a partly virtual format, addressed digital technologies, health sovereignty (i.e. the right to choose culturally appropriate medicines), and eco-innovation. The eighth Ministerial Conference on the Information Society in Latin America and the Caribbean, convened under ECLAC auspices in November 2022, in Montevideo, adopted a new Digital Agenda for Latin America and the Caribbean (eLAC2024), which outlined the following targets to be achieved by 2024: 100% increase in the population covered by 5G networks; 70% internet penetration in homes; 78% mobile broadband penetration; 40% increase in fixed broadband subscriptions; 30% increase in mobile broadband connection speed; principal transactional public services to be available online in one-half of countries; 5% biennial increase in e-commerce companies; 40% of the population to have basic and 10% advanced digital skills; and 20 countries to have a national cybersecurity strategy.</p>
+               <p>In August 2023 ECLAC released a Latin American Artificial Intelligence (AI) Index, which analysed AI-related enabling factors, research, development, adoption and governance in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Panama, Paraguay, Peru and Uruguay.</p>
+               <p>In February 2024 ESCAP initiated a new online Digital Development Observatory, including more than 60 indicators, and 12 thematic areas.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1048" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.1049">ECLAC's proposed regular budget for 2024, an appropriation from the UN, amounted to US&#8201;$564.4m. In addition, extrabudgetary activities are financed by governments, other org­an­izations and UN agencies.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1050" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <heading-note>in English and Spanish</heading-note>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>CEPAL Review</publ-name>
+                    <content-note style="NORMAL">3 a year</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Economic Survey of Latin America and the Caribbean</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Foreign Direct Investment in Latin America and the Caribbean</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>The Hummingbird</publ-name>
+                    <content-note style="NORMAL">monthly, newsletter of the Caribbean subregional office</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>International Trade Outlook for Latin America and the Caribbean</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Latin American Economic Outlook</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Notas de Población</publ-name>
+                    <content-note style="NORMAL">2 a year</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Preliminary Overview of the Economies of Latin America and the Caribbean</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Social Panorama of Latin America</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Statistical Yearbook for Latin America and the Caribbean</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.1051">Studies, reports, thematic bulletins.</p>
+     </int-org-section>
+     <int-org-section id="UN.ECLAC.IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Associated Body</heading>
+          <org-list>
+               <org-entry id="IO-UN.1046" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--rc 09.01.2020 cannot confirm fax-->
+                    <!--VK 10.01.2017 Phone and Fax not confirmed-->
+                    <org-entry-head>
+                         <org-entry-name>Latin American and Caribbean Institute for Economic and Social Planning</org-entry-name>
+                         <alt-name>Instituto Latinoamericano y del Caribe de Planificacion Economica y Social</alt-name>
+                         <abbr>ILPES</abbr>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Edif. Naciones Unidas, Avda Dag Hammarskjöld 3477, Vitacura, Casilla 179-D, Santiago, Chile</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(2) 2210-2507</telephone>
+                         <email>ilpes@cepal.org</email>
+                         <internet>www.cepal.org/acerca-del-ilpes</internet>
+                    </address-block>
+                    <found-date>1962</found-date>
+                    <content-note style="NORMAL">supports regional govts through the provision of training, advisory services and research in the field of public planning and administration</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Cielo</forename>
+                                   <surname>Morales</surname>
+                              </person-name>
+                              <person-note>Panama</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <!--8.iv.24 - 3,042 words-->
+</int-org-entry>

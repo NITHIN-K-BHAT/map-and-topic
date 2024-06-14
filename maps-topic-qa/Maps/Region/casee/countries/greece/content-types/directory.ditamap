@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Directory</mainbooktitle>
+     </booktitle>
+     <chapter id="gr.dir" navtitle="Directory">
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir.dita" navtitle="Directory" keyscope="directory" keys="directory" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-government.dita" navtitle="The government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-legislature.dita" navtitle="Legislature" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-local-government.dita" navtitle="Local government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-election-commission.dita" navtitle="Election commission" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-political-organizations.dita" navtitle="Political organizations" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-diplomatic-representation.dita" navtitle="Diplomatic representation" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-judicial-system.dita" navtitle="Judicial system" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-religion.dita" navtitle="Religion" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-press.dita" navtitle="The press" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-publishers.dita" navtitle="Publishers" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-broadcasting-communications.dita" navtitle="Broadcasting and communications" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-finance.dita" navtitle="Finance" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-trade-industry.dita" navtitle="Trade and industry" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-transport.dita" navtitle="Transport" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-tourism.dita" navtitle="Tourism" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-culture.dita" navtitle="Culture" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-social-welfare.dita" navtitle="Social welfare" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-environment.dita" navtitle="The environment" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-defence.dita" navtitle="Defence" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-education.dita" navtitle="Education" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/greece/content-types/directory/gr.dir-bibliography.dita" navtitle="Bibliography" keyscope="bibl-ref" keys="directory" format="dita" />
+     </chapter>
+</bookmap>

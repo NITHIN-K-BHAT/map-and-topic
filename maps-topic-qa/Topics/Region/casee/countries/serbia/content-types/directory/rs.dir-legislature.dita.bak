@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1800813" sllink="SLSDOCRF" sllinkid="1800812" slsdocid="1800739" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RS.DIR.1163591541" id-root="rs.dir" iso="rs" sect-type="legislature" section="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Legislature</heading>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7941578" sllink="SLSDOCRF" sllinkid="7941577" slsdocid="7941564" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="RS.DIR.1647520234" id-root="rs.dir" iso="rs" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>National Assembly (Narodna Skupština)</dir-entry-name>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>11000 Belgrade, Nikole Pashića 13</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(11) 3026100</telephone>
+                                        <email>nsrs@parlament.rs</email>
+                                        <internet>www.parlament.gov.rs</internet>
+                                   </address-block>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7941585" sllink="SLSDOCRF" sllinkid="7941584" slsdocid="1800785" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="RS.DIR.1163591918" id-root="rs.dir" iso="rs" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ana</forename>
+                                                  <surname>Brnabić</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+                    <table-blockref id="SL7941590" sllink="SLSDOCRF" sllinkid="7941589" slsdocid="288887" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="RS.DIR.149" id-root="rs.dir" iso="rs" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="ELECTION">
+                              <table-heading>General Election, 17 December 2023</table-heading>
+                              <table pgwide="NO" style="WITH-RULES">
+                                   <tgroup cols="4">
+                                        <colspec colname="COLSPEC1" colwidth="11cm" />
+                                        <colspec colname="COLSPEC2" colwidth="3.5cm" />
+                                        <colspec colname="COLSPEC3" colwidth="3cm" />
+                                        <colspec colname="COLSPEC4" colwidth="2.5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Parties and blocs</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Aleksandar Vučić—Srbija Ne Sme Da Stane
+                      <endnoteref idref="RS.DIR.014816052012" ref-symbol="*" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1,783,701</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">46.75</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">129</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Srbija Protiv Nasilja
+                      <endnoteref idref="RS.DIR.1649839828" ref-symbol="†" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">902,450</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">23.66</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">65</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Ivica Dačić—Premijer Srbije
+                      <endnoteref idref="RS.DIR.1649840455" ref-symbol="‡" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">249,916</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.55</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">18</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Nacionalno Demokratska Alternativa (NADA)
+                      <endnoteref idref="RS.DIR.1649844412" ref-symbol="‖" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">191,431</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">5.02</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Mi—Glas iz Naroda</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">178,830</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">4.69</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Ethnic minority parties</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">404,650</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">13.33</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">12</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                       (incl. invalid votes)
+                      <endnoteref idref="RS.DIR.1649844731" ref-symbol="§" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">3,820,746</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">250</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                              <endnote id="RS.DIR.014816052012" ref-symbol="*">
+              Aleksandar Vučić—Serbia Must Not Stop, a coalition led by the Srpska Napredna Stranka (SNS—Serbian Progressive Party), and also including, 
+              <i>inter alia</i>
+              , the Socijaldemokratska Partija Srbije (SDP—Social Democratic Party of Serbia), the Srpski Pokret Obnove (SPO—Serbian Renewal Movement), the Srpska Narodna Partija (SNP—Serbian People’s Party), the Pokret Socijalista (PS—Movement of Socialists), the Partija Ujedinjenih Penzionera Srbije (PUPS—Party of United Pensioners of Serbia) and the Pokret Snaga Srbije-BK (PSS—Strength of Serbia Movement-BK).
+            </endnote>
+                              <endnote id="RS.DIR.1649839828" ref-symbol="†">
+              Serbia Against Violence, a coalition comprising 
+              <i>inter alia</i>
+               the Narodni Pokret Srbije (People’s Movement of Serbia), the Stranka Slobode i Pravde (SSP—Party of Freedom and Justice), the Demokratska Stranka (DS—Democratic Party), the Zeleno-Levi Front (Green-Left Front), the Srbija Centar (Serbia Centre), the Ekološki Ustanak (Ecological Uprising) and Pokret Slobodnih Građana (Movement of Free Citizens).
+            </endnote>
+                              <endnote id="RS.DIR.1649840455" ref-symbol="‡">Ivica Dačić—Prime Minister of Serbia, a coalition led by the Socijalistička Partija Srbije (SPS—Socialist Party of Serbia), with Jedinstvena Srbija (JS—United Serbia) and the Zelena Stranka (Green Party—ZS).</endnote>
+                              <endnote id="RS.DIR.1649844412" ref-symbol="‖">National Democratic Alternative, a coalition led by the Nova Demokratska Stranka Srbije (NDSS—New Democratic Party of Serbia), with the Pokret Obnove Kraljevine Srbije (Movement for the Restoration of the Kingdom of Serbia).</endnote>
+                              <endnote id="RS.DIR.1649844731" ref-symbol="§">The threshold for parliamentary representation is 3%, although this does not apply to parties representing ethnic minorities. Six seats were taken by the Savez Vojvođanskih Mađara (VMSz—Alliance of Vojvodina Hungarians), two by the Stranka Pravde i Pomirenja (SPP—Justice and Reconciliation Party)-Demokratski Savez Hrvata u Vojvodini (DSHV—Democratic Alliance of Croats in Vojvodina), two by the Stranka Demokratske Akcije Sandžaka (SDA Sandžaka—Party of Democratic Action of Sandžak), one by the Ruska Stranka (Russian Party)—Slobodan Nikolić and one by the Beteja Politike e Shqiptarëve Vazhdon (Political Battle of the Albanians Continues)—Shaip Kamberi.</endnote>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

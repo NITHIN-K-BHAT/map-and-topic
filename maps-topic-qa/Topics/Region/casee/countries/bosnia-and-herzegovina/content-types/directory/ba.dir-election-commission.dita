@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1599436" sllink="SLSDOCRF" sllinkid="1599435" slsdocid="1465086" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.1136995865" id-root="ba.dir" iso="ba" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--MR 12.07.2021 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1465228" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1465227" slsdocid="1465208" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="BA.DIR.1136998188" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <data-protection date-added="12.07.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Centralna Izborna Komisija Bosne i Hercegovine</org-entry-name>
+                                        <alt-name>Central Election Commission of Bosnia and Herzegovina</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>71000 Sarajevo, Danijela Ozme 7</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(33) 251300</telephone>
+                                        <fax>(33) 251329</fax>
+                                        <email>kontakt@izbori.ba</email>
+                                        <internet>www.izbori.ba</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">independent</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Irena</forename>
+                                                  <surname>Hadžiabdić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

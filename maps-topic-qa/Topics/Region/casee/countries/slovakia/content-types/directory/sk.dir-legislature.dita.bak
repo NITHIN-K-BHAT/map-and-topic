@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89786" sllink="SLSDOCRF" sllinkid="89785" slsdocid="72421" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.68" id-root="sk.dir" iso="sk" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--AK 19.07.2023 headline content checked-->
+                    <!--nb 24 04 2024 headline content checked-->
+                    <heading>Legislature</heading>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7938629" sllink="SLSDOCRF" sllinkid="7938628" slsdocid="7938626" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="SK.DIR.1647413892" id-root="sk.dir" iso="sk" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="NATIONAL COUNCIL">
+                                   <dir-entry-name>National Council of the Slovak Republic (Národná Rada Slovenskej Republiky)</dir-entry-name>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>nám. Alexandra Dubčeka 1, 812 80 Bratislava</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(2) 5972-1111</telephone>
+                                        <email>info@nrsr.sk</email>
+                                        <internet>www.nrsr.sk</internet>
+                                   </address-block>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8050353" sllink="SLSDOCRF" sllinkid="8050352" slsdocid="72395" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="SK.DIR.70" id-root="sk.dir" iso="sk" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="NATIONAL COUNCIL OF THE SLOVAK REPUBLIC">
+                                   <!--AK 19.07.2023 also mentioned as Speaker and president in secondary articles-->
+                                   <dir-entry-name>Chairman</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Peter</forename>
+                                                  <surname>Žiga</surname>
+                                             </person-name>
+                                             <person-note>acting</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+                    <table-blockref id="SL7938633" sllink="SLSDOCRF" sllinkid="7938632" slsdocid="72906" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="SK.DIR.72" id-root="sk.dir" iso="sk" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="NATIONAL COUNCIL OF THE SLOVAK REPUBLIC" type="ELECTION">
+                              <table-heading>Legislative Elections, 30 September 2023</table-heading>
+                              <!--nb 03 10 2023 volbysr.sk/en/vysledky_hlasovania_strany.html-->
+                              <table style="WITH-RULES">
+                                   <tgroup cols="4">
+                                        <colspec colwidth="11cm" />
+                                        <colspec colname="COLSPEC0" colwidth="3.0cm" />
+                                        <colspec colwidth="3.5cm" />
+                                        <colspec colwidth="2.5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.168">Smer-Sociálna Demokracia</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">681,017</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">22.94</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.1560508214">Progresívne Slovensko</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">533,136</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">17.96</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">32</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.1599822694">Hlas—Sociálna Demokracia</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">436,415</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">14.70</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">27</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.1332226802">OĽaNO a Priatelia</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">264,137</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">8.89</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">16</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.187">Kresťanskodemokratické Hnutie</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">202,515</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.82</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">12</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.1142012137">Sloboda a Solidarita</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">187,645</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">6.32</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                                                       <xr pageref="N" ref="SK.DIR.192">Slovenská Národná Strana</xr>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">166,995</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">5.62</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">10</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total valid votes</b>
+                       (incl. others)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2,967,896</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">150</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

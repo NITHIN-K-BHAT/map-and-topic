@@ -1,0 +1,2799 @@
+<?xml version="1.0"?>
+<stats-table sect-type="education" id="STATS.TABLE.29" sllink="SLSDOC" id-root="x" iso="x"
+     slsdocrf="STATS-TABREF" 
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>School enrolment, primary (gross), gender parity index (GPI); public and private
+          schools</heading>
+     <units>ratio of girls to boys; index less than 1 suggests girls are more disadvantaged than
+          boys in learning opportunities, index greater than 1 suggests the reverse</units>
+     <sources>
+          <source-head>Source</source-head>
+          <source-info>UNESCO, <i>Institute for Statistics.</i>
+          </source-info>
+     </sources>
+     <special-data-group>
+          <name>World</name>
+          <data-group>
+               <value year="2005">0.95</value>
+               <value year="2010">0.97</value>
+               <value year="2015">1.00</value>
+               <value year="2020">0.98</value>
+          </data-group>
+     </special-data-group>
+     <country-stats-group>
+          <country-stats iso="af">
+               <name>Afghanistan</name>
+               <data-group>
+                    <value year="2005">0.58</value>
+                    <value year="2010">0.68</value>
+                    <value year="2015">0.68</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi-al">
+               <name>Åland Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="al">
+               <name>Albania</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.03</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dz">
+               <name>Algeria</name>
+               <data-group>
+                    <value year="2005">0.93</value>
+                    <value year="2010">0.94</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="as">
+               <name>American Samoa</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ad">
+               <name>Andorra</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ao">
+               <name>Angola</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">0.80</value>
+                    <value year="2015">0.87</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ai">
+               <name>Anguilla</name>
+               <data-group>
+                    <value year="2005">1.02</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ag">
+               <name>Antigua and Barbuda</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">0.92</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ar">
+               <name>Argentina</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="am">
+               <name>Armenia</name>
+               <data-group>
+                    <value year="2005">1.02</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="aw">
+               <name>Aruba</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="au">
+               <name>Australia</name>
+               <data-group>
+                    <value year="2005">1.02</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="at">
+               <name>Austria</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="az">
+               <name>Azerbaijan</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.04</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bs">
+               <name>Bahamas</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bh">
+               <name>Bahrain</name>
+               <data-group>
+                    <value year="2005">1.04</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bd">
+               <name>Bangladesh</name>
+               <data-group>
+                    <value year="2005">1.05</value>
+                    <value year="2010">1.06</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.09</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bb">
+               <name>Barbados</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.02</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="by">
+               <name>Belarus</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="be">
+               <name>Belgium</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bz">
+               <name>Belize</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">0.95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bj">
+               <name>Benin</name>
+               <data-group>
+                    <value year="2005">0.79</value>
+                    <value year="2010">0.89</value>
+                    <value year="2015">0.93</value>
+                    <value year="2020">0.93</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bm">
+               <name>Bermuda</name>
+               <data-group>
+                    <value year="2005">1.05</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.04</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bt">
+               <name>Bhutan</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">1.02</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bo">
+               <name>Bolivia</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ba">
+               <name>Bosnia and Herzegovina</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bw">
+               <name>Botswana</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="br">
+               <name>Brazil</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">0.95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vg">
+               <name>British Virgin Islands</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.94</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bn">
+               <name>Brunei Darussalam</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bg">
+               <name>Bulgaria</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bf">
+               <name>Burkina Faso</name>
+               <data-group>
+                    <value year="2005">0.80</value>
+                    <value year="2010">0.91</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bi">
+               <name>Burundi</name>
+               <data-group>
+                    <value year="2005">0.86</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.03</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kh">
+               <name>Cambodia</name>
+               <data-group>
+                    <value year="2005">0.93</value>
+                    <value year="2010">0.94</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cm">
+               <name>Cameroon</name>
+               <data-group>
+                    <value year="2005">0.84</value>
+                    <value year="2010">0.86</value>
+                    <value year="2015">0.90</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ca">
+               <name>Canada</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cv">
+               <name>Cabo Verde</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.93</value>
+                    <value year="2015">0.93</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ky">
+               <name>Cayman Islands</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cf">
+               <name>Central African Republic</name>
+               <data-group>
+                    <value year="2005">0.70</value>
+                    <value year="2010">0.73</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ce">
+               <name>Ceuta</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="td">
+               <name>Chad</name>
+               <data-group>
+                    <value year="2005">0.68</value>
+                    <value year="2010">0.73</value>
+                    <value year="2015">0.77</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-ci">
+               <name>Channel Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cl">
+               <name>Chile</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cn">
+               <name>China, People's Republic</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cx">
+               <name>Christmas Island</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cc">
+               <name>Cocos (Keeling) Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="co">
+               <name>Colombia</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="km">
+               <name>Comoros</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cd">
+               <name>Congo, Democratic Republic</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">0.87</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cg">
+               <name>Congo, Republic</name>
+               <data-group>
+                    <value year="2005">0.93</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ck">
+               <name>Cook Islands</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cr">
+               <name>Costa Rica</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ci">
+               <name>Côte d'Ivoire</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.88</value>
+                    <value year="2020">0.94</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hr">
+               <name>Croatia</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cu">
+               <name>Cuba</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.94</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cw">
+               <name>Curaçao</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cy">
+               <name>Cyprus</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cz">
+               <name>Czech Republic</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dk">
+               <name>Denmark</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dj">
+               <name>Djibouti</name>
+               <data-group>
+                    <value year="2005">0.82</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.07</value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dm">
+               <name>Dominica</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.93</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="do">
+               <name>Dominican Republic</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.88</value>
+                    <value year="2015">0.91</value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ec">
+               <name>Ecuador</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="eg">
+               <name>Egypt</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sv">
+               <name>El Salvador</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gq">
+               <name>Equatorial Guinea</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="er">
+               <name>Eritrea</name>
+               <data-group>
+                    <value year="2005">0.81</value>
+                    <value year="2010">0.85</value>
+                    <value year="2015">0.86</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ee">
+               <name>Estonia</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sz">
+               <name>Eswatini</name>
+               <data-group>
+                    <value year="2005">0.93</value>
+                    <value year="2010">0.91</value>
+                    <value year="2015">0.91</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="et">
+               <name>Ethiopia</name>
+               <data-group>
+                    <value year="2005">0.84</value>
+                    <value year="2010">0.92</value>
+                    <value year="2015">0.91</value>
+                    <value year="2020">0.91</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fk">
+               <name>Falkland Islands (Malvinas)</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fo">
+               <name>Faroe Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fj">
+               <name>Fiji</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi">
+               <name>Finland</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fr">
+               <name>France (metropolitan)</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gf">
+               <name>French Guiana</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pf">
+               <name>French Polynesia</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ga">
+               <name>Gabon</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gm">
+               <name>Gambia</name>
+               <data-group>
+                    <value year="2005">1.03</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.07</value>
+                    <value year="2020">1.12</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ge">
+               <name>Georgia</name>
+               <data-group>
+                    <value year="2005">1.04</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="de">
+               <name>Germany</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gh">
+               <name>Ghana</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gi">
+               <name>Gibraltar</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.09</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gr">
+               <name>Greece</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gl">
+               <name>Greenland</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gd">
+               <name>Grenada</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gp">
+               <name>Guadeloupe</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gu">
+               <name>Guam</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gt">
+               <name>Guatemala</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gn">
+               <name>Guinea</name>
+               <data-group>
+                    <value year="2005">0.80</value>
+                    <value year="2010">0.82</value>
+                    <value year="2015">0.81</value>
+                    <value year="2020">0.85</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gw">
+               <name>Guinea-Bissau</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">0.93</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gy">
+               <name>Guyana</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ht">
+               <name>Haiti</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hn">
+               <name>Honduras</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hk">
+               <name>Hong Kong</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">1.04</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hu">
+               <name>Hungary</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="is">
+               <name>Iceland</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="in">
+               <name>India</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.04</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="id">
+               <name>Indonesia</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ir">
+               <name>Iran</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.06</value>
+                    <value year="2020">1.06</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="iq">
+               <name>Iraq</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ie">
+               <name>Ireland</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-iom">
+               <name>Isle of Man</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="il">
+               <name>Israel</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="it">
+               <name>Italy</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jm">
+               <name>Jamaica</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jp">
+               <name>Japan</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jo">
+               <name>Jordan</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kz">
+               <name>Kazakhstan</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ke">
+               <name>Kenya</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ki">
+               <name>Kiribati</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">1.08</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">1.06</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kp">
+               <name>Korea, Democratic People's Republic</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kr">
+               <name>Korea, Republic</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ks">
+               <name>Kosovo</name>
+               <footnote id="STATS.TABLE.29.1" ref-symbol="1">Declared independence from Serbia in
+                    February 2008.</footnote>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kw">
+               <name>Kuwait</name>
+               <data-group>
+                    <value year="2005">1.04</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.03</value>
+                    <value year="2020">1.13</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kg">
+               <name>Kyrgyzstan</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="la">
+               <name>Lao PDR</name>
+               <data-group>
+                    <value year="2005">0.87</value>
+                    <value year="2010">0.91</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lv">
+               <name>Latvia</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lb">
+               <name>Lebanon</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ls">
+               <name>Lesotho</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lr">
+               <name>Liberia</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.90</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ly">
+               <name>Libya</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="li">
+               <name>Liechtenstein</name>
+               <data-group>
+                    <value year="2005">0.92</value>
+                    <value year="2010">0.94</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lt">
+               <name>Lithuania</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lu">
+               <name>Luxembourg</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mo">
+               <name>Macao</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mg">
+               <name>Madagascar</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mw">
+               <name>Malawi</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">1.02</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="my">
+               <name>Malaysia</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mv">
+               <name>Maldives</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ml">
+               <name>Mali</name>
+               <data-group>
+                    <value year="2005">0.79</value>
+                    <value year="2010">0.86</value>
+                    <value year="2015">0.90</value>
+                    <value year="2020">0.91</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mt">
+               <name>Malta</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mh">
+               <name>Marshall Islands</name>
+               <data-group>
+                    <value year="2005">1.25</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mq">
+               <name>Martinique</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mr">
+               <name>Mauritania</name>
+               <data-group>
+                    <value year="2005">1.03</value>
+                    <value year="2010">1.05</value>
+                    <value year="2015">1.05</value>
+                    <value year="2020">1.07</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mu">
+               <name>Mauritius</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="yt">
+               <name>Mayotte</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ml">
+               <name>Melilla</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mx">
+               <name>Mexico</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fm">
+               <name>Micronesia, Federated States</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="md">
+               <name>Moldova</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mc">
+               <name>Monaco</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.07</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mn">
+               <name>Mongolia</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="me">
+               <name>Montenegro</name>
+               <data-group>
+                    <value year="2005">1.02</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ms">
+               <name>Montserrat</name>
+               <data-group>
+                    <value year="2005">0.93</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ma">
+               <name>Morocco</name>
+               <data-group>
+                    <value year="2005">0.91</value>
+                    <value year="2010">0.94</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mz">
+               <name>Mozambique</name>
+               <data-group>
+                    <value year="2005">0.83</value>
+                    <value year="2010">0.89</value>
+                    <value year="2015">0.91</value>
+                    <value year="2020">0.94</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mm">
+               <name>Myanmar</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="na">
+               <name>Namibia</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nr">
+               <name>Nauru</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.93</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="np">
+               <name>Nepal</name>
+               <data-group>
+                    <value year="2005">0.91</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.07</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nl">
+               <name>Netherlands</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nc">
+               <name>New Caledonia</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nz">
+               <name>New Zealand</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ni">
+               <name>Nicaragua</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ne">
+               <name>Niger</name>
+               <data-group>
+                    <value year="2005">0.72</value>
+                    <value year="2010">0.81</value>
+                    <value year="2015">0.85</value>
+                    <value year="2020">0.90</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ng">
+               <name>Nigeria</name>
+               <data-group>
+                    <value year="2005">0.84</value>
+                    <value year="2010">0.91</value>
+                    <value year="2015">0.94</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nu">
+               <name>Niue</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nf">
+               <name>Norfolk Island</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mp">
+               <name>Northern Mariana Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mk">
+               <name>North Macedonia</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="no">
+               <name>Norway</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="om">
+               <name>Oman</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.04</value>
+                    <value year="2020">1.06</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pk">
+               <name>Pakistan</name>
+               <data-group>
+                    <value year="2005">0.77</value>
+                    <value year="2010">0.85</value>
+                    <value year="2015">0.86</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pw">
+               <name>Palau</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.07</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ps">
+               <name>Palestinian Autonomous Areas</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pa">
+               <name>Panama</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pg">
+               <name>Papua New Guinea</name>
+               <data-group>
+                    <value year="2005">0.85</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="py">
+               <name>Paraguay</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pe">
+               <name>Peru</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ph">
+               <name>Philippines</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pn">
+               <name>Pitcairn Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pl">
+               <name>Poland</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pt">
+               <name>Portugal</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pr">
+               <name>Puerto Rico</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">1.04</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="qa">
+               <name>Qatar</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="re">
+               <name>Réunion</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ro">
+               <name>Romania</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ru">
+               <name>Russian Federation</name>
+               <footnote id="STATS.TABLE.29.2" ref-symbol="2">Excluding the Republic of Crimea and
+                    Sevastopol City (admitted to the Russian Federation in March 2014).</footnote>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rw">
+               <name>Rwanda</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sh">
+               <name>St Helena and Dependencies</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kn">
+               <name>Saint Kitts and Nevis</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lc">
+               <name>Saint Lucia</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pm">
+               <name>St Pierre and Miquelon</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vc">
+               <name>Saint Vincent and the Grenadines</name>
+               <data-group>
+                    <value year="2005">0.90</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ws">
+               <name>Samoa</name>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sm">
+               <name>San Marino</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="st">
+               <name>São Tomé and Príncipe</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sa">
+               <name>Saudi Arabia</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.03</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sn">
+               <name>Senegal</name>
+               <data-group>
+                    <value year="2005">0.96</value>
+                    <value year="2010">1.06</value>
+                    <value year="2015">1.12</value>
+                    <value year="2020">1.15</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rs">
+               <name>Serbia</name>
+               <footnote id="STATS.TABLE.29.3" ref-symbol="3">Including Kosovo until February
+                    2008.</footnote>
+               <data-group>
+                    <value year="2005">1.01</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sc">
+               <name>Seychelles</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.03</value>
+                    <value year="2015">1.03</value>
+                    <value year="2020">1.04</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sl">
+               <name>Sierra Leone</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sg">
+               <name>Singapore</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sx">
+               <name>Sint Maarten</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sk">
+               <name>Slovakia</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="si">
+               <name>Slovenia</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sb">
+               <name>Solomon Islands</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="so">
+               <name>Somalia</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="za">
+               <name>South Africa</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.96</value>
+                    <value year="2015">0.93</value>
+                    <value year="2020">0.96</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ss">
+               <name>South Sudan</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.71</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es">
+               <name>Spain</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lk">
+               <name>Sri Lanka</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sd">
+               <name>Sudan</name>
+               <data-group>
+                    <value year="2005">0.88</value>
+                    <value year="2010">0.90</value>
+                    <value year="2015">0.91</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sr">
+               <name>Suriname</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.01</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sj (part)">
+               <name>Svalbard</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="se">
+               <name>Sweden</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.04</value>
+                    <value year="2020">1.05</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ch">
+               <name>Switzerland</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sy">
+               <name>Syrian Arab Republic</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tw">
+               <name>Taiwan</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tj">
+               <name>Tajikistan</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tz">
+               <name>Tanzania</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">1.02</value>
+                    <value year="2015">1.05</value>
+                    <value year="2020">1.03</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="th">
+               <name>Thailand</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.94</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tp">
+               <name>Timor-Leste</name>
+               <data-group>
+                    <value year="2005">0.91</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tg">
+               <name>Togo</name>
+               <data-group>
+                    <value year="2005">0.85</value>
+                    <value year="2010">0.90</value>
+                    <value year="2015">0.95</value>
+                    <value year="2020">0.97</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tk">
+               <name>Tokelau</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="to">
+               <name>Tonga</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.95</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tt">
+               <name>Trinidad and Tobago</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tn">
+               <name>Tunisia</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">1.00</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tr">
+               <name>Türkiye </name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tm">
+               <name>Turkmenistan</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tc">
+               <name>Turks and Caicos Islands</name>
+               <data-group>
+                    <value year="2005">1.08</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">1.05</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tv">
+               <name>Tuvalu</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.96</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ug">
+               <name>Uganda</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.02</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ua">
+               <name>Ukraine</name>
+               <footnote id="STATS.TABLE.29.4" ref-symbol="4">Including the Republic of Crimea and
+                    Sevastopol City (admitted to the Russian Federation in March 2014).</footnote>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ae">
+               <name>United Arab Emirates</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb">
+               <name>United Kingdom</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="us">
+               <name>United States of America</name>
+               <data-group>
+                    <value year="2005">0.99</value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.00</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vi">
+               <name>US Virgin Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uy">
+               <name>Uruguay</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">0.99</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uz">
+               <name>Uzbekistan</name>
+               <data-group>
+                    <value year="2005">1.00</value>
+                    <value year="2010">0.98</value>
+                    <value year="2015">0.99</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vu">
+               <name>Vanuatu</name>
+               <data-group>
+                    <value year="2005">0.97</value>
+                    <value year="2010">0.99</value>
+                    <value year="2015">0.97</value>
+                    <value year="2020">0.98</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="va">
+               <name>Vatican City</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ve">
+               <name>Venezuela</name>
+               <data-group>
+                    <value year="2005">0.98</value>
+                    <value year="2010">0.97</value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vn">
+               <name>Viet Nam</name>
+               <data-group>
+                    <value year="2005">0.95</value>
+                    <value year="2010">0.95</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">1.02</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="wf">
+               <name>Wallis and Futuna Islands</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ye">
+               <name>Yemen</name>
+               <data-group>
+                    <value year="2005">0.74</value>
+                    <value year="2010">0.82</value>
+                    <value year="2015">
+                         <not-avail/>
+                    </value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zm">
+               <name>Zambia</name>
+               <data-group>
+                    <value year="2005">0.94</value>
+                    <value year="2010">1.01</value>
+                    <value year="2015">1.00</value>
+                    <value year="2020">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zw">
+               <name>Zimbabwe</name>
+               <data-group>
+                    <value year="2005">
+                         <not-avail/>
+                    </value>
+                    <value year="2010">
+                         <not-avail/>
+                    </value>
+                    <value year="2015">0.98</value>
+                    <value year="2020">1.01</value>
+               </data-group>
+          </country-stats>
+     </country-stats-group>
+</stats-table>

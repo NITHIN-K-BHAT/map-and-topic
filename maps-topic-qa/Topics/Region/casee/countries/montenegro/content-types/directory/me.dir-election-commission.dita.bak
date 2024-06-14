@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL5369716" sllink="SLSDOCRF" sllinkid="5369715" slsdocid="1649341" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.1151593365" id-root="me.dir" iso="me" sect-type="government" section="Election Commission" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1649377" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1649376" slsdocid="1503320" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1141051614" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <!--PS 28.04.17 Source http://www.vijesti.me/vijesti/ko-su-politicari-u-sportskim-savezima-i-klubovima-919190-->
+                                   <!--NS 19.07.2016 website not working role group not verified-->
+                                   <org-entry-head>
+                                        <org-entry-name>Montenegrin Republican Election Commission</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Novaka Miloseva 8</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 242523</telephone>
+                                        <fax>(20) 404582</fax>
+                                        <email>komisija@dik.co.me</email>
+                                        <internet>dik.co.me</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nikola</forename>
+                                                  <surname>Mugoša</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654060" sllink="SLSDOCRF" sllinkid="1654059" slsdocid="1652509" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.1152091684" id-root="me.dir" iso="me" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <dir-section id="ME.DIR.004" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Christianity</heading>
+                         <dir-section id="ME.DIR.005" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Eastern Orthodox Church</heading>
+                              <org-list>
+                                   <org-entryref id="SL1652957" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1652956" slsdocid="288739" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.318" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Montenegrin Orthodox Church</org-entry-name>
+                                                  <alt-name>Crnogorska Pravoslavna Crkva</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81250 Cetinje, Gruda b.b.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(41) 240010</telephone>
+                                                  <email>crkva@cpc.org.me</email>
+                                                  <internet>www.cpc.org.me</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">autocephalous until 1920, when it was dissolved and annexed to the Serbian Orthodox Church</content-note>
+                                             <content-note style="NORMAL">restored 1993</content-note>
+                                             <role-group>
+                                                  <role>Bishop of Ostroško-Nikšić and Metropolitan of Monte­negro</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Boris (Bojan)</forename>
+                                                            <surname>Bojović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1652969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1652968" slsdocid="288740" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.317" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Orthodox Metropolitanate of Montenegro and the Littoral—Serbian Orthodox Church</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81250 Cetinje</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(41) 231273</telephone>
+                                                  <fax>(41) 231193</fax>
+                                                  <email>euo@mitropolija.com</email>
+                                                  <internet>www.mitropolija.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Metropolitan of Montenegro and the Littoral</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joanikije</forename>
+                                                            <surname>(Mićović)</surname>
+                                                       </person-name>
+                                                       <person-note>Bishop of Budimlje and Nikšić</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="ME.DIR.006" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Roman Catholic Church</heading>
+                              <p>The archdiocese of Bar is directly answerable to the Holy See, while the Diocese of Kotor is suffragan to the archdiocese of Split-Makarska, based in Croatia. There is also an Apostolic Exarchate for adherents of the Byzantine Rite in Serbia and Montenegro, based in Belgrade, Serbia.</p>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1652964" sllink="SLSDOCRF" sllinkid="1652963" slsdocid="288321" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="ME.DIR.321" id-root="me.dir" iso="me" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <dir-entry-name>Archbishop of Bar</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Rrok</forename>
+                                                            <surname>Gjonlleshaj</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>85000 Bar, Popovići 98</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(69) 320870</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1970487" sllink="SLSDOCRF" sllinkid="1970486" slsdocid="1970467" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="ME.DIR.1178127650" id-root="me.dir" iso="me" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <dir-entry-name>Bishop of Kotor</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>85330 Kotor, Stari grad 336</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(32) 322315</telephone>
+                                                  <fax>(32) 322175</fax>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="ME.DIR.11550467951" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Islam</heading>
+                         <org-list>
+                              <org-entryref id="SL6255446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6255445" slsdocid="6255441" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1530895823" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Islam">
+                                        <org-entry-head>
+                                             <org-entry-name>Islamic Community of Montenegro</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>20000 Podgorica, Gojka Radonjića 42</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 622408</telephone>
+                                             <fax>(20) 623812</fax>
+                                             <email>info@monteislam.com</email>
+                                             <internet>www.monteislam.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rifat</forename>
+                                                       <surname>Fejzić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

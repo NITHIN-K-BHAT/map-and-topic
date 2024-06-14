@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654071" sllink="SLSDOCRF" sllinkid="1654070" slsdocid="1652975" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.DIR.1152106390" id-root="me.dir" iso="me" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="ME.DIR.012" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL1667537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1667536" slsdocid="1667524" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1153323306" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Dan</org-entry-name>
+                                             <alt-name>The Day</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, 13 Jula b.b. 7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 481520</telephone>
+                                             <fax>(20) 481522</fax>
+                                             <email>dan@t-com.me</email>
+                                             <internet>www.dan.co.me</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mladen</forename>
+                                                       <surname>Milutinović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1667493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1667492" slsdocid="288708" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.363" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Pobjeda</org-entry-name>
+                                             <alt-name>Victory</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, bul. 19 Decembra 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 409520</telephone>
+                                             <email>desk@pobjeda.me</email>
+                                             <internet>www.pobjeda.net</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jovana</forename>
+                                                       <surname>Đurišić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7890195" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7890194" slsdocid="7889846" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1644923684" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Portal Analitika</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, ul. 19 Decembra 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(67) 204700</telephone>
+                                             <email>portalanalitika@t-com.me</email>
+                                             <internet>www.portalanalitika.me</internet>
+                                        </address-block>
+                                        <found-date>2009</found-date>
+                                        <content-note style="NORMAL">online only</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rosanda</forename>
+                                                       <surname>Mučalica</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <!--TP 07.06.2013 Republika removed-->
+                              <org-entryref id="SL1667519" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1667518" slsdocid="1667507" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1153323012" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--sc1 19.02.2019 add not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Vijesti</org-entry-name>
+                                             <alt-name>The News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, trg Nezavisnosti b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 404626</telephone>
+                                             <fax>(20) 242306</fax>
+                                             <email>portal@vijesti.me</email>
+                                             <internet>www.vijesti.me</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Srdan</forename>
+                                                       <surname>Kosović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marijana</forename>
+                                                       <surname>Bojanić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="ME.DIR.014" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL3252429" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3252428" slsdocid="3252412" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1296559026" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <data-protection date-added="08.06.2021" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Koha Javore</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      81000 Podgorica, Kral Nikolla 27
+                      <sc>a</sc>
+                      /4
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(20) 240659</telephone>
+                                             <email>kohajavore@t-com.me</email>
+                                             <internet>www.kohajavore.me</internet>
+                                        </address-block>
+                                        <frequency>weekly</frequency>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">science and culture</content-note>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ali</forename>
+                                                       <surname>Salaj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1667544" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1667543" slsdocid="288670" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.405" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Monitor</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, trg Republike b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 404641</telephone>
+                                             <fax>(20) 242306</fax>
+                                             <email>monitor@t-com.me</email>
+                                             <internet>www.monitor.co.me</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">politics, general</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Esad</forename>
+                                                       <surname>Kočan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="ME.DIR.015" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agency</heading>
+                         <org-list>
+                              <org-entryref id="SL3252241" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3252240" slsdocid="3252191" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1296554061" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Montenegrin News Agency</org-entry-name>
+                                             <abbr>MINA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Podgorica, ul. Bohinjska 1
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 610100</telephone>
+                                             <email>desk@mnnews.net</email>
+                                             <internet>mina.news</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">commercial</content-note>
+                                        <content-note style="NORMAL">Montenegrin, Albanian and English</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jaša</forename>
+                                                       <surname>Jovićević</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 07.06.2013 editor name could not be updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="ME.DIR.016" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Association</heading>
+                         <org-list>
+                              <org-entryref id="SL1653082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1653081" slsdocid="288652" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.425" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Press Association">
+                                        <org-entry-head>
+                                             <org-entry-name>Asscn of Journalists of Montenegro</org-entry-name>
+                                             <abbr>UNCG</abbr>
+                                             <alt-name>Udruženja novinara Crne Gore</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, bul. Svetog Petra Cetinjskog 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(67) 252389</telephone>
+                                             <email>udruzenjenovinaracg@gmail.com</email>
+                                             <internet>uncg.me</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tihomir</forename>
+                                                       <surname>Burzanović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.1212" id-root="io-un.1212" iso="io-un.1212" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>United Nations Human Settlements Programme</org-entry-name>
+               <abbr>UN-Habitat</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">UNITED NATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Other Bodies)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">United Nations Human Settlements Programme</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>POB 30030, 00100 Nairobi, Kenya</verbatim-address>
+               </address>
+               <telephone alsofax="N">(20) 7623120</telephone>
+               <fax>(20) 7623477</fax>
+               <email>unhabitat-info@un.org</email>
+               <internet>www.unhabitat.org</internet>
+          </address-block>
+          <p usage="io-un.1226.8">
+      UN-Habitat was established as the UN Centre for Human Settlements, UNCHS-Habitat, in October 1978 to address issues of urban growth. In January 2002 it became a full UN programme, serving as a focus for human settlements and sustainable urban development activities. UN-Habitat leads the delivery of the 
+      <xr pageref="N" ref="UNHABITAT.IO.100">New Urban Agenda</xr>
+      , adopted in October 2016.
+    </p>
+     </int-org-block>
+     <int-org-section id="IO-UN.1214" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.1215" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>UN-Habitat Assembly</heading>
+               <p>The Assembly, comprising all UN member states, is the agency’s highest decision-making body. The inaugural Assembly session (UNHA1) was convened in May 2019, in Nairobi. The second Assembly (UNHA2) was initiated in June 2023, also in Nairobi; UNHA2 was to be resumed in May 2025.</p>
+          </int-org-section>
+          <int-org-section id="IO-UNHAB.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Committee of Permanent Representatives</heading>
+               <p>Convenes every two years: once prior to the UN-Habitat Assembly, and a second time for a mid-term review between Assembly sessions.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.HABITAT.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Executive Board</heading>
+               <p>The Board, which was inaugurated in May 2019, comprises representatives elected by the UN-Habitat Assembly from 34 member countries.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1217" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p>The Secretariat implements resolutions of the Assembly and ensures the integration and co-ordination of technical co-operation, research and policy advice. It includes Offices of the Executive Director and Deputy Executive Director; a Project Office and Office of Management; an Office for External Relations that is divided into a Partners and Inter-Agency Coordination Branch and an Advocacy, Outreach and Communication Branch; and Branches of Urban Legislation, Land and Governance, Urban Planning and Design, Urban Economy, Urban Basic Services, Housing and Slum Upgrading, and Urban Research and Capacity Development.</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.1219.1" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Acting Executive Director</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Michal</forename>
+                                        <surname>Mlynár</surname>
+                                   </person-name>
+                                   <person-note>Slovakia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.21" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Offices</heading>
+               <org-list>
+                    <org-entry id="IO-UNHABITAT.1244" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ">
+                         <org-entry-head>
+                              <org-entry-name>Regional Office for Africa</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 30030, Nairobi, Kenya 00100</verbatim-address>
+                              </address>
+                              <email>unhabitat-info@un.org</email>
+                              <internet>unhabitat.org/roaf</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UNHABITAT.1248" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <org-entry-head>
+                              <org-entry-name>Regional Office for Arab States</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>c/o Housing and Building Research Centre (HBRC), 87 Tahreer St, 9th Floor, Dokki, Giza, Egypt</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 37618812</telephone>
+                              <email>unhabitat.cairo@unhabitat.org</email>
+                              <internet>unhabitat.org/roas</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UNHABITAT.1253" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <org-entry-head>
+                              <org-entry-name>Regional Office for Asia and the Pacific</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>ACROS Fukuoka Bldg, 8th Floor, 1-1-1 Tenjin, Chuo-ku Fukuoka 810, Japan </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(92) 724-7121</telephone>
+                              <email>habitat.fukuoka@unhabitat.org</email>
+                              <internet>www.fukuoka.unhabitat.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN-HABITAT.1251" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                         <org-entry-head>
+                              <org-entry-name>Regional Office for Latin America and the Caribbean</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Ave Almirante Barroso 81, Centro 20031-004, Rio de Janeiro, Brazil</verbatim-address>
+                              </address>
+                              <email>rolac@onuhabitat.org</email>
+                              <internet>www.onuhabitat.org</internet>
+                         </address-block>
+                    </org-entry>
+               </org-list>
+               <p usage="ewyb">Regional offices deliver UN-Habitat work programmes at regional and country level. They are located in Nairobi (for Africa); Giza, Egypt (for the Arab States); Fukuoka, Japan (for Asia and the Pacific); and Rio de Janeiro, Brazil (for Latin America and the Caribbean).</p>
+               <p>There are Liaison Offices in Brussels, Belgium, Geneva, Switzerland, and New York, USA; an Information Office in the People’s Republic of China; and a Project Coordination Office for Countries of the Commonwealth of Independent States, in Moscow, Russian Federation.</p>
+               <p usage="edio">The establishment of a UN-Habitat office in Montréal, Canada, was approved in December 2022.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1220" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>In 1950 about one-third of the world's population was resident in towns and cities. The proportion of urban residents rose to one-half of the world’s population in 2009, and to an estimated 57% in 2022. UN-Habitat envisages that this trend will rise to 68% by 2050 (i.e. by 2,200m. more urban dwellers, mainly living in Africa and Asia). In June 2022 UN-Habitat reported that the urban population in low-income countries had increased fourfold during 1975-2020, and forecast that it would more than double again by 2070. Furthermore, some 60% of people displaced by conflict or natural disasters seek refuge in cities. UN-Habitat supports and conducts capacity building and operational research with regard to urban growth, provides technical co-operation and policy advice, and disseminates information with the aim of strengthening the development and management of human settlements. It supports the implementation of Sustainable Development Goal (SDG) 11: Make cities and human settlements inclusive, safe, resilient and sustainable, adopted in September 2015 by UN heads of state and of government. Targets associated with SDG 11, to be achieved by 2030, include ensuring access for all to adequate, safe and affordable housing and basic services, and upgrading slums; providing access to safe, affordable, accessible and sustainable transport systems for all; improving road safety and public transport; enhancing inclusive and sustainable urbanization; safeguarding cultural and natural heritage; significantly reducing the numbers of deaths and other adverse impacts caused by ­disasters; reducing the adverse per caput environmental impact of cities; and providing universal access to safe, inclusive and accessible, green and public spaces.</p>
+          <p>UN-Habitat’s Strategic Plan, initially to cover the period 2020-23, and extended to 2025 by the second UN Habitat Assembly (in June 2023), focused on the agency’s role as a global centre of excellence and innovation, and on meeting the challenges of a rapidly urbanizing world, becoming a `solutions agency’ to effect change and leverage partnerships. Principal programme areas of activity were to be streamlined and focused around reducing spatial inequality and poverty in communities across the urban-rural continuum; enhancing shared prosperity of cities and regions; strengthening climate action and improving urban environments; and working towards effective urban crisis prevention and response. Resilience, safety and social inclusion were designated as cross-cutting issues that were to be integrated into the work of all focus areas. The inaugural Assembly issued a Ministerial Declaration which recognized the challenges and opportunities presented by the ongoing unprecedented rate of urbanization. A follow-on 2026-29 Strategic Plan was under development in 2024.</p>
+          <p>World Habitat Day is celebrated annually on the first Monday in October, to raise awareness of the state of human settlements; in 2024 the event was to be themed `Engaging youth to create a better urban future’. World Cities Day is observed on 31 October, to promote understanding of the challenges of global urbanization; in 2024 this was themed `Localizing the SDGs’, and was to be led from Querétaro, Mexico.</p>
+          <int-org-section id="UNHABITAT.IO.100" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>New Urban Agenda</heading>
+               <p>In October 2016 the Third UN Conference on Housing and Sustainable Urban Development (Habitat III), convened in Quito, Ecuador, adopted the Quito Declaration on Sustainable Cities and Human Settlements for All, outlining the New Urban Agenda—a paradigm for the development, over the next 20 years, of equitable, accessible, resilient, green and inclusive cities and human settlements, that had been drafted with UN-Habitat support—and the Quito Implementation Plan for the New Urban Agenda. The Quito Declaration noted that urbanization represented one of the most globally transformative trends of the 21st century, generating complex challenges. The New Urban Agenda aimed to address anew the way in which cities and human settlements were planned, designed and developed, financed, managed and governed; and to reduce inequalities, end poverty and hunger, promote inclusive and sustainable economic growth, improve human health and well being, advance gender equality, foster resilience, and protect the environment. The Agenda envisaged that cities should be participatory; promote civic engagement; engender an inclusive sense of belonging and ownership; prioritize safe, accessible, green, family-friendly and quality public spaces; enhance social and intergenerational interactions, political participation, and cultural expressions; meet the conditions of sustainable economic growth; promote urban mobility for all; implement disaster risk reduction and management initiatives; foster mitigation of and adaptation to climate change; and safeguard ecosystems, water, biodiversity, and natural habitats. Housing policies should underpin the right to affordable adequate housing for all, prevent arbitrary forced evictions, and focus on the needs of homeless and otherwise vulnerable people. The following principles were to guide the implementation of the Agenda: Leave no one behind; Sustainable and inclusive urban economies; and Environmental sustainability. The inaugural UN-Habitat Assembly, convened in May 2019, adopted a resolution on capacity building to support the implementation of the New Urban Agenda. A high-level meeting of the UN General Assembly was held in April 2022 to review progress in delivering the Agenda.</p>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.4311A" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Reduced Spatial Inequality and Poverty</heading>
+               <p>UN-Habitat supports national and local governments and other stakeholders to realize the universal right to adequate housing. UN-Habitat's Global Campaign for Secure Tenure and Global Campaign on Urban Governance both emphasize urban poverty reduction. UN-Habitat facilitates the Global Land Tool Network, a global partnership (comprising national and regional organizations, research institutions finance bodies, professionals, academics, and donors) which aims to contribute to poverty alleviation through land reform, improved land management and security of tenure.</p>
+               <p>UN-Habitat aims to counter the expansion of slums by supporting greater supply and affordability of new housing, alongside local and national programmes to improve the housing conditions and quality of life in existing slums. It is committed to providing technical assistance to city, regional and national authorities to build more affordable housing where it is required to contribute to sustainable urban development, and to prevent the emergence of new slums. It also aims to involve residents and grass-roots organizations in housing development and slum upgrading projects. UN-Habitat implements the Participatory Slum Upgrading Programme (PSUP), which was initiated in 2008 and is funded by the European Commission. By 2024 PSUP was supporting some 5m. slum dwellers globally, with a focus on improving security of tenure, and ensuring access to safe drinking water, sanitation, waste management, and paved streets. The second Assembly meeting, held in June 2023, determined to establish an open-ended intergovernmental working group to review and make recommendations on means of accelerating progress to achieving adequate housing for all.</p>
+               <p>A flagship programme, Inclusive Communities, Thriving Cities, aimed to support the regeneration of deprived urban areas. The programme, covering the period 2020-30, was to facilitate partnerships, the modelling of best practices, and stakeholder participation in local regeneration initiatives in order to reduce spatial inequalities and improve the quality of life for all in revived neighbourhoods.</p>
+               <p>UN-Habitat works with local authorities and partner countries to strengthen policies and institutional frameworks to achieve the expansion of access to adequate basic services in urban areas. The main areas of activity focus on water and sanitation; urban waste management; urban mobility; and urban energy. Within the UN-Energy framework, UN-Habitat works with UN and other partners to promote access to energy, the use of renewable energy technologies, energy efficiency, and on interlinked energy and waste management matters, with a focus on supporting sustainable energy use in cities. UN-Habitat water and sanitation activities include promoting policy dialogue, information exchange, water education and raising awareness, and designing replicable model setting initiatives. UN-Habitat manages an Urban Basic Services Trust Fund, through which it mobilized more than US&#8201;$190m. during 2003-20. UN-Habitat hosts the secretariat of the Global Water Operators’ Partnership Alliance (GWOPA), which facilitates peer support partnerships between water and sanitation utilities (`Water Operators' Partnerships’), and training and capacity-building activities; the fifth GWOPA Congress was convened in May 2023, in Bonn, Germany.</p>
+               <p>UN-Habitat is committed to enhancing the capacity of national and local governments to adopt digital innovations for the benefit of all, in particular through a flagship programme, People-centred Smart Cities, which commenced in 2020. The programme identified the potential opportunities from new technologies to enhance inclusive urban sustainable development, for example by improving the accessibility of services, as well as to increase the engagement of marginalized groups in the city planning dialogue. As a core feature of the programme, UN-Habitat aimed to mobilize US&#8201;$1,000m. for a digital urban innovation fund to be used by local governments and civil society organizations to invest in technology projects to improve the lives of the urban poor and to address societal or sustainability challenges. In February 2023 UN-Habitat initiated a survey that aimed to generate better understanding of the needs of local governments with regard to the use of artificial intelligence technologies.</p>
+               <p>
+        UN-Habitat’s 
+        <publ-name>World Cities Report 2022</publ-name>
+        , the third of a series initiated in 2016, was released in June 2022. The report observed that, while addressing inequality and vulnerability to climate change were global issues, challenges confronting cities were not uniform. In developed countries upgrading ageing infrastructure and declining cities, and managing cultural diversity and increasingly ageing populations were key urban priorities, while in developing countries pressing urban challenges included rising poverty, high levels of unemployment among urban youth, and the need to provide adequate infrastructure and housing, upgrade slum settlements, and invest in secondary cities. Without investment in meeting these challenges, UN-Habitat forecast a worst case scenario in which urban service delivery and governance in some under-resourced cities in Africa might collapse by 2030. The report called for greater commitment at all levels to delivering the New Urban Agenda, to building preparedness and resilience for an unpredictable future, and to developing green urban infrastructure and innovative urban living concepts (for example, the `15-minute city’: a concept whereby all daily needs could be completed within a 15-minute journey).
+      </p>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.431A" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Enhanced Shared Prosperity</heading>
+               <p>With more than half of the world’s population living in cities and urban areas, these places need to be able to support their expanding populations and to contribute to local economic development. UN-Habitat provides technical assistance for the elaboration of effective urban strategies, in particular policies to promote the creation of employment opportunities for young people and women (who are often disadvantaged by discriminatory practices). UN-Habitat encourages incentive schemes to stimulate local investment in infrastructure and basic services and to generate jobs.</p>
+               <p>A flagship programme, Inclusive Cities: Enhancing the Positive Impacts of Urban Migration, was initiated in 2020, with a view to fostering the development of inclusive and non-discriminatory urban environments.</p>
+               <p>UN-Habitat maintains a Global Urban Observatory (GUO) to report on and support local and national plans of action and ongoing research and development, and to conduct assessments of the impact of urban development. It also maintains the GUO databases of global urban indicators, statistics and city profiles. A GUO-Network, comprising national, local and city-level urban observatories, aims to extend support to governments and other urban stakeholders to enhance policy and decision making. UN-Habitat’s City Prosperity Initiative (CPI) and associated index enables urban authorities, as well as local and national stakeholders, to identify means of enhancing broad-based prosperity. The CPI is regarded as a means of monitoring the implementation of SDG 11. A 10-year flagship programme, SDG Cities, was launched in 2020 to strengthen the capacities of city authorities to measure progress in achieving sustainable urban development, to share data and knowledge, and to develop strategic policies, projects and investment accordingly. With the UN Statistical Commission, UN-Habitat has supported the development and, since March 2022, the roll out of a new Global Urban Monitoring Framework to facilitate more in-depth and inclusive analysis of the impact of urban programmes.</p>
+               <p>A Local2030 Coalition, co-chaired by UN-Habitat, was launched in September 2021 to support and accelerate the delivery of the 2030 Agenda for Sustainable Development and SDGs at local level. In November the Group of 20 (G20) major and emerging economies mandated UN-Habitat and the Organisation for Economic Co-operation and Development to support a new G20 Platform on SDG Localization and Intermediary Cities (G20 PLIC), and series of G20 Rome High-level Principles on City-to-City Partnerships—focused on promoting the role of intermediary cities (i.e. with populations from 50,000 to 1m.) in advancing the SDGs. The second UN-Habitat Assembly, held in June 2023, urged its Executive Director to continue to promote the localization of the SDGs and its member states to support local authorities in implementing the 2030 Agenda through new governance or financing initiatives.</p>
+               <p>The UN-Habitat Urban Youth Fund, inaugurated in 2008, provides grants to around 30 youth-led projects each year in developing countries worldwide. </p>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.4311" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Strengthened Climate Action and Improved Urban Environment</heading>
+               <p>The challenges of rapid urban expansion include ineffective development controls, traffic congestion, an expansion of informal housing, and environmental pollution. UN-Habitat aims to support local authorities and national governments to achieve more sustainable urban development through assisting with the formulation of national urban policies, and improved urban planning legislation, implementation and design initiatives. A particular focus is on supporting cities to plan for future challenges relating to climate change, as they are particularly vulnerable to severe impacts of extreme weather events and natural disasters (such as flooding, landslides and heatwaves).</p>
+               <p>
+         UN-Habitat implements the European Commission-funded Urban Low Emission Development Strategies (Urban-LEDS) project, which uses the Green Climate Cities methodology to integrate low-carbon emissions strategies in urban development planning in emerging economies. UN-Habitat’s Cities and Climate Change Initiative promotes climate change-related preparedness and mitigation strategies in cities in developing countries. In September 2010 UN-Habitat, with UNEP and the World Bank, launched an International Standard for Determining Greenhouse Gas Emissions for Cities. (In June 2022 UN-Habitat reported that urban areas produce 70% of global greenhouse gas emissions.) A Cities Climate Finance Leadership Alliance was inaugurated in September 2014 by UN-Habitat, other agencies, financial institutions and business interests, with the aim of accelerating investment in low-carbon, climate-resistant city infrastructures. UN-Habitat supports the Global Environment Facility-funded Global Platform for Sustainable Cities, which links around 30 cities to knowledge partners and resources. UN-Habitat’s RISE-UP (`Resilient Settlements for the Urban Poor’) programme aims to mobilize and co-ordinate large-scale investment in order to strengthen climate adaptation and resilience in some of the world’s poorest urban settlements. The first phase, covering the period 2020-23, focused on communities in 30 cities in 26 countries; more than 100 cities in 54 countries were targeted for the second phase, operational until 2030. In January 2023 UN-Habitat and the University of Southern Denmark jointly issued 
+        <publ-name>Urban Climate Action—The urban content of the NDCs: Global review 2022</publ-name>
+        . This found that almost two-thirds of nationally determined contributions that were agreed in the context of the 2015 Paris Agreement on climate change contained urban content, particularly relating to the energy, transport and waste sectors.
+      </p>
+               <p>A Waste Wise Cities initiative aims to support urban authorities to implement key principles of effective waste management and, in partnerships with other stakeholders, to reduce the problem of waste and facilitate a circular economy. UN-Habitat and UNEP jointly sponsor the annual International Day of Zero Waste, observed on 30 March.</p>
+               <p>A Safer Cities Programme was established in 1996 to prevent and address urban violence through capacity building at local government and city level; by 2024 the programme had supported initiatives in 77 cities in 24 countries. A Global Network on Safer Cities was launched by UN-Habitat in 2012. The agency’s Global Public Space Programme, initiated at that time, promotes the development of socially inclusive, integrated, connected, environmentally sustainable and safe streets and public spaces, especially for the most vulnerable. UN-Habitat supports UN Women’s Safe Cities and Safe Public Spaces initiative, which addresses safety from sexual intimidation in public spaces.</p>
+               <p>UN-Habitat hosts the secretariat of and co-ordinates the World Urban Campaign (WUC), a partnership and advocacy platform for cities. In December 2021 the WUC issued a `The City We Need Now!’ action campaign.</p>
+               <p>In February 2022 UN-Habitat supported the second Cities and Regions Summit, held in the framework of the (second phase of the) fifth UN Environment Assembly; a Coalition on Sustainable and Inclusive Urban Food Systems was initiated at that time.</p>
+               <p usage="edio">An Africa Urban Agenda Programme is aimed at raising the profile of urbanization as a force for the structural transformation of Africa, in the context of the African Union’s Agenda 2063 initiative.</p>
+               <p>
+        The fifth UN-Habitat-supported Urban Economy Forum (UEF5) and 59th 
+        <xr pageref="N" ref="WB0231.XE.IO.TXT.24">International Society of City and Regional Planners</xr>
+         (ISOCARP) World Planning Congress were convened concurrently in October 2023, in Toronto, Canada, on the theme `For Climate Change, Urban Finance. Climate Responsive Planning for more Resilient and Equitable Places and Communities’.
+      </p>
+               <p>In October 2021 UN-Habitat co-organized, in Shanghai, People’s Republic of China, the inaugural SDG Cities Conference, with a focus on fostering the development of socially, economically and environmentally sustainable cities by 2030. An initial series of pilot SDG cities was announced, comprising Shanghai, La Paz (Bolivia), Kinshasa (Democratic Republic of the Congo), Kuwait City, Penang Bay (Malaysia), Vitoria Gasteiz (Spain), and Menzel Ennour (Tunisia). In November 2022 UN-Habitat helped to convene the first ministerial meeting on urbanization and climate change, held at the 27th conference of the parties to the UN Framework on Climate Change, in Sharm el-Sheikh, Egypt. A new initiative, Sustainable Urban Resilience for the Next Generation (SURGe), developed in collaboration with UN-Habitat, was officially launched at that time. A World Cities Summit, with participation by government officials and industry experts, was to meet in June 2024, in Singapore, with support from UN-Habitat and other agencies, to address challenges and forge partnerships relating to the theme `Liveable and Sustainable Cities: Rejuvenate, Reinvent, Reimagine’. </p>
+               <p>In November 2021 UN-Habitat supported the inauguration of a new Council on Urban Initiatives, comprising the mayors of Barcelona (Spain), Bogotá (Colombia), Freetown (Sierra Leone), Gaziantep (Türkiye), Mexico City (Mexico), and New Orleans (USA). The Council aimed to advocate for fairer, healthier and more environmentally responsive urban spaces.</p>
+               <p>
+        In October 2023 the UN Secretary-General initiated an Advisory Group on Local and Regional Governments, which was to consider optimal measures to drive recovery from ongoing multiple crises, and to promote standards and agreements with regard to, 
+        <i>inter alia</i>
+        , the 
+        <xr pageref="N" ref="UNHABITAT.IO.100">New Urban Agenda</xr>
+        , social inclusion, sustainable development, gender equality, climate action, and human rights, in advance of the UN Summit of the Future, scheduled to be held in September 2024.
+      </p>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.4322" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Urban Crisis Prevention and Response</heading>
+               <p>UN-Habitat contributes to relief, rehabilitation and development activities undertaken in areas affected by natural disaster and civil conflict. Within the inter-agency emergency response system UN-Habitat provides shelter, water and sanitation under the Emergency Shelter and Early Recovery `clusters’. UN-Habitat also provides assessment and technical support both as disaster prevention and preparedness and during post-disaster reconstruction. It estimates that, annually, some 26m. people are forced into poverty as a result of the impacts of natural disasters. In the immediate aftermath of a disaster UN-Habitat works to assist humanitarian efforts and to introduce elements of sustainable recovery.</p>
+               <p>In 2013 UN-Habitat established a City Resilience Global Programme and Hub, in Barcelona, Spain. A City Resilience Profiling Tool aimed to support local governments to measure and take effective action to manage urban resilience to risk. UN-Habitat is a core partner in a 10-year global programme, Making Cities Resilient 2030, to support municipal authorities to reduce urban risk and strengthen resilience. A Global Future Cities Programme extends technical assistance to advance urban planning, transport and resilience. In June 2023 the second Assembly requested the Executive Director to develop a new Human Settlements Resilience Framework for Early Warning, Foresight, Risk Reduction, Crisis Response and Post-crisis Recovery and Reconstruction, in collaboration with member states and other stakeholders.</p>
+               <p>UN-Habitat supports developing countries with the design of city expansion and densification plans. In February 2016 UN-Habitat issued a series of International Guidelines on Urban and Territorial Planning, with a focus on 12 universally agreed principles.</p>
+               <p>
+        In April 2020 UN-Habitat initiated a COVID-19 Response Plan to assist vulnerable communities in poor and densely populated areas of 64 countries. More than 70% of the plan’s resources were allocated to informal settlements, in order to enhance affordable access to water and sanitation, support shelter initiatives and income generating activities, ensure safe transport, and raise awareness about COVID-19. In May 2021 UN-Habitat issued 
+        <publ-name> Cities and Pandemics: Towards a More Just, Green and Healthy Future,</publ-name>
+         which recommended means of adapting cities to enable them to deal better with future public health challenges.
+      </p>
+               <p usage="edio">In February 2023, following the earthquakes that struck the Syrian Arab Republic and Türkiye, UN-Habitat offered support, and organized an immediate detailed structural assessment of damage caused to buildings in Syria.</p>
+          </int-org-section>
+          <int-org-section id="UNHABITAT.IO.22.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>World Urban Forum</heading>
+               <p>UN-Habitat provides the secretariat of the World Urban Forum (WUF), which convenes every two years to promote international co-operation in shelter and urban development issues. A multi-agency Medellín Collaboration on Urban Resilience was established in April 2014 under WUF auspices, to advance the building of urban resilience and to strengthen the economic, environmental and social fabric of urban spaces globally. The 11th WUF (WUF11) took place in Katowice, Poland, in June 2022, attended by representatives of 155 countries. The Forum convened an extraordinary dialogue on urban crisis prevention and response, as well as other dialogues on topics including equitable urban futures and transforming cities through innovative solutions and technologies, and extensive special sessions. It concluded with a statement of Declared Actions committed by city stakeholders, including governments, mayors, planners and community groups, to further the global sustainable development agenda. WUF12 was scheduled to be hosted by Egypt, in its capital, Cairo, in November 2024. A World Urban Youth Assembly is regularly convened prior to the main forum.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1227" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.1228">UN-Habitat's work programme is financed from the UN regular budget, and from voluntary contributions to the UN Habitat and Human Settlements Foundation and to the Programme’s technical co-operation activities. The approved general purpose budget for 2024 amounted to US $13.0m.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1229" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Global Urban Competitiveness Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>UN-Habitat Global Activities Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>World Cities Report</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.1230">
+      Other global and flagship reports
+      
+      , urban profiles, occasional papers, bibliographies, directories.
+    </p>
+     </int-org-section>
+     <int-org-section id="UNHABITAT.IO.22" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Associated Body</heading>
+          <!--add entry for Local2030? secretariat in Bilbao-->
+          <org-list>
+               <org-entry id="UNHABITAT.IO.23" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Cities Alliance</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>UN House, 37-40 blvd du Régent, 1000 Brussels, Belgium</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(2) 880-40-88</telephone>
+                         <email>info@citiesalliance.org</email>
+                         <internet>www.citiesalliance.org</internet>
+                    </address-block>
+                    <found-date>1999</found-date>
+                    <content-note style="NORMAL">aims to reduce urban poverty, to promote the role of cities in sustainable devt and to facilitate strategic city planning, and to support slums and slum upgrading</content-note>
+                    <content-note style="NORMAL">administers Global Progs: Cities and migration; Civil society sustainability in slums; Cities for women; and Climate change, resilience and informality</content-note>
+                    <stats>mems: 4 multilateral orgs (UN-Habitat, the World Bank, UNICEF, UNCDF), 9 national govts, 7 civil society orgs, 5 local authority groupings</stats>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <title>Dr</title>
+                                   <forename>Greg</forename>
+                                   <surname>Munro</surname>
+                              </person-name>
+                              <person-note>South Africa</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+</int-org-entry>

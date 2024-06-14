@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188672" sllink="SLSDOCRF" sllinkid="2188671" slsdocid="2188653" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.010" id-root="ks.dir" iso="ks" sect-type="press" section="The Press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee ewyb">
+                    <heading>The Press</heading>
+                    <dir-section id="KS.DIR.11981712361" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <!--TP 24.11.2010 figures of circulation (obviously very low due to three main causes - plz see page 7 on http://www.kipred.net/web/upload/Circulation_and_Politicization_of_the_Print.pdf) are simply unavailable-->
+                              <org-entryref id="SL2256117" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2256116" slsdocid="2214013" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1201861996" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Newspapers">
+                                        <!--MR 24.01.2022 Old info on role group, address not confirmed-->
+                                        <!--NS 02.01.2019 role group not confirmed-->
+                                        <!--NS 16.02.2017 only email confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Bota Sot</org-entry-name>
+                                             <alt-name>The World Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Jakove Xoxa 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(49) 777955</telephone>
+                                             <email>info@botasot.info</email>
+                                             <internet>www.botasot.info</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Idriz</forename>
+                                                       <surname>Morina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 23.11.2010 the newspaper (www.botasot.info) is based in Zurich, Switzerland; now Kosovan address found. details found on Kosovo Media Institute directory: http://imk-ks.org/wp-content/uploads/2010/02/Final-Version-eDirectory.pdf-->
+                                        <!--TP 05.06.2013 (i) www.botasot.info is of the Bota Sot we are listing; (ii) contact no not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3206208" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3206207" slsdocid="3206196" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1290512149" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <org-entry-head>
+                                             <org-entry-name>Epoka e Re</org-entry-name>
+                                             <alt-name>The New Age</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Nëne Tereza</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(44) 127434</telephone>
+                                             <email>sadikzeqiri@yahoo.com</email>
+                                             <internet>www.epokaere.com</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sadik</forename>
+                                                       <surname>Zeqiri</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mal</forename>
+                                                       <surname>Qorraj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 05.06.2013 phone no not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2213747" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2213746" slsdocid="2213731" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1201798568" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Newspapers">
+                                        <org-entry-head>
+                                             <org-entry-name>Express</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Perandori Justinian 69</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 767676</telephone>
+                                             <fax>(38) 767678</fax>
+                                             <email>info@gazetaexpress.com</email>
+                                             <internet>www.gazetaexpress.com</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leonard</forename>
+                                                       <surname>Kerquki</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2188657" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188656" slsdocid="288704" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.368" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Newspapers">
+                                        <!--NS 16.02.2017 role group from https://twitter.com/agronbajrami?lang=en fax not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Koha Ditore</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Nënë Terezë, POB 202</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 249105</telephone>
+                                             <email>info@koha.net</email>
+                                             <internet>www.koha.net</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agron</forename>
+                                                       <surname>Bajrami</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2214001" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2214000" slsdocid="2213979" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1201861143" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Newspapers">
+                                        <!--MR 24.01.2022 Role group not confirmed. IG Margarita Kadriu left the post in 2014!-->
+                                        <org-entry-head>
+                                             <org-entry-name>Kosova Sot</org-entry-name>
+                                             <alt-name>Kosovo Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Zona Industriale</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(45) 454400</telephone>
+                                             <email>redaksia@kosova-sot.info</email>
+                                             <internet>www.kosova-sot.info</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7861357" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              <org-entryref id="SL4126521" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4126520" slsdocid="3207372" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1290669942" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--MR 24.01.2022 no info found, website is also not working-->
+                                        <org-entry-head>
+                                             <org-entry-name>Tribuna</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Pallati i Mediave</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 227138</telephone>
+                                             <email>tribunamediagroup@gmail.com</email>
+                                             <internet>www.gazetatribuna.com</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7173181" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7173180" slsdocid="288668" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.408" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <!--NS 16.02.2017 role group from https://twitter.com/xharraarbana?lang=en-->
+                                        <org-entry-head>
+                                             <org-entry-name>Zëri</org-entry-name>
+                                             <alt-name>The Voice</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Media House Annex II</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 249071</telephone>
+                                             <fax>(38) 222451</fax>
+                                             <email>redaksia@zeri.info</email>
+                                             <internet>zeri.info</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <content-note style="NORMAL">in Albanian</content-note>
+                                        <frequency>online</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agon</forename>
+                                                       <surname>Osmani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 23.11.2010 details from Kosovo Media Institute directory-->
+                                        <!--TP 06.06.2013 editor name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="KS.DIR.11981713301" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL2188661" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188660" slsdocid="1922735" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1176224203" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>Official Gazette of the Republic of Kosovo</org-entry-name>
+                                             <alt-name>Gazeta Zyrtare e Republikës së Kosovës/Sluzbeni list Republike Kosova/Kosova Cumhuriyeti Resmi Gazetesi/Sluzbeni Novine Republike Kosova</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Ndërtesa e re e Qeverisë 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 20014827</telephone>
+                                             <fax>(38) 20114180</fax>
+                                             <email>info-gzk@rks-gov.net</email>
+                                             <internet>gzk.rks-gov.net</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">publishes official text of laws adopted by the Kosovo Assembly as promulgated by the President, resolutions adopted by the Kosovo Assembly, secondary and other legislation, international agreements, etc.</content-note>
+                                        <content-note style="NORMAL">edns in Albanian, Serbian, English, Turkish and Bosnian</content-note>
+                                        <content-note style="NORMAL">administered by the Office of the Prime Minister</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Naser</forename>
+                                                       <surname>Canolli</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7173178" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="KS.DIR.12185544681" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL3206100" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3206099" slsdocid="3206001" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1290508786" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Infosot</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Luigj Gurakuqi 125</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(44) 383333</telephone>
+                                             <email>info@infosot.com</email>
+                                             <internet>infosot.com</internet>
+                                        </address-block>
+                                        <found-date>2007</found-date>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Fatlum</forename>
+                                                       <surname>Rrahmani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anita</forename>
+                                                       <surname>Haziri</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2429182" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2429181" slsdocid="2428951" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1218554779" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>KosovaLive</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Prishtina, Aneksi të Pallati i Shtypit, Kati II</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 248276</telephone>
+                                             <fax>(38) 248277</fax>
+                                             <email>info@kosovalive.org</email>
+                                             <internet>kosovalive.org</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bersant</forename>
+                                                       <surname>Disha</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kelmend</forename>
+                                                       <surname>Hapçiu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2429186" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2429185" slsdocid="2429114" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1218556820" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <!--NS 16.02.2017 role group from https://www.linkedin.com/in/skender-krasniqi-1819128b/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Kosovapress</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Rruga Hamez Jashari 28/7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(38) 248721</telephone>
+                                             <email>info@kosovapress.com</email>
+                                             <internet>www.kosovapress.com</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <role-group>
+                                             <role>Dir and Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Skender</forename>
+                                                       <surname>Krasniqi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="KS.DIR.24112010" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Press Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL3206651" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3206650" slsdocid="3206594" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="KS.DIR.1290588518" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Press Associations">
+                                             <org-entry-head>
+                                                  <org-entry-name>Press Council of Kosovo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Prishtina, Sheshi Edith Durham, 23/5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(38) 739398</telephone>
+                                                  <email>presscouncil.kosovo@gmail.com</email>
+                                                  <internet>www.presscouncil-ks.org</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">self-regulatory body of the print media</content-note>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Imer</forename>
+                                                            <surname>Mushkolaj</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>40 mems (2022)</stats>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

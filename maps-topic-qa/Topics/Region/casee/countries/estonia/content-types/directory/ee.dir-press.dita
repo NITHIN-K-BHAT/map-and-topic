@@ -1,0 +1,771 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61876" sllink="SLSDOCRF" sllinkid="61875" slsdocid="57380" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="EE.DIR.171" id-root="ee.dir" iso="ee" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="EE.DIR.173" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <p id="EE.DIR.174">In Estonian except where otherwise stated.</p>
+                         <org-list>
+                              <org-entryref id="SL65416" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65415" slsdocid="57797" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.175" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Äripäev</org-entry-name>
+                                             <alt-name>Business Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vana Lõuna 39/1, Tallinn 19094</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">667-0111</telephone>
+                                             <email>online@aripaev.ee</email>
+                                             <internet>www.aripaev.ee</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">part of Bonnier Grupp</content-note>
+                                        <frequency>5 days a week</frequency>
+                                        <content-note style="NORMAL">business and finance</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Igor</forename>
+                                                       <surname>Rõtov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Meelis</forename>
+                                                       <surname>Mandel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65423" slsdocid="57792" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.179" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Päevaleht</org-entry-name>
+                                             <alt-name>Estonian Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Narva mnt. 13, Tallinn 10151</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">680-4400</telephone>
+                                             <email>info@ekspressmeedia.ee</email>
+                                             <internet>epl.delfi.ee</internet>
+                                        </address-block>
+                                        <found-date>1905</found-date>
+                                        <frequency>5 a week</frequency>
+                                        <content-note style="NORMAL">wholly owned by Ekspress Grupp</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Urmo</forename>
+                                                       <surname>Soonvald</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65434" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65433" slsdocid="57787" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.184" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Postimees</org-entry-name>
+                                             <alt-name>Postman</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Maakri 23
+                      <sc>a</sc>
+                      , Tallinn 10145
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">666-2202</telephone>
+                                             <email>vihje@postimees.ee </email>
+                                             <internet>www.postimees.ee</internet>
+                                        </address-block>
+                                        <found-date>1857</found-date>
+                                        <frequency>6 a week</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Priit</forename>
+                                                       <surname>Hõbemägi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65438" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65437" slsdocid="57785" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.186" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>SL Õhtuleht</org-entry-name>
+                                             <alt-name>Evening Gazette</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Narva mnt. 13, POB 106, Tallinn 10151</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">614-4000</telephone>
+                                             <email>leht@ohtulehtkirjastus.ee</email>
+                                             <internet>www.ohtuleht.ee</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <frequency>6 a week</frequency>
+                                        <content-note style="NORMAL">50% owned by Ekspress Grupp</content-note>
+                                        <content-note style="NORMAL">popular</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Erik</forename>
+                                                       <surname>Heinsaar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Šmutov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="EE.DIR.187" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Principal Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL65440" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65439" slsdocid="57782" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.188" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <data-protection date-added="31.07.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Akadeemia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ülikooli 21, Tartu 51007</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">742-3050</telephone>
+                                             <email>akadeemia@akad.ee</email>
+                                             <internet>www.akad.ee</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">journal of the Union of Writers</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Toomas</forename>
+                                                       <surname>Kiho</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3243288" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3243287" slsdocid="3016388" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.1295513417" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--sb 02.07.2013 address details in the website is that of the parent company-->
+                                        <org-entry-head>
+                                             <org-entry-name>Delovoye Vedomosti</org-entry-name>
+                                             <alt-name>Business Gazette</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vana Lõuna 39/1, Tallinn 19094</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">667-0111</telephone>
+                                             <email>dv@aripaev.ee</email>
+                                             <internet>www.dv.ee</internet>
+                                        </address-block>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">in Russian</content-note>
+                                        <content-note style="NORMAL">
+                  affiliated with business daily 
+                  <xr pageref="N" ref="EE.DIR.175">
+                                                  <i>Äripäev</i>
+                     (q.v.)
+                  </xr>
+                                        </content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Polina</forename>
+                                                       <surname>Volkova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 20.01.2011 details are from Estonian Newspaper Assn page: http://www.eall.ee/members.html. DH we should use the usual (English) transliteration from the Russian to spell Russian-language newspaper titles, etc, rather than the Estonian transliteration. -->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4865654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4865653" slsdocid="57781" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.189" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Arst</org-entry-name>
+                                             <alt-name>Estonian Physician</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pepleri 32, Tartu 51010</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">742-7825</telephone>
+                                             <email>eestiarst@eestiarst.ee</email>
+                                             <internet>eestiarst.ee</internet>
+                                        </address-block>
+                                        <found-date>1922</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Urmas</forename>
+                                                       <surname>Siigur</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3243458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3243457" slsdocid="57794" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.177" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Ekspress</org-entry-name>
+                                             <alt-name>Estonian Express</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Narva mnt. 13, Tallinn 10151</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">669-8080</telephone>
+                                             <email>ekspress@ekspress.ee</email>
+                                             <internet>ekspress.delfi.ee</internet>
+                                        </address-block>
+                                        <found-date>1923</found-date>
+                                        <content-note style="NORMAL">published regularly until 1940; resumed publication in 1990</content-note>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">owned by Ekspress Grupp</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Merili</forename>
+                                                       <surname>Nikkolo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015930" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015929" slsdocid="57793" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.178" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Kirik</org-entry-name>
+                                             <alt-name>Estonian Church</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ülikooli 1, Tartu 51003</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">733-7790</telephone>
+                                             <fax>733-7792</fax>
+                                             <email>ek@eelk.ee</email>
+                                             <internet>www.eestikirik.ee</internet>
+                                        </address-block>
+                                        <found-date>1923</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">organ of the Estonian Evangelical Lutheran Church</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sirje</forename>
+                                                       <surname>Semm</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 19.01.2011 details on editorial page: http://www.eestikirik.ee/toimetus-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65444" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65443" slsdocid="57780" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.190" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Loodus</org-entry-name>
+                                             <alt-name>Estonian Nature</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Baeri maja, Veski 4, Tartu 51005</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">742-1143</telephone>
+                                             <email>loodusajakiri@loodusajakiri.ee</email>
+                                             <internet>www.loodusajakiri.ee/valjaanded/eesti-loodus</internet>
+                                        </address-block>
+                                        <found-date>1933</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">popular science</content-note>
+                                        <content-note style="NORMAL">illustrated</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Toomas</forename>
+                                                       <surname>Kukk</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65445" slsdocid="57779" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.191" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Eesti Naine</org-entry-name>
+                                             <alt-name>Estonian Woman</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Narva mnt 13, Tallinn 10151</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">669-8080</telephone>
+                                             <email>heidit.kaio@eestinaine.ee</email>
+                                             <internet>eestinaine.delfi.ee</internet>
+                                        </address-block>
+                                        <found-date>1924</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Heidit</forename>
+                                                       <surname>Kaio</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65448" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65447" slsdocid="57778" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.192" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 11.01.2022 Not sure about role group-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hea Laps</org-entry-name>
+                                             <alt-name>Good Kid</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Harju 1, Tallinn 10146</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">627-6428</telephone>
+                                             <email>healaps@healaps.ee</email>
+                                             <internet>www.healaps.ee</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">for children</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kätlin</forename>
+                                                       <surname>Vainola</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65450" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65449" slsdocid="57777" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.193" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Horisont</org-entry-name>
+                                             <alt-name>Horizon</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Endla 3, Tallinn 10122</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">610-4105</telephone>
+                                             <email>www.loodusajakiri.ee/valjaanded/horisont</email>
+                                             <internet>www.horisont.ee</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <frequency>6 a year</frequency>
+                                        <content-note style="NORMAL">popular science</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ulvar</forename>
+                                                       <surname>Käärt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65452" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65451" slsdocid="57776" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.194" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <data-protection date-added="11.04.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Keel ja Kirjandus</org-entry-name>
+                                             <alt-name>Language and Literature</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Roosikrantsi 6, Tallinn 10119</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">644-9228</telephone>
+                                             <email>kk@keeljakirjandus.ee</email>
+                                             <internet>keeljakirjandus.ee</internet>
+                                        </address-block>
+                                        <found-date>1958</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">publ. by Academy of Sciences and Union of Writers</content-note>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Johanna</forename>
+                                                       <surname>Ross</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015971" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015970" slsdocid="57790" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.181" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Maaleht</org-entry-name>
+                                             <alt-name>Country News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Narva mnt. 13, Tallinn 10151</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">661-3300</telephone>
+                                             <email>ml@maaleht.ee</email>
+                                             <internet>maaleht.delfi.ee</internet>
+                                        </address-block>
+                                        <found-date>1987</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">politics, culture, agriculture and country life</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hindrek</forename>
+                                                       <surname>Riikoja</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65466" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65465" slsdocid="57768" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.201" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Oil Shale</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ehitajate tee 5, Tallinn 19086</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">501-1827</telephone>
+                                             <fax>555-69815</fax>
+                                             <email>meelika@kirj.ee</email>
+                                             <internet>www.kirj.ee/oilshale</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <frequency>quarterly</frequency>
+                                        <content-note style="NORMAL">geology, chemistry, mining, oil shale industry, power engineering</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andres</forename>
+                                                       <surname>Siirde</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6497864" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6497863" slsdocid="3243318" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.1295515664" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Periodicals">
+                                        <!--NS 27.12.2018 seems taken over by Postimees name changed http://rus.postimees.ee/-->
+                                        <!--NS 02.02.2017 http://rus.postimees.ee/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Postimees</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Tartu mnt 80, Tallinn 10112</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">666-2202</telephone>
+                                             <email>vene@postimees.ee</email>
+                                             <internet>postimees.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Olesya</forename>
+                                                       <surname>Lagashina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3015979" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3015978" slsdocid="57786" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.185" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL NEWSPAPERS">
+                                        <!--MR 17.01.2022 All telephones disconnected-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sirp</org-entry-name>
+                                             <alt-name>Sickle</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Voorimehe 9, Tallinn 10146</verbatim-address>
+                                             </address>
+                                             <email>kaarel@sirp.ee</email>
+                                             <internet>www.sirp.ee</internet>
+                                        </address-block>
+                                        <found-date>1940</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">the arts</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kaarel</forename>
+                                                       <surname>Tarand</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65472" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65471" slsdocid="57765" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.204" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Teater, Muusika, Kino</org-entry-name>
+                                             <alt-name>Theatre, Music, Cinema</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Voorimehe 9, Tallinn 10146</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">683-3132</telephone>
+                                             <email>madis@temuki.ee</email>
+                                             <internet>www.temuki.ee</internet>
+                                        </address-block>
+                                        <found-date>1982</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Madis</forename>
+                                                       <surname>Kolk</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65474" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65473" slsdocid="57764" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.205" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Vikerkaar</org-entry-name>
+                                             <alt-name>Rainbow</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Voorimehe 9, Tallinn 10146</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">683-3141</telephone>
+                                             <email>vikerkaar@vikerkaar.ee</email>
+                                             <internet>www.vikerkaar.ee</internet>
+                                        </address-block>
+                                        <found-date>1986</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">fiction, poetry, critical works</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Märt</forename>
+                                                       <surname>Väljataga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="EE.DIR.206" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agency</heading>
+                         <org-list>
+                              <org-entryref id="SL65476" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65475" slsdocid="57762" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.207" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>BNS</org-entry-name>
+                                             <alt-name>Baltic News Service</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Tartu mnt 80, Tallinn 10112</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">610-8800</telephone>
+                                             <fax>610-8811</fax>
+                                             <email>bns@bns.ee</email>
+                                             <internet>www.bns.ee</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">daily news bulletins in English, Estonian, Latvian, Lithuanian and Russian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kalev</forename>
+                                                       <surname>Korv</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="EE.DIR.209" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL65482" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65481" slsdocid="57757" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.211" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Estonian Association of Media Companies</org-entry-name>
+                                             <alt-name>Eesti Meediaettevõtete Liit</alt-name>
+                                             <abbr>EML</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Pärnu mnt. 67
+                      <sc>a</sc>
+                      , Tallinn 10134
+                    </verbatim-address>
+                                             </address>
+                                             <email>meedialiit@meedialiit.ee</email>
+                                             <internet>meedialiit.ee</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">fmrly Estonian Newspaper Association (Eesti Ajalehtede Liit)</content-note>
+                                        <content-note style="NORMAL">name changed in 2019</content-note>
+                                        <stats>59 mems (2022)</stats>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Merle</forename>
+                                                       <surname>Viirmaa-Treifeldt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maige</forename>
+                                                       <surname>Prööm</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65484" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65483" slsdocid="57756" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.212" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ORGANIZATIONS">
+                                        <!--sb 26.03.2015 as per reply, address for postal correspondence is...Veeriku 36, Tartu 50407-->
+                                        <data-protection date-added="13.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Estonian Press Council</org-entry-name>
+                                             <alt-name>Avaliku Sõna Nõukogu</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Veeriku 36, Tartu 50407</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">5300-5847</telephone>
+                                             <email>asn@asn.org.ee</email>
+                                             <internet>www.asn.org.ee</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">non-governmental org.</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Šmutov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>9 mems (2022)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3782228" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3782227" slsdocid="57758" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.210" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Estonian Association of Journalists</org-entry-name>
+                                             <alt-name>Eesti Ajakirjanike Liit</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Gonsiori 27, Tallinn 15029</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">5333-9699</telephone>
+                                             <email>eal@eal.ee</email>
+                                             <internet>www.eal.ee</internet>
+                                        </address-block>
+                                        <found-date>1919</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Helle</forename>
+                                                       <surname>Tiikmaa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

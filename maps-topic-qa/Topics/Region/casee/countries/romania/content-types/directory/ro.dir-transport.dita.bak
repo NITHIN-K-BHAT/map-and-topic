@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62164" sllink="SLSDOCRF" sllinkid="62163" slsdocid="60344" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RO.DIR.623" id-root="ro.dir" iso="ro" sect-type="transport" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Transport</heading>
+                    <dir-section id="RO.DIR.624" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Railways</heading>
+                         <p>In December 2020 a new railway line opened, connecting Bucharest with the Henri Coandă International (Otopeni) airport.</p>
+                         <org-list>
+                              <org-entryref id="SL1238661" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1238660" slsdocid="1238652" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1113847768" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <!--KP 25.06.2019 email afer.secretariat@afer.ro seems invalid, contact form on website, no email mentioned-->
+                                        <org-entry-head>
+                                             <org-entry-name>Romanian Railway Authority</org-entry-name>
+                                             <abbr>AFER</abbr>
+                                             <alt-name>Autoritatea Feroviara Romãna</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010719 Bucharest 1, Calea Grivitei 393</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3077900</telephone>
+                                             <fax>(21) 3164258</fax>
+                                             <internet>www.afer.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">under the jurisdiction of the Ministry of Transport and Infrastructure</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mircea-Cristian</forename>
+                                                       <surname>Arnăutu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69642" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69641" slsdocid="60555" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.628" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                        <org-entry-head>
+                                             <org-entry-name>CFR Călători SA</org-entry-name>
+                                             <alt-name>National Passenger Railway Transport Co</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010873 Bucharest 1, Bd. Dinicu Golescu 38</verbatim-address>
+                                             </address>
+                                             <fax>(21) 3190339</fax>
+                                             <email>relpublic.calatori@cfrcalatori.ro</email>
+                                             <internet>www.cfrcalatori.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">divided into 8 reg. administrations in 1999</content-note>
+                                        <content-note style="NORMAL">reorg. in 2001 and merged with 8 regional cos</content-note>
+                                        <content-note style="NORMAL">operates all local, regional, long-distance and international passenger rail services</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Traian</forename>
+                                                       <surname>Preoteasa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69644" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69643" slsdocid="60554" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.629" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                        <org-entry-head>
+                                             <org-entry-name>CFR Infrastructură SA</org-entry-name>
+                                             <alt-name>National Railway Infrastructure Co</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010873 Bucharest 1, Bd. Dinicu Golescu 38</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3117080</telephone>
+                                             <fax>(21) 3192401</fax>
+                                             <email>officecfr@cfr.ro</email>
+                                             <internet>cfr.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <ownership>state-owned</ownership>
+                                        <content-note style="NORMAL">management of railway infrastructure</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ion</forename>
+                                                       <surname>Simu-Alexandru</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4582581" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4582580" slsdocid="60556" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.627" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                        <org-entry-head>
+                                             <org-entry-name>CFR Marfă SA</org-entry-name>
+                                             <alt-name>National Freight Railway Transport Co</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010873 Bucharest 1, Bd. Dinicu Golescu 38</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2251112</telephone>
+                                             <fax>(21) 2251113</fax>
+                                             <email>office.marfa@cfrmarfa.com</email>
+                                             <internet>www.cfrmarfa.cfr.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">main railway freight transport operator</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Apostolache</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="RO.DIR.632" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>City Underground Railway</heading>
+                              <org-list>
+                                   <org-entryref id="SL69650" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69649" slsdocid="60550" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.634" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Metrorex SA—Societatea Comercială de Transport cu Metroul Bucureşti</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>010873 Bucharest 1, Bd. Dinicu Golescu 38</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3193601</telephone>
+                                                  <fax>(21) 3125149</fax>
+                                                  <email>contact@metrorex.ro</email>
+                                                  <internet>www.metrorex.ro</internet>
+                                             </address-block>
+                                             <found-date>1977</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mihai</forename>
+                                                            <surname>Barbu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mariana</forename>
+                                                            <surname>Miclaus</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="RO.DIR.635" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Roads</heading>
+                         <p>A new motorway, the A3, is under construction, and when complete will connect Bucharest, Transylvania and north-western Romania.</p>
+                         <org-list>
+                              <org-entryref id="SL69654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69653" slsdocid="60547" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.638" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ROADS">
+                                        <!--NS 17.03.2017 name changed to Compania Nationala de Administrare a Infrastructurii Rutiere (CNAIR) another website http://www.cnadnr.ro-->
+                                        <org-entry-head>
+                                             <org-entry-name>National Company for Road Infrastructure Management</org-entry-name>
+                                             <alt-name>Compania Nationala de Administrare a Infrastructurii Rutiere—CNAIR</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ministerul Transporturilor, 010873 Bucharest 1, Bd. Dinicu Golescu 38</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2643344</telephone>
+                                             <fax>(21) 3120984</fax>
+                                             <email>office@andnet.ro</email>
+                                             <internet>www.cnadnr.ro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">fmrly Administraţia Naţională a Drumurilor</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cristian</forename>
+                                                       <surname>Pistol</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.640" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Inland and Ocean Shipping</heading>
+                         <p id="RO.DIR.641">The Danube-Black Sea Canal was officially opened to traffic in 1984, and has an annual handling capacity of 80m. metric tons. Romania’s principal ports are at Constanţa, on the Black Sea, and Tulcea, Galaţi, Brăila and Giurgiu, on the Danube.</p>
+                         <org-list>
+                              <org-entryref id="SL2658473" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2658472" slsdocid="60541" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.645" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND AND OCEAN SHIPPING">
+                                        <data-protection date-added="03.03.2011" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Administration of Navigable Canals SH</org-entry-name>
+                                             <alt-name>Administraţia Canalelor Navigabile SA</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>907015 jud. Constanţa, Agigea, Str. Ecluzei nr 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(241) 702705</telephone>
+                                             <fax>(241) 737711</fax>
+                                             <email>compania@acn.ro</email>
+                                             <internet>www.acn.ro</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname>Goidea</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69660" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69659" slsdocid="60543" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.643" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND AND OCEAN SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>Maritime Port Administration of Constanţa SA</org-entry-name>
+                                             <abbr>NC MPA SA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>900900 jud. Constanţa, Constanţa, Portului Incinta, Gara Maritima</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(241) 611540</telephone>
+                                             <fax>(241) 619512</fax>
+                                             <email>apmc@constantza-port.ro</email>
+                                             <internet>www.portofconstantza.com</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">also administers Midia and Mangalia ports, and Tomis marina</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname>Vizan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 16.04.2014 gen man name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69662" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69661" slsdocid="60542" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.644" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND AND OCEAN SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>National Co for the Administration of Maritime Ports on the Danube</org-entry-name>
+                                             <abbr>CN APDM SA</abbr>
+                                             <alt-name>CN Administraţia Porturilor Dunării Maritime SA-Galaţi</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>800025 jud. Galaţi, Galaţi, Str. Portului 34</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(236) 460660</telephone>
+                                             <fax>(236) 460140</fax>
+                                             <email>directorgeneral@apdmgalati.ro</email>
+                                             <internet>www.romanian-ports.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">manages ports at Galaţi, Brăila, Tulcea, Chilia, Sulina and Sf. Gheorghe</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniela</forename>
+                                                       <surname>Costea Marcela</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69665" slsdocid="60540" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.646" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND AND OCEAN SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>National Co for the Administration of River Ports on the Danube</org-entry-name>
+                                             <alt-name>CN Administraţia Porturilor Dunării Fluviale SA</alt-name>
+                                             <abbr>APDF SA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>080011 jud. Giurgiu, Giurgiu, Şos. Portului 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(246) 213003</telephone>
+                                             <fax>(246) 211888</fax>
+                                             <email>secretariat@apdf.ro</email>
+                                             <internet>www.apdf.ro</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marian</forename>
+                                                       <surname>Maroiu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69668" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69667" slsdocid="60537" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.647" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND AND OCEAN SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>NAVROM—Romanian River Navigation Co</org-entry-name>
+                                             <alt-name>Compania de Navigatie Fluviala Romana SA—NAVROM </alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>800025 jud. Galaţi, Galaţi, Str. Portului 34</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(236) 461022</telephone>
+                                             <fax>(236) 460190</fax>
+                                             <email>office@navrom.ro</email>
+                                             <internet>www.navrom.ro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">fleet of over 400 barges and tugs on the Danube</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eduard Cătălin</forename>
+                                                       <surname>Tigănus</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 16.04.2014 role group details yet to be acquired-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.650" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Civil Aviation</heading>
+                         <p id="RO.DIR.651">There are two international airports in Bucharest: Aurel Vlaicu International (Băneasa) and the larger Henri Coandă International (Otopeni). There are other international airports at Constanţa (M. Kogălniceanu), Timişoara, Sibiu and Cluj-Napoca. Domestic airports include those at Arad, Bacău, Iaşi and Oradea. A new international airport at Ghimbav, near Braşov, opened in mid-2023.</p>
+                         <org-list>
+                              <org-entryref id="SL69674" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69673" slsdocid="60533" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.652" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Romanian Civil Aeronautic Authority</org-entry-name>
+                                             <alt-name>Regia Autonomă Autoritatea Aeronautică Civilă Romãnă</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>013695 Bucharest 1, Şos. Bucureşti-Ploieşti 38-40</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2081508</telephone>
+                                             <fax>(21) 2081572</fax>
+                                             <email>dir.gen@caa.ro</email>
+                                             <internet>www.caa.ro</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicolae</forename>
+                                                       <surname>Stoica</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69678" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69677" slsdocid="60531" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.654" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <data-protection date-added="24.02.2016" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Carpatair</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>300246 jud. Timiş, Timişoara, Str. Ion Ionescu de la Brad 15, Timişoara International Airport</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(256) 306933</telephone>
+                                             <fax>(256) 306962</fax>
+                                             <email>charter@carpatair.com</email>
+                                             <internet>www.carpatair.com</internet>
+                                        </address-block>
+                                        <found-date>1999 as Veg Air; present name adopted in 1999</found-date>
+                                        <content-note style="NORMAL">scheduled domestic and international flights and charter services</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicolae</forename>
+                                                       <surname>Petrov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1247452" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1247451" slsdocid="60530" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.655" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <!--MR 07.02.2024 Confused regarding the contact details, not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Tarom—Compania Naţională de Transporturi Aeriene Romãne SA</org-entry-name>
+                                             <abbr>TAROM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>013697 Bucharest, Şos. Bucureşti-Ploieşti, km 16.5, Henri Coandă International (Otopeni) Airport</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2046464</telephone>
+                                             <fax>(21) 3125686</fax>
+                                             <email>contact@tarom.ro</email>
+                                             <internet>www.tarom.ro</internet>
+                                        </address-block>
+                                        <found-date>1954</found-date>
+                                        <content-note style="NORMAL">97% state-owned</content-note>
+                                        <content-note style="NORMAL">services throughout Europe, the Middle East, Asia, the USA and domestically</content-note>
+                                        <role-group>
+                                             <role>Chair. of Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Iulian-Daniel</forename>
+                                                       <surname>Idolu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Costin Ionuţ</forename>
+                                                       <surname>Iordache</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Education</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.20a" navtitle="Adult illiteracy rates">
+        <topicref href="../../../Topics/comp-stats/category/education/stats.table.20a.dita"
+            navtitle="Adult illiteracy rates"/>
+    </chapter>
+    <chapter id="stats.table.20b" navtitle="Net enrolment at primary schools">
+        <topicref href="../../../Topics/comp-stats/category/education/stats.table.20b.dita"
+            navtitle="Net enrolment at primary schools"/>
+    </chapter>
+    <chapter id="stats.table.29"
+        navtitle="School enrolment, primary (gross), gender parity index (GPI)">
+        <topicref href="../../../Topics/comp-stats/category/education/stats.table.29.dita"
+            navtitle="School enrolment, primary (gross), gender parity index (GPI)"/>
+    </chapter>
+    <chapter id="stats.table.30"
+        navtitle="School enrolment, secondary (gross), gender parity index (GPI)">
+        <topicref href="../../../Topics/comp-stats/category/education/stats.table.30.dita"
+            navtitle="School enrolment, secondary (gross), gender parity index (GPI)"/>
+    </chapter>
+</bookmap>

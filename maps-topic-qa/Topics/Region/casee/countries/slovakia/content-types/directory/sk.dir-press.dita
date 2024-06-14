@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89798" sllink="SLSDOCRF" sllinkid="89797" slsdocid="72424" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SK.DIR.252" id-root="sk.dir" iso="sk" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--SBE 08.05.2015 The following entries have been checked-->
+                    <heading>The Press</heading>
+                    <p id="SK.DIR.254">The publications listed below are in Slovak, unless otherwise in­dicated.</p>
+                    <dir-section id="SK.DIR.255" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <!--DH 05.10 after deletion of LuC and SlovenskY Vychod (both of which appear to be defunct now) we now lack any dailies published in Kosice. Maybe an area for investigation?-->
+                         <org-list>
+                              <org-entryref id="SL6095879" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6095878" slsdocid="6095876" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1520185429" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--sc1 28.02.2022 10.12.2018 ownership not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Dennik N</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Jarošova 1, 831 03 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N"> (2) 2120-4400</telephone>
+                                             <email>info@dennikn.sk</email>
+                                             <internet>dennikn.sk</internet>
+                                        </address-block>
+                                        <found-date>2018</found-date>
+                                        <content-note style="NORMAL">published by N Press s.r.o.</content-note>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <ownership>51% owned by software co Eset</ownership>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matúš</forename>
+                                                       <surname>Kostolný</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8599082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8599081" slsdocid="8599055" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.1688117418" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Denník Postoj</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pražská 11, 831 03 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(94) 935-2085</telephone>
+                                             <email>info@postoj.sk</email>
+                                             <internet>www.postoj.sk</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">right-wing</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martin</forename>
+                                                       <surname>Hanus</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2667992" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2667991" slsdocid="72809" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.259" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--Sc 28.02.2022 email confirmed aat https://www.facebook.com/hospodarskenoviny/about/?ref=page_internal-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hospodárske Noviny</org-entry-name>
+                                             <alt-name>Economic News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Nobelova 34, 836 05 Bratislava 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4823-8330</telephone>
+                                             <email>web@mafraslovakia.sk</email>
+                                             <internet>hnonline.sk</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">part of MAFRA Slovakia AS</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marcela</forename>
+                                                       <surname>Šimková</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2667996" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2667995" slsdocid="72807" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.261" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--Sc 28.02.2022 note confirmed at https://www.webnoviny.sk/ringier-axel-springer-predal-dennik-novy-cas-niektore-tlacene-magaziny-odkupila-aj-penta/ role group at https://spectator.sme.sk/c/22849993/independent-journalists-in-ukraine-and-russia-deserve-our-support-and-admiration.html-->
+                                        <!--sc1 10.12.2018 role group confirmed at https://strategie.hnonline.sk/media/1835617-julia-kovacova-zostava-na-cele-noveho-casu-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nový Čas</org-entry-name>
+                                             <alt-name>New Time</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Junácka 6, 831 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5441-8091</telephone>
+                                             <email>cas@novycas.sk</email>
+                                             <internet>www.cas.sk</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">part of FPD Media Slovakia since 2018</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Júlia</forename>
+                                                       <surname>Kováčová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2668002" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2668001" slsdocid="72805" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.263" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Pravda</org-entry-name>
+                                             <alt-name>Truth</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Trnavská cesta 39
+                      <sc>a</sc>
+                      , 831 04 Bratislava 3
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4959-6999</telephone>
+                                             <email>pravda@pravda.sk</email>
+                                             <internet>www.pravda.sk</internet>
+                                        </address-block>
+                                        <found-date>1920</found-date>
+                                        <ownership>independent</ownership>
+                                        <content-note style="NORMAL">left-wing</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jakub</forename>
+                                                       <surname>Prokeš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>circ. 32,413 (2020)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2668053" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2668052" slsdocid="72795" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.275" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--sc 28.02.2022 tel confirmed at https://www.facebook.com/PresovskyVecernik role group not confirrkd-->
+                                        <org-entry-head>
+                                             <org-entry-name>Prešovský Večerník</org-entry-name>
+                                             <alt-name>Prešov Evening Paper</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sekčovská 54, 080 01 Prešov</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(91) 794-6402</telephone>
+                                             <email>redakcia@povecernik.sk</email>
+                                             <internet>www.povecernik.sk</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Adriena</forename>
+                                                       <surname>Šmihulová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2668020" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2668019" slsdocid="72802" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.266" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sme</org-entry-name>
+                                             <alt-name>We Are</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Lazaretská 12, 811 08 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5923-3500</telephone>
+                                             <fax>(2) 5923-3679</fax>
+                                             <email>redakcia@sme.sk</email>
+                                             <internet>www.sme.sk</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <content-note style="NORMAL">merged with Práca (Labour) in 2002</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Beata</forename>
+                                                       <surname>Balogová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2668029" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2668028" slsdocid="72800" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.268" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILIES">
+                                        <!--sc 28.02.2022 stats confiremd at https://www.eurotopics.net/en/148844/j-sz#-->
+                                        <!--NS 24.03.2017 circ fig not updated-->
+                                        <data-protection date-added="30.04.2014" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Új Szó</org-entry-name>
+                                             <alt-name>New Word</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bajkalská 19/B 12, POB 222, 821 01 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3215-3313</telephone>
+                                             <email>ujszo@ujszo.com</email>
+                                             <internet>ujszo.com</internet>
+                                        </address-block>
+                                        <found-date>1948</found-date>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Csaba</forename>
+                                                       <surname>Nyerges</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>circ. 14,000 (2020)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.276" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Principal Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL92456" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92455" slsdocid="72792" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.278" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sc 28.02.2022 role gorup an dtel not confirmed-->
+                                        <!--Sc1 10.12.2018 rolle group confirmed at https://www.pravda.sk/info/7434-info-uvod/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Avízo</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Zadunajská cesta 8, 851 01 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4959-6285</telephone>
+                                             <email>info@avizo.sk</email>
+                                             <internet>www.avizo.sk</internet>
+                                        </address-block>
+                                        <frequency>3 a week</frequency>
+                                        <content-note style="NORMAL">advertising and information</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emilia</forename>
+                                                       <surname>Fullová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92464" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92463" slsdocid="72788" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.282" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sc 28.02.2022 tel and add at https://mafraslovakia.hnonline.sk/kontakt role group and email not confrimed-->
+                                        <!--NS 24.03.2017 role group https://www.facebook.com/vargova.ev-->
+                                        <!--Sc1 10.12.2018 add confirmed at https://www.mafraslovakiaprint.sk/downloads/Eurotelevizia_2017.pdf role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Eurotelevízia</org-entry-name>
+                                             <alt-name>Eurotelevision</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Nobelova 34, 836 05 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 4823-8132</telephone>
+                                             <fax>(2) 3333-5733</fax>
+                                             <email>eva.vargova@mafraslovakia.sk</email>
+                                             <internet>mafraslovakia.hnonline.sk/titul/eurotelevizia</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">owned by MAFRA Slovakia AS</content-note>
+                                        <frequency>weekly TV and radio guide</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eva</forename>
+                                                       <surname>Vargová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92469" slsdocid="72785" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.285" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Kamarát</org-entry-name>
+                                             <alt-name>Friend</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Na úvrati 53, 821 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(90) 346-7745</telephone>
+                                             <email>vlado@kamaratweb.sk </email>
+                                             <internet>kamaratweb.sk</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <frequency>fortnightly</frequency>
+                                        <content-note style="NORMAL">magazine for teenagers</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimír</forename>
+                                                       <surname>Topercer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92472" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92471" slsdocid="72784" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.286" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sc 28.02.2022 editor in chief is not there in the website. https://svetkrestanstva.postoj.sk/80293/takmer-rok-nemaju-sefredaktora-odbornici-hovoria-o-nestandardnom-postupe-->
+                                        <org-entry-head>
+                                             <org-entry-name>Katolícke Noviny</org-entry-name>
+                                             <alt-name>Catholic News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kapitulská 5, POB 276, 810&#160;00 Brati­slava 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5930-6911</telephone>
+                                             <email>posta@katolickenoviny.sk</email>
+                                             <internet>katolickenoviny.sk</internet>
+                                        </address-block>
+                                        <found-date>1849</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92474" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92473" slsdocid="72783" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.287" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Krásy Slovenska</org-entry-name>
+                                             <alt-name>Beauties of Slovakia</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Karloveské Rameno 4B, 841 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5465-2055</telephone>
+                                             <email>info@krasy-slovenska.sk</email>
+                                             <internet>krasy-slovenska.sk</internet>
+                                        </address-block>
+                                        <found-date>1921</found-date>
+                                        <frequency>illustrated bimonthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zuzana</forename>
+                                                       <surname>Kollárová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92476" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92475" slsdocid="72782" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.288" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--NS 24.03.2017 fax not confrimed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Línia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Pribišova 19
+                      <sc>a</sc>
+                      , 841 05 Bratislava
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 7440-6746</telephone>
+                                             <email>inzercia@juven.sk</email>
+                                             <internet>www.linia.sk</internet>
+                                        </address-block>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">lifestyle</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrea</forename>
+                                                       <surname>Rozborová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92492" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92491" slsdocid="72774" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.296" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Slovenské Národné Noviny</org-entry-name>
+                                             <alt-name>Slovak National News</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Matica slovenská, P. Mudroňová 1, 036 01 Martin</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(43) 381-2838</telephone>
+                                             <email>snn@matica.sk</email>
+                                             <internet>snn.sk</internet>
+                                        </address-block>
+                                        <found-date>1845</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">organ of Matica Slovenská cultural organization</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maroš</forename>
+                                                       <surname>Smolec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92500" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92499" slsdocid="72770" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.300" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sc 28.02.2022 email not found-->
+                                        <org-entry-head>
+                                             <org-entry-name>Trend</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Bajkalská 19
+                      <sc>b</sc>
+                      , 832 15 Bratislava 3
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(2) 3215-3111</telephone>
+                                             <email>branislav.bencat@newsandmedia.sk</email>
+                                             <internet>www.trend.sk</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">for entrepreneurs</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ronald</forename>
+                                                       <surname>Ižip</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92501" slsdocid="72769" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.301" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--sc1 10.12.2018 add confirmed at http://www.petitacademy.sk/wp-content/uploads/2017/08/Tla%C4%8D-pravideln%C3%BDch-kult%C3%BArn%C3%BDch-str%C3%A1n-v-t%C3%BD%C5%BEdenn%C3%ADku-VAS%C3%81RNAP-1.pdf-->
+                                        <org-entry-head>
+                                             <org-entry-name>Vasárnap</org-entry-name>
+                                             <alt-name>Sunday</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Bajkálska 19/
+                      <sc>b</sc>
+                      , 821 01 Bratislava
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3215-3313</telephone>
+                                             <email>vasarnap@vasarnap.com</email>
+                                             <internet>ujszo.com/vasarnap</internet>
+                                        </address-block>
+                                        <found-date>1948</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">independent Hungarian-language magazine</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Györgyi</forename>
+                                                       <surname>Liszka</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.305" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL1525925" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1525924" slsdocid="1518720" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="sk" id="SK.DIR.1142344212" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <!--NS 24.03.2017 website password protected details not updated-->
+                                        <!--Sc1 10.12.2018 website not working role group not conirmed other details confirmed at http://www.culture.gov.sk/organizacie-ministerstva/adresare-1f1.html?page=42-->
+                                        <!--sc1 28.02.2022 14.06.2019 no info available-->
+                                        <org-entry-head>
+                                             <org-entry-name>Rómska Tlačová Agentúra</org-entry-name>
+                                             <alt-name>Roma Press Agency</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Slovenskej jednoty 44, 040 01 Košice</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(55) 632-1372</telephone>
+                                             <email>rpa@rpa.sk</email>
+                                             <internet>www.mecem.sk/rpa</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">reports on matters relating to the Roma minority, and aims to bring attention to issues affecting the community</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kristína</forename>
+                                                       <surname>Magdolenová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92510" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92509" slsdocid="72764" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.306" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <!--sc 28.02.2022 pob not confirmed-->
+                                        <!--sc1 10.12.2018 role group confirmed at https://www.linkedin.com/in/ivan-s%C3%A1mel-548426b4/-->
+                                        <org-entry-head>
+                                             <org-entry-name>SITA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 8, Mýtna 15, 810 07 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2062-0320</telephone>
+                                             <email>sita@sita.sk</email>
+                                             <internet>www.sita.sk</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <ownership>independent</ownership>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Róbert</forename>
+                                                       <surname>Király</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL92512" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92511" slsdocid="72763" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.307" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <data-protection date-added="15.05.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Tlačová Agentúra Slovenskej Republiky</org-entry-name>
+                                             <abbr>TASR</abbr>
+                                             <alt-name>News Agency of the Slovak Republic</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Dúbravská cesta 14, 841 04 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5921-0444</telephone>
+                                             <email>tasr@tasr.sk</email>
+                                             <internet>www.tasr.sk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">overseas bureaux in Belgium, Czech Republic and Hungary</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Vladimír</forename>
+                                                       <surname>Puchala</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 14.02.2011 details available on http://www.tasr.sk/16.axd-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="SK.DIR.312" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Association</heading>
+                         <org-list>
+                              <org-entryref id="SL92518" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92517" slsdocid="72759" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SK.DIR.313" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Slovenský Syndikát Novinárov</org-entry-name>
+                                             <alt-name>Slovak Syndicate of Journalists</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Župné nám. 7, 815&#160;68 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5443-5071</telephone>
+                                             <fax>(2) 5443-2438</fax>
+                                             <email>sekretariat@ssn.sk</email>
+                                             <internet>www.ssn.sk</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <content-note style="NORMAL">reorganized 1990</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Modrovský</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

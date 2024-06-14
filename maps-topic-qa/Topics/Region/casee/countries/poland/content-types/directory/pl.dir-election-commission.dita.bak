@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1603050" sllink="SLSDOCRF" sllinkid="1603049" slsdocid="1498493" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="PL.DIR.1140628754" id-root="pl.dir" iso="pl" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--SC1 21.07.2107 role group verified-->
+                    <!--sc1 12.07.2018 headline content checked-->
+                    <!--sc1 06.07.2020 headline content checked-->
+                    <!--nb 19 04 2023 headline content checked-->
+                    <!--nb 20 07 2023 headline content checked-->
+                    <!--nb 25 04 2024 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1498499" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1498498" slsdocid="1498407" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="PL.DIR.1140627268" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entry">
+                                   <!--sc 28.04.2021 role group not verified-->
+                                   <!--Sc1 22.02.2018 https://www.wprost.pl/kraj/10105966/magdalena-pietrzak-nowa-szefowa-krajowego-biura-wyborczego.html-->
+                                   <!--sc1 12.02.2020 https://www.pap.pl/aktualnosci/news%2C586004%2Csedzia-sylwester-marciniak-nowym-przewodniczacym-panstwowej-komisji-->
+                                   <org-entry-head>
+                                        <org-entry-name>Państwowa Komisja Wyborcza</org-entry-name>
+                                        <abbr>PKW</abbr>
+                                        <alt-name>National Electoral Commission</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>00-902 Warsaw, ul. Wiejska 10</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(22) 2430300</telephone>
+                                        <email>biuro@kbw.gov.pl</email>
+                                        <internet>pkw.gov.pl</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Sylwester</forename>
+                                                  <surname>Marciniak</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

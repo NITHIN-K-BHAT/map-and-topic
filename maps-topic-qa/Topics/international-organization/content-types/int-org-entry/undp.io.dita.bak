@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.1311" id-root="io-un.1311" iso="io-un.1311" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee sacac ass mena sasia fea eerca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>United Nations Development Programme</org-entry-name>
+               <abbr>UNDP</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee sacac ass mena sasia fea eerca">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Other Bodies)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">United Nations Development Programme</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="casee">The United Nations in Central and South-Eastern Europe</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sacac">The United Nations in South America, Central America and the Caribbean</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">The United Nations in Africa South of the Sahara</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="mena">The United Nations in the Middle East and North Africa</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sasia">The United Nations in South Asia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="fea">The United Nations in the Far East and Australasia</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="eerca">The United Nations in Eastern Europe, Russia and Central Asia</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>One United Nations Plaza, New York, NY 10017, USA</verbatim-address>
+               </address>
+               <telephone alsofax="N">(212) 906-5300</telephone>
+               <fax>(212) 906-5364</fax>
+               <email>hq@undp.org</email>
+               <internet>www.undp.org</internet>
+          </address-block>
+          <p id="IO-UN.1312">UNDP was established in 1965 by the UN General Assembly. Its central mission is to help countries to eradicate poverty and achieve a sustainable level of human development, an approach to economic growth that encompasses individual wellbeing and choice, equitable distribution of the benefits of development, and conservation of the environment.</p>
+     </int-org-block>
+     <int-org-section id="IO-UN.1313" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <p id="IO-UN.1314">UNDP is responsible to the UN General Assembly, to which it reports through the Economic and Social Council (ECOSOC).</p>
+          <int-org-section id="IO-UN.1315" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Executive Board</heading>
+               <p id="IO-UN.1316">The Executive Board is responsible for providing intergovernmental support to, and supervising the activities of UNDP, the UN Population Fund (UNFPA) and the UN Office for Project Services. It comprises 36 members, elected by ECOSOC for a three-year term: eight from Africa, seven from Asia and the Pacific, four from Eastern Europe, five from Latin America and the Caribbean and 12 from Western Europe and other countries.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1317" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p id="IO-UN.1318">
+        The Administrator is supported by one Associate Administrator and nine Assistant Secretaries-General. Offices and divisions at the secretariat include Offices of the Human Development Report, Audit and Investigations, Ethics, and Independent Evaluation; Global Services Solution and Global Policy Centres; a Crisis Bureau; and also Bureaux for Policy and Programme Support, External Relations and Advocacy, and Management Services. Five Regional Bureaux cover Africa; Asia and the Pacific; the Arab states; Europe and the Commonwealth of Independent States; and Latin America and the Caribbean. The UNDP Administrator acts as the Vice-Chair of the UN Sustainable Development Group (UNSDG, in which UNDP participates), and chairs the UNSDG’s Core Group (see 
+        <xr pageref="N" ref="UNDOCO.IO">UN Development Coordination Office</xr>
+        ).
+      </p>
+               <dir-list>
+                    <dir-entry id="IO-UN.1319" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Administrator</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Achim</forename>
+                                        <surname>Steiner</surname>
+                                   </person-name>
+                                   <person-note>Brazil/Germany</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Associate Administrator</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Haoliang</forename>
+                                        <surname>Xu</surname>
+                                   </person-name>
+                                   <person-note>People’s Republic of China</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-ASS.154" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ass edio">
+                         <dir-entry-name>Director, Regional Bureau for Africa</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Ahunna</forename>
+                                        <surname>Eziakonwa-Onochie</surname>
+                                   </person-name>
+                                   <person-note>Nigeria</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-MENA.152" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="mena edio">
+                         <dir-entry-name>Director, Regional Bureau for Arab States</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Abdallah</forename>
+                                        <surname>al-Dardari</surname>
+                                   </person-name>
+                                   <person-note>Syria</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-FEA.132" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="sasia fea edio">
+                         <dir-entry-name>Director, Regional Bureau for Asia and the Pacific</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Kanni</forename>
+                                        <surname>Wignaraja</surname>
+                                   </person-name>
+                                   <person-note>Sri Lanka</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-CASEE.133" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="casee eerca edio">
+                         <dir-entry-name>Director, Regional Bureau for Europe and the CIS</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Ivana</forename>
+                                        <surname>Živković</surname>
+                                   </person-name>
+                                   <person-note>Croatia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-SACAC.101" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="sacac edio">
+                         <dir-entry-name>Director, Regional Bureau for Latin America and the Caribbean</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Michelle</forename>
+                                        <surname>Muschett Zimmermann</surname>
+                                   </person-name>
+                                   <person-note>Panama</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Director, Bureau for External Relations and Advocacy</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Ulrika</forename>
+                                        <surname>Modéer</surname>
+                                   </person-name>
+                                   <person-note>Sweden</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Director, Bureau for Management Services</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Angelique M.</forename>
+                                        <surname>Crumbly</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Director, Bureau for Policy and Programme Support</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Marcos</forename>
+                                        <surname>Athias Neto</surname>
+                                   </person-name>
+                                   <person-note>Brazil</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Director, Crisis Bureau</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Shoko</forename>
+                                        <surname>Noda</surname>
+                                   </person-name>
+                                   <person-note>Japan</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+               <p>With a view to streamlining co-ordination, five Regional Collaborative Platforms (RCPs) were initiated from 2020, with participation by all development-focused UN agencies working within each region. Each RCP is chaired by the UN Deputy Secretary-General. The head of the relevant UNDP Regional Bureau and UN Regional Economic Commission act as Vice-Chairs.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1321" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Country Offices</heading>
+               <p-alternates default="EWYB" type="ALTERNATES">
+                    <p usage="ewyb edio">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains regional hubs in Addis Ababa, Ethiopia (for Africa); Amman, Jordan (for the Arab states); Bangkok, Thailand (Asia and the Pacific); İstanbul, Türkiye (formerly known as Turkey) (Europe and the CIS); and Panama (Latin America and the Caribbean). A UNDP Pacific Office is based in Suva, Fiji.</p>
+                    <p usage="casee eerca">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for Europe and the CIS in İstanbul, Türkiye (Turkey).</p>
+                    <p usage="sasia">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for Asia and the Pacific in Bangkok, Thailand.</p>
+                    <p usage="mena">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for the Arab states in Amman, Jordan.</p>
+                    <p usage="sacac">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for Latin America and the Caribbean in Panama.</p>
+                    <p usage="ass">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for Africa in Addis Ababa, Ethiopia.</p>
+                    <p usage="fea">In almost every country receiving UN assistance there is an office, headed by a UNDP Resident Representative. UNDP maintains a regional hub for Asia and the Pacific in Bangkok, Thailand. A UNDP Pacific Office is based in Suva, Fiji.</p>
+               </p-alternates>
+          </int-org-section>
+          <int-org-section id="UNDP.GLOBALPOLICYCENTRES.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Global Centres</heading>
+               <p>UNDP supports a network of global centres that undertake specialized research and advance sustainable development-related solutions and policy design.</p>
+               <org-list>
+                    <org-entry id="IO.UNDP.GP.PUBLICSERVICE.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Global Centre for Technology, Innovation and Sustainable Development</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                Block 
+                <sc>A</sc>
+                , 29 Heng Mui Keng Terrace, Singapore 119620
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">69081063</telephone>
+                              <fax>67744571</fax>
+                              <email>registry.sg@undp.org</email>
+                              <internet>sgtechcentre.undp.org</internet>
+                         </address-block>
+                         <found-date>2019</found-date>
+                         <content-note style="NORMAL">administered jtly by UNDP and the Singapore Govt, the Centre aims to identify and promote innovative and technological solutions to sustainable devt challenges</content-note>
+                         <content-note style="NORMAL">the Centre’s focal areas in 2024 included digitalization, sustainability and climate resilience, smart cities and urbanization, digital sustainable finance, and deep tech and innovations</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.1349" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass mena sasia eerca">
+                         <org-entry-head>
+                              <org-entry-name>Global Policy Centre for Resilient Ecosystems and Desertification (GC-RED)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>UN Gigiri Compound, Block M, Middle Level, United Nations Ave, POB 30218, 00100 Nairobi, Kenya</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 7624640</telephone>
+                              <email>gc-red@undp.org</email>
+                              <internet>www.undp.org/policy-centre/nairobi</internet>
+                         </address-block>
+                         <found-date>2015</found-date>
+                         <content-note style="NORMAL">aims to promote knowledge sharing on and solutions for inclusive sustainable devt in drylands and other fragile ecosystems; focuses on building ecological and social resistance and on the sustainable management of renewable natural capital to improve livelihoods. The Centre is the managing agent for a jt UNDP-UNEP project, Poverty-Environment Action for the SDGs, which aims to integrate programmes that mainstream poverty-environment linkages into national devt planning processes</content-note>
+                    </org-entry>
+                    <!--~ Anne Juepner was GC-RED Dir until ii.23-->
+                    <!--~ Removed International Policy Centre for Inclusive Growth (est. 2002) - terminated on 31.xii.2022-->
+                    <org-entry id="IO-UNDP.ISTANBUL.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass mena casee eerca">
+                         <org-entry-head>
+                              <org-entry-name>Istanbul International Centre for Private Sector in Development (IICPSD)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>İstiklal Sk, 34381 İstanbul, Türkiye</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(850) 288-2534</telephone>
+                              <email>iicpsd@undp.org</email>
+                              <internet>www.iicpsd.undp.org</internet>
+                         </address-block>
+                         <found-date>2011</found-date>
+                         <content-note style="NORMAL">managed jtly by UNDP and the Turkish Govt, the Centre supports the devt of inclusive and competitive markets and aims to promote economic devt by engaging people in value chains in production and entrepreneurial roles</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Sahba</forename>
+                                        <surname>Sobhani</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                         <!--www.iicpsd.undp.org/content/istanbul/en/home/about-us/our-team.html-->
+                    </org-entry>
+                    <org-entry id="IO-UNDP.OSLO.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Oslo Governance Centre (OGC)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Kongens Gate 12, 0153 Oslo, Norway</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 212-1600</telephone>
+                              <email>oslo.governance.centre@undp.org</email>
+                              <internet>www.undp.org/oslocentre</internet>
+                         </address-block>
+                         <found-date>2002, relaunched in June 2015, at the same time as the inaugural edition of a series of Oslo Governance and Peacebuilding Dialogues</found-date>
+                         <content-note style="NORMAL">the Centre aims to support the devt of more effective and inclusive forms of governance, and to prevent violent extremism</content-note>
+                         <content-note style="NORMAL">focal areas in 2024: just and inclusive institutions; fair, green transition; information integrity; financial integrity</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Arvinn E.</forename>
+                                        <surname>Gadgil</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UNDP.SEOUL.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>UNDP Seoul Policy Centre for Knowledge Exchange through SDG Partnerships (USPC)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Division of International Studies 145, Anam-Ro, Seongbuk-Gu, Seoul 136701, Republic of Korea</verbatim-address>
+                              </address>
+                              <email>info.kr@undp.org</email>
+                              <internet>www.undp.org/content/seoul_policy_center/en/home</internet>
+                         </address-block>
+                         <found-date>2011</found-date>
+                         <content-note style="NORMAL">supports the post-Busan Global Partnership for Effective Development Cooperation, which aims to realize commitments made at the Fourth High Level Forum on Aid Effectiveness that was convened in Busan, South Korea, in 2011; also aims to enhance Development Solutions Partnerships, which share UNDP and South Korean devt-related expertise and experience with developing countries, in areas including anti-corruption and green energy</content-note>
+                         <content-note style="NORMAL">the Centre organizes a series of biennial Seoul Debates, intended as a policy discussion platform</content-note>
+                         <content-note style="NORMAL">in Nov. 2022 launched an SDG Partnership on supporting micro-, small and medium-sized enterprises through inclusive digital transformation</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Anne</forename>
+                                        <surname>Juepner</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.UNDP.SOUTH.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac sasia ass fea">
+                         <org-entry-head>
+                              <org-entry-name>United Nations Office for South-South Cooperation (UNOSSC)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>304 East 45th St, 12th Floor, New York, NY 11017, USA</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(212) 906-6392</telephone>
+                              <internet>www.unsouthsouth.org</internet>
+                         </address-block>
+                         <found-date>1978 as the Special Unit for Technical Cooperation among Developing Countries (present name adopted in 2012)</found-date>
+                         <content-note style="NORMAL">
+            aims to co-ordinate and support South-South and triangular co-operation in the political, economic, social, environmental and technical areas, and to facilitate relevant intergovernmental processes; organizes the annual UN Day for South-South Cooperation (12 Sept.), and manages the UN Trust Fund for South-South Cooperation (UNFS
+            
+            SC), the India-UN Development Partnership Fund, and the Perez-Guerrero Trust Fund for Economic and Technical Co-operation among Developing Countries (PGTF)
+          </content-note>
+                         <content-note style="NORMAL">heads of state and of government attending the Second High-level UN Conference on South-South Cooperation (BAPA+40), held in Buenos Aires, Argentina, in March 2019, issued the Buenos Aires Outcome Document, which urged that South-South collaboration be strengthened, to take into account a shifting geopolitical landscape and increasing constraints on resources, while noting that North-South co-operation continued to be the main devt co-operation framework; the BAPA+40 Outcome Document was endorsed by the UN General Assembly in April</content-note>
+                         <content-note style="NORMAL">regular resources for 2022-25 (allocated under the broader UNDP integrated budget) amounted to US&#8201;$30.7m., of which $21m. was for programme activities</content-note>
+                         <role-group>
+                              <role>Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Dima</forename>
+                                        <surname>Al-Khatib</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p usage="edio">
+        UNDP, ILO, UNICEF and WHO co-chair the 
+        <xr pageref="Y" ref="UNIBC.IO.1">UN Issue-Based Coalition on Social Protection,</xr>
+         which serves as a platform for advocacy, policy advice and exchange of information on the creation of sustainable, holistic and integrated social protection systems.
+      </p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1323" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>
+      UNDP works as the UN’s global development network, advocating for change and connecting countries to knowledge, experience and resources to help people to build a better life. UNDP’s Administrator serves as the Vice-Chair of the UN Sustainable Development Group, which aims to co-ordinate and enhance the efforts of some 36 UN offices and programmes to deliver the UN’s 
+      <xr pageref="N" ref="IO-UNDP.001">2030 Agenda for Sustainable Development</xr>
+      .
+    </p>
+          <p>UNDP’s Strategic Plan for 2022-25 was focused on supporting countries to work towards building resilience, structural transformation and `leaving no one behind’ in order to help achieve the UN Sustainable Development Goals (SDGs) by 2030. Within this framework, UNDP identified the following six `signature solutions’: tackling poverty and inequality; future-proofing governance systems; building resilience; putting the natural environment at the heart of economies and planning; increasing access to energy and accelerating the transition to renewable sources of energy; and combating structural challenges to gender equality. In order to maximize its impact and enhance the development activities of recipient countries, UNDP aimed to promote digitalization, strategic innovation and development financing.</p>
+          <p>
+      In 2024 UNDP was implementing development activities in 170 countries and territories. It provides advisory and support services to governments and UN teams with the aim of advancing sustainable human development and building national development capabilities. Assistance is mostly non-monetary, comprising the provision of experts' services, consultancies, equipment and training for local workers. Developing countries themselves contribute significantly to the total project costs in terms of personnel, facilities, equipment and supplies. UNDP also supports programme countries in attracting aid and utilizing it efficiently. UNDP’s development activities place particular emphasis on people living in poverty—as defined by the US&#8201;$2.15 per day international poverty line (in purchasing power parity), national poverty lines, and by UNDP’s 
+      <publ-name>Global Multidimensional Poverty Index,</publ-name>
+       which includes indicators such as access to education, food, safe water and electricity. Groups experiencing the greatest social inequalities and exclusion, especially women, female-headed households and youth, are a particular focus of attention.
+    </p>
+          <p usage="ewyb edio">UNDP’s Bureau for Policy and Programme Support and Crisis Bureau jointly support a Global Policy Network, which comprises Communities of Practice (CoP) experts, and practitioners at local and global level, who support country offices and programme countries. A digital platform, SparkBlue, has been developed to enhance and facilitate community engagement. UNDP’s network of global centres pursues specialized development-related research. UNDP hosts the Multi-Partner Trust Fund Office, which assists the UN system and national governments to manage pooled financing mechanisms that channel support to development activities. UNDP’s Sustainable Finance Hub, established in April 2019, supports the agency’s work in integrating support from governmental, private sector and international financial institutions towards financing the implementation of the SDGs. The Hub includes an Insurance and Risk Finance Facility.</p>
+          <p usage="ewyb edio sasia sacac ass fea">UNDP aims to catalyse a South-South or triangular (i.e. engaging additional partners) model of co-operation, and to utilize its knowledge base in assisting developing countries’ efforts to achieve the SDGs.</p>
+          <p-alternates default="EWYB" type="ALTERNATES">
+               <p usage="ewyb edio">In 2022 UNDP implemented 5,204 projects, of which 1,362 were focused on keeping people out of poverty. Some 1,485 projects were undertaken in sub-Saharan Africa; 1,123 in Latin America and the Caribbean; 897 in Asia and the Pacific; 807 in Europe and the Commonwealth of Independent States; and 674 in the Arab States. A further 218 projects had a global dimension.</p>
+               <p usage="casee eerca">In 2022 UNDP implemented 807 projects in Europe and the Commonwealth of Independent States, of which 291 were focused on strengthening effective, inclusive and accountable governance, and 204 on keeping people out of poverty.</p>
+               <p usage="sacac">In 2022 UNDP implemented 1,123 projects in Latin America and the Caribbean, of which 312 were focused on keeping people out of poverty, and 305 on strengthening effective, inclusive and accountable governance.</p>
+               <p usage="sasia fea">In 2022 UNDP implemented 897 projects in Asia and the Pacific, of which 241 were focused on keeping people out of poverty, and 203 on strengthening effective, inclusive and accountable governance.</p>
+               <p usage="ass">In 2022 UNDP implemented 1,485 projects in sub-Saharan Africa, of which 684 were focused on strengthening effective, inclusive and accountable governance.</p>
+               <p usage="mena">In 2022 UNDP implemented 674 projects in the Arab states, of which 530 were focused on strengthening effective, inclusive and accountable governance.</p>
+               <!--Geneva Declaration on Armed Violence and Development. Global Burden of Armed Violence-->
+          </p-alternates>
+          <int-org-section id="UNDP.IO.COVID.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio">
+               <heading>COVID-19 Response</heading>
+               <p>From early 2020 UNDP provided technical leadership to the UN system’s immediate socioeconomic response to the COVID-19 pandemic and its crisis recovery efforts. In April a UNDP-led inter-agency UN COVID-19 Response and Recovery Fund was established to support low- and middle-income countries’ efforts to build back better. In September UNDP and partners initiated a COVID-19 Private Sector Global Facility, which aimed to promote public-private collaboration on recovery initiatives. By the end of the year UNDP and partners had compiled 128 rapid Digital Socio-Economic Impact Assessments (Digital SEIAs) in 93 countries, providing detailed reviews of the impacts of the pandemic crisis on specific population groups and economic sectors. At 2024 UNDP, WHO and the University of Oxford were maintaining a Global Dashboard for Vaccine Equity, to track developments in access to and affordability of COVID-19 vaccines.</p>
+          </int-org-section>
+          <int-org-section id="UNDP.HDR.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Human Development Reports</heading>
+               <p>
+        The 2023-24 edition of UNDP’s annually updated 
+        <publ-name>Human Development Report</publ-name>
+        , issued in March 2024, was subtitled 
+        <publ-name>Breaking the gridlock: Reimagining cooperation in a polarized world</publ-name>
+        . A Human Development Index that is incorporated into each year’s report ranks countries in accordance with three key indicators: life expectancy; adult literacy; and basic income required for a decent standard of living. (The top-ranking countries in 2022 were Switzerland, Norway and Iceland.) UNDP country offices support the formulation of national human development reports, which aim to facilitate policymaking, guide the allocation of resources, and monitor progress towards poverty eradication and sustainable development. In addition, UNDP prepares Advisory Notes and bespoke Cooper­ation Frameworks to highlight country-specific priorities. Regional human development reports are also prepared intermittently.
+      </p>
+               <p usage="sacac">In September 2021 UNDP published a regional human development report for Latin America and the Caribbean that identified a persistent vicious cycle in the region defined by the co-existence of significant wealth with low average and volatile economic growth (the latter being attributed to overall low productivity).</p>
+               <p usage="mena">An Arab Human Development Report, subtitled `Expanding Opportunities for an Inclusive and Resilient Recovery in the Post-Covid Era’, was issued in June 2022.</p>
+               <p usage="casee">In July 2022 a national human development report was issued for Serbia.</p>
+               <p usage="ass">In April 2022 national human development reports were issued for Malawi and for South Africa.</p>
+               <p usage="ewyb edio">
+        UNDP’s Human Development Report Office releases annually five updated composite indices: the 
+        <publ-name>Human Development Index</publ-name>
+        , the 
+        <publ-name>Global Multidimensional Poverty Index (MPI)</publ-name>
+         (produced jointly with the United Kingdom-based Oxford Poverty and Human Development Initiative), an 
+        <publ-name>Inequality-Adjusted Human Development Index</publ-name>
+        , a 
+        <publ-name>Gender Inequality Index</publ-name>
+        , and a 
+        <publ-name>Gender Development Index.</publ-name>
+               </p>
+               <p usage="edio">In March 2012 the first Global Human Development Forum was convened, under UNDP auspices, in İstanbul. UNDP has convened a series of Istanbul Development Dialogues, with participation by policymakers and other development experts. The 2019 Dialogues were held in May, with a focus on financing the SDGs.</p>
+          </int-org-section>
+          <int-org-section id="IO-UNDP.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Poverty</heading>
+               <p>
+        UNDP’s 
+        <publ-name>2023 Global MPI</publ-name>
+        , issued in July, and using data from 110 countries, found that 1,100m. people (one-half of whom were children) were living in acute multidimensional poverty. Of the total, 534m. were in sub-Saharan Africa and 389m. in South Asia. Nearly two-thirds of people in poverty globally (numbering 730m.) resided in middle-income countries. Some 84% MPI-poor people were reported to live in rural areas.
+      </p>
+               <p>UNDP assists member countries to maximize the use of domestic capabilities and institutional and policy mechanisms for the elimination of poverty and the realization of national development goals. Through its support for the multi-stakeholder Global Partnership for Effective Development Cooperation (established in 2011), and by means of Development Finance Assessments, UNDP aims to maximize the development impact of collaboration. It is also the custodian agency of SDG 17 (Strengthen the means of implementation and revitalize the global partnership for sustainable development). In January 2017 the Cape Town Global Action Plan (CTGAP) for Sustainable Development Data was launched at the inaugural UN World Data Forum. The fourth UN World Data Forum—held in April 2023, in Hangzhou, People’s Republic of China—issued the Hangzhou Declaration on accelerating progress in the implementation of the CTGAP. In July 2019 UNDP, with the Governments of Germany and Qatar, launched a series of Accelerator Labs, tasked with identifying and analysing specific local development challenges, and pursuing solutions for these. As at January 2024 there were 91 Labs that were supporting 115 countries. The Accelerator Labs represent a key component of an evolving Global Policy Network, which aims to enhance policy and knowledge capabilities and to connect experts across the organization, in collective pursuit of integrated development solutions. UNDP hosts Global Dev Hub, an online network of international development practitioners and professionals.</p>
+               <p>UNDP’s Administrator co-chairs a global Task Force on Digital Financing that was launched in November 2018 by the UN Secretary-General to support the implementation of the SDGs. In November 2020 UNDP and the Organisation for Economic Co-operation and Development (OECD) jointly launched a UNDP-OECD Framework for SDG Aligned Finance, with the aim of promoting investment in developing countries that would support the pursuit of the SDGs. A Tech Access Partnership was initiated in May of that year by UNDP, the UN Conference on Trade and Development (UNCTAD) and partners. UNDP, UNICEF and other partners co-host the Digital Public Goods Alliance, which facilitates investment in digital public goods to accelerate the attainment of the SDGs in low- and middle-income countries. UNDP’s Digital Strategy (2022-25), launched in February 2022, aimed to embed a digital focus into all dimensions of the Programme’s work; to support governments to establish more inclusive and resilient digital ecosystems; and to continue to upgrade and transform the scope of digital skills to meet present and future technological challenges.</p>
+               <p>In May 2022—within the framework of the Essential Digital Infrastructure and Services Network (EDISON) Alliance that was initiated by the World Economic Forum in February 2021—UNDP launched a Lighthouse Countries Network aimed at accelerating digital inclusion in the education, health and finance sectors. In August 2023 UNDP and G20 ministers responsible for digital economy issued a Digital Public Infrastructure (DPI) Compendium, addressing the potential of DPI to support the SDGs. In 2024 UNDP was co-leading an initiative to develop a UN DPI Safeguards Framework.</p>
+               <p usage="ass">During 2024 UNDP and the Group of Seven advanced economies were to collaborate to design an Artificial Technology Hub for Sustainable Development in Africa.</p>
+               <p usage="ewyb edio">UNDP, with the OECD, initiated a Tax Inspectors Without Borders scheme in July 2015 to assist developing countries to enhance their taxation audit capacities through training and sharing of expertise. In October 2022 it was reported that since its inception the initiative had delivered US&#8201;$1,700m. in additional revenue for developing countries. In April 2022 an UNDP Tax for SDGs Initiative was launched, to support developing countries to combat tax avoidance, and thereby to generate funds for sustainable development and growth.</p>
+               <p>UNDP is committed to ensuring that the process of economic and financial globalization, including national and global trade, debt and capital flow policies, incorporates human development concerns. UNDP is a partner—with the IMF, the International Trade Centre, UNCTAD, the World Bank and the World Trade Organization (WTO)—in the Enhanced Integrated Framework (EIF) for trade-related assistance to least developed countries (LDCs), a multi-donor programme which aims to support greater participation by LDCs in the global trading system. EIF funds are channelled through a dedicated EIF Trust Fund that was initiated in 2009.</p>
+               <p>In April 2016 a Global Platform on Inclusive Business was launched, as an initiative of the G20 to be implemented by UNDP and the World Bank, with a mandate to support policymakers and to promote inclusive business practices and policies. UNDP hosts the secretariat of the Business Call to Action multilateral grouping, which assists private organizations to promote the SDGs and inclusive development. UNDP supports a regular Responsible Business Forum.</p>
+               <p usage="fea">UNDP was supporting the implementation of the SDGs through a broad UN Pacific Co-operation Framework for the period 2023-27. It also provides technical assistance to the Pacific Community’s 2050 Blue Continent strategy.</p>
+               <p usage="edio ass sasia ">
+        The 2030 Agenda and SDGs recognize the linkages between health and poverty reduction and development. UNDP promotes universal health coverage, and helps to strengthen national capacities at all levels to combat HIV/AIDS. The agency places a particular focus on combating the spread of HIV/AIDS through the promotion of women's rights. UNDP is a co-sponsor of UNAIDS—which co-ordinates UNDP's HIV and Development Programme. UNDP works in partnership with the 
+        <xr pageref="N" ref="IO-WHO.0001">Global Fund to Fight HIV/AIDS, Tuberculosis and Malaria</xr>
+        , in particular to support the local principal recipient of grant financing, to strengthen the quality of programming and planning, and to help to manage projects.
+      </p>
+               <p usage="eerca">A UNDP-Russia Trust Fund for Development was established in 2015, initially endowed with US&#8201;$55m. In May 2020 the Russian Federation Government pledged a further $30m. to the Fund, to assist national recoveries from the COVID-19 crisis. By the end of 2020 the Fund had supported 48 development co-operation initiatives in 30 countries.</p>
+               <p usage="sasia">UNDP’s Asia Pacific Trade and Investment Initiative, based in Colombo, Sri Lanka, produces technical support documents on different aspects of trade and investment to assist regional governments in forming their policies.</p>
+               <p usage="sasia">In September 2021, following the Taliban takeover of Afghanistan (in August), UNDP forecast a possible `catastrophic deterioration’ of the national economy and of development advances, and warned that as many as 97% of Afghanistan’s population were at risk of poverty. In October UNDP initiated an Area-based Approach for Development Emergency Initiatives (ABADEI) programme aimed at building resilience and combating poverty in local communities in Afghanistan. Under ABADEI cash-for-work infrastructure restoration projects were to be implemented; temporary basic income provided for the most vulnerable; grants extended to support small (and especially female-headed) businesses; and natural disaster mitigation and resilience mechanisms were to be strengthened. Meanwhile, an inter-agency Special Trust Fund for Afghanistan was established. In response to the devastation caused by an earthquake that struck Afghanistan’s Khost and Patika provinces in June 2022, UNDP mobilized US&#8201;$2.8m. under ABADEI to provide at least 5,000 families with emergency water and sanitation, shelter, health supplies and cash support. At the end of June UNDP and UNHCR launched a $1m. joint initiative to rebuild housing and infrastructure in the affected areas.</p>
+               <p usage="edio">UNDP sponsors the International Day for the Eradication of Poverty, held annually on 17 October.</p>
+          </int-org-section>
+          <int-org-section id="IO-UNDP.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Governance</heading>
+               <p>Around one-third of UNDP’s expenditure is focused on SDG 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels. UNDP supports national efforts to ensure efficient and accountable governance, to improve the quality of institutions and democratic processes, to foster the rights of Indigenous peoples and other marginalized communities, and to build effective relations between the state, the private sector and civil society, in order to underpin sustainable development.</p>
+               <p usage="ewyb edio eerca sasia sacac ass mena fea">UNDP is mandated to assist developing countries to fight corruption and improve accountability, transparency and integrity. It has helped to establish national and international partnerships in support of its anti-corruption efforts, and assists governments to conduct self-assessments of their public financial management systems. UNDP co-ordinates the secretariat of the International Aid Transparency Initiative, which was inaugurated in September 2008.</p>
+               <p>UNDP works to strengthen parliaments and other legislative bodies as institutions of democratic participation. The Programme assists with constitutional reviews and reform, training of parliamentary staff, and capacity building of political parties and civil organizations. It also supports the establishment of electoral commissions, as well as voter registration and education, undertakes missions to help to prepare for and ensure the conduct of free and fair elections, and provides training to journalists to promote impartial election ­coverage.</p>
+               <p usage="edio">
+        In July 2016 UNDP and the Washington, DC, USA-based International Foundation for Electoral Systems signed a Memorandum of Understanding (MOU) aimed at advancing electoral practices globally. The 2022 (third) edition of the joint UNDP-IPU 
+        <publ-name>Global Parliamentary Report</publ-name>
+         focused on public engagement with parliaments.
+      </p>
+               <p>UNDP supports projects to improve access to justice, in particular for marginalized populations, and to foster judicial independence, legal reform and understanding of the legal system. UNDP also promotes support for the international human rights system and advocates for the integration of human rights issues into activities concerned with sustainable human development.</p>
+               <p>Within the context of the Plan of Action to Prevent Violent Extremism (PVE) launched in 2015 by the UN Secretary-General, and of SDG 16, UNDP has developed a strategic framework: Preventing Violent Extremism through Inclusive Development and the Promotion of Tolerance and Respect for Diversity. In March 2018 UNDP, with International Alert, issued a `toolkit’ to help to improve the design, implementation and monitoring of PVE programmes. In May UNDP signed an MOU with the UN Office of Counter-Terrorism to strengthen collaborative PVE efforts. UNDP’s Oslo Governance Centre focuses on fostering more effective and inclusive forms of governance and on PVE.</p>
+               <p>UNDP collaborates with other UN agencies to promote relief and development efforts in countries in crisis, in order to secure reconciliation, reconstruction and the foundations for sustainable human development, and to increase national capabilities to prevent or mitigate future crises.</p>
+               <p>Special development initiatives undertaken by UNDP in post-conflict countries include the demobilization of former combatants and destruction of illicit small armaments, the rehabilitation of communities for the sustainable reintegration of returning populations, and the restoration and strengthening of democratic institutions and rule of law. The latter is achieved through UNDP’s Global Programme on Strengthening the Rule of Law and Human Rights for Sustaining Peace and Fostering Development. UNDP assists the establishment of regulatory frameworks and mechanisms aimed at conflict prevention and consensus building, and promotes conflict analysis. It supports the UN Global Focal Point for the Rule of Law, which co-ordinates and represents a single entry point for UN system-wide rule of law assistance.</p>
+               <p usage="ass mena">UNDP helps to organize an annual Africa Regional Judges Forum.</p>
+               <p usage="ewyb edio eerca">In April 2022, following the initiation of the Russian military invasion of Ukraine, UNDP launched a recovery and resilience programme for Ukraine that was focused on three pillars: supporting the Ukrainian Government-led crisis response and public service delivery; leveraging Ukraine’s human capital, economic capacities and natural resources to meet immediate humanitarian needs; and enhancing resilience, social and economic recovery. At a High-Level Roundtable on Measures to Support Ukraine’s Efforts in Addressing the Economic Challenges Created by the War that was held in May UNDP warned that the conflict risked eliminating 18 years of socioeconomic advancement.</p>
+               <!--UNDP Democratic Governance Network -->
+               <p usage="edio mena">A Peace Support Facility—managed by UNDP, the Office of the Special Envoy of the Secretary-General for Yemen, and the UN Resident Coordinator’s Office in Yemen—was launched in April 2019 to assist UN peacemaking activities in that country. In August 2020 UNDP and the EU agreed a US $82.4m. three-year Strengthening Institutional and Economic Resilience in Yemen (SIERY) initiative, which aimed to strengthen local authorities, ensure citizens’ access to basic services and foster social cohesion. </p>
+               <p usage="mena">UNDP was implementing an Iraq-focused Funding Facility for Stabilization (FFS) during the period 1 May 2015-31 December 2026. By 30 June 2023 the Facility had supported the return to their home communities of more than 4.9m. Iraqis who had been displaced by Islamic State; it had also mobilized US&#8201;$1,550m., and had completed 3,617 projects. Some 49,778 cash-for-work opportunities had been generated through the FFS by that time, 6,618 cash grants provided to women-led households, and 4,153 small business grants distributed. Furthermore, 167 healthcare facilities, 630 schools, six universities, 124 water treatment plants, and 142 electricity sub-stations had been rehabilitated, as well as 36,913 houses, in Anbar, Ninewa and Salah al-Din. An Iraq Social Cohesion Programme was being implemented by UNDP during 2020-24.</p>
+               <p usage="mena">Through a Stabilization Facility for Libya that was implemented by UNDP, with support from the international community, during the period April 2016-August 2022, some US&#8201;$95m. was channelled towards the rehabilitation of key Libyan infrastructure and to support local communities.</p>
+               <p usage="mena">
+        UNDP produced three editions of an 
+        <publ-name>Arab Knowledge Report</publ-name>
+        , in 2009, 2012, and (themed `Youth and Localization of Knowledge’) in 2014. An 
+        <publ-name>Arab Knowledge Index</publ-name>
+         was first issued in 2015, and updated in 2016. In 2017 this was developed, jointly with the UAE-based Mohammed Bin Rashid Al Maktoum Knowledge Foundation, into a 
+        <publ-name>Global Knowledge Index,</publ-name>
+         comprising sectoral indices on pre-university education; technical vocational education and training; higher education; research development and innovation; information and communications technology; the economy; and the enabling environment. UNDP and the Foundation jointly maintain an internet-based Arab Knowledge Portal.
+      </p>
+               <p usage="ass">UNDP manages a trust to support the African Union (AU) Development Agency’s African Peer Review Mechanism, under which member countries evaluate standards of governance in other participating states. In July 2023 UNDP and the AU established an Africa Facility to Support Inclusive Transitions (AFSIT) in order to promote democracy and extend support to African countries undergoing political transitions.</p>
+               <p usage="ass">UNDP’s Regional Stabilization Facility for the Lake Chad Basin, which was initiated in 2019, aims to build resilience against the Boko Haram militant insurgency in Cameroon, Chad, Niger and Nigeria, by strengthening civilian security, improving basic services, and enhancing local livelihoods.</p>
+               <p usage="ass">
+        The UNDP-managed Great Lakes Region Cross-Border Fund, established in 2017, supports local trust-building and community-strengthening activities, with a focus on addressing the root causes of conflict. The Programme also supports the strengthening of national capacities and institutions with a view to improving security and controlling the proliferation and use of small arms in, 
+        <i>inter alia,</i>
+         Burundi, the DRC, Liberia, and northern Uganda.
+      </p>
+               <!--AGF-->
+          </int-org-section>
+          <int-org-section id="IO-UNDP.3" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Resilience</heading>
+               <p>UNDP supports countries and communities in building resilience to potential crises and shocks (such as conflict, impacts of climate change, and public health epidemics and pandemics). It is the focal point within the UN system for strengthening national capacities for disaster reduction. UNDP’s Crisis Bureau, in conjunction with the Office for the Coordination of Humanitarian Affairs and UN Office for Disaster Risk Reduction, oversees the system-wide Capacity for Disaster Reduction Initiative (inaugurated in 2007). In March 2015, at the Third UN World Conference on Disaster Risk Reduction, UNDP initiated `5-10-50’, a global programme to support, over a 10-year period, the disaster reduction efforts of some 50 member states, with a focus on the following five areas: preparedness; risk awareness and early warning; risk governance and mainstreaming; resilient recovery; and local and urban risk reduction.</p>
+               <p id="IO-SACAC.UNDP.101" usage="sacac">UNDP assists the Coordination Centre for the Prevention of Natural Disasters in Central America (CEPREDENAC) and the Caribbean Disaster Emergency Management Agency (CDEMA).</p>
+               <p usage="edio mena">UNDP co-leads the Regional Refugee and Resilience Plan (3RP) that assists host communities and Syrian refugees in countries neighbouring the Syrian Arab Republic. In June 2023 the Brussels VII Conference on Syria generated US&#8201;$5,600m. in onwards funding for the 3RP.</p>
+               <p usage="mena">UNDP’s 3RP regional operations have focused on fostering development and social stability in host communities, expanding access to critical infrastructure, and promoting livelihoods. UNDP’s activities within Syria itself have included improving food security; promoting grassroots economic activity and supporting small businesses; expanding ongoing programmes aimed at assisting vulnerable communities; strengthening service delivery; and removing solid waste and debris. Under an inter-agency Lebanon Crisis Response Plan (LCRP) that was launched in February 2022 as part of the ongoing 3RP, some US&#8201;$3,200m. was requested to fund support activities there during that year.</p>
+               <p usage="eerca">Since 2004 the UNDP Administrator has chaired the UN Inter-Agency Task Force on Chernobyl, which reviews progress achieved on activities in support of the areas of Ukraine, Belarus and the Russian Federation that were affected by the nuclear accident at Chernobyl (Ukraine) in 1986. From 2017 the Task Force’s work was guided by a resolution adopted by the UN General Assembly in December 2016 on the `Persistent legacy of the Chernobyl disaster’.</p>
+               <p usage="sacac">In co-ordination with the UN Integrated Office in Haiti (BINUH), Haiti National Police (HNP), and other partners, UNDP manages the Joint Programme for the HNP, a multi-donor basket fund on security in Haiti, that was initiated in 2022.</p>
+               <p usage="sacac">UNDP’s Multi-Partner Trust Fund Office hosts and supports the secretariat of the UN Haiti Cholera Response Multi-Partner Trust Fund, which was established in October 2016 by the UN Secretary-General to generate funds in support of UN system-wide efforts to assist Haiti in establishing sound and sufficient national water, sanitation and health systems, and in ending—through the intensification of the emergency response to arresting transmission, and of rapid access to treatment—a persistent epidemic of cholera that had killed more than 9,000 Haitians since 2010. The Fund had received donations totalling US&#8201;$21.9m. by 2023.</p>
+               <p usage="edio ass mena sasia">UNDP established a mine action unit within its Crisis Bureau in order to strengthen national and local demining capabilities, including surveying, mapping and clearance of anti-personnel landmines. UNDP works closely with UNICEF to raise awareness and implement risk reduction education programmes, and manages global partnership projects concerned with training, legislation and the socioeconomic impact of anti-personnel devices. In July 2016 UNDP initiated a Development and Mine Action Support Framework.</p>
+               <p usage="eerca">In June 2023 the UNDP Administrator visited Ukraine, and reiterated the agency’s commitment to supporting the country’s recovery from the impact of war. Since the start of the conflict, following the invasion by Russia in February 2022, UNDP has contributed to efforts to clear landmines and unexploded ordnance, to remove rubble from destroyed buildings to help the reconstruction process, and to support small and medium-sized businesses.</p>
+          </int-org-section>
+          <int-org-section id="UNDP.IO.NAT.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Environment</heading>
+               <p>
+        UNDP aims to strengthen national capacities to carry out effective and sustainable environmental management policies and practices, including addressing the challenges of climate change. Together with the UN Environment Programme (UNEP) and the World Bank, UNDP is an implementing agency of the 
+        <xr pageref="N" ref="IO-UN.1344">Global Environment Facility</xr>
+         (GEF), which was established in 1991 to finance international co-operation in projects to benefit the environment.
+      </p>
+               <p>
+        Community-based initiatives worldwide concerned with climate change mitigation and adaptation, reversal of land degradation, biodiversity conservation, sustainable forestry and water management, and chemicals management including the elimination of persistent organic pollutants, are supported through a 
+        <xr pageref="N" ref="IO-UN.1344.1">Small Grants Programme</xr>
+        , administered by UNDP and funded by the 
+        <xr pageref="N" ref="IO-UN.1344">GEF.</xr>
+         In July 2023 the GEF Council pledged US $500m. to its partnership with UNDP, to be deployed to 88 countries, in particular to address biodiversity loss, to support forest conservation and to help to restore ecosystems. A further $200m., to support initiatives in 20 countries, including eight fragile states, was committed in February 2024.
+      </p>
+               <p usage="edio sacac ass sasia fea">The Equator Initiative—a UNDP-initiated multi-stakeholder project that since 2002 has focused on communities in the equatorial belt— fosters local partnerships and `Equator dialogues’, addressing local knowledge, conservation and sustainable practices. It awards an annual Equator Prize that recognizes innovative initiatives from local communities and Indigenous peoples.</p>
+               <p usage="ass sacac sasia fea">In August 2021 the Coordinator of the Equator Initiative issued a statement that called for a new global social contract. He emphasized that the modern social contract had failed to recognize the contribution of Indigenous peoples as custodians of a large proportion of the Earth’s land, water and biodiversity, which, while under their care, had remained overall more ecologically intact than modern developed areas, and are of critical importance for the planet’s biodiversity conservation, water security, and attainment of climate goals. He noted, furthermore, that Indigenous peoples had retained traditional sustainable food systems and resourceful safety nets (such as emergency bartering models for basic supplies), as well as ancestral knowledge of traditional medicines, land management, and sustainable agricultural practices.</p>
+               <p>UNDP recognizes that in parts of the world land degradation, desertification and drought are major causes of rural poverty, and promotes sustainable land management, reform of land tenure, drought preparedness, and the implementation of conventions that aim to protect the environment. UNDP is a partner agency of the Climate and Clean Air Coalition to Reduce Short Lived Climate Pollutants (SLCPs), which was launched in February 2012 with the aim of combating SLCPs, including methane, black carbon and certain hydrofluorocarbons (HCFCs). UNDP is the lead agency for the implementation of HCFC Phase Out Management Plans in 29 countries, including Brazil, China, and India. UNDP also implements projects funded by the International Climate Initiative (launched in 2008 by the German Government). UNDP, with the World Bank, is a multilateral implementing entity of the UNFCCC’s Adaptation Fund and Green Climate Fund, established to support developing countries with implementing emissions mitigation and climate change adaptation policies. In October 2021 UNDP and partners launched the online UN Biodiversity Lab, as a resource for governments, policymakers and other stakeholders.</p>
+               <p usage="fea">In September 2020 UNDP and partners initiated a Pacific Insurance and Climate Adaptation Programme, supported by a Multi-Donor Trust Fund, to assist Pacific small island developing states (SIDS) in improving disaster risk management planning, and by connecting SIDS to climate disaster risk financing strategies and mechanisms.</p>
+               <p>UNDP works to ensure the effective governance of freshwater and aquatic resources, and promotes co-operation in transboundary water management, ocean and coastal management, and efforts to promote safe sanitation and community water supplies. UNDP is the lead agency for the GEF’s Blue and Green Islands Integrated Program, and supports a range of projects that incorporate development and ecological requirements in the sustainable management of international waters, including large marine ecosystems and transboundary lakes, rivers and aquifers. </p>
+               <p>In December 2016 UNDP established an Ocean Action Hub, which acts as a focal point of information resources concerning SDG 14 (on oceans). In June 2022, at the Second UN Oceans Conference, co-hosted by Portugal and Kenya in the Portuguese capital Lisbon, UNDP launched an Ocean Promise initiative, through which it pledged to support 100 coastal countries to develop, by 2030, sustainable, low-emission, climate-resilient blue economies.</p>
+               <p usage="edio ewyb">In 1996 UNDP, with the World Bank and the Swedish International Development Agency, established a Global Water Partnership in support of water resources management. A separate initiative for capacity development in sustainable water management, Cap-Net UNDP, was formally launched in 2002 to extend training and development activities; by 2024 it comprised regional and national networks covering 120 countries. UNDP was actively engaged with the UN Water Conference, held in New York in March 2023, in particular with regard to water access, security and quality. It organized a key side event on the theme `Accelerating Sustainable Development through Water Innovations and Solutions’.</p>
+               <p usage="fea sasia">UNDP was a co-Chair of the Mangroves for the Future (MFF) multi-partner initiative, which aimed to promote investment in coastal ecosystem conservation, and implemented 380 projects during 2007-18. These focused on the cultivation of mangrove swamps and on general regional coastal management. As a result of MFF projects and interventions, national Marine Protected Areas and Locally Managed Marine Areas were established in Bangladesh, Cambodia, Myanmar, Pakistan and Viet Nam.</p>
+               <p usage="ewyb edio fea sasia">A Global Mangrove Alliance, launched in March 2018, and with broad participation by non-governmental organizations, governments, scientists, industry, local communities, and donors, aims to conserve and restore mangrove systems. An ongoing internet-based MFF Regional Knowledge Hub provides a platform for the exchange of relevant expertise, information, and instructive case studies.</p>
+               <!--MDG Carbon Facility-->
+               <p usage="ewyb edio">UNDP was actively involved in the development of the Strategic Approach to International Chemicals Management policy framework, that was launched in February 2006. UNDP assists countries to integrate the `sound management of chemicals’ into national development planning.</p>
+               <p usage="edio mena">UNDP co-ordinated an operation aimed at preventing a catastrophic oil spill from the FSO Safer, moored off the coast of Yemen. The operation required the transfer to a secure vessel of some 1.14m. barrels of light crude oil that was being stored on the FSO Safer, which was already dangerously dilapidated, and then to scrap that ship at a green salvage facility. In June 2023 the operation was insured through UNDP’s Insurance and Risk Finance Facility. The transfer of the crude oil was undertaken over a 13 week period and completed in late August; by that time donors had pledged US&#8201;$121m. towards the initiative (as at January 2024 a further $22m. was required to finalize the project).</p>
+          </int-org-section>
+          <int-org-section id="UNDP.IO.ENERGY.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Energy</heading>
+               <p usage="edio ewyb">UNDP works towards meeting the targets of SDG 7 on energy, including ensuring universal access to affordable, reliable and modern energy services; making energy systems and usage more efficient; and increasing the global share of renewable energy.</p>
+               <p>In September 2021 the UN Secretary-General convened a landmark High-level Dialogue on Energy (the first UN summit-level meeting on energy in four decades) to address means of achieving the goals of the 2015 Paris Agreement on climate change, and, simultaneously, of attaining SDG 7. The meeting adopted a roadmap to support the achievement of clean energy access for all by 2030 and net-zero emissions by 2050, and resulted in the conclusion by stakeholders of more than 150 `Energy Compacts’ reflecting actions and financial commitments to be achieved by 2030. In this context, a UNDP Energy Compact was pledged, in accordance with which the Programme was to mobilize partners to facilitate the supply of clean and affordable energy to 500m. people by 2030, with a focus on very vulnerable communities.</p>
+               <p usage="ewyb edio">UNDP, with the GEF and the International Maritime Organization, implements the Global Maritime Energy Efficiency Project (GloMEEP), which supports energy efficiency measures in the shipping sector.</p>
+          </int-org-section>
+          <int-org-section id="UNDP.IO.GENDER.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Gender</heading>
+               <p>
+        UNDP’s annual 
+        <publ-name>Gender Inequality Index</publ-name>
+         and 
+        <publ-name>Gender Development Index</publ-name>
+         assess gender equality on the basis of life expectancy, education and income. In June 2023 UNDP issued a Gender Social Norms Index and related report, which addressed entrenched biases that sustain gender discrimination.
+      </p>
+               <p>In March 2021 UNDP established a Gender and Crisis Engagement Facility, which aimed to strengthen women’s leadership and participation in crisis contexts, and to target response initiatives specifically to the needs of women and girls. A UNDP report issued in that month called for the implementation of a temporary basic income to support women in crisis-affected developing countries, noting that during the COVID-19 emergency women were more likely to lose paid work and assume caring duties. During September 2020-November 2022 UNDP and UN Women implemented a COVID-19 Global Gender Response Tracker, to monitor the inclusion of gender-sensitive measures in social protection and labour policy responses to the pandemic crisis.</p>
+               <!--UN Women-UNDP COVID-19 Global Gender Response Tracker - last updated xi.22-->
+               <p>In March 2022 UNDP and UN Women jointly launched a Gender Justice Platform, which was to support transformational change to ensure the empowerment of women in justice and transitional justice frameworks.</p>
+          </int-org-section>
+          <int-org-section id="IO-UNDP.4" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Crisis Response</heading>
+               <p>UNDP’s `SURGE’ Immediate Crisis Response initiative aims to strengthen the Programme’s capacity to respond quickly and effectively in the recovery phase following a conflict or natural disaster. Within the framework of SURGE, advisers—UNDP staff with special expertise in at least one of 14 identified areas, including early recovery, operational support and resource mobilization—are swiftly deployed to country offices dealing with crises. UNDP is the lead agency for the Early Recovery cluster response to a humanitarian disaster, linking the immediate needs with medium- and long-term recovery efforts. UNDP `crisis response packages’ aim to restore core government functions; to stabilize livelihoods; to manage debris and the rehabilitation of core infrastructure; and to plan for crisis recovery. A Crisis Academy was established by UNDP in late 2022.</p>
+               <p usage="mena">Following the chemical explosion that devastated part of the port of Beirut and nearby areas in August 2020, UNDP prioritized the restoration of livelihoods and small businesses; debris management; and facilitating access to justice for vulnerable groups affected by the disaster. UNDP has supported the implementation of socioeconomic protection measures to assist affected local people. </p>
+               <p usage="mena ewyb edio">In March 2023, following a devastating earthquake, UNDP deployed recovery workers and SURGE advisers to areas in the north of the Syrian Arab Republic, already severely affected by the ongoing civil conflict in that country.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1336" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p usage="ewyb edio">UNDP and its various funds and programmes are financed by the voluntary contributions of members of the UN and the Programme’s participating agencies, costsharing by recipient governments and third-party donors. UNDP’s Integrated Budget for 2022-25, underpinning its Strategic Plan covering that period, projected total resources amounting to US&#8201;$28,265m.; 91% of the total resources were to be allocated to development activities.</p>
+          <p usage="casee eerca sasia sacac ass mena fea">UNDP’s Integrated Budget for 2022-25, underpinning its Strategic Plan covering that period, projected resources amounting to US&#8201;$28,265m.; 91% of the total resources were to be allocated to development activities.</p>
+          <p usage="edio ewyb">Since 2014 UNDP, UNICEF, UNFPA and UN Women have aimed to maintain synchronized strategic planning cycles.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1338" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report of the Administrator</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Human Development Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Impact Series</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p>Numerous reports, strategy papers, policy briefings, factsheets.</p>
+     </int-org-section>
+     <int-org-section id="UNDP.IO.43" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Funds and Programmes</heading>
+          <p id="IO-UN.1340.7">A number of associated funds and programmes, financed separately by means of voluntary contributions, provide specific services through the UNDP network.</p>
+          <org-list>
+               <org-entry id="IO-UN.1344.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--RC 13.01.2020 contact details confirmed through facebook-->
+                    <org-entry-head>
+                         <org-entry-name>GEF Small Grants Programme</org-entry-name>
+                         <abbr>SGP</abbr>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>304 East 45th St, 9th Floor, New York, NY 10017, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(646) 781-4385</telephone>
+                         <fax>(646) 781-4075</fax>
+                         <email>sgp.info@undp.org</email>
+                         <internet>sgp.undp.org</internet>
+                    </address-block>
+                    <found-date>1992, becoming operational in 1996</found-date>
+                    <content-note style="NORMAL">UNDP administers the SGP, which provides grants of up to US&#8201;$50,000 to non-governmental, civil society and other community-based orgs</content-note>
+                    <content-note style="NORMAL">at 30 June 2023 the SGP was operational in 127 countries, with an active portfolio of 2,443 projects</content-note>
+                    <content-note style="NORMAL">by 30 June 2023 the SGP had, since its inception, committed grants amounting to $725.0m. (supported by co-financing of $1,026.2m.) for 26,217 projects addressing biodiversity, climate change mitigation and adaptation, land degradation and sustainable forest management, international waters, and chemicals</content-note>
+                    <content-note style="NORMAL">the SGP’s 7th operational phase covered the period 2020-24</content-note>
+                    <content-note style="NORMAL">maintains an innovation library</content-note>
+                    <role-group>
+                         <role>SGP Global Man.</role>
+                         <person>
+                              <vacancy />
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.SDG-F.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--rc 08.02.2024 contact form instead of address-->
+                    <!--rc 13.01.2020 cannot confirm role-->
+                    <org-entry-head>
+                         <org-entry-name>Joint SDG Fund</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>SDG-F Secretariat, c/o UNDP, One United Nations Plaza, New York, NY 10017, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(646) 781-4255</telephone>
+                         <email>admin@sdgfund.org</email>
+                         <internet>jointsdgfund.org</internet>
+                    </address-block>
+                    <found-date>2017, superseding a previous SDG Achievement Fund (f. 2014)</found-date>
+                    <content-note style="NORMAL">a pooled inter-agency mechanism that provides integrated policy support and strategic financing to assist the design and implementation of jt programmes—under the co-ordination of UN Resident Coordinators and Country Teams—that aim to accelerate progress towards achieving the UN’s 2030 Agenda and SDGs</content-note>
+                    <content-note style="NORMAL"> the Fund had mobilized some US&#8201;$1,500m. by June 2023</content-note>
+                    <content-note style="NORMAL">leadership and strategic guidance is provided by a Strategic Advisory Group that is co-chaired by the UN Deputy Sec.-Gen. and the UNSDG Chair, and comprises (on a rotational basis) representatives of 15 UN mem. states; UNDP chairs an Operational Steering Cttee</content-note>
+               </org-entry>
+               <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Multi-Partner Trust Fund Office</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>304 East 45th St, 11th Floor, New York, NY 10017, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(212) 906-6355</telephone>
+                         <fax>(212) 906-6705</fax>
+                         <email>executivecoordinator.mptfo@undp.org</email>
+                         <internet>mptf.undp.org</internet>
+                    </address-block>
+                    <found-date>2003, initially as the International Reconstruction Fund Facility for Iraq, later the Iraq Trust Fund Office, then, in 2006, the Multi-Donor Trust Fund Office; present name adopted in 2011</found-date>
+                    <content-note style="NORMAL">engages in collaborative activities to address pandemics, climate change and the conservation of biodiversity, and facilitates UN coherence and devt effectiveness in addressing complex challenges, such as humanitarian crises and peacebuilding</content-note>
+                    <content-note style="NORMAL">assists the UN system and national govts in managing pooled financing mechanisms: mainly UN Multi-Donor Trust Funds (MDTFs—which are often thematic, and can be established at global, regional or national level; as at Jan. 2024 258 MDTFs were active); country MDTFs (at times complementing a UN MDTF); and stand-alone Joint Programmes (established by UN agencies in support of a strategic vision)</content-note>
+                    <role-group>
+                         <role>Exec. Co-ordinator</role>
+                         <person>
+                              <person-name>
+                                   <forename>Jennifer</forename>
+                                   <surname>Topping</surname>
+                              </person-name>
+                              <person-note>Canada</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1352" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                    <!--rc 08.02.2024 cannot confirm contact details-->
+                    <org-entry-head>
+                         <org-entry-name>Programme of Assistance to the Palestinian People (PAPP)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>POB 51359, Jerusalem</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(2) 6268200</telephone>
+                         <fax>(2) 6268222</fax>
+                         <email>registry.papp@undp.org</email>
+                         <internet>www.ps.undp.org</internet>
+                    </address-block>
+                    <found-date>1978</found-date>
+                    <content-note style="NORMAL">committed to strengthening institutions in the Israeli-occupied territories and emerging Palestinian autonomous areas, to creating employment opportunities and to stimulating private and public investment in the area to enhance trade and export potential</content-note>
+                    <content-note style="NORMAL">supports a Palestinian Accelerator Lab, which was initiated in Dec. 2019</content-note>
+                    <content-note style="NORMAL">a UNDP/PAPP Palestinian Programmatic Framework and aligned UN Sustainable Development Cooperation Framework were being implemented in Palestine during 2023-25</content-note>
+                    <content-note style="NORMAL">in July 2023 launched a 4-year US $14.5m. Gaza Economic Resilience Programme</content-note>
+                    <content-note style="NORMAL">following the severe escalation of Hamas-Israel conflict and besiegement of Gaza from 7 Oct. 2023, the UNDP Administrator consistently deplored the scale of humanitarian suffering and destruction in the enclave and called for a humanitarian ceasefire</content-note>
+                    <role-group>
+                         <role>UNDP Special Representative of the Administrator in the Occupied Palestinian Territories</role>
+                         <person>
+                              <person-name>
+                                   <forename>Sarah</forename>
+                                   <surname>Poole</surname>
+                              </person-name>
+                              <person-note>USA</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="IO-UN.1347" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>UNDP Montreal Protocol/Chemicals Unit</org-entry-name>
+                    </org-entry-head>
+                    <content-note style="NORMAL">through its Montreal Protocol/Chemicals Unit UNDP collaborates with public and private partners in developing countries to assist them in eliminating the use of ozone-depleting substances (ODS), in accordance with the Montreal Protocol to the Vienna Convention for the Protection of the Ozone Layer, through the design, monitoring and evaluation of ODS phase-out projects and progs; in particular, UNDP provides technical assistance and training, national capacity building and demonstration projects and technology transfer investment initiatives</content-note>
+               </org-entry>
+               <org-entry id="IO-UN.1355" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac ass mena sasia fea">
+                    <org-entry-head>
+                         <org-entry-name>United Nations Capital Development Fund (UNCDF)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>304 East 45th St, 5th Floor, New York, NY 10017, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(212) 906-6565</telephone>
+                         <fax>(212) 906-6479</fax>
+                         <email>info@uncdf.org</email>
+                         <internet>www.uncdf.org</internet>
+                    </address-block>
+                    <found-date>1966</found-date>
+                    <content-note style="NORMAL">UNCDF mobilizes capital to foster devt in LDCs; promotes the expansion of inclusive digital local economies</content-note>
+                    <content-note style="NORMAL">in Jan. 2021 co-launched a Women Enterprise Recovery Fund</content-note>
+                    <content-note style="NORMAL">UNDP’s Administrator serves as the Man. Dir of UNCDF</content-note>
+                    <role-group>
+                         <role>Exec. Sec.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Preeti</forename>
+                                   <surname>Sinha</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <!--~ Remittances in Crisis - 2020-->
+               <!--UNCDF ~ make two versions - one for SACAC, MENA excluding the regional MicroLead projects -->
+               <!--~ UNOSSC - email - jorge.chediek contact - has retired-->
+               <org-entry id="IO-UN.1363" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>United Nations Volunteers (UNV)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>POB 260111, 53153 Bonn, Germany</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(228) 8152000</telephone>
+                         <fax>(228) 8152001</fax>
+                         <email>unv.media@unv.org</email>
+                         <internet>www.unv.org</internet>
+                    </address-block>
+                    <found-date>1970</found-date>
+                    <content-note style="NORMAL">supports sustainable devt, and in particular the attainment of the SDGs; works to mobilize volunteers to serve UNDP initiatives and also to support the activities of other partner UN agencies and bodies; advocates the use of volunteers and the integration of volunteerism and civic engagement into sustainable devt, humanitarian and peace projects worldwide</content-note>
+                    <content-note style="NORMAL">UNV focuses participation on the following areas: peacebuilding; community resilience for environment and disaster risk reduction; securing access to basic social services; youth; and national capacity devt</content-note>
+                    <content-note style="NORMAL">a Plan of Action to Integrate Volunteering into the 2030 Agenda was being implemented during 2016-30</content-note>
+                    <content-note style="NORMAL">in July 2020 UNV hosted a global meeting on Re-imagining Volunteering for the 2030 Agenda</content-note>
+                    <content-note style="NORMAL">during 2022 12,408 UNVs were deployed in 166 countries, working with some 55 UN entities; an additional 8,747 people volunteered online</content-note>
+                    <content-note style="NORMAL">some 10,370 UNVs (84% of the total) were from the Global South in 2022</content-note>
+                    <content-note style="NORMAL">by 2024 the number of people who had served on the ground as UNVs exceeded 70,000</content-note>
+                    <role-group>
+                         <role>Exec. Co-ordinator</role>
+                         <person>
+                              <person-name>
+                                   <forename>Toily</forename>
+                                   <surname>Kurbanov</surname>
+                              </person-name>
+                              <person-note>Russia</person-note>
+                         </person>
+                    </role-group>
+                    <content-note style="NORMAL">
+          publ. 
+          <publ-name> State of the World’s Volunteerism Report</publ-name>
+           (every 3-4 years)
+        </content-note>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <!--8.vi.24: 8,379 words-->
+</int-org-entry>

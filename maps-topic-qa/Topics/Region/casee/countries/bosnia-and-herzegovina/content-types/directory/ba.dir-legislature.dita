@@ -1,0 +1,725 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289500" sllink="SLSDOCRF" sllinkid="289499" slsdocid="287763" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.136" id-root="ba.dir" iso="ba" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 01.04.2022 headline content checked-->
+                    <heading>Legislature</heading>
+                    <dir-section id="BA.DIR.13348474241" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>State Legislature</heading>
+                         <p>
+            The 
+            <b>Parliamentary Assembly of Bosnia and Herzegovina</b>
+             (Parlamentarna Skupština Bosne i Hercegovine) comprises two chambers: a directly elected lower chamber, the 
+            <b>House of Representatives</b>
+             (Predstavnički Dom/Zastupnički Dom); and an indirectly elected 
+            <b>House of Peoples</b>
+             (Dom Naroda).
+          </p>
+                         <org-expandref id="SL3668715" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3668714" slsdocid="1143916" slsdocty="org-entry-expanded org-expanddtd">
+                              
+                              <org-entry-expanded id="BA.DIR.13532314322341212421" id-root="ba.dir" iso="ba" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                                   <org-entry-head>
+                                        <org-entry-name>House of Representatives</org-entry-name>
+                                        <alt-name>Predstavnički Dom/Zastupnički Dom</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>71000 Sarajevo, trg Bosne i Hercegovine 1</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(33) 284403</telephone>
+                                        <fax>(33) 211028</fax>
+                                        <email>milorad.zivkovic@parlament.ba</email>
+                                        <internet>www.parlament.ba</internet>
+                                   </address-block>
+                                   <p id="BA.DIR.45366">The Predstavnički Dom/Zastupnički Dom has 42 deputies directly elected for a four-year term, of whom 28 are elected from the Federation and 14 from Republika Srpska.</p>
+                                   <p id="BA.DIR.3213918016316"> The posts of the Chairman, the First Deputy Chairman, and the Second Deputy Chairman of the House of Representatives each rotate every eight months between the Bosniak, Croat and Serb Members of the Collegium.</p>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1143931" sllink="SLSDOCRF" sllinkid="1143930" slsdocid="287749" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="BA.DIR.146" id-root="ba.dir" iso="ba" section="Presidency and Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="PARLIAMENTARY ASSEMBLY">
+                                                  <dir-entry-name>Members of the Collegium</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Denis</forename>
+                                                                 <surname>Zvizdić</surname>
+                                                            </person-name>
+                                                            <person-note>Bosniak Representative</person-note>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Marinko</forename>
+                                                                 <surname>Čavara</surname>
+                                                            </person-name>
+                                                            <person-note>Croat Representative</person-note>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nebojša</forename>
+                                                                 <surname>Radmanović</surname>
+                                                            </person-name>
+                                                            <person-note>Serb Representative</person-note>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                                   <table-blockref id="SL1143965" sllink="SLSDOCRF" sllinkid="1143964" slsdocid="288120" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                        
+                                        <table-block id="BA.DIR.147" id-root="ba.dir" iso="ba" section="Presidency and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="PARLIAMENTARY ASSEMBLY" type="ELECTION">
+                                             <table-heading>General Election, 2 October 2022</table-heading>
+                                             <table pgwide="NO" style="WITH-RULES">
+                                                  <tgroup cols="4">
+                                                       <colspec colwidth="8.5cm" />
+                                                       <colspec colname="COLSPEC3" colwidth="2.50cm" />
+                                                       <colspec colname="COLSPEC4" colwidth="3.5cm" />
+                                                       <colspec colwidth="2.5cm" />
+                                                       <thead>
+                                                            <row>
+                                                                 <entry style="NO-DOT-LEADER" />
+                                                                 <entry align="center" nameend="COLSPEC4" namest="COLSPEC3" style="NO-DOT-LEADER">% of votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER" />
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            FBiH
+                            <endnoteref idref="BA.DIR.9991" ref-symbol="*" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            RS
+                            <endnoteref idref="BA.DIR.9992" ref-symbol="†" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                            </row>
+                                                       </thead>
+                                                       <tbody>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.189">SDA</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">25.17</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4.85</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">9</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.193">SNSD</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">0.41</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">41.15</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.211">SDP BiH</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13.39</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.170">HDZ BiH</xr>
+                            -led coalition
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">14.20</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">0.27</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1199795949">DF</xr>
+                            -Građanski Savez
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">10.52</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1559811691">NiP</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">8.23</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.203">SDS</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">18.08</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.191">PDP</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">0.05</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">11.76</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1235144715">NS</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.12</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1559812725">NES</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4.88</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Others</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">18.03</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">23.89</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <b>Total</b>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                                            </row>
+                                                       </tbody>
+                                                  </tgroup>
+                                             </table>
+                                             <endnote id="BA.DIR.9991" ref-symbol="*">Federation of Bosnia and Herzegovina.</endnote>
+                                             <endnote id="BA.DIR.9992" ref-symbol="†">Republika Srpska.</endnote>
+                                        </table-block>
+                                   </table-blockref>
+                              </org-entry-expanded>
+                         </org-expandref>
+                         <org-expandref id="SL3668724" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3668723" slsdocid="1143856" slsdocty="org-entry-expanded org-expanddtd">
+                              
+                              <org-entry-expanded id="BA.DIR.1351135215214" id-root="ba.dir" iso="ba" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                                   <org-entry-head>
+                                        <org-entry-name>House of Peoples</org-entry-name>
+                                        <alt-name>Dom Naroda</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>71000 Sarajevo, trg Bosne i Hercegovine 1</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(33) 284454</telephone>
+                                        <fax>(33) 286056</fax>
+                                        <email>dragan.covic@parlament.ba</email>
+                                        <internet>www.parlament.ba</internet>
+                                   </address-block>
+                                   <p id="BA.DIR.143">There are 15 deputies in the Dom Naroda (House of Peoples), of whom 10 are elected by the Dom Naroda Federacije (Federation House of Peoples) and five by the Vijeće Naroda (Council of Peoples) of the Narodna Skupština Republike Srpske (Republika Srpska National Assembly).</p>
+                                   <p id="BA.DIR.1382113268187">The posts of the Chairman, the First Deputy Chairman, and the Second Deputy Chairman of the House of Peoples each rotate every eight months between the Bosniak, Croat and Serb Members of the Collegium.</p>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL5205253" sllink="SLSDOCRF" sllinkid="5205252" slsdocid="5205250" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="BA.DIR.1454951119" id-root="ba.dir" iso="ba" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                                  <dir-entry-name>Members of the Collegium</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nikola</forename>
+                                                                 <surname>Špirić</surname>
+                                                            </person-name>
+                                                            <person-note>Serb Representative</person-note>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kemal</forename>
+                                                                 <surname>Ademović</surname>
+                                                            </person-name>
+                                                            <person-note>Bosniak Representative</person-note>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dragan</forename>
+                                                                 <surname>Čović</surname>
+                                                            </person-name>
+                                                            <person-note>Croat Representative</person-note>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                              </org-entry-expanded>
+                         </org-expandref>
+                    </dir-section>
+                    <dir-section id="BA.DIR.13348474611" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Federation Legislature</heading>
+                         <p>
+            The 
+            <b>Federation Parliament</b>
+             (Parlamentarna Federacije) comprises two chambers: a directly elected lower chamber, the 
+            <b>Federation House of Representatives</b>
+             (Predstavnički Dom Federacije/Zastupnički Dom Federacije) and an indirectly elected 
+            <b>Federation House of Peoples</b>
+             (Dom Naroda Federacije). Each of the 10 cantons also has an elected assembly.
+          </p>
+                         <org-expandref id="SL3668732" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3668731" slsdocid="2954535" slsdocty="org-entry-expanded org-expanddtd">
+                              
+                              <org-entry-expanded id="BA.DIR.1343213593255" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" subsection="Federation of Bosnia and Herzegovina">
+                                   <org-entry-head>
+                                        <org-entry-name>Federation House of Representatives</org-entry-name>
+                                        <alt-name>Predstavnički Dom Federacije/Zastupnički Dom Federacije</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>71000 Sarajevo, Hamdije Kreševljakovića 3</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(33) 263585</telephone>
+                                        <fax>(33) 223623</fax>
+                                        <email>kabinet.predsjedavajuceg@parlamentfbih.gov.ba</email>
+                                        <internet>predstavnickidom-pfbih.gov.ba</internet>
+                                   </address-block>
+                                   <p>The 98 deputies of the Federation House of Representatives are directly elected for a four-year term.</p>
+                                   <p>The Chairman and the two Deputy Chairmen of the Federation House of Representatives must, between them, belong to all three constituent peoples (Bosniak, Croat and Serb) of Bosnia and Herzegovina.</p>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3668736" sllink="SLSDOCRF" sllinkid="3668737" slsdocid="287747" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="BA.DIR.150" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Federation of Bosnia and Herzegovina">
+                                                  <dir-entry-name>Chairman</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dragan</forename>
+                                                                 <surname>Mioković</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                                   <table-blockref id="SL3668738" sllink="SLSDOCRF" sllinkid="3668739" slsdocid="288119" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                        
+                                        <table-block id="BA.DIR.151" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Federation of Bosnia and Herzegovina" type="OTHER">
+                                             <table-heading>General Election, 2 October 2022</table-heading>
+                                             <table pgwide="NO" style="WITH-RULES">
+                                                  <tgroup cols="6">
+                                                       <colspec colwidth="5.66cm" />
+                                                       <colspec colwidth="3.42cm" />
+                                                       <colspec colwidth="3.42cm" />
+                                                       <colspec colname="COLSPEC1" colwidth="2.42cm" />
+                                                       <colspec colname="COLSPEC0" colwidth="2.42cm" />
+                                                       <colspec colname="COLSPEC2" colwidth="2.42cm" />
+                                                       <thead>
+                                                            <row>
+                                                                 <entry style="NO-DOT-LEADER" />
+                                                                 <entry align="right" style="NO-DOT-LEADER" />
+                                                                 <entry align="right" style="NO-DOT-LEADER" />
+                                                                 <entry align="right" nameend="COLSPEC2" namest="COLSPEC1" style="NO-DOT-LEADER">Seats</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            (A)
+                            <endnoteref idref="BA.DIR.5007" ref-symbol="*" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            (B)
+                            <endnoteref idref="BA.DIR.5007" ref-symbol="*" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">Total</entry>
+                                                            </row>
+                                                       </thead>
+                                                       <tbody>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.189">SDA</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">238,116</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">24.40</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">21</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">26</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.211">SDP&#160;BiH</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">131,328</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13.46</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">15</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.170">HDZ BiH</xr>
+                            -led coalition
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">130,566</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13.38</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">12</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">15</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1199795949">DF</xr>
+                            -Građanski Savez
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">107,736</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">11.04</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">10</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">12</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1559811691">NiP</xr>
+                            -Stranka Penzionera-Umirovljenika BiH
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">67,191</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">6.88</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">7</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1235144715">NS</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">50,820</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.21</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1559812725">NES</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">42,324</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4.34</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.188">SBiH</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">36,465</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3.74</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1164302639">HDZ 1990</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">26,518</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2.72</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <b>Total</b>
+                             (incl. others)
+                          </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">975,955</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">73</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">25</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">98</entry>
+                                                            </row>
+                                                       </tbody>
+                                                  </tgroup>
+                                             </table>
+                                             <endnote id="BA.DIR.5007" ref-symbol="*">Of the 98 seats, 73 (A) were elected directly in constituencies, and 25 (B) were awarded on a compensatory basis in accordance with the proportion of the vote allocated to each party in constituency voting.</endnote>
+                                        </table-block>
+                                   </table-blockref>
+                              </org-entry-expanded>
+                         </org-expandref>
+                         <org-expandref id="SL3668741" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3668740" slsdocid="2954559" slsdocty="org-entry-expanded org-expanddtd">
+                              
+                              <org-entry-expanded id="BA.DIR.766735135" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" subsection="Federation of Bosnia and Herzegovina">
+                                   <org-entry-head>
+                                        <org-entry-name>Federation House of Peoples</org-entry-name>
+                                        <alt-name>Dom Naroda Federacije</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>71000 Sarajevo, Hamdije Kreševljakovića 3</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(33) 666681</telephone>
+                                        <fax>(33) 223622</fax>
+                                        <email>parlamentfbih@parlamentfbih.gov.ba</email>
+                                        <internet>parlamentfbih.gov.ba</internet>
+                                   </address-block>
+                                   <p>On 2 October 2022 the High Representative for Bosnia and Herzegovina announced the expansion of the hitherto 58-member Federation House of Peoples to 80 members. As a result the Federation House of Peoples comprises 23 Bosniak, 23 Croat, 23 Serb and 11 other deputies, elected by the cantonal assemblies.</p>
+                                   <p>The Chairman and the two Deputy Chairmen of the Federation House of Peoples must, between them, belong to all three constituent peoples (Bosnia, Croat and Serb) of Bosnia and Herzegovina.</p>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3687477" sllink="SLSDOCRF" sllinkid="3687478" slsdocid="1111700" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="BA.ORG.1103025274" id-root="ba.org" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Federation of Bosnia and Herzegovina">
+                                                  <!--Sc 08.04.2020 https://parlamentfbih.gov.ba/v2/bs/stranica.php?idstranica=1-->
+                                                  <dir-entry-name>Speaker</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tomislav</forename>
+                                                                 <surname>Martinović</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                              </org-entry-expanded>
+                         </org-expandref>
+                    </dir-section>
+                    <dir-section id="BA.DIR.13348474671" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Republika Srpska Legislature</heading>
+                         <p>
+            The legislature of Republika Srpska comprises the unicameral, directly elected 
+            <b>Republika Srpska People’s Assembly</b>
+             (Narodna Skupština Republike Srpske).
+          </p>
+                         <org-expandref id="SL3668747" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3668746" slsdocid="2954658" slsdocty="org-entry-expanded org-expanddtd">
+                              
+                              <org-entry-expanded id="BA.DIR.134467342675" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" subsection="Republika Srpska">
+                                   <org-entry-head>
+                                        <org-entry-name>Republika Srpska National Assembly</org-entry-name>
+                                        <alt-name>Narodna Skupština Republike Srpske</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>51000 Banja Luka, Vuka Karadžića 2</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(51) 338104</telephone>
+                                        <fax>(51) 301087</fax>
+                                        <internet>www.narodnaskupstinars.net</internet>
+                                   </address-block>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3228474" sllink="SLSDOCRF" sllinkid="3228475" slsdocid="287745" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="BA.DIR.156" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Republika Srpska">
+                                                  <dir-entry-name>Speaker</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nenad</forename>
+                                                                 <surname>Stevandić</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                                   <table-blockref id="SL4962479" sllink="SLSDOCRF" sllinkid="4962478" slsdocid="4962398" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                        
+                                        <table-block id="BA.DIR.15111111111" id-root="ba.dir" iso="ba" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Republika Srpska" type="OTHER">
+                                             <table-heading>General Election, 2 October 2022</table-heading>
+                                             <table pgwide="NO" style="WITH-RULES">
+                                                  <tgroup cols="6">
+                                                       <colspec colwidth="5.66cm" />
+                                                       <colspec colwidth="3.42cm" />
+                                                       <colspec colwidth="3.42cm" />
+                                                       <colspec colname="COLSPEC1" colwidth="2.42cm" />
+                                                       <colspec colname="COLSPEC0" colwidth="2.42cm" />
+                                                       <colspec colname="COLSPEC2" colwidth="2.42cm" />
+                                                       <thead>
+                                                            <row>
+                                                                 <entry style="NO-DOT-LEADER" />
+                                                                 <entry align="right" style="NO-DOT-LEADER" />
+                                                                 <entry align="right" style="NO-DOT-LEADER" />
+                                                                 <entry align="right" nameend="COLSPEC2" namest="COLSPEC1" style="NO-DOT-LEADER">Seats</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            (A)
+                            <endnoteref idref="BA.DIR.50071" ref-symbol="*" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                            (B)
+                            <endnoteref idref="BA.DIR.50071" ref-symbol="*" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">Total</entry>
+                                                            </row>
+                                                       </thead>
+                                                       <tbody>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.193">SNSD</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">221,549</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">34.64</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">27</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">29</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.203">SDS</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">95,640</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">14.95</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">0</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.191">PDP</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">65,861</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">10.30</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">8</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.213">SP</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">37,881</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.92</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">0</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Pokret za Državu</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">36,652</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.73</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Demokratski Savez</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">34,896</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.46</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.1547123941">US</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">32,696</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">5.11</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Za Pravdu i Red</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">31,551</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4.93</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                                                                      <xr pageref="N" ref="BA.DIR.173">DNS</xr>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">28,503</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4.46</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Narodna Partija Srpske</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">20,898</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3.27</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Socijalisticka Partija Srpske</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">19,893</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3.11</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">Others</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">13,588</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">2.12</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <b>Total</b>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">639,608</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">63</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">20</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">83</entry>
+                                                            </row>
+                                                       </tbody>
+                                                  </tgroup>
+                                             </table>
+                                             <endnote id="BA.DIR.50071" ref-symbol="*">Of the 83 seats, 63 (A) were elected directly in constituencies, and 20 (B) were awarded on a compensatory basis in accordance with the proportion of the vote allocated to each party in constituency voting.</endnote>
+                                        </table-block>
+                                   </table-blockref>
+                                   <p>
+                The Republika Srpska National Assembly elects 28 delegates to a Council of Peoples (Vijeće Naroda), who are responsible for, 
+                <i>inter alia</i>
+                , nominating the entity’s representatives to the state House of Peoples. These 28 members comprise eight Bosniaks, eight Croats, eight Serbs and four others.
+              </p>
+                                   <org-list>
+                                        <org-entryref id="SL3228478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3228479" slsdocid="2713314" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="BA.DIR.124818576311111111" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="The Entities of Bosnia and Herzegovina" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Republika Srpska">
+                                                  <!--Sc 08.04.2020 role gorup at http://imovinapoliticara.cin.ba/profil.php?profil=61-->
+                                                  <org-entry-head>
+                                                       <org-entry-name>Council of Peoples of Republika Srpska</org-entry-name>
+                                                       <alt-name>Vijeće Naroda Republike Srpske</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>51000 Banja Luka, Vuka Karadžića 4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(51) 247446</telephone>
+                                                       <fax>(51) 247653</fax>
+                                                       <email>predsjedavajuci@vijecenarodars.net</email>
+                                                       <internet>www.vijecenarodars.net</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Srebrenka</forename>
+                                                                 <surname>Golić</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </org-entry-expanded>
+                         </org-expandref>
+                    </dir-section>
+                    <dir-section id="BA.DIR.13348474761" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Brčko District</heading>
+                         <p>Note: Residents of Brčko District are entitled to vote in elections to state institutions, to those of the entity that they are a citizen of, and in elections to the local district institutions.</p>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

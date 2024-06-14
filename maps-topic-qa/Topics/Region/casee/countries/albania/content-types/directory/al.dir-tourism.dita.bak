@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52180" sllink="SLSDOCRF" sllinkid="52179" slsdocid="51110" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.340" id-root="al.dir" iso="al" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <org-list>
+                         <org-entryref id="SL7376104" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7376103" slsdocid="7376093" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AL.DIR.1610536297" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Albanian National Tourism Agency </org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Bulevardi Gjergj Fishta, Pallatet Shallvare A12, 1010 Tirana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(4) 2273778 </telephone>
+                                        <email>info@akt.gov.al</email>
+                                        <internet>www.akt.gov.al</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Kornelia</forename>
+                                                  <surname>Ferizaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61838" sllink="SLSDOCRF" sllinkid="61837" slsdocid="56716" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="CZ.DIR.367" id-root="cz.dir" iso="cz" sect-type="broadcasting-comms" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Broadcasting and Communications</heading>
+                    <dir-section id="CZ.DIR.368" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Telecommunications</heading>
+                         <org-list>
+                              <org-entryref id="SL1172671" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172670" slsdocid="57118" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.372" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--sc 07.06.2022 https://www.broadbandtvnews.com/2022/06/03/ceo-vit-vazan-to-leave-czech-tower-company/-->
+                                        <org-entry-head>
+                                             <org-entry-name>České Radiokomunikace</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Skokanská 2117/1, 169 00 Prague 6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">242411111</telephone>
+                                             <email>info@cra.cz</email>
+                                             <internet>www.cra.cz</internet>
+                                        </address-block>
+                                        <found-date>1963</found-date>
+                                        <ownership>privatized in 2000</ownership>
+                                        <content-note style="NORMAL">owned by Macquarie Infrastructure and Real Assets (UK)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vít</forename>
+                                                       <surname>Vážan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6561899" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6561898" slsdocid="57121" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.370" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--Sc 31.01.2022 role group at https://www.nordictelecom.cz/pro-media/-->
+                                        <!--sc1 22.11.2018 https://www.telegeography.com/products/commsupdate/articles/2016/05/20/czech-mobile-operator-u-fon-to-be-sold-to-nordic-investors/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nordic Telecom</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Jihlavská 1558/21, 140 00 Prague 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">800666777</telephone>
+                                             <email>info@nordictelecom.cz</email>
+                                             <internet>www.nordictelecom.cz</internet>
+                                        </address-block>
+                                        <found-date>2007</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2017</content-note>
+                                        <content-note style="NORMAL">previously part of U:fon; subsequently Air Telecom; acquired by Nordic Investors in 2016</content-note>
+                                        <content-note style="NORMAL">mobile telecommunications and internet services</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Libor</forename>
+                                                       <surname>Dočkálek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5257935" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5257934" slsdocid="57122" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.369" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--Sc 31.01.2022 email at https://www.o2.cz/firmy-a-organizace/podpora/kontakty stock info not confirmed-->
+                                        <!--sc1 22.11.2018 email not confirmed -->
+                                        <data-protection date-added="26.03.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>O2 Czech Republic a.s.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Za Brumlovkou 266/2, 140 22 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">800020202</telephone>
+                                             <email>korporace@o2.cz</email>
+                                             <internet>www.o2.cz</internet>
+                                        </address-block>
+                                        <found-date>2006 through the merger of Český Telecom and Eurotel</found-date>
+                                        <content-note style="NORMAL">country’s largest integrated telecommunications service provider</content-note>
+                                        <content-note style="NORMAL">operates some 8m. lines (mobile and fixed)</content-note>
+                                        <content-note style="NORMAL">90.5% owned by the PPF Group</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jindřich</forename>
+                                                       <surname>Fremuth</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1172684" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1172683" slsdocid="57116" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.374" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--Sc 31.01.2022 role group at https://www.linkedin.com/in/vasina-milan-416b2216/-->
+                                        <!--Sc1 22.11.2018 e,mail not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>T-Mobile Czech Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Tomíčkova 2144/1, 149 00 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">603601111</telephone>
+                                             <email>info@t-mobile.cz</email>
+                                             <internet>www.t-mobile.cz</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">fmrly RadioMobil</content-note>
+                                        <ownership>fully owned by Deutsche Telekom Europe</ownership>
+                                        <content-note style="NORMAL">mobile telecommunications and internet service provider</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Milan</forename>
+                                                       <surname>Vašina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1514330" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1514329" slsdocid="57120" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.371" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--Sc 31.01.2022 email at https://www.spcr.cz/en/membership/membership-base/industry-and-professional-associations/clen/5359-vodafone-czech-republic-a-s?s=3111-->
+                                        <org-entry-head>
+                                             <org-entry-name>Vodafone Czech Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Junkových 2, 155 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">271171111</telephone>
+                                             <email>media@vodafone.cz</email>
+                                             <internet>www.vodafone.cz</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <content-note style="NORMAL">mobile telecommunications and internet service provider; absorbed UPC Czech Republic in 2020</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Violeta</forename>
+                                                       <surname>Luca</surname>
+                                                  </person-name>
+                                                  <person-note>designate</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="CZ.DIR.13621393831" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL3979604" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3979603" slsdocid="57117" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CZ.DIR.373" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Český Telekomunikační Úřad</org-entry-name>
+                                                  <alt-name>Czech Telecommunication Office</alt-name>
+                                                  <abbr>ČTÚ</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Sokolovská 58/219, Prague 9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">224004111</telephone>
+                                                  <fax>224004830</fax>
+                                                  <email>tisk@ctu.cz</email>
+                                                  <internet>www.ctu.cz</internet>
+                                             </address-block>
+                                             <found-date>2005</found-date>
+                                             <content-note style="NORMAL">monitoring and regulatory authority</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Hana</forename>
+                                                            <surname>Továrková</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="CZ.DIR.375" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Radio</heading>
+                         <p id="CZ.DIR.376">The Czech Republic has a dual state and private broadcasting system, with one publicly owned radio broadcaster, Český Rozhlas (Czech Radio). Local stations broadcast from Prague, Brno, České Budějovice, Hradec Králové, Ostrava, Plzeň, Ústí nad Labem and other towns.</p>
+                         <org-list>
+                              <org-entryref id="SL64224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64223" slsdocid="57114" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.378" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO">
+                                        <org-entry-head>
+                                             <org-entry-name>Český Rozhlas</org-entry-name>
+                                             <alt-name>Czech Radio</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vinohradská 12, 120 99 Prague 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">221551111</telephone>
+                                             <fax>224222223</fax>
+                                             <email>info@rozhlas.cz</email>
+                                             <internet>www.rozhlas.cz</internet>
+                                        </address-block>
+                                        <stats>broadcasts nationwide programmes, and Radio Praha’s programme to foreign countries</stats>
+                                        <content-note style="NORMAL">runs popular station Radiožurnál</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>René</forename>
+                                                       <surname>Zavoral</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL64228" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64227" slsdocid="57112" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.380" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO">
+                                        <!--Sc 31.01.2022 role group not confirmed-->
+                                        <!--SBE 12.03.2015 role group confirmed from http://www.prague-tribune.cz/2004/03/24.htm-->
+                                        <!--sc1 22.11.2018 https://www.blesk.cz/clanek/zpravy-live-ekonomika/516337/fleischmann-opustil-statutarni-organy-evropy-2-a-frekvence-1.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Evropa 2</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Wenzigova 4, 120 00 Prague 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">257001111</telephone>
+                                             <email>info@evropa2.cz</email>
+                                             <internet>www.evropa2.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">commercial station</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL64230" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64229" slsdocid="57111" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.381" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO">
+                                        <!--sc1 22.11.2018 https://www.blesk.cz/clanek/zpravy-live-ekonomika/516337/fleischmann-opustil-statutarni-organy-evropy-2-a-frekvence-1.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>Frekvence 1</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Wenzigova 1872/4, 120 00 Prague 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">257001111</telephone>
+                                             <email>info@frekvence1.cz</email>
+                                             <internet>www.frekvence1.cz</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">commercial station</content-note>
+                                        <role-group>
+                                             <role>Public Relations Manager</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Iva</forename>
+                                                       <surname> Pavlousková</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--sb 27.06.2011 fax, email not confirmed-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL64236" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64235" slsdocid="57108" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.384" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO">
+                                        <!--sc 31.01.2022 email at https://www.facebook.com/rferl/about/?ref=page_internal-->
+                                        <org-entry-head>
+                                             <org-entry-name>Radio Free Europe/Pressroom Radio Liberty</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Vinohradská 159
+                      <sc>a</sc>
+                      , 110 00 Prague 10
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">221121111</telephone>
+                                             <email>webteam@rferl.org</email>
+                                             <internet>pressroom.rferl.org</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <content-note style="NORMAL">non-profit corpn financed by the US Govt</content-note>
+                                        <content-note style="NORMAL">broadcasts c. 1,000 hours weekly in 28 languages to Eastern Europe, Eurasia and the Middle East</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daisy</forename>
+                                                       <surname>Sindelar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--CROSS REFERENCE: Radio Azattyk (ID: kg.dir.229)-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL951555" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="951554" slsdocid="951534" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.1087229450" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Broadcasting">
+                                        <org-entry-head>
+                                             <org-entry-name>Rádio Impuls</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Ortenovo nám. 15
+                      <sc>a</sc>
+                      , 170 00 Prague 7
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">255700700</telephone>
+                                             <fax>255700727</fax>
+                                             <email>impuls@impuls.cz</email>
+                                             <internet>www.impuls.cz</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Hrabák</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ladislav</forename>
+                                                       <surname>Vonz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="CZ.DIR.385" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Television</heading>
+                         <org-list>
+                              <org-entryref id="SL64238" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64237" slsdocid="57105" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.387" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION">
+                                        <!--Sc 09.6.2023 Jan Soucek will head from October 1 https://www.broadbandtvnews.com/2023/06/08/jan-soucek-to-head-czech-tv/-->
+                                        <data-protection date-added="17.04.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Česká Televize</org-entry-name>
+                                             <alt-name>Czech Television</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Na Hrebenech II 1132/4,, 140 70 Prague 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">261136113</telephone>
+                                             <email>info@ceskatelevize.cz</email>
+                                             <internet>www.ceskatelevize.cz</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">7 channels (ČT1, ČT2, ČT3, ČT24, ČT Sport, ČT :D and ČT Art)</content-note>
+                                        <content-note style="NORMAL">studios in Prague, Brno and Ostrava</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jan</forename>
+                                                       <surname>Souček</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL64240" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64239" slsdocid="57104" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.388" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION">
+                                        <!--sc1 22.11.2018 tel not confirmed role group confirmed at https://www.bloomberg.com/research/stocks/private/person.asp?personId=27443506&privcapId=336146-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nova TV</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kříženeckého nám. 1078/5, 152 00 Prague 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">242464111</telephone>
+                                             <email>dopisove@nova.cz</email>
+                                             <internet>tv.nova.cz</internet>
+                                        </address-block>
+                                        <found-date>1994, through a joint venture with Central European Media Enterprises Ltd (CME), of the USA, as the Czech Republic’s first independent commercial station</found-date>
+                                        <ownership>majority owned by CME</ownership>
+                                        <content-note style="NORMAL">8 TV stations (Nova, Nova Cinema, Nova Action, Nova 2, Nova Gold, Nova Sport 1, Nova Sport 2 and Nova International) and online services (tn.cz, novaplus.cz, nova.cz, doma.cz, krasna.cz etc.)</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Klára</forename>
+                                                       <surname>Brachtlová</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL64242" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64241" slsdocid="57103" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CZ.DIR.389" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION">
+                                        <org-entry-head>
+                                             <org-entry-name>Prima TV</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vinohradská 3217/167, 100 00 Prague 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">266700111</telephone>
+                                             <email>informace@iprima.cz</email>
+                                             <internet>www.iprima.cz</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marek</forename>
+                                                       <surname>Singer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

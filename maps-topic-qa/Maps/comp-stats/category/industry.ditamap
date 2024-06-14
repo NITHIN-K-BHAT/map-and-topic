@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Industry</mainbooktitle>
+    </booktitle>
+    <chapter id="stats.table.6" navtitle="Index of manufacturing production">
+        <topicref href="../../../Topics/comp-stats/category/industry/stats.table.6.dita"
+            navtitle="Index of manufacturing production"/>
+    </chapter>
+    <chapter id="stats.table.7" navtitle="Renewable energy consumption">
+        <topicref href="../../../Topics/comp-stats/category/industry/stats.table.7.dita"
+            navtitle="Renewable energy consumption"/>
+    </chapter>
+</bookmap>

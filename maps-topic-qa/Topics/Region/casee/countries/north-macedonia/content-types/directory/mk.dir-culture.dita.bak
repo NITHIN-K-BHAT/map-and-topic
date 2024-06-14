@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL184562" sllink="SLSDOCRF" sllinkid="184561" slsdocid="177261" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="MK.DIR.252" id-root="mk.dir" iso="mk" sect-type="culture" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Culture</heading>
+                    <dir-section id="MK.DIR.253" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>National Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL201002" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201001" slsdocid="177452" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.257" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Cultural Information Centre—Skopje</org-entry-name>
+                                             <alt-name>Kulturno-Informativni Centar</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Filip Vtori Makedonski</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3115679</telephone>
+                                             <email>info@kic.mk</email>
+                                             <internet>kic.mk</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Antonio</forename>
+                                                       <surname>Dimitrov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201004" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201003" slsdocid="177451" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.258" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ORGANIZATIONS">
+                                        <data-protection date-added="10.06.2020" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>National Conservation Centre of Cultural Heritage</org-entry-name>
+                                             <alt-name>Nacionalen Konzervatorski Centar</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Josif Mihalovikj 7, POB 225</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3227240</telephone>
+                                             <email>contact@heritage.gov.mk</email>
+                                             <internet>heritage.gov.mk</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Memet</forename>
+                                                       <surname>Selmani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.259" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Cultural Heritage</heading>
+                         <p id="MK.DIR.03072012">In 2021 there were 25 major museums, attended by 184,156 people, compared with 427,493 museum visitors in 2018 (prior to the COVID-19 pandemic).</p>
+                         <!--MR 14.06.2023 14.06.2023 recent data not avail.-->
+                         <org-list>
+                              <org-entryref id="SL201006" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201005" slsdocid="177449" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.260" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Archives of North Macedonia</org-entry-name>
+                                             <alt-name>Arhiv na Severna Makedonija</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Dimitar Vlahov 19</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3237211</telephone>
+                                             <email>contact@arhiv.gov.mk</email>
+                                             <internet>arhiv.mk</internet>
+                                        </address-block>
+                                        <found-date>1951</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emil</forename>
+                                                       <surname>Krstesk</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201018" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201017" slsdocid="177443" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.266" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Clement of Ohrid National and University Library</org-entry-name>
+                                             <alt-name>Narodna i Univerzitetska Biblioteka Kliment Ohridski</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Goce Delčev 6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3115177</telephone>
+                                             <email>kliment@nubsk.edu.mk</email>
+                                             <internet>nubsk.edu.mk</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rahmetula</forename>
+                                                       <surname>Kuqi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201022" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201021" slsdocid="177440" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.268" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <!--MR 14.06.2023 MR 28.06.2021 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Institute for the Protection of Cultural Monuments and Natural Rarities in Bitola</org-entry-name>
+                                             <alt-name>Zavod za Zaštita na Spomenicite na Kulturata i Prirodnite Retkosti</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7000 Bitola, Kliment Ohridski 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(47) 233187</telephone>
+                                             <email>info@muzejbitola.mk</email>
+                                             <internet>muzejbitola.mk</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">five brs</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Liljana</forename>
+                                                       <surname>Hristova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201024" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201023" slsdocid="177439" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.269" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <data-protection date-added="28.06.2022" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Institute for the Protection of Cultural Monuments and Museums—Ohrid</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>6000 Ohrid, Boro Šain 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(46) 231300</telephone>
+                                             <email>zimohrid@yahoo.com</email>
+                                             <internet>muzejohrid.mk</internet>
+                                        </address-block>
+                                        <found-date>1951</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Katerina</forename>
+                                                       <surname>Velkoska</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201032" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201031" slsdocid="177435" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.273" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Marko Cepenkov Institute of Folklore</org-entry-name>
+                                             <alt-name>Institut za Folklor Marko Cepenkov’</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Ruzveltova 3, POB 319</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3080176</telephone>
+                                             <email>ifmarkocepenkov@mt.net.mk</email>
+                                             <internet>ifmc.ukim.mk</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ermis</forename>
+                                                       <surname>Lafazanovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6237565" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6237564" slsdocid="6237556" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1529656160" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Cultural Heritage">
+                                        <org-entry-head>
+                                             <org-entry-name>Memorial House of Mother Teresa</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Makedonija 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3290674</telephone>
+                                             <email>info@memorialhouseofmotherteresa.com</email>
+                                             <internet>memorialhouseofmotherteresa.com</internet>
+                                        </address-block>
+                                        <found-date>2009</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Naser</forename>
+                                                       <surname>Curri</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6237550" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6237549" slsdocid="177432" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.276" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <!--MR 14.06.2023 MR 28.06.2021 Role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Museum of the City of Skopje</org-entry-name>
+                                             <alt-name>Muzej na Grad Skopje</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Sv. Kiril i Metodij b.b.</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3115367</telephone>
+                                             <email>info@mgs.org.mk</email>
+                                             <internet>mgs.org.mk</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Klime</forename>
+                                                       <surname>Korobar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201033" slsdocid="177434" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.274" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Museum of Contemporary Art</org-entry-name>
+                                             <alt-name>Muzej na Sovremena Umetnost</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Samoilova 17</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3110123</telephone>
+                                             <email>info@msu.mk</email>
+                                             <internet>msu.mk</internet>
+                                        </address-block>
+                                        <found-date>1964</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mira</forename>
+                                                       <surname>Gaqina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201036" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201035" slsdocid="177433" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.275" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Museum of North Macedonia</org-entry-name>
+                                             <alt-name>Muzej na Severna Makedonija</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. Josif Mihajlovik 7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3116044</telephone>
+                                             <email>contact@museum.org.mk</email>
+                                             <internet>museum.org.mk</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <content-note style="NORMAL">research, collection, documentation and exhibition of archaeology, history, ethnology and medieval art</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ilija</forename>
+                                                       <surname>Curev</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6226569" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6226568" slsdocid="6226547" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1528367749" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Museum of the Macedonian Struggle for Statehood and Independence</org-entry-name>
+                                             <alt-name>Muzejot na Makedonskata Borba za Državnost i Samostojnost</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, 11 Mart 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3256668</telephone>
+                                             <email>mmb@mmb.org.mk</email>
+                                             <internet>mmb.org.mk</internet>
+                                        </address-block>
+                                        <found-date>2008</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniela</forename>
+                                                       <surname>Nikolova</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6226537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6226536" slsdocid="6226513" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1528366871" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>National Gallery of Macedonia</org-entry-name>
+                                             <abbr>NGM</abbr>
+                                             <alt-name>Nacionalna Galerija na Makedonija</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. Jordan Mijalkov 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3126856</telephone>
+                                             <email>contact@nationalgallery.mk</email>
+                                             <internet>nationalgallery.mk</internet>
+                                        </address-block>
+                                        <found-date>1948</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dita</forename>
+                                                       <surname>Starova-Qerimi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201042" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201041" slsdocid="177429" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.278" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CULTURAL HERITAGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Youth Cultural Centre</org-entry-name>
+                                             <alt-name>Mladinski Kulturen Centar</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Kej Dimitar Vlahov 15</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3115225</telephone>
+                                             <fax>(2) 3115508</fax>
+                                             <email>info@mkc.mk</email>
+                                             <internet>mkc.mk</internet>
+                                        </address-block>
+                                        <found-date>1972</found-date>
+                                        <content-note style="NORMAL">incl. Youth Open Theatre (f. 1975)</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nikola</forename>
+                                                       <surname>Aleksov</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.279" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Sporting Organization</heading>
+                         <org-list>
+                              <org-entryref id="SL201044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201043" slsdocid="177427" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.280" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SPORTING ORGANIZATION">
+                                        <org-entry-head>
+                                             <org-entry-name>North Macedonia Olympic Committee</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, bul. Asnom 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2462506</telephone>
+                                             <email>mok@mok.org.mk</email>
+                                             <internet>mok.org.mk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Dimevski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Gen. Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sasho</forename>
+                                                       <surname>Popovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.281" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Performing Arts</heading>
+                         <dir-section id="MK.DIR.282" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                              <heading>Theatre</heading>
+                              <org-list>
+                                   <org-entryref id="SL201046" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201045" slsdocid="177425" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.283" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <!--MR 15.06.2023 MR 28.06.2021 Role group not found-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bitola National Theatre</org-entry-name>
+                                                  <alt-name>Naroden Teatar—Bitola</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>7000 Bitola, Širok Sokak 60</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(47) 552244</telephone>
+                                                  <email>teatarbt@hotmail.com</email>
+                                                  <internet>narodenteatarbitola.com</internet>
+                                             </address-block>
+                                             <found-date>1944</found-date>
+                                             <role-group>
+                                                  <role>Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ivan</forename>
+                                                            <surname>Jerchich</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL201052" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201051" slsdocid="177422" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.286" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <data-protection date-added="12.06.2015" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>North Macedonia National Theatre (Drama)</org-entry-name>
+                                                  <alt-name>Severna Makedonski Naroden Teater</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, 11 Mart, br. 3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3216725</telephone>
+                                                  <email>info@mnt.mk</email>
+                                                  <internet>mnt.mk</internet>
+                                             </address-block>
+                                             <found-date>1945</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Simona</forename>
+                                                            <surname>Ugrinovska</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6247410" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6247409" slsdocid="177424" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.284" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Skopje Drama Theatre</org-entry-name>
+                                                  <alt-name>Dramski Teatar Skopje</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, Šekspirova 15</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3063388</telephone>
+                                                  <email>info@dramskiteatar.com.mk</email>
+                                                  <internet>dramskiteatar.com.mk</internet>
+                                             </address-block>
+                                             <found-date>1946</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Victoria</forename>
+                                                            <surname>Rangelova Petrovska</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7626742" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7626741" slsdocid="177419" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.289" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Turkish Drama Theatre—Skopje</org-entry-name>
+                                                  <alt-name>Türk Tiyatrosu-Üsküp</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, bul. St. Kliment Ohridski b.b.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(2) 3296581</telephone>
+                                                  <email>turskiteatar@t.mk</email>
+                                                  <internet>www.turktiyatrosu.mk</internet>
+                                             </address-block>
+                                             <found-date>1975</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Eileen</forename>
+                                                            <surname>Emin-Soon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL201060" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201059" slsdocid="177418" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.290" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <!--MR 15.06.2023 details not confirmed-->
+                                             <!--MR 28.06.2021 Role group not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Vojdan Černodrinski Folk Theatre—Prilep</org-entry-name>
+                                                  <alt-name>Naroden Teatar Vojdan Černodrinski—Prilep</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>7500 Prilep, Borka Taleski 111</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(48) 428644</telephone>
+                                                  <email>prilepskiteatar@yahoo.com</email>
+                                             </address-block>
+                                             <found-date>1950</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stojan</forename>
+                                                            <surname>Damčevski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--NS 29.06.2016 only phone email confirmed from https://mk-mk.facebook.com/prilepskiteatar/info/?entry_point=page_nav_about_item&tab=page_info-->
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="MK.DIR.292" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                              <heading>Music</heading>
+                              <org-list>
+                                   <org-entryref id="SL6259458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6259457" slsdocid="177414" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.295" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <data-protection date-added="09.07.2020" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>North Macedonia Opera and Ballet</org-entry-name>
+                                                  <alt-name>Severna Makedonska Opera i Balet</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, bul. Goce Delčev 4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3114908</telephone>
+                                                  <email>direkcija@mob.com.mk</email>
+                                                  <internet>operabalet.mk</internet>
+                                             </address-block>
+                                             <found-date>1972</found-date>
+                                             <content-note style="NORMAL">also hosts annual `May Opera Evenings’ festival annually</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vaso</forename>
+                                                            <surname>Ristov</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL201064" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201063" slsdocid="177416" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.293" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <org-entry-head>
+                                                  <org-entry-name>North Macedonia Philharmonic Orchestra</org-entry-name>
+                                                  <alt-name>Severna Makedonska Filharmonija</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, bul. Goce Delchev 2</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3118450</telephone>
+                                                  <email>contact@filharmonija.org.mk</email>
+                                                  <internet>www.filharmonija.mk</internet>
+                                             </address-block>
+                                             <found-date>1944</found-date>
+                                             <content-note style="NORMAL">concerts, promotion of Macedonian music culture and exchange of musicians</content-note>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL201070" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201069" slsdocid="177413" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="MK.DIR.296" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERFORMING ARTS">
+                                             <!--MR 15.06.2023 role group not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Skopje Jazz Festival</org-entry-name>
+                                                  <alt-name>Skopje Džez Festival</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Skopje, Maksim Gorki 5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 3131090</telephone>
+                                                  <email>sjf@skopjejazzfest.com.mk</email>
+                                                  <internet>skopjejazzfest.com.mk</internet>
+                                             </address-block>
+                                             <found-date>1981</found-date>
+                                             <content-note style="NORMAL">annual, Oct.</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kostadin</forename>
+                                                            <surname>Shurbanovski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="MK.DIR.305" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Associations</heading>
+                         <org-list>
+                              <org-entryref id="SL201090" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201089" slsdocid="177402" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.308" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>North Macedonia Scientific Society</org-entry-name>
+                                             <alt-name>Severna Makedonsko Naucno Drustvo</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7000 Bitola, Pece Maticevski 39, POB 145</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(47) 222683</telephone>
+                                             <email>mss.bitola@gmail.com</email>
+                                             <internet>mnd-bitola.mk</internet>
+                                        </address-block>
+                                        <found-date>1960</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nevena</forename>
+                                                       <surname>Gruevska</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL201110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201109" slsdocid="177392" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.318" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="Culture" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Society of Writers of North Macedonia</org-entry-name>
+                                             <alt-name>Društvo na Pisatelite na Severna Makedonija</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Maksim Gorki 18</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3228039</telephone>
+                                             <email>drustvonapisateli@yahoo.com</email>
+                                             <internet>dpm-pisateli.mk</internet>
+                                        </address-block>
+                                        <found-date>1947</found-date>
+                                        <content-note style="NORMAL">protection of authors’ rights and promotion of Macedonian literature</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hristo</forename>
+                                                       <surname>Petreski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

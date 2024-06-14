@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188884" sllink="SLSDOCRF" sllinkid="2188883" slsdocid="2188612" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.008" id-root="ks.dir" iso="ks" sect-type="judicial" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee ewyb">
+                    <!--MR 16.07.2021 headline content checked-->
+                    <heading>Judicial System</heading>
+                    <!--dh source for the following http://www.euinkosovo.org/uk/about/about_structure.php-->
+                    <p>The court system comprises a Supreme Court, Constitutional Court, district courts, municipal courts and minor offences courts. In August 2015 the Kosovo Assembly amended the Constitution and passed legislation permitting the establishment of Specialist Chambers and a Specialist Prosecutor’s Office, legally within the justice system of Kosovo (but located in the Netherlands), to investigate and prosecute war crimes associated with the Kosovo conflict. Decisions and appointments relating to the Specialist Chambers are the responsibility of the European Union. Judges were appointed to the court in 2017.</p>
+                    <!--dh 31.01.08 http://www.unmikonline.org/pub/focuskos/feb05/focusklaw1.htm suggests reform of the system is likely-->
+                    <!--dh www.abanet.org/ceeli/countries/kosovo/legalinfo.html states: A parallel court run by Kosovo Serbs and supported by Belgrade operates without UNMIK authorization in Zveçan/Zvecan in northern Kosovo. Moreover, some cases within the territorial jurisdiction of Kosovo involving Kosovo Serbs are heard in courts in Serbia proper.-->
+                    <org-list>
+                         <org-entryref id="SL4076586" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4076585" slsdocid="2213249" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1201786556" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Lagjja Prishtina e Re</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 20018775</telephone>
+                                        <email>gjykatasupreme@rks-gov.net</email>
+                                        <internet>supreme.gjyqesori-rks.org</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Fejzullah</forename>
+                                                  <surname>Rexhepi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL3079870" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3079869" slsdocid="3079857" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1278598089" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Prishtina, Rruga Perandori Justinian 44</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(38) 606162</telephone>
+                                        <fax>(38) 606170</fax>
+                                        <email>gjykata.kushtetuese@gjk-ks.org</email>
+                                        <internet>www.gjk-ks.org</internet>
+                                   </address-block>
+                                   <found-date>2009</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Gresa</forename>
+                                                  <surname>Caka-Nimani</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6254765" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6254764" slsdocid="6254745" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="KS.DIR.1530873560" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Kosovo" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Judicial System">
+                                   <org-entry-head>
+                                        <org-entry-name>Kosovo Specialist Chambers and Specialist Prosecutor's Office</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>POB 47, 2596 CA The Hague, Netherlands</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">624921306</telephone>
+                                        <email>mediaksc@scp-ks.org</email>
+                                        <internet>www.scp-ks.org</internet>
+                                   </address-block>
+                                   <found-date>2017</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Ekaterina</forename>
+                                                  <surname>Trendafilova</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Specialist Prosecutor</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Kimberly</forename>
+                                                  <surname>West</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

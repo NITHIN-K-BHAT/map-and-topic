@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52174" sllink="SLSDOCRF" sllinkid="52173" slsdocid="51115" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.246" id-root="al.dir" iso="al" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 24.03.2023 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="AL.DIR.247" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <dir-section id="AL.DIR.248" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL52640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52639" slsdocid="51355" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.249" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank of Albania</org-entry-name>
+                                                  <alt-name>Banka e Shqipërisë</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Sheshi Skënderbej 1, 1001 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2419301</telephone>
+                                                  <fax>(4) 2419408</fax>
+                                                  <email>public@bankofalbania.org</email>
+                                                  <internet>www.bankofalbania.org</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gent</forename>
+                                                            <surname>Sejko</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AL.DIR.252" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Other Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL8355609" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8355608" slsdocid="8344966" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1669971006" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>ABI Bank</org-entry-name>
+                                                  <alt-name>American Bank of Investments</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga e Kavajës 27 ,1001 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2258755</telephone>
+                                                  <email>info@abi.al</email>
+                                                  <internet>www.abi.al</internet>
+                                             </address-block>
+                                             <found-date>2015 under the above name following the acquisition of Bank Crédit Agricole Albania</found-date>
+                                             <content-note style="NORMAL">part of the NCH Capital group (US-owned)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kathryn</forename>
+                                                            <surname>Swintek</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Gen. Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andi</forename>
+                                                            <surname>Ballta</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2067418" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2067417" slsdocid="1631751" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1149588587" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka Credins</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Vaso Pasha 8, 1019 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 5353000</telephone>
+                                                  <email>info@bankacredins.com</email>
+                                                  <internet>www.bankacredins.com</internet>
+                                             </address-block>
+                                             <found-date>2003</found-date>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Maltin</forename>
+                                                            <surname>Korkuti</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7629085" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7629084" slsdocid="7629074" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1625233080" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka Kombëtare Tregtare</org-entry-name>
+                                                  <abbr>BKT</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga e Vilave, Lundër 1, 1045 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2266288</telephone>
+                                                  <email>info@bkt.com.al</email>
+                                                  <internet>www.bkt.com.al</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">privatized in 2000</content-note>
+                                             <ownership>owned by ÇalIk Holding (Türkiye) since 2009</ownership>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mehmet</forename>
+                                                            <surname> Utsa</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Seyhan</forename>
+                                                            <surname> PencablIgil</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6609390" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6609389" slsdocid="1866191" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1171540255" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banka OTP Albania</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bulevardi Dëshmorët e Kombit, Twin Towers, Tower 1, 9th Floor, 1019 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2280442</telephone>
+                                                  <fax>(4) 2280441</fax>
+                                                  <email>info@otpbank.al</email>
+                                                  <internet>www.otpbank.al</internet>
+                                             </address-block>
+                                             <found-date>2004 as Banka Popullore</found-date>
+                                             <content-note style="NORMAL">renamed in 2010 following acquisition by Société Générale (France)</content-note>
+                                             <content-note style="NORMAL">acquired by OTP Bank (Hungary) in 2019</content-note>
+                                             <content-note style="NORMAL">absorbed Alpha Bank Albania in Dec. 2022</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Péter</forename>
+                                                            <surname> Bese</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bledar</forename>
+                                                            <surname>Shella</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2529981" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2529980" slsdocid="51352" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.253" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--NS 27.06.2018 Veneto Banka Albania set to merge with Intesa Sanpaolo by the end of 2018-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Intesa Sanpaolo Bank Albania</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Ismail Qemali 27, 1001 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2276000</telephone>
+                                                  <email>info@intesasanpaolobank.al</email>
+                                                  <internet>www.intesasanpaolobank.al</internet>
+                                             </address-block>
+                                             <found-date>1998</found-date>
+                                             <content-note style="NORMAL">owned by Intesa Sanpaolo Gp</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Božo</forename>
+                                                            <surname>Prka</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alessandro</forename>
+                                                            <surname>D’Oria</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL52654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52653" slsdocid="51347" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.258" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 21.01.2020 CEO confirmed at https://seenews.com/companies/company_profile/banka-kombetare-tregtare-sha-3830-->
+                                             <data-protection date-added="28.05.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Commercial Bank of Albania</org-entry-name>
+                                                  <alt-name>Banka Kombëtare Tregtare ShA</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bulevardi Zhan D’Ark, 1004 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2266288</telephone>
+                                                  <email>info@bkt.com.al</email>
+                                                  <internet>www.bkt.com.al</internet>
+                                             </address-block>
+                                             <found-date>1993 by merger</found-date>
+                                             <content-note style="NORMAL">privatized in 2000</content-note>
+                                             <content-note style="NORMAL">owned by Çalik Finansal Hizmelter A.S. (Türkiye)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mehmet</forename>
+                                                            <surname>Usta</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Seyhan</forename>
+                                                            <surname>Pencabligil</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL739035" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="739034" slsdocid="51350" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.255" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>ProCredit Bank (Albania)</org-entry-name>
+                                                  <alt-name>Banka ProCredit</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Dritan Hoxha 92, Njësia Bashkiake 11, 1026 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2389389</telephone>
+                                                  <email>informacion@procredit-group.com</email>
+                                                  <internet>procreditbank.com.al</internet>
+                                             </address-block>
+                                             <found-date>1995 as Foundation for Enterprise Finance and Development</found-date>
+                                             <content-note style="NORMAL">name changed to Fedad Bank ShA in 1999, and as above in 2003</content-note>
+                                             <content-note style="NORMAL">owned by ProCredit Holding A.G.</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Eriola</forename>
+                                                            <surname>Bibolli</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1113403" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1113402" slsdocid="51353" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.251" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 21.01.2020 add confirme dat https://www.facebook.com/pg/raiffeisenbankshqiperi/about/?ref=page_internal-->
+                                             <data-protection date-added="10.07.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Raiffeisen Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Kavajës 44, 1010 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2381381</telephone>
+                                                  <email>info@raiffeisen.al</email>
+                                                  <internet>www.raiffeisen.al</internet>
+                                             </address-block>
+                                             <found-date>1991 as Savings Bank of Albania</found-date>
+                                             <content-note style="NORMAL">privatized in 2004; owned by Raiffeisen SEE Region Holding GmbH (Austria)</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christian</forename>
+                                                            <surname>Canacaris</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL52656" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52655" slsdocid="51346" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.259" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 21.012020 note not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Tirana Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Ibrahim Rugova 1, 1019 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2277700</telephone>
+                                                  <email>info@tiranabank.al</email>
+                                                  <internet>www.tiranabank.al</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">98.8% owned by Piraeus Bank (Greece)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Steven</forename>
+                                                            <surname>Grunerud</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dritan</forename>
+                                                            <surname>Mustafa</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1147006" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1147005" slsdocid="51351" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.254" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="26.04.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>United Bank of Albania</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Dritan Hoxha 11/3, Njesia Bashkiake 7, 1023 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 4548888</telephone>
+                                                  <email>info@uba.com.al</email>
+                                                  <internet>www.uba.com.al</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">fmrly Arab-Albanian Islamic Bank, present name adopted in 2003</content-note>
+                                             <content-note style="NORMAL">owned by EUROSIG JSC (Albania) and Islamic Development Bank (Saudi Arabia)</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Orfea</forename>
+                                                            <surname>Dhuci</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="AL.DIR.260" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <org-list>
+                              <org-entryref id="SL4368379" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368378" slsdocid="4368310" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1393408411" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Albsig Insurance</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Barrikadave, Kutia Postare, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 4502060</telephone>
+                                             <email>info@albsig.al</email>
+                                             <internet>www.albsig.com.al</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Muharrem</forename>
+                                                       <surname>Bardhoci</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1433364" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1433363" slsdocid="1433337" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131027140" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>Atlantik Shoqeri Sigurimesh</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Themistokli Gërmenji 3/1, 1001 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2230506</telephone>
+                                             <email>info@atlantik.com.al</email>
+                                             <internet>atlantik.com.al</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Luan</forename>
+                                                       <surname>Bregasi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dritan </forename>
+                                                       <surname>Çelaj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5204355" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5204354" slsdocid="1622951" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1148050955" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>Compulsory Medical Insurance Fund</org-entry-name>
+                                             <alt-name>Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Sami Frashëri 8, 1023 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 223815</telephone>
+                                             <fax>(4) 2274953</fax>
+                                             <email>info@fsdksh.com.al</email>
+                                             <internet>fsdksh.gov.al</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2013</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Albana</forename>
+                                                       <surname>Çela</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4368385" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4368384" slsdocid="4368354" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1393409262" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>EUROSIG</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Papa Gjon Pali II 5, 1010 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 4500001</telephone>
+                                             <email>info@eurosig.al</email>
+                                             <internet>www.eurosig.al</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Xhevdet</forename>
+                                                       <surname>Kopani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1433367" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1433366" slsdocid="1433340" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131027678" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="FINANCE" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--sc1 21.01.2020 role group coonfirmed at https://seenews.com/companies/company_profile/intersig-vienna-insurance-group-sha-506217-->
+                                        <org-entry-head>
+                                             <org-entry-name>INTERSIG Vienna Insurance Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ismail Qemali, Samos Tower, 2nd Floor, 1010 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2270576</telephone>
+                                             <email>info@intersig.al</email>
+                                             <internet>www.intersig.al</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">90% owned by Vienna Insurance Gp (Austria)</content-note>
+                                        <content-note style="NORMAL">non-life insurance</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gentian</forename>
+                                                       <surname>Sula</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL584998" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="584997" slsdocid="584230" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1056377403" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--NS 06.12.2017 role group from http://www.uniqagroup.com/gruppe/versicherung/uniqa-group/uniqa-in-europa/albanien/Albania.en.html-->
+                                        <data-protection date-added="26.03.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Sigal UGA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bulevardi Zogu I 1, 1016 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2233308</telephone>
+                                             <email>info@sigal.com.al</email>
+                                             <internet>www.sigal.com.al</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <content-note style="NORMAL">life, health, property, engineering, motor, marine, aviation, liability, accidents, banking, agriculture, credit</content-note>
+                                        <content-note style="NORMAL">86.9% owned by Uniqa Group (Austria)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Avni</forename>
+                                                       <surname>Ponari</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1433371" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1433370" slsdocid="1430727" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1131025176" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>SIGMA Interalbanian</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Komuna e Parisit, Pallati Lura, 1019 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2258254</telephone>
+                                             <fax>(4) 2258253</fax>
+                                             <email>kontakt@sivig.al </email>
+                                             <internet>www.sivig.al</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">subsidiary of Vienna Insurance Gp (Austria)</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Klaidi</forename>
+                                                       <surname>Çitozi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

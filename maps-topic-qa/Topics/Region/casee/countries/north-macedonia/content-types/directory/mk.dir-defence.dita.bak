@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL184570" sllink="SLSDOCRF" sllinkid="184569" slsdocid="177254" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="MK.DIR.361" id-root="mk.dir" iso="mk" sect-type="defence" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Defence</heading>
+                    <p id="MK.DIR.362">
+          As assessed at November 2023, national armed forces amounted to 8,000 troops in active service and 4,850 reserves. Conscription was abolished from 2007. North Macedonia was admitted to the 
+          <xr pageref="N" ref="NATO.IO">North Atlantic Treaty Organization (NATO)</xr>
+           on 27 March 2020.
+        </p>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3003068" sllink="SLSDOCRF" sllinkid="3003067" slsdocid="2942690" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="MK.DIR.1270829271" id-root="mk.dir" iso="mk" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Defence Expenditure</dir-entry-name>
+                                   <content-note style="NORMAL">17,000m. denars in 2023.</content-note>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL200936" sllink="SLSDOCRF" sllinkid="200935" slsdocid="177243" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="MK.DIR.364" id-root="mk.dir" iso="mk" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <!--https://mil.mk/generalshtab/nachalnik-na-generalshtabot/-->
+                                   <dir-entry-name>Chief of Staff of the Army</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Lt-Col Gen.</title>
+                                                  <forename>Vasko</forename>
+                                                  <surname>Gjurchinovski</surname>
+                                             </person-name>
+                                        </person>
+                                        <!--TP 04.02.2014 http://kurir.mk/en/2014/01/02/president-ivanov-visits-veles-based-arm/-->
+                                   </person-group>
+                                   <!--TP 30.05.2014 http://www.morm.gov.mk/?page_id=69&lang=en-->
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+               </dir-section>
+          </dir-sectref>
+          

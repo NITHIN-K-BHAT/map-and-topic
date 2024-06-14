@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Casee</mainbooktitle>
+     </booktitle>
+     <chapter href="./content-types/essay.ditamap" format="ditamap" />
+     <chapter href="./content-types/research-institutes.ditamap" format="ditamap" />
+     <chapter href="./content-types/region-overview.ditamap" format="ditamap" />
+     <chapter href="./content-types/bibliography.ditamap" format="ditamap" />
+     <chapter href="./content-types/periodicals.ditamap" format="ditamap" />
+     <chapter href="./countries/albania/albania.ditamap" format="ditamap" />
+     <chapter href="./countries/bosnia-and-herzegovina/bosnia-and-herzegovina.ditamap" format="ditamap" />
+     <chapter href="./countries/bulgaria/bulgaria.ditamap" format="ditamap" />
+     <chapter href="./countries/croatia/croatia.ditamap" format="ditamap" />
+     <chapter href="./countries/czech-republic/czech-republic.ditamap" format="ditamap" />
+     <chapter href="./countries/estonia/estonia.ditamap" format="ditamap" />
+     <chapter href="./countries/greece/greece.ditamap" format="ditamap" />
+     <chapter href="./countries/hungary/hungary.ditamap" format="ditamap" />
+     <chapter href="./countries/kosovo/kosovo.ditamap" format="ditamap" />
+     <chapter href="./countries/latvia/latvia.ditamap" format="ditamap" />
+     <chapter href="./countries/lithuania/lithuania.ditamap" format="ditamap" />
+     <chapter href="./countries/montenegro/montenegro.ditamap" format="ditamap" />
+     <chapter href="./countries/north-macedonia/north-macedonia.ditamap" format="ditamap" />
+     <chapter href="./countries/poland/poland.ditamap" format="ditamap" />
+     <chapter href="./countries/romania/romania.ditamap" format="ditamap" />
+     <chapter href="./countries/serbia/serbia.ditamap" format="ditamap" />
+     <chapter href="./countries/slovakia/slovakia.ditamap" format="ditamap" />
+     <chapter href="./countries/slovenia/slovenia.ditamap" format="ditamap" />
+     <chapter href="./countries/vojvodina/vojvodina.ditamap" format="ditamap" />
+</bookmap>

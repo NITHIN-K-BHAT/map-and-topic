@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<int-org-entry id="LAIA.IO" id-root="laia.io" iso="laia.io" original-filename="wb02056.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio sacac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Latin American Integration Association</org-entry-name>
+               <abbr>LAIA</abbr>
+          </int-org-name-group>
+          <int-org-name-group type="ALT">
+               <org-entry-name>Asociación Latinoamericana de Integración</org-entry-name>
+               <abbr>ALADI</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">MAJOR NON-UN ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="sacac">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE">Latin American Integration Association</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Cebollatí 1461, Casilla 20.005, 11200 Montevideo, Uruguay</verbatim-address>
+               </address>
+               <telephone alsofax="N">2410 1121</telephone>
+               <email>sgaladi@aladi.org</email>
+               <internet>www.aladi.org</internet>
+          </address-block>
+          <p id="LAIA.IO.7">The Latin American Integration Association was established by the Montevideo Treaty in August 1980 to replace the Latin American Free Trade Association, founded in February 1960. It aims to promote regional economic development and integration and works to secure preferential trading arrangements among member states.</p>
+          <int-org-section id="LAIA.IO.49" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <table-block-simple id="LAIA.IO.50" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.7cm" />
+                              <colspec colwidth="6.7cm" />
+                              <colspec colwidth="6.6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Argentina</entry>
+                                        <entry style="NO-DOT-LEADER">Cuba</entry>
+                                        <entry style="NO-DOT-LEADER">Paraguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bolivia</entry>
+                                        <entry style="NO-DOT-LEADER">Ecuador</entry>
+                                        <entry style="NO-DOT-LEADER">Peru</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Brazil</entry>
+                                        <entry style="NO-DOT-LEADER">Mexico</entry>
+                                        <entry style="NO-DOT-LEADER">Uruguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chile</entry>
+                                        <entry style="NO-DOT-LEADER">Panama</entry>
+                                        <entry style="NO-DOT-LEADER">Venezuela</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Colombia</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <content-note style="NORMAL">In August 2011 the Council of Ministers approved the admission of Nicaragua as a full member of the Association; the process of concluding the legal requirements for membership was ongoing in 2024.</content-note>
+               </table-block-simple>
+               <p-group id="LAIA.IO.20">
+                    <heading>Observers</heading>
+                    <p>
+          People's Republic of China, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Italy, Japan, Republic of Korea, Nicaragua, Pakistan, Portugal, Romania, Russian Federation, San Marino, Spain, Switzerland and Ukraine; also the 
+          <xr pageref="N" ref="IO-UN.1018">UN Economic Commission for Latin America and the Caribbean (ECLAC),</xr>
+           the UN Development Programme, the 
+          <xr pageref="N" ref="CAN.IO.42">CAF—Development Bank of Latin America,</xr>
+           the European Commission, the Ibero-American General Secretariat
+          
+           (SEGIB), the 
+          <xr pageref="N" ref="IDB.IO">Inter-American Development Bank</xr>
+          , the Inter-American Institute for Co-operation on Agriculture, the Latin American Economic System, the Organization of American States, and the Pan American Health Organization. 
+        </p>
+               </p-group>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="LAIA.IO.52" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="LAIA.IO.53" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Council of Ministers</heading>
+               <p id="LAIA.IO.21">The Council of Ministers of Foreign Affairs is responsible for the adoption of the Association's policies. It meets when convened by the Committee of Representatives.</p>
+          </int-org-section>
+          <int-org-section id="LAIA.IO.54" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Conference of Evaluation and Convergence</heading>
+               <p id="LAIA.IO.22">The Conference, comprising plenipotentiaries of the member governments, assesses the integration process and encourages nego­tiations between members. It also promotes the convergence of agreements and other actions on economic integration. The Conference meets when convened by the Committee of Representatives.</p>
+          </int-org-section>
+          <int-org-section id="LAIA.IO.55" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Committee of Representatives</heading>
+               <p id="LAIA.IO.23">The Committee, the permanent political body of the Association, comprises a permanent and a deputy representative from each member country. The Committee is the main forum for the negotiation of ALADI's initiatives and is responsible for the correct implementation of the Treaty and its supplementary regulations. It is supported by several specialized auxiliary bodies and working groups.</p>
+          </int-org-section>
+          <int-org-section id="LAIA.IO.57" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>General Secretariat</heading>
+               <p>The General Secretariat is the technical body of the Association, comprising divisions of Administration and Finance; Legal Advice; Human Resources; and Institutional Affairs and Communications. It submits proposals for action, carries out research and evaluates activities. The Secretary-General is elected for a three-year term, which is renewable. Two Assistant Secretaries-General preside over departments of free trade area agreements and negotiations; physical and digital integration; information and statistics; commercial development and competitiveness; co-operation and development; social affairs; and support for less developed member states.</p>
+               <dir-list>
+                    <dir-entry id="LAIA.IO.39" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Sergio</forename>
+                                        <surname>Abreu</surname>
+                                   </person-name>
+                                   <person-note>Uruguay</person-note>
+                              </person>
+                         </person-group>
+                         <!--~ Abreu: 2020- 23; 2023- 26 2.ii.2024: Christian Leroux Cazaubon, Argentina - Undersecretary for Development of the FTA; Benjam&#237;n Blanco Ferri, Bolivia - Undersecretary for Cooperation, Technical Assistance and Support to PMDERs MSMEs-->
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="LAIA.IO.58" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>In August 2023 the 19th meeting of the Council of Ministers adopted a strategy to guide the organization’s activities during 2023-26, focusing on integration, infrastructure and logistics, trade facilitation and customs co-operation, social inclusion and trade, trade and gender, advancing digital transformation, and enhancing support for the organization’s least developed members (Bolivia, Ecuador and Paraguay).</p>
+          <p>A treaty to establish the Latin American Integration Association (Asociación Latinoamericana de Integración—ALADI), as a replacement to the Latin American Free Trade Association (LAFTA), was signed in Montevideo, Uruguay, in 1980, and entered into force in March 1981. ALADI aimed to establish an area of economic preferences, comprising a regional tariff preference for goods originating in member states (in effect from 1 July 1984) and regional and `partial scope agreements’ (in which two or more member states participate, on economic complemen­tation, trade promotion, trade in agricultural goods, scientific and technical co-operation, the envir­onment, tourism, and other matters), taking into account the different stages of development of the members, and with no definite timetable for the establishment of a full common market. General regimes on safeguards and rules of origin entered into force in 1987. Digital certificates of ALADI origin have been introduced by the member states. ALADI’s support system for relatively less economically developed countries provides a framework for differentiated treatment aimed at promoting the participation of Bolivia, Ecuador and Paraguay in the regional economic integration process.</p>
+          <p id="LAIA.IO.43" usage="edio sacac">Certain LAFTA institutions were retained and adapted by ALADI, e.g. the Reciprocal Payments and Credits Agreement (1965, modified in 1982) and the Multilateral Credit Agreement to Alleviate Tem­por­ary Shortages of Liquidity, known as the Santo Domingo Agreement (1969, extended in 1981 to include mechanisms for counteracting global balance of payments diffi­culties and for assisting in times of natural disaster).</p>
+          <p>
+      Agreements concluded under ALADI auspices include a regional tariff preference accord, whereby members allow imports from other member states to enter with tariffs 20% lower than those imposed on imports from other countries, and a Market Opening Lists agreement in favour of the three least developed member states, which provides for the total elimination of duties and other restrictions on imports of certain products. Other partial scope agreements include renegotiation agreements (pertaining to tariff cuts under LAFTA); trade agreements covering particular industrial sectors; the agreements establishing the Southern Common Market (
+      <xr pageref="N" ref="MERCOSUR.IO">Mercado Común del Sur—MERCOSUR</xr>
+      ); and arrangements covering agriculture, gas supply, tourism, environmental protection, books, transport, sanitation and trade facilitation. Bolivia, Chile, Argentina, Brazil, Paraguay, Peru and Uruguay participate in a regional Agreement on International Land Transport (ATIT).
+    </p>
+          <p>ALADI reported that during 2022 the value of exports to the rest of the world originating from ALADI member states increased by 16%, while imports rose by 20.7%. Intraregional trade, meanwhile, expanded by 21.4% during that year.</p>
+          <p>ALADI has worked to establish multi­lat­eral links or agreements with Latin American non-member countries or integration organizations, and with other developing countries or economic groups outside the continent. The first interpretative Protocol to the Montevideo Treaty, adopted in June 1994, allowed member states to establish preferential trade agreements with developed nations, with a temporary waiver of the most favoured nation clause, subject to the negotiation of unilateral compensation. Mexico’s simultaneous participation in the US-Mexico-Canada Agreement (launched in 2020) was permitted within the framework of the Protocol.</p>
+          <p>In March 2001 ALADI signed a co-operation agreement with the Andean Community to facilitate the exchange of information, and in December 2003 they concluded an Economic Complementary Agreement. The entry into force of a bilateral free trade agreement that was adopted by the two blocs in April 2004 was postponed. A Protocol to the Economic Complementary Agreement on trade in services was adopted in December 2020. An ALADI-MERCOSUR letter of intent signed in April 2016 provides for enhanced co-ordination in the design and implementation of activities aimed at promoting trade. An agreement was concluded in the following month by ALADI and the Secretaría de Integración Económica Centroamericana which was to govern future co-operation in areas such as trade promotion and compiling statistics on external trade.</p>
+          <p>The fourth Inter-Secretariat Meeting of subregional integration mechanisms was convened in July 2023, at the headquarters of ALADI (the first such gathering having taken place in 2014). Following the Meeting, which was themed `Proposals for joint regional action: Productive chains in Latin America and their impact on integration and trade’, ALADI’s General Secretariat was tasked with organizing a follow-up technical meeting on productive chains. </p>
+          <p>The ALADI Centro Virtual de Formación (CVF) offers online courses and data and other information on the regional integration process. In June 2021, to support the participation of small and medium-size enterprises in intraregional trade, ALADI initiated a new business platform—Pymes Latinas Grandes Negocios—which comprised a business connections centre (representing a focus for networking and promotions), an information centre (providing access to databases and information on foreign trade), a training centre (offering training events and free online courses), and a logistics centre (providing support with respect to trading procedures, shipping costs and modalities, etc.). The organization seeks to become a regional reference body for the promotion and development of digital activities that increase intraregional trade and reduce the digital divide among its member countries. In June 2023 ALADI organized an event, `Ciclo País’, with participation by Chile, Colombia, Cuba, Ecuador, Mexico, Panama and Venezuela, that aimed to advance intra-ALADI trade and the use of digital tools, and to promote registration on the Pymes Latinas Grandes Negocios platform. A follow-up Ciclo Pais event, involving Argentina, Bolivia, Brazil, Paraguay, Peru and Uruguay, was held in August. EXPO ALADI 2023, the 10th annual ALADI trade and investment meeting, took place in the Cuban capital Havana in October.</p>
+          <p>
+      In July 2012 ALADI, 
+      <xr pageref="N" ref="IO-UN.1018">ECLAC</xr>
+      , and the 
+      <xr pageref="N" ref="IO-CAN.42">CAF</xr>
+       concluded an inter-agency co-operation agreement establishing the internet-based Latin America/Asia-Pacific Observatory.
+    </p>
+     </int-org-section>
+     <int-org-section id="LAIA.IO.59" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Tendencias del Comercio</publ-name>
+                    <content-note style="NORMAL">biannual, in Spanish</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="LAIA.IO.48">Reports, studies, brochures, texts of agreements.</p>
+          <!--~ TENCI report - quarterly as from 2020, was hitherto monthly-->
+     </int-org-section>
+</int-org-entry>

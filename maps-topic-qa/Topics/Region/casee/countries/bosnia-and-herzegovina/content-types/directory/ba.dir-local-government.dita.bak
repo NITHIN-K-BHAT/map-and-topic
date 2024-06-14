@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289502" sllink="SLSDOCRF" sllinkid="289501" slsdocid="287762" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="BA.DIR.158" id-root="ba.dir" iso="ba" sect-type="local-government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Local Government</heading>
+                    <p id="BA.DIR.159">There are 144 municipalities in the country, of which one is in Brčko District, 80 are in the Federation, and 63 are in Republika Srpska.</p>
+                    <dir-section id="BA.DIR.13330304101" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <!--MR 27.03.2023 headline content checked-->
+                         <heading>Brčko District</heading>
+                         <org-list>
+                              <org-entryref id="SL3643066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643065" slsdocid="3643053" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.118216390534675" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Brčko Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>76100 Brčko, bul. Mira 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(49) 240600</telephone>
+                                             <fax>(49) 490020</fax>
+                                             <email>gradjani@bdcentral.net</email>
+                                             <internet>www.vlada.bdcentral.net</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zijad</forename>
+                                                       <surname>Nišić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.13330295571" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Federation of Bosnia and Herzegovina</heading>
+                         <p>Of the 80 municipalities in the Federation, three (Bihać, Mostar and Sarajevo) are designated as urban municipalities.</p>
+                         <org-list>
+                              <org-entryref id="SL3643033" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643032" slsdocid="2032009" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA-BF.DIR.1181553777" id-root="ba-bf.dir" iso="ba-bf" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Bihać Urban Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>77000 Bihać, Bosanska 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(37) 222220</telephone>
+                                             <email>kabinet@bihac.org</email>
+                                             <internet>www.bihac.org</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elvedin</forename>
+                                                       <surname>Sedić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3643037" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643036" slsdocid="2038157" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1182163905" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Mostar Urban Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>88000 Mostar, Hrvatskih Branitelja 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(36) 447400</telephone>
+                                             <fax>(36) 447445</fax>
+                                             <email>grad.mostar@mostar.ba</email>
+                                             <internet>www.mostar.ba</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mario</forename>
+                                                       <surname>Kordić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3643040" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643039" slsdocid="2038180" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1182165091" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sarajevo Urban Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, Hamdije Kreševljakovića 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 208340</telephone>
+                                             <fax>(33) 208341</fax>
+                                             <email>grad@sarajevo.ba</email>
+                                             <internet>sarajevo.ba</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Benjamina</forename>
+                                                       <surname>Karić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="BA.DIR.13330299351" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Republika Srpska</heading>
+                         <p>Of the 63 municipalities in Republika Srpska, two—the de facto capital, Banja Luka, and Istočno (East) Sarajevo—are designated as urban municipalities.</p>
+                         <org-list>
+                              <org-entryref id="SL3643045" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643044" slsdocid="2038538" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1182182065" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Banja Luka Urban Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>78000 Banja Luka, trg Srpskih vladara 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 244400</telephone>
+                                             <fax>(51) 212526</fax>
+                                             <email>kabinet.gradonacelnika@banjaluka.rs.ba</email>
+                                             <internet>www.banjaluka.rs.ba</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Draško</forename>
+                                                       <surname>Stanivuković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3643049" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3643048" slsdocid="2038596" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="BA.DIR.1182186064" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Istočno Sarajevo Urban Municipality</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Istočno Novo Sarajevo, Stefana Nemanje 14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(57) 340851</telephone>
+                                             <fax>(57) 342630</fax>
+                                             <email>portparol@gradistocnosarajevo.net</email>
+                                             <internet>gradistocnosarajevo.net</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ljubiša</forename>
+                                                       <surname>Ćosić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

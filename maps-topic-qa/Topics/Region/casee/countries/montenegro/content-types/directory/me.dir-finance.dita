@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654099" sllink="SLSDOCRF" sllinkid="1654098" slsdocid="1653202" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.DIR.1152111135" id-root="me.dir" iso="me" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 19.04.2022 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="ME.DIR.051" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <dir-section id="ME.DIR.11804428821" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL2021378" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2021377" slsdocid="288590" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.490" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Central Bank of Montenegro</org-entry-name>
+                                                  <alt-name>Centralna Banka Crne Gore</alt-name>
+                                                  <abbr>CBCG</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, bul. Petra Cetinjskog 6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 665349</telephone>
+                                                  <email>info@cbcg.me</email>
+                                                  <internet>www.cbcg.me</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Irena</forename>
+                                                            <surname>Radović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="ME.DIR.11804429551" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Selected Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL2021388" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2021387" slsdocid="1971193" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1178189990" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Crnogorska Komercijalna Banka a.d. Podgorica</org-entry-name>
+                                                  <abbr>CKB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, Moskovska b.b.</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 404255</telephone>
+                                                  <email>info@ckb.me</email>
+                                                  <internet>www.ckb.me</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <content-note style="NORMAL">
+                    100% owned by 
+                    <xr pageref="N" ref="HU.DIR.428">OTP Bank (Hungary)</xr>
+                                             </content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tamás</forename>
+                                                            <surname>Kamarási</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2922665" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2922664" slsdocid="1665129" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1153224724" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Erste Bank a.d. Podgorica</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        81000 Podgorica, ul. Arsenija Boljevica 2
+                        <sc>a</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 440440</telephone>
+                                                  <fax>(20) 440432</fax>
+                                                  <email>info@erstebank.me</email>
+                                                  <internet>www.erstebank.me</internet>
+                                             </address-block>
+                                             <found-date>2002</found-date>
+                                             <content-note style="NORMAL">fmrly Opportunity Bank</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2009</content-note>
+                                             <content-note style="NORMAL">subsidiary of Erste Bank der Oesterreichischen Sparkassen AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Aleksa</forename>
+                                                            <surname>Lukić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8401285" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8401284" slsdocid="8401261" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1675854938" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Hipotekarna Banka a.d. Podgorica</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, Josipa Broza Tita 67</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(77) 700001</telephone>
+                                                  <email>hipotekarna@hb.co.me</email>
+                                                  <internet>www.hipotekarnabanka.com</internet>
+                                             </address-block>
+                                             <found-date>2002</found-date>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Esad</forename>
+                                                            <surname>Zaimović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2922789" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2922788" slsdocid="1665110" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1153223090" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>NLB Banka a.d. Podgorica</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, Cetinjska 11, Capital Plaza</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 402000</telephone>
+                                                  <fax>(20) 402038</fax>
+                                                  <email>info@nlb.me</email>
+                                                  <internet>www.nlb.me</internet>
+                                             </address-block>
+                                             <found-date>1905</found-date>
+                                             <content-note style="NORMAL">fmrly MNB Crnogorska banka—Banque de Montenegro</content-note>
+                                             <content-note style="NORMAL">name changed to NLB Montenegrobanka a.d. Podgorica in 2006</content-note>
+                                             <content-note style="NORMAL">name changed as above in 2016, following merger with Euromarket Banka</content-note>
+                                             <content-note style="NORMAL">
+                    99.8% owned by 
+                    <xr pageref="N" ref="SI.DIR.445">Nova Ljubljanska Banka d.d. (Slovenia)</xr>
+                                             </content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Martin</forename>
+                                                            <surname>Leberle</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL3700326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3700325" slsdocid="3700252" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1336710583" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--sc 27.03.2020 add tel and fax confirmed at https://seenews.com/companies/company_profile/prva-banka-crne-gore-ad-3791-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Prva Banka Crne Gore a.d.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, bul. Svetog Petra Cetinjskog 141</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 445217</telephone>
+                                                  <email>info@prvabankacg.com</email>
+                                                  <internet>www.prvabankacg.com</internet>
+                                             </address-block>
+                                             <found-date>1901 as Prva Nikšićka Stedionica; present name adopted in 2007</found-date>
+                                             <content-note style="NORMAL">19.8% owned by Elektroprivreda Crne Gore AD Nikšić</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Milan</forename>
+                                                            <surname>Perović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tarik</forename>
+                                                            <surname>Telaćević</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8401402" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8401401" slsdocid="8401288" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1675855344" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Universal Capital Bank a.d. Podgorica</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>81000 Podgorica, Stanka Dragojevića bb</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 481481</telephone>
+                                                  <fax>(20) 481482</fax>
+                                                  <email>info@ucbank.me</email>
+                                                  <internet>ucbank.me</internet>
+                                             </address-block>
+                                             <found-date>2007</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Miloš</forename>
+                                                            <surname>Pavlović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="ME.DIR.053" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL1653220" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1653219" slsdocid="1237090" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1113829294" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Stock Exchange">
+                                        <data-protection date-added="22.04.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Montenegro Stock Exchange</org-entry-name>
+                                             <alt-name>Montenegroberza</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, Moskovska 77</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 229710</telephone>
+                                             <fax>(20) 229711</fax>
+                                             <email>info@mnse.me</email>
+                                             <internet>www.mnse.me</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Verica</forename>
+                                                       <surname>Matanović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Milena</forename>
+                                                       <surname>Vučinić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>5 mems (2023)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="ME.DIR.054" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <org-list>
+                              <org-entryref id="SL4455948" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4455947" slsdocid="4455920" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1398160039" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--MR 08.02.2023 Not sure about president-->
+                                        <!--Sc 27.03.2020 Note confirmed at https://seenews.com/companies/company_profile/generali-osiguranje-montenegro-ad-612843-->
+                                        <org-entry-head>
+                                             <org-entry-name>Generali Osiguranje Montenegro a.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Podgorica, Kralja Nikole 27
+                      <sc>a</sc>
+                      /VI
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 444800</telephone>
+                                             <fax>(20) 444810</fax>
+                                             <email>kontakt@generali.me</email>
+                                             <internet>www.generali.me</internet>
+                                        </address-block>
+                                        <found-date>2008</found-date>
+                                        <content-note style="NORMAL">non-life</content-note>
+                                        <content-note style="NORMAL">26.8% owned by Generali Osiguranje Srbija AD (Serbia), 65.2% owned by Generali CEE Holding (Netherlands), 7.9% owned by Generali Resiguranje Srbija a.d.o. (Serbia)</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dragan</forename>
+                                                       <surname>Filipović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dejan</forename>
+                                                       <surname>Bajić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4456046" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4456045" slsdocid="4456016" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1398161787" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--sc 27.03.2020 role group confirmed at https://seenews.com/companies/company_profile/grawe-osiguranje-ad-podgorica-411834-->
+                                        <org-entry-head>
+                                             <org-entry-name>Grawe Osiguranje a.d. Podgorica</org-entry-name>
+                                             <alt-name>Grawe Insurance</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, Ivana Crnojevića 62/1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 210790</telephone>
+                                             <fax>(20) 210963</fax>
+                                             <email>info.zivot@grawe.me</email>
+                                             <internet>www.grawe.me</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <content-note style="NORMAL">life</content-note>
+                                        <content-note style="NORMAL">wholly owned by Grazer Wechselseitige Versicherung AG (Austria)</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nataša</forename>
+                                                       <surname>Kapetanović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1653224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1653223" slsdocid="1237076" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1113828477" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Lovćen Osiguranje a.d. Podgorica</org-entry-name>
+                                             <alt-name>Lovćen Insurance Co Podgorica</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      81000 Podgorica, ul. Slobode 13
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 404410</telephone>
+                                             <email>info@lo.co.me</email>
+                                             <internet>www.lo.co.me</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">99.9% owned by Triglav INT Holdinska Druzba d.d. (Slovenia)</content-note>
+                                        <content-note style="NORMAL">insurance and reinsurance</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tedo</forename>
+                                                       <surname>Đekanović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matjaz</forename>
+                                                       <surname>Bozić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--DH no 1 insurance co in ME as at early 2010 - reportedly holds 70% of the market-share-->
+                                        <!--TP 22.04.2014 email and fax no not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2946051" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2946050" slsdocid="2946036" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1271173010" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Sava Osiguranje a.d.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, ul. Svetlane Kane Radević 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(20) 234008</telephone>
+                                             <email>info@sava.co.me</email>
+                                             <internet>www.sava.co.me</internet>
+                                        </address-block>
+                                        <found-date>2002 as Montenegro Osiguranje a.d.</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2016</content-note>
+                                        <content-note style="NORMAL">life and non-life, insurance and reinsurance</content-note>
+                                        <content-note style="NORMAL">wholly owned by Sava Re (Slovenia)</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marko</forename>
+                                                       <surname>Jazbec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chief Exec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nebojša</forename>
+                                                       <surname>Šćekić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4455903" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4455902" slsdocid="4455878" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="ME.DIR.1398159313" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--Sc 27.03.2020 stats confirmed at https://www.uniqa.me/o-nama/uniqa-osiguranje.html-->
+                                        <org-entry-head>
+                                             <org-entry-name>UNIQA Osiguranje</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, ul. Bulevar Džordža Vašingtona 98/4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 444700</telephone>
+                                             <email>info@uniqa.me</email>
+                                             <internet>www.uniqa.me</internet>
+                                        </address-block>
+                                        <found-date>2008</found-date>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <content-note style="NORMAL">100% owned by UNIQA internationale Beteiligungs-Verwaltungs GmbH (Austria)</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir (Non-life Insurance)</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimir</forename>
+                                                       <surname>Marković</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir (Life Insurance)</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Boris</forename>
+                                                       <surname>Đurović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL4455823" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4455822" slsdocid="4455802" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="ME.DIR.1398158190" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Agencija za Nadzor Osiguranja Crna Gora</org-entry-name>
+                                                  <alt-name>Insurance Supervision Agency of Montenegro</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        81000 Podgorica, ul. Moskovska 17
+                        <sc>a</sc>
+                         M/C1
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 513502</telephone>
+                                                  <fax>(20) 513503</fax>
+                                                  <email>agencija@ano.co.me</email>
+                                                  <internet>www.ano.me</internet>
+                                             </address-block>
+                                             <found-date>2007</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marko</forename>
+                                                            <surname>Ivanović</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

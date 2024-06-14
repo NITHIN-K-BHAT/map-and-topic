@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1603057" sllink="SLSDOCRF" sllinkid="1603056" slsdocid="1498551" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RO.DIR.1140629794" id-root="ro.dir" iso="ro" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1498557" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1498556" slsdocid="1498514" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="RO.DIR.1140629004" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Permanent Electoral Authority</org-entry-name>
+                                        <alt-name>Autoritatea Electorală Permanentă</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>030084 Bucharest, Str. Stavropoleos 6</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(21) 3100766</telephone>
+                                        <fax>(21) 3101387</fax>
+                                        <email>cabinetpresedinte@roaep.ro</email>
+                                        <internet>www.roaep.ro/prezentare</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Toni</forename>
+                                                  <surname>Greblă</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

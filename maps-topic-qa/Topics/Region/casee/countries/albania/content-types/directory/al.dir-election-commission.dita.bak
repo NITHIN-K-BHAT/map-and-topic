@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1598985" sllink="SLSDOCRF" sllinkid="1598984" slsdocid="1465022" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section country-id="al" id="AL.DIR.1136992280" id-root="al.dir" iso="al" sect-type="legislature" section="Government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" subsection="Election Commission" usage="ewyb casee">
+                    <!--MR 24.03.2023 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1465026" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1465025" slsdocid="1465006" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AL.DIR.1136991262" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Election Commission">
+                                   <org-entry-head>
+                                        <org-entry-name>Komisioni Qendror i Zgjyedhjeve</org-entry-name>
+                                        <abbr>KQZ</abbr>
+                                        <alt-name>Central Election Commission—CEC</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rruga Ibrahim Rrugova 4, 1019 Tirana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(4) 7235254</telephone>
+                                        <email>spokesperson@cec.gov.al</email>
+                                        <internet>kqz.gov.al</internet>
+                                   </address-block>
+                                   <found-date>1996</found-date>
+                                   <content-note style="NORMAL">seven mems</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ilirjan</forename>
+                                                  <surname>Celibashi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

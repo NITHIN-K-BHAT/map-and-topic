@@ -1,0 +1,839 @@
+<?xml version="1.0"?>
+<int-org-entry id="IDB.IO" id-root="idb.io" iso="idb.io" original-filename="wb02052.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio sacac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Inter-American Development Bank</org-entry-name>
+               <abbr>IDB</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">Major Non-UN Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="sacac">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb edio sacac">Inter-American Development Bank</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>1300 New York Ave, NW, Washington, DC 20577, USA</verbatim-address>
+               </address>
+               <telephone alsofax="N">(202) 623-1000</telephone>
+               <fax>(202) 623-3096</fax>
+               <internet>www.iadb.org</internet>
+          </address-block>
+          <p id="IDB.IO.3">
+      The Bank was founded in 1959 to promote the individual and collective advancement of Latin American and Caribbean countries through the financing of economic and social development projects and the provision of technical assistance. From 1976 membership was extended to include countries outside the region. The Bank, 
+      <xr pageref="N" ref="IDB.IO.69">IDB Invest</xr>
+       and IDB Lab collectively form the Inter-American Bank Group (IDB Group).
+    </p>
+          <int-org-section id="IDB.IO.169" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <table-block-simple id="IDB.IO.170" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="7.0cm" />
+                              <colspec colwidth="7.0cm" />
+                              <colspec colwidth="7.0cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Argentina</entry>
+                                        <entry style="NO-DOT-LEADER">Ecuador</entry>
+                                        <entry style="NO-DOT-LEADER">Nicaragua</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Austria</entry>
+                                        <entry style="NO-DOT-LEADER">El Salvador</entry>
+                                        <entry style="NO-DOT-LEADER">Norway</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bahamas</entry>
+                                        <entry style="NO-DOT-LEADER">Finland</entry>
+                                        <entry style="NO-DOT-LEADER">Panama</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Barbados</entry>
+                                        <entry style="NO-DOT-LEADER">France</entry>
+                                        <entry style="NO-DOT-LEADER">Paraguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belgium</entry>
+                                        <entry style="NO-DOT-LEADER">Germany</entry>
+                                        <entry style="NO-DOT-LEADER">Peru</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belize</entry>
+                                        <entry style="NO-DOT-LEADER">Guatemala</entry>
+                                        <entry style="NO-DOT-LEADER">Portugal</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bolivia</entry>
+                                        <entry style="NO-DOT-LEADER">Guyana</entry>
+                                        <entry style="NO-DOT-LEADER">Slovenia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Brazil</entry>
+                                        <entry style="NO-DOT-LEADER">Haiti</entry>
+                                        <entry style="NO-DOT-LEADER">Spain</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Canada</entry>
+                                        <entry style="NO-DOT-LEADER">Honduras</entry>
+                                        <entry style="NO-DOT-LEADER">Suriname</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chile</entry>
+                                        <entry style="NO-DOT-LEADER">Israel</entry>
+                                        <entry style="NO-DOT-LEADER">Sweden</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">China, People's Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Italy</entry>
+                                        <entry style="NO-DOT-LEADER">Switzerland</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Colombia</entry>
+                                        <entry style="NO-DOT-LEADER">Jamaica</entry>
+                                        <entry style="NO-DOT-LEADER">Trinidad and Tobago</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Costa Rica</entry>
+                                        <entry style="NO-DOT-LEADER">Japan</entry>
+                                        <entry style="NO-DOT-LEADER">United Kingdom</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Croatia</entry>
+                                        <entry style="NO-DOT-LEADER">Korea, Republic</entry>
+                                        <entry style="NO-DOT-LEADER">USA</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Denmark</entry>
+                                        <entry style="NO-DOT-LEADER">Mexico</entry>
+                                        <entry style="NO-DOT-LEADER">Uruguay</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Dominican Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Netherlands</entry>
+                                        <entry style="NO-DOT-LEADER">Venezuela</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IDB.IO.171" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IDB.IO.172" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Board of Governors</heading>
+               <p id="IDB.IO.52">All the powers of the Bank are vested in a Board of Governors, consisting of one Governor and one alternate appointed by each member country (usually ministers responsible for finance or presidents of central banks). The Board meets annually, with special meetings when necessary. The 2024 meeting was held in Punta Cana, Dominican Republic, in March.</p>
+          </int-org-section>
+          <int-org-section id="IDB.IO.173" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Board of Executive Directors</heading>
+               <p id="IDB.IO.53">The Board of Executive Directors is responsible for the operations of the Bank. It establishes the Bank's policies, approves loan and technical co-operation proposals that are submitted by the President of the Bank, and authorizes the Bank's borrowings on capital markets.</p>
+               <p id="IDB.IO.54">There are 14 Executive Directors and 14 alternates. Each Director is elected by a group of countries, except for the Directors representing Canada and the USA. The USA holds 30% of the vote on the Board, in respect of its contribution to the Bank's capital. </p>
+          </int-org-section>
+          <int-org-section id="IDB.IO.174" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Administration</heading>
+               <p id="IDB.IO.55">The executive structure of the Bank comprises the President, Executive Vice-President and Vice-Presidents for Countries; Sectors and Knowledge; and Finance and Administration. Other principal offices include those of Outreach and Partnerships; Strategic Planning and Development Effectiveness; Institutional Integrity and Risk Management; IDB Lab; and subregional country departments. The Bank has country offices in each of its borrowing member states, and special offices in Tokyo, Japan (covering Japan, the People’s Republic of China and the Republic of Korea), and in Madrid, Spain (covering Europe). There are some 2,000 Bank staff, of whom almost 30% are based in country offices.</p>
+               <dir-list>
+                    <dir-entry id="IDB.IO.56" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>President</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Ilan</forename>
+                                        <surname>Goldfajn</surname>
+                                   </person-name>
+                                   <person-note>Brazil</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IDB.IO.57" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Vice-President</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Jordan</forename>
+                                        <surname>Schwartz</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IDB.IO.389.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Financial Structure</heading>
+               <p>In July 2010 the Board of Governors endorsed the Ninth General Capital Increase (IDB-9), of US&#8201;$70,000m. In January 2012 member states approved the resolution authorizing IDB-9, and it entered into effect in the following month. In March 2024 the Board of Governors approved a further capital increase (IDB-10), of $3,500m.</p>
+               <p>At 31 December 2023 the subscribed Ordinary Capital stock totalled US $176,755m. of which $6,039m. was paid-in, $164,901m. was callable and $5,815m. was additional paid-in capital which had no effect on voting power. The five largest shareholders are the USA (30.7%), Brazil and Argentina (both 11.2%), Mexico (7.2%) and Japan (5.0%).</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IDB.IO.175.33" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>
+      In March 2022 the Board of Governors mandated a capital increase for the Bank’s private sector arm, 
+      <xr pageref="N" ref="IDB.IO.69">IDB Invest</xr>
+       (`IDB Invest 2.0’). A Joint International Financial Institution Plan to Address Food Insecurity was issued collectively by the IDB, IMF, World Bank and other international financial institutions in May, in response to the wider global impacts of the Russian Federation’s invasion of Ukraine.
+    </p>
+          <p>
+      In March 2024 the Board of Governors approved a new Institutional Strategy (referred to as IDBImpact+), covering the period 2024-30, that was focused on transforming the impact, scale and agility of the Bank’s continental development work. The three core objectives of the Strategy were: Reduce poverty and inequality; Address climate change; and Bolster sustainable regional growth. They were to be pursued through seven operational focus areas. Of these, three were cross-cutting: biodiversity, natural capital and climate action; gender equality and inclusion of diverse population groups; and institutional capacity, rule of law and citizen security. The other four focus areas were: social protection and human capital development; productive development and innovation through the private sector; sustainable, resilient and inclusive infrastructure; and regional integration. To facilitate the new approach, a US&#8201;$3,500m. capital increase was improved at that time to fund a new business model for 
+      <xr pageref="N" ref="IDB.IO.69">IDB Invest</xr>
+      , to enable it to more than double its impact; the Bank’s innovation branch, 
+      <xr pageref="N" ref="IDB.IO.69.1">IDB Lab</xr>
+      , was to be allocated additional resources amounting to $400m. It was envisaged that synergies would be strengthened across the IDB Group, and that the Group would work in an integrated manner with other multilateral development banks (MDBs). The IDB was to develop innovative financial instruments to mobilize larger resources, with a focus on addressing climate change and development gaps.
+    </p>
+          <p>In March 2024 the Bank reported that overall economic growth of 2.1% had been achieved in Latin America and the Caribbean in 2023; it was envisaged that this would decelerate to 1.6% in 2024. The average inflation rate across the region stood at 3.8% in December 2023. The overall value of exports from the region declined by 2.2% in 2023 (having expanded by 17% in 2022).</p>
+          <int-org-section id="IDB.IO.2000" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Operations</heading>
+               <p>The Bank issues sovereign-guaranteed investment loans that are used to finance economic and social development projects and sovereign-guaranteed policy-based loans that support agreed programmes focused on policy reform and on institutional change in specific sectors. Its sovereign-guaranteed lending extends highly concessional terms (comprising a grace period of 40 years and a 0.25% fixed interest rate) to less developed member states; blended loans combine regular lending terms with a concessional portion. Since 2017 special development lending (SDL) has been available to address situations where the impacts of a macroeconomic crisis are impeding a country’s economic and social advancement. Non-sovereign-guaranteed loans and guarantees may finance investments across most sectors. The Bank also lends to other development institutions.</p>
+               <p>During 2023 the Bank approved loans and guarantees amounting to US $12,515m., compared with $14,471m. in 2022. Some 92 sovereign guaranteed loan operations were approved in 2023, of which 74 were investment initiatives, 18 policy-based loan projects, and two SDLs). Disbursements on loans amounted to $11,012m. As at 31 December 2023 total borrowings outstanding were $81,082m., compared with $78,870m. at the end of the previous year.</p>
+               <p>A Conditional Credit Line for Investment Projects (CCLIP) was introduced in 2016, with the aim of facilitating cross-cutting and multisectoral co-operation. Some 21 new CCLIPs were approved in 2023, totalling nearly US&#8201;$2,800m. In that year a new Contingent Credit Facility for Natural Disaster Emergencies and Public Health (CCF) was approved, for Panama, and a pre-existing CCF for Argentina was reformulated.</p>
+               <p-group>
+                    <heading>HIPC Initiative</heading>
+                    <p>In mid-2000 a committee of the Board of Governors endorsed a financial framework for the Bank's participation in an enhanced initiative of the International Monetary Fund (IMF) and the World Bank to assist heavily indebted poor countries (HIPCs) to maintain a sustainable level of debt. The Bank was to provide US&#160;$896m. (in net present value—NPV), in addition to $204m. committed under the original version of the scheme, of which $307m. was for Bolivia, $65m. for Guyana, $391m. for Nicaragua and $133m. for Honduras. In March 2007 the Bank’s Board of Governors mandated the Bank’s participation in the Multilateral Debt Relief Initiative (MDRI), which had been approved by the World Bank and the IMF in 2005 as a means of achieving 100% cancellation of debts for eligible HIPCs. Under the initiative the eligible `completion point’ countries, along with Haiti (which had reached `decision point' in November 2006), were to receive additional debt relief amounting to some $3,370m. in principal payments and $1,000m. in future interest payments, cancelling loan balances with the Bank’s Fund for Special Operations (FSO) (outstanding as of 31 December 2004). Haiti reached completion point under the HIPC initiative in June 2009. Accordingly, the FSO delivered debt relief under the enhanced HIPC initiative and the MDRI amounting to some $419m. In September 2010 the US Government made available an advance contribution of $204m. to the FSO, enabling the Bank to announce the cancellation of Haiti’s outstanding debts, amounting to $484m.</p>
+               </p-group>
+               <p-group id="IDB.IO.2310">
+                    <heading>Sectoral Activities</heading>
+                    <p>In 2023, of the 92 new loans and grants approved by the Bank, 40 (amounting to US&#8201;$6,076m.) were for Infrastructure and Environment; 27 ($4,193m.) for Institutions for Development; 20 ($2,127m.) for the Social Sector; two ($85m.) for Integration and Trade; and three ($242m.) for multiple sectors.</p>
+                    <p>
+          Grants are issued through the Bank’s Social Entrepreneurship Program to private, non-profit, community-based organizations and to public local development bodies to fund initiatives in areas including technical assistance and training, and to finance investment in, 
+          <i>inter alia,</i>
+           basic services or productive infrastructure.
+        </p>
+                    <p>In November 2021, at the 26th Conference of the Parties of the UN Framework Convention on Climate Change, the Bank issued a joint statement with other major MDBs regarding `Nature, People and Planet’, placing greater emphasis on support for sustainable and nature-based strategies. During 2022 Bank approvals for climate-related activities amounted to US&#8201;$5,900m. Some 65% of annual project approvals from 2023 were to include investments in climate change adaptation and mitigation strategies, and every project was to take into account nationally determined contributions committed to under the 2015 Paris Agreement on climate change. It was reported in early 2024 that the region’s renewable energy capacity had expanded by 51% during 2015-22. The Bank acts as Technical Secretariat of a Renewables in Latin America and the Caribbean (RELAC) initiative.</p>
+                    <p>An umbrella programme to promote inclusive sustainable development in the Amazon region, Amazonia Forever, was launched in June 2023. It was to be overseen by a new Network of Ministers of Finance and Planning, also established at that time. In August the Bank extended support for a new grouping formed by some 20 regional mayors, the Amazon Cities Forum, which aimed to promote capacity building and collaboration towards more sustainable urbanization. A One Caribbean initiative, to foster subregional integration and resilience, was endorsed by the Board of Governors in March 2024.</p>
+                    <p>The Bank aims to incorporate gender and diversity targets into its operations. In March 2021 it initiated a `Women Growing Together in the Americas’ programme, which was to support regional women entrepreneurs with the integration of their businesses into regional and global value chains. A new office of Special Advisor on Gender and Diversity was inaugurated in March 2024.</p>
+                    <p>In early 2024 the Bank, the Pan American Health Organization, and partner governments initiated a new Pan-American Highway for Digital Health Initiative, providing for the digitalization of clinical data to promote the interoperability of health information.</p>
+                    <p>A Special Broadband Program, inaugurated in 2013, promotes increased adoption of, access to and usage of broadband. An index to assess broadband services throughout the region, DigiLAC, was inaugurated by the Program in May 2014. In 2021 the Bank estimated that some US&#8201;$68,500m. was required to close the digital connectivity gap between Latin America and the Caribbean and countries of the Organisation for Economic Co-operation and Development, but envisaged that doing so would generate 15m. jobs and significantly boost economic growth.</p>
+                    <p usage="edio sacac">By 2024 more than 200 cities were participating in an IDB City Network to promote institutional support and good practices in environmental, economic and social sustainability. In April 2012 the Bank launched a Citizen Security Initiative, which provides grants for technical co-operation projects aimed at strengthening the effectiveness of public policies in promoting citizen security and justice.</p>
+                    <!--Salud Mesoamerica Index Americas-->
+               </p-group>
+               <p-group>
+                    <heading>Technical Co-operation</heading>
+                    <p>The Bank provides technical co-operation to help member countries to identify and prepare new projects, to improve loan execution, to strengthen the institutional capacity of public and private agencies, to address extreme conditions of poverty, and to promote small and micro enterprise development. The Bank has provided extensive technical support for the formulation of economic integration strategies in the Andean, Central American and Southern Cone regions. The Bank pursues a Regional Policy Dialogue through a series of sectoral networks in order to promote the high-level exchange of knowledge in key areas of development. In 2023 the Bank approved US&#8201;$272m. to finance technical assistance activities.</p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="IDB.IO.555" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Trust Funds and External Co-operation</heading>
+               <p>Several donor countries have placed funds under the Bank's administration for assistance to Latin America, outside the framework of the Ordinary Resources and the Bank's Special Operations. These include the Social Progress Trust Fund (set up by the USA in 1961); the Venezuelan Trust Fund (set up in 1975); the Japan Special Fund (1988); and other funds administered on behalf of Austria, Belgium, Canada, Chile, Denmark, Finland, France, Israel, Italy, Japan, the Netherlands, Norway, Portugal, the Republic of Korea, Spain, Sweden, Switzerland, the United Kingdom and the European Union (EU). An EU-funded Program for the Development of Tech­nical Co-operation was initiated in 1991. The Bank manages a Spanish General Cooperation Fund, established in 2001.</p>
+               <p>In November 2009 the Bank signed a Memorandum of Understanding (MOU) with the Asian Development Bank to support projects and programmes that promote sustainable, low-carbon transport in both regions. Agreements on co-financing projects were concluded in 2017 with the Islamic Development Bank and the Asian Infrastructure Investment Bank. In December 2015 the Bank joined the Inclusive Green Growth Partnership, a collaboration between the Global Green Growth Institute, UN agencies, and MDBs, also including the African Development Bank and the Asian Development Bank), which aimed to promote social inclusion and green growth at national level. In October 2023 the Bank’s President, jointly with the heads of nine other MDBs, pledged to strengthen collaboration for greater impact in achieving the sustainable development goals and addressing transboundary challenges.</p>
+               <p>In May 2020 the Bank and the International Organization for Migration signed an MOU on co-operation in promoting orderly, regular, and safe migration as a means of enabling sustainable development and inclusive growth in the region’s economies.</p>
+               <p>In August 2020 the Bank, the Corporacion Andina de Fomento, and FONPLATA—Banco de Desarrollo together initiated an Alliance for the Integration and Development of Latin America and the Caribbean (ILAT), through which financial and technical support for innovative regional integration projects was to be offered.</p>
+               <p>In 2021 the Bank launched a Private Sector Partners Coalition, through which it began to work with some 160 leading companies to advance projects in areas including women’s empowerment and digital transformations.</p>
+               <p>An IDB Grant Facility (GRF) was established in June 2007, to make available resources for projects supporting reconstruction and development in Haiti. In March 2023, the Board of Governors approved transfers of US&#8201;$140m. to the GRF.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IDB.IO.177" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report</publ-name>
+                    <content-note style="NORMAL" />
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Caribbean Economics Quarterly</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Connexa/Conexão</publ-name>
+                    <content-note style="NORMAL">quarterly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Development in the Americas</publ-name>
+                    <content-note style="NORMAL">series</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Latin American and Caribbean Macroeconomic Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Quarterly Business Review</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Sustainability Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Trade and Integration Monitor</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="IDB.IO.70">Occasional papers, working papers, special reports.</p>
+     </int-org-section>
+     <int-org-section id="IDB.IO.180" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Bank Group Affiliates</heading>
+          <org-list>
+               <org-entry id="IDB.IO.69" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--GS 23.08.2017 Tel and fax could not be confirmed-->
+                    <org-entry-head>
+                         <org-entry-name>IDB Invest</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>1350 New York Ave, NW, Washington, DC 20577, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(202) 623-1000</telephone>
+                         <fax>(202) 623-2360</fax>
+                         <email>iicmail@iadb.org</email>
+                         <internet>www.idbinvest.org</internet>
+                    </address-block>
+                    <found-date>1985, as the Inter-American Investment Corporation (IIC); commenced operations 1989; present brand name adopted in Nov. 2017</found-date>
+                    <content-note style="NORMAL">in March 2015 the IDB and IIC Boards of Governors, with the aim of maximizing the efficiency of the IDB Group’s private sector activities, consolidated the IDB’s depts of Opportunities for the Majority (launched in 2006 to improve conditions for low-income communities) and Structured and Corporate Finance into the IIC; on 1 Jan. 2016 the transfer from the Bank to the IIC of administrative and operational functions and non-financial resources relating to non-sovereign-guaranteed loan activities took effect</content-note>
+                    <content-note style="NORMAL">in 2016 the IIC also assumed responsibility for the Trade Finance Facilitation Program (TFFP, which had been given permanent status in the Bank in 2006, tasked with supporting economic growth in the region by expanding the financing available for international trade activities)</content-note>
+                    <content-note style="NORMAL">in March 2022 the IADB Board of Governors mandated a capital increase and modernization agenda for IDB Invest (`IDB Invest 2.0’)</content-note>
+                    <content-note style="NORMAL">during 2023 IDB Invest mobilized financing totalling US&#8201;$1,300m.</content-note>
+                    <content-note style="NORMAL">in March 2024 the Bd of Governors approved a new business model and enhanced funding for IDB Invest, to enable it to take on more risk, broaden its field presence, deploy innovative products, and to more than double its impact</content-note>
+                    <content-note style="NORMAL">IDB Invest places emphasis on investment in SMEs without access to other suitable sources of equity or long-term loans</content-note>
+                    <stats>mems: 48 countries as shareholders</stats>
+                    <role-group>
+                         <role>CEO</role>
+                         <person>
+                              <person-name>
+                                   <forename>James P.</forename>
+                                   <surname>Scriven</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+                    <content-note style="NORMAL">
+          publ. 
+          <publ-name>Annual Report</publ-name>
+                    </content-note>
+               </org-entry>
+               <org-entry id="IDB.IO.69.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <!--VK 04.02.2019 Only role group and address verified-->
+                    <org-entry-head>
+                         <org-entry-name>IDB Lab</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>1300 New York Ave, NW, Washington, DC 20577, USA</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(202) 942-8211</telephone>
+                         <fax>(202) 942-8100</fax>
+                         <email>mifcontact@iadb.org</email>
+                         <internet>bidlab.org</internet>
+                    </address-block>
+                    <found-date>1993 as the Multilateral Investment Fund (MIF)/Fondo Multilateral de Inversiones (FOMIN), an autonomous fund administered by the Bank to promote private sector devt in the region through innovative new projects; present name adopted in Oct. 2018</found-date>
+                    <content-note style="NORMAL">aims to accelerate inclusive growth through innovation</content-note>
+                    <content-note style="NORMAL">during 2023 IDB Lab approved $93.4m. for 102 operations</content-note>
+                    <content-note style="NORMAL">in March 2024 the IDB Bd of Governors approved a US $400m. increase in IDB Lab’s resources, to be deployed during 2026-32, and a new, more scalable, catalytic and sustainable business model for its operations</content-note>
+                    <content-note style="NORMAL">the LAC Women Founders Acceleration Program, initiated by IDB Lab in Aug. 2021, supports women-led science, technology or engineering business start-ups in the region</content-note>
+                    <content-note style="NORMAL">a (2nd) IDB Lab Forum event was organized in June 2023, in Bogotá, Colombia</content-note>
+                    <content-note style="NORMAL">issues a Global Microscope index measuring financial inclusion</content-note>
+                    <stats>mems: 39</stats>
+                    <role-group>
+                         <role>CEO</role>
+                         <person>
+                              <person-name>
+                                   <forename>Irene</forename>
+                                   <surname>Arias Hofman</surname>
+                              </person-name>
+                              <person-note>Spain</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <int-org-section id="IDB.IO.176" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Institutions</heading>
+          <org-list>
+               <org-entry id="IDB.IO.67" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Instituto para la Integración de América Latina y el Caribe (INTAL)</org-entry-name>
+                         <alt-name>Institute for the Integration of Latin America and the Caribbean</alt-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Esmeralda 130, 16°, 1035 Buenos Aires, Argentina</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(11) 4323-2365</telephone>
+                         <email>intal@iadb.org</email>
+                         <internet>www.iadb.org/en/intal/home</internet>
+                    </address-block>
+                    <found-date>1965 under the auspices of the IDB</found-date>
+                    <content-note style="NORMAL">undertakes research on regional integration and co-operation and issues related to international trade, hemispheric integration and relations with other regions and countries of the world</content-note>
+                    <content-note style="NORMAL">implements regional and national technical co-operation projects on integration</content-note>
+                    <content-note style="NORMAL">organizes fora on policy and integration</content-note>
+                    <content-note style="NORMAL">hosts the secretariat of the Integration of Regional Infrastructure in South America (IIRSA) initiative</content-note>
+                    <content-note style="NORMAL">maintains an extensive Documen­tation Center and various statistical databases</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Ana Ines</forename>
+                                   <surname>Basco</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+                    <content-note style="NORMAL">
+          publs 
+          <publ-name>Integración y Comercio/Integration and Trade</publ-name>
+           (2 a year), 
+          <publ-name>INTAL Monthly Newsletter, Informe Andino/Andean Report, CARICOM Report, Informe Centroamericano/Central American Report, Informe MERCOSUR/MERCOSUR Report</publ-name>
+           (2 a year)
+        </content-note>
+               </org-entry>
+               <org-entry id="IDB.IO.68" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Inter-American Institute for Economic and Social Development (INDES)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>1300 New York Ave, NW, Washington, DC 20577, USA</verbatim-address>
+                         </address>
+                         <internet>indesvirtual.iadb.org</internet>
+                    </address-block>
+                    <found-date>1994</found-date>
+                    <content-note style="NORMAL">aims to support the training of senior officials from public sector institutions and orgs involved with social policies and social services</content-note>
+                    <content-note style="NORMAL">organizes specialized subregional courses and seminars, national training pro­gs, and online courses, accessible through the BID Academy portal</content-note>
+                    <content-note style="NORMAL">produces teaching materials and also serves as a forum for the exchange of ideas on social reform</content-note>
+               </org-entry>
+          </org-list>
+     </int-org-section>
+     <int-org-section id="IDB.IO.178" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Statistics</heading>
+          <table-block id="IDB.IO.71.2" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>
+        Approvals by sector, 2023
+        <endnoteref idref="IDB.IO.31.2" ref-symbol="*" />
+               </table-heading>
+               <table style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="11cm" />
+                         <colspec colwidth="5.0cm" />
+                         <colspec colwidth="4.0cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Sector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Amount (US $ million)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Number of projects</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Infrastructure and environment</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,076</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">40</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Agriculture and rural development </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">235</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Energy</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,528</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Environment and natural disasters</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">567</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Sustainable tourism</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Transport</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,222</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Urban development and housing</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">699</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Water and sanitation</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">825</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Institutions for Development</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4,193</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">27</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Financial markets</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,100</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Industry</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Private firms and SME development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">850</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Reform/modernization of the state</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,178</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">17</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Science and technology</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">65</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">
+                                        <b>Integration and Trade</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">85</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Regional integration</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Trade</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">85</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Social sector</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,127</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">20</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Education</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">515</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Health</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">450</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Social investment</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,162</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">
+                                        <b>Multisector</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">242</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Total</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">12,722</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">92</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <endnote id="IDB.IO.31.2" ref-symbol="*">
+        Includes ordinary capital loans, guarantees, and operations financed, 
+        <i>inter alia</i>
+        , by the IDB Grant Facility and Clean Technology Fund, but excludes lending and projects approved under the Contingent Credit Line
+      </endnote>
+          </table-block>
+          <table-block id="IDB.IO.71" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="sacac">
+               <table-heading>Loans Outstanding by Sector at 31 December 2023</table-heading>
+               <table style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="11cm" />
+                         <colspec colwidth="5.0cm" />
+                         <colspec colwidth="4.0cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Sector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Amount (US $ million)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">%</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry style="DOT-LEADER">Agriculture and rural development </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,153</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.9</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Education</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,962</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.4</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Energy</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11,293</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.7</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Environment and natural disasters</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,466</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Financial markets</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11,662</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10.0</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Health</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5,633</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.8</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Industry</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">191</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Private firms and SMEs development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4,489</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.9</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Reform and modernization of the state</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">23,305</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">20.1</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Regional integration</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">322</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Science and technology</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,743</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.5</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Social investment</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">17,662</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Sustainable tourism</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">749</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.6</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Trade</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,510</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Transport</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">13,668</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11.8</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Urban development and housing</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4,608</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Water and sanitation</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8,398</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.1</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Others</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,353</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.2</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Total</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">116,167</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100.0</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+          </table-block>
+          <table-block id="IDB.IO.72" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="edio ewyb sacac">
+               <table-heading>Loan Approvals by Country, 2023</table-heading>
+               <heading-note>US $ million</heading-note>
+               <table style="WITH-RULES">
+                    <tgroup cols="4">
+                         <colspec colname="1" colwidth="5cm" />
+                         <colspec colname="2" colwidth="5cm" />
+                         <colspec colname="4" colwidth="5cm" />
+                         <colspec colname="5" colwidth="5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Country</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Sovereign</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Social Entrepreneurship Program</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Country total</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Argentina</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,715</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,717</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Bahamas</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">160</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">160</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Barbados</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Belize</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">31</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">31</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Bolivia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">235</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">237</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Brazil</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,358</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,362</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Chile</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">600</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">602</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Colombia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,385</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,391</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Costa Rica</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">225</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">225</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Dominican Republic</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">465</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">465</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Ecuador</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">876</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">878</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">El Salvador</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">293</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">295</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Guatemala</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Guyana</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">120</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">120</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Honduras</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">326</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">328</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Mexico</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">700</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">703</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Panama</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">425</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">425</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Paraguay</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">210</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">210</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Peru</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,060</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,063</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Suriname</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">170</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">170</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Trinidad and Tobago</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">43</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Uruguay</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">338</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">338</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Regional</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">150</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">152</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Total</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">12,084</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">31</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">12,115</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          Inter-American Development Bank, 
+          <i>Annual Report 2023</i>
+                    </source-info>
+               </sources>
+          </table-block>
+     </int-org-section>
+</int-org-entry>

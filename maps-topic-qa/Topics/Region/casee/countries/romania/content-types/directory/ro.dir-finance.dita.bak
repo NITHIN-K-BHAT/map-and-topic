@@ -1,0 +1,757 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62160" sllink="SLSDOCRF" sllinkid="62159" slsdocid="60346" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RO.DIR.508" id-root="ro.dir" iso="ro" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Finance</heading>
+                    <dir-section id="RO.DIR.509" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <dir-section id="RO.DIR.511" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL69792" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69791" slsdocid="60677" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.512" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--SC1 25.07.2017 role group verified-->
+                                             <org-entry-head>
+                                                  <org-entry-name>National Bank of Romania</org-entry-name>
+                                                  <alt-name>Banca Naţională a Romãniei</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>030031 Bucharest 3, Str. Lipscani 25</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3130410</telephone>
+                                                  <fax>(21) 3123831</fax>
+                                                  <email>info@bnro.ro</email>
+                                                  <internet>www.bnro.ro</internet>
+                                             </address-block>
+                                             <found-date>1880</found-date>
+                                             <content-note style="NORMAL">central bank and bank of issue</content-note>
+                                             <content-note style="NORMAL">manages monetary policy</content-note>
+                                             <content-note style="NORMAL">supervises commercial banks and credit business</content-note>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mugur Constantin</forename>
+                                                            <surname>Isărescu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--TP balance sheet not available-->
+                                             <!--TP 17.04.2014 balance sheet not available-->
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="RO.DIR.513" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Other Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL69794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69793" slsdocid="60676" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.514" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--NS 31.12.2015 role group https://www.alpha.gr/page/default.asp?la=2&id=2546-->
+                                             <!--Sc 05.042020 fax tel and email confirmed https://seenews.com/companies/company_profile/alpha-bank-romania-sa-3824-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Alpha Bank Romania SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        010566 Bucharest 1, Calea Dorobanţilor 237
+                        <sc>b</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 2092100</telephone>
+                                                  <fax>(21) 2316570</fax>
+                                                  <email>info@alphabank.ro</email>
+                                                  <internet>www.alphabank.ro</internet>
+                                             </address-block>
+                                             <found-date>1994; present name adopted in 2000</found-date>
+                                             <content-note style="NORMAL">
+                    99.92% owned by 
+                    <xr pageref="N" ref="GR.DIR.381">Alpha Bank AE (Greece)</xr>
+                                             </content-note>
+                                             <!--TP 17.04.2014 cap remains the same-->
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christos</forename>
+                                                            <surname>Giampanas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--TP 06.05.2013 address could not be updated-->
+                                             <!--TP 22.04.2014 chair name not updated-->
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL69808" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69807" slsdocid="60668" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.521" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banca Comercială Romãnă SA—BCR</org-entry-name>
+                                                  <alt-name>Romanian Commercial Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>030023 Bucharest 6, Calea Plevnei 159, Bldg A, 6th Floor</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 4074200</telephone>
+                                                  <email>contact.center@bcr.ro</email>
+                                                  <internet>www.bcr.ro</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <content-note style="NORMAL">
+                    93.9% owned by 
+                    <xr pageref="N" ref="AT.DIR.402">Erste Bank (Austria)</xr>
+                                             </content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sergiu Cristian</forename>
+                                                            <surname>Manea</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL69816" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69815" slsdocid="60664" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.525" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banca de Export-Import a Romãniei (Eximbank Romania)</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        050092 Bucharest 1, Str. Barbu Delavrancea 6
+                        <sc>a</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3048004</telephone>
+                                                  <email>office@eximbank.ro</email>
+                                                  <internet>www.eximbank.ro</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">95.37% state-owned</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Traian</forename>
+                                                            <surname>Halalai</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL69826" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69825" slsdocid="60656" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.530" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banca Transilvania SA</org-entry-name>
+                                                  <alt-name>Transylvanian Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400121 Cluj-Napoca, Str. Calea Dorobantilor 30-36</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(26) 4407150</telephone>
+                                                  <fax>(26) 4407179</fax>
+                                                  <email>contact@btrl.ro</email>
+                                                  <internet>www.bancatransilvania.ro</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">merged with Volksbank Romãnia at the end of 2015</content-note>
+                                             <content-note style="NORMAL">incorporated Bancpost SA in Jan. 2019</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Horia</forename>
+                                                            <surname>Ciorcilă</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Omer</forename>
+                                                            <surname>Tetik</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1240953" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1240952" slsdocid="60659" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.527" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>BRD-Groupe Société Générale SA</org-entry-name>
+                                                  <alt-name>Romanian Bank for Development</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>011171 Bucharest 1, Bd. Ion Mihalache 1-7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3016161</telephone>
+                                                  <email>mybrdcontact@brd.ro</email>
+                                                  <internet>www.brd.ro</internet>
+                                             </address-block>
+                                             <found-date>1990 to replace Investment Bank of Romania (f. 1923)</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2004</content-note>
+                                             <content-note style="NORMAL">financial and banking services and operations to individuals and private and small cos</content-note>
+                                             <content-note style="NORMAL">
+                    60.2% owned by 
+                    <xr pageref="N" ref="FR.DIR.1084">Société Générale (France)</xr>
+                                             </content-note>
+                                             <!--TP 17.04.2014 cap remains the same; res improved-->
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Giovanni Luca</forename>
+                                                            <surname>Soma</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>François</forename>
+                                                            <surname>Bloch</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL69834" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69833" slsdocid="60652" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.534" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc05.04.2020 email confirmed at https://seenews.com/companies/company_profile/cec-bank-sa-10022-->
+                                             <org-entry-head>
+                                                  <org-entry-name>CEC Bank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>030022 Bucharest 3, Calea Victoriei 13</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3111119</telephone>
+                                                  <email>office@cec.ro</email>
+                                                  <internet>www.cec.ro</internet>
+                                             </address-block>
+                                             <found-date>1864</found-date>
+                                             <content-note style="NORMAL">fmrly Casa de Economii şi Consemnaţiuni</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2008</content-note>
+                                             <content-note style="NORMAL">state-owned</content-note>
+                                             <role-group>
+                                                  <role>Chair. and Gen. Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bogdan Constantin</forename>
+                                                            <surname>Neacşu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--TP 25.04.2013 still 100% owned by Ministry of Finance of Romania-->
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7093171" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093170" slsdocid="60642" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.543" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>First Bank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>011132 Bucharest, Şos. Nicolae Titulescu 29-31, Sector 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3036969</telephone>
+                                                  <email>office@firstbank.ro</email>
+                                                  <internet>www.firstbank.ro</internet>
+                                             </address-block>
+                                             <found-date>2000 as Piraeus Bank</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2018</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ilinca</forename>
+                                                            <surname>Rosetti</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5158970" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5158969" slsdocid="60666" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.523" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Garanti Bank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        020331 Bucharest 2, Str. Fabrica de Glucoza 5, Business Centre, 3 Novo Park, Bldg 
+                        <sc>F</sc>
+                        , 5th-6th Floors
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 2089260</telephone>
+                                                  <fax>(21) 2089286</fax>
+                                                  <email>contact@garantibank.ro</email>
+                                                  <internet>www.garantibank.ro</internet>
+                                             </address-block>
+                                             <found-date>1998</found-date>
+                                             <ownership>Garanti Bank (Türkiye)</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Recep</forename>
+                                                            <surname>Baştuğ</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mustafa</forename>
+                                                            <surname>Tiftikcioglu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5158900" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5158899" slsdocid="60669" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.520" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="10.07.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>OTP Bank Romania SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>011017 Bucharest 3, Str. Buzesti 66-68</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3075710</telephone>
+                                                  <fax>(21) 3085180</fax>
+                                                  <email>office@otpbank.ro</email>
+                                                  <internet>www.otpbank.ro</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2005</content-note>
+                                             <content-note style="NORMAL">
+                    99.99% owned by 
+                    <xr pageref="N" ref="HU.DIR.428">OTP Bank Ltd (Hungary)</xr>
+                                             </content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gyula</forename>
+                                                            <surname>Fatér</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL69854" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69853" slsdocid="60641" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.544" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Raiffeisen Bank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        014476 Bucharest 1, Calea Floreasca 246
+                        <sc>c</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 3063002</telephone>
+                                                  <email>centrala@raiffeisen.ro</email>
+                                                  <internet>www.raiffeisen.ro</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2002</content-note>
+                                             <content-note style="NORMAL">99.9% owned by Raiffeisen International Beteiligungs AG (Austria)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zdenek</forename>
+                                                            <surname>Romanek</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2321882" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2321881" slsdocid="60647" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.538" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc 05.04.2020 contatct details confirmed at 3822 https://seenews.com/companies/company_profile/unicredit-bank-sa-3822-->
+                                             <org-entry-head>
+                                                  <org-entry-name>UniCredit Bank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        012101 Bucharest 1, Bldg Expozitiei 1
+                        <sc>f</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 2002020</telephone>
+                                                  <fax>(21) 2002022</fax>
+                                                  <email>infocenter@unicredit.ro</email>
+                                                  <internet>www.unicredit.ro</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                             <content-note style="NORMAL">98.3% owned by UniCredit S.p.A. (Italy)</content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mihaela</forename>
+                                                            <surname>Lupu</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5161930" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="RO.DIR.546" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking Association</heading>
+                         <org-list>
+                              <org-entryref id="SL69858" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69857" slsdocid="60637" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.547" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING ASSOCIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Romanian Banking Association</org-entry-name>
+                                             <alt-name>Asociaţia Romãnă a Băncilor</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      030205 Bucharest 3, Al. Negru Voda 4-6, Bloc 
+                      <sc>c</sc>
+                      3
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3212078</telephone>
+                                             <fax>(21) 4043097</fax>
+                                             <email>arb@arb.ro</email>
+                                             <internet>www.arb.ro</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">32 mems (2023)</content-note>
+                                        <role-group>
+                                             <role>Pres. of Bd of Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bogdan Constantin</forename>
+                                                       <surname>Neacşu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname> Danescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.548" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL69860" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69859" slsdocid="60635" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.549" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGE">
+                                        <data-protection date-added="16.06.2021" ticked-box="Y" />
+                                        <!--Sc 05.04.2020 stats not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Bucharest Stock Exchange</org-entry-name>
+                                             <alt-name>Bursa de Valori Bucureşti</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address> 020922 Bucharest 2, Bd. Carol I 34-36, 14th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3079500</telephone>
+                                             <fax>(21) 3079519</fax>
+                                             <email>bvb@bvb.ro</email>
+                                             <internet>bvb.ro</internet>
+                                        </address-block>
+                                        <found-date>1882</found-date>
+                                        <content-note style="NORMAL">reopened in 1995 (ceased operations in 1948)</content-note>
+                                        <stats>83 listed cos</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Radu</forename>
+                                                       <surname>Hanga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adrian</forename>
+                                                       <surname>Tănase</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.10904412291" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Commodities Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL981666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="981665" slsdocid="981659" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1090441005" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Commodities Exchange">
+                                        <org-entry-head>
+                                             <org-entry-name>Romanian Commodities Exchange</org-entry-name>
+                                             <alt-name>Bursa Romãnă de Mărfuri</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>011017 Bucharest 1, Str. Buzesti 82-94, 7th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3174560</telephone>
+                                             <fax>(21) 3172878</fax>
+                                             <email>office@brm.ro</email>
+                                             <internet>www.brm.ro</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres. and Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriel</forename>
+                                                       <surname>Purice</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.550" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <!--NS 31.12.2015 the Insurance Supervisory Commission (http://csa-isc.ro/) and National Association of Insurance and Re-insurance Companies of Romania (last entry in this section) have different number of insurance companies, the former recognizing only 21 and the latter having 26 member companies.-->
+                         <org-list>
+                              <org-entryref id="SL69862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69861" slsdocid="60633" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.551" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--NS 31.12.2015 website not working details updated from http://unsar.ro/despre-noi/membri/allianz-tiriac-asigurari-->
+                                        <!--market leader in 2004-->
+                                        <!--Sc 0504.2020 stats tel and fax confirmed at https://seenews.com/companies/company_profile/allianz-tiriac-asigurari-sa-412156-->
+                                        <org-entry-head>
+                                             <org-entry-name>Allianz-Tiriac Asigurări</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>011017 Bucharest 1, Str. Buzeşti 82-94</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2019100</telephone>
+                                             <email>info@allianztiriac.ro</email>
+                                             <internet>www.allianztiriac.ro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">52.2% owned by Allianz New Europe Holding GmbH and 44.5% owned by Vesanio Trading Ltd</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Virgil</forename>
+                                                       <surname>Soncutean</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL69866" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69865" slsdocid="60631" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.553" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--MR 15.02.2023 only role group confirmed, website is not working-->
+                                        <!--second-largest insurance co in country 04/05-->
+                                        <!--Sc 05.042020 all other details except CHair confirmed at Ionescu https://seenews.com/companies/company_profile/asigurarea-romaneasca-asirom-vienna-insurance-group-sa-412164-->
+                                        <org-entry-head>
+                                             <org-entry-name>Asigurarea Romãneasca—Asirom Vienna Insurance Gp SA</org-entry-name>
+                                             <abbr>ASIROM</abbr>
+                                             <alt-name>Romanian Insurance</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>020912 Bucharest 2, Bd. Carol I 31-33</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 6011099</telephone>
+                                             <fax>(21) 6011288</fax>
+                                             <email>comunicare@asirom.ro</email>
+                                             <internet>www.asirom.com.ro</internet>
+                                        </address-block>
+                                        <found-date>1991 as Asigurarea Romãneasca Asirom SA</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2008</content-note>
+                                        <ownership>86.4% owned by Vienna Insurance Gp (Austria)</ownership>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cristian</forename>
+                                                       <surname>Ionescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1241704" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1241703" slsdocid="1241693" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1113939121" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>NN Asigurări de Viăţa SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>050552 Bucharest 3, Str. Costache Negri 1-5, Opera Centre</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 9464</telephone>
+                                             <email>asigurari@nn.ro</email>
+                                             <internet>www.nn.ro</internet>
+                                        </address-block>
+                                        <found-date>1997 as ING Asigurări de Viăţa SA</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2014</content-note>
+                                        <content-note style="NORMAL">life</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anna</forename>
+                                                       <surname>Grzelonska</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1241690" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1241689" slsdocid="1241677" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1113937467" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Omniasig VIG</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>011862 Bucharest 1, Aleea Alexandru 51 sc. 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 4057420</telephone>
+                                             <email>office@omniasig.ro</email>
+                                             <internet>www.omniasig.ro</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">name changed as above in 2012</content-note>
+                                        <content-note style="NORMAL">insurance and reinsurance co</content-note>
+                                        <content-note style="NORMAL">99.5% owned by Vienna Insurance Gp, Austria</content-note>
+                                        <role-group>
+                                             <role>Chair. of Supervisory Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Peter</forename>
+                                                       <surname>Höfinger</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mihai</forename>
+                                                       <surname>Tecau</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1241701" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1241700" slsdocid="1241697" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1113939719" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--SC 05,04.2020 INFO UDPATEE DFROM https://seenews.com/companies/company_profile/uniqa-asigurari-sa-612892-->
+                                        <org-entry-head>
+                                             <org-entry-name>UNIQA Asigurări</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bucharest 1, Nicolae Caramfil 25</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2120882</telephone>
+                                             <email>info@uniqa.ro</email>
+                                             <internet>www.uniqa.ro</internet>
+                                        </address-block>
+                                        <found-date>1990 as Unita; name changed as above in 2008</found-date>
+                                        <content-note style="NORMAL">wholly owned by Uniqa Group, Austria</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>Cazacu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="RO.DIR.559" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Insurance Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL69878" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="69877" slsdocid="60624" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RO.DIR.560" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                             <org-entry-head>
+                                                  <org-entry-name>Uniunea Naţională a Societăţilor de Asigurare şi Reasigurare din Romãnia</org-entry-name>
+                                                  <alt-name>National Association of Insurance and Re-insurance Companies of Romania</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>011031 Bucharest 1, Str. Dr Iacob Felix 17-19, Ap. 68</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(31) 1300605</telephone>
+                                                  <email>office@unsar.ro</email>
+                                                  <internet>unsar.ro</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <stats>20 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alexandru</forename>
+                                                            <surname>Ciuncan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--TP 22.04.2014 contact nos not updated-->
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

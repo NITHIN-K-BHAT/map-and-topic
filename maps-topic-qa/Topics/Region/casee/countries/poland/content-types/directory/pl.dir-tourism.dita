@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL226214" sllink="SLSDOCRF" sllinkid="226213" slsdocid="216833" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="PL.DIR.665" id-root="pl.dir" iso="pl" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="PL.DIR.666">Poland is rich in historic cities, such as Gdańsk, Wrocław, Kraków, Poznań and Warsaw. There are numerous health and climatic resorts, while the mountains, forests and rivers provide splendid scenery and excellent facilities for touring and sporting holidays.</p>
+                    <org-list>
+                         <org-entryref id="SL1584045" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1584044" slsdocid="217028" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="PL.DIR.667" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--sb 09.04.2014 email pot@pot.gov.pl removed as the mail to this address of the org to update their information was undelivered...no other email available on the ownweb-->
+                                   <org-entry-head>
+                                        <org-entry-name>Polish Tourist Organization</org-entry-name>
+                                        <alt-name>Polska Organizacja Turystyczna</alt-name>
+                                        <abbr>POT</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>01-171 Warsaw, ul. Młynarska 42, VI piętro</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(666) 8426960</telephone>
+                                        <email>pot@pot.gov.pl</email>
+                                        <internet>www.pot.gov.pl</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Rafał</forename>
+                                                  <surname>Szmytke</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

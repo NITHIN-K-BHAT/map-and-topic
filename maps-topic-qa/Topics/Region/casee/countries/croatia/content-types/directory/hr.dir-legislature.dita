@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61948" sllink="SLSDOCRF" sllinkid="61947" slsdocid="58403" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.75" id-root="hr.dir" iso="hr" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Legislature</heading>
+                    <!--MR 05.04.2022 role group checked-->
+                    <org-expandref id="SL1169418" org-expanddtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1169417" slsdocid="1169376" slsdocty="org-entry-expanded org-expanddtd">
+                         
+                         <org-entry-expanded id="HR.DIR.7612126735135" id-root="hr.dir" iso="hr" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>Assembly</org-entry-name>
+                                   <alt-name>Sabor</alt-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>10000 Zagreb, trg sv. Marka 6</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(1) 4569444</telephone>
+                                   <fax>(1) 6303010</fax>
+                                   <email>gradjani@sabor.hr</email>
+                                   <internet>www.sabor.hr</internet>
+                              </address-block>
+                              <p>The unicameral Assembly comprises a minimum of 100 and a maximum of 160 members, who are elected directly for a term of four years. Eight seats are reserved for representatives of designated national minorities.</p>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1169397" sllink="SLSDOCRF" sllinkid="1169396" slsdocid="58379" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="HR.DIR.80" id-root="hr.dir" iso="hr" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="SABOR">
+                                             <dir-entry-name>President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gordan</forename>
+                                                            <surname>Jandroković</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <table-blockref id="SL1169400" sllink="SLSDOCRF" sllinkid="1169399" slsdocid="1146031" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                   
+                                   <table-block id="HR.DIR.83" id-root="hr.dir" iso="hr" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Zastupnički dom" type="ELECTION">
+                                        <table-heading>General Election, 17 April 2024</table-heading>
+                                        <table pgwide="NO" style="WITH-RULES">
+                                             <tgroup cols="2">
+                                                  <colspec colwidth="14cm" />
+                                                  <colspec colwidth="3cm" />
+                                                  <thead>
+                                                       <row>
+                                                            <entry align="left" style="NO-DOT-LEADER">Parties/coalitions</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                       </row>
+                                                  </thead>
+                                                  <tbody>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                                                                 <xr pageref="N" ref="HR.DIR.117">Hrvatska Demokratska Zajednica</xr>
+                          -led coalition
+                          <endnoteref idref="HR.DIR.83-1" ref-symbol="*" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">61</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                          Rijeke Pravde (Rivers of Justice)
+                          <endnoteref idref="HR.DIR.83-2" ref-symbol="†" />
+                           coalition</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                                                                 <xr pageref="N" ref="HR.DIR.1595240559">Domovinski Pokret </xr>
+                                                                 <endnoteref idref="HR.DIR.83-3" ref-symbol="‡" />
+                           coalition</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                                                                 <xr pageref="N" ref="HR.DIR.1107870968">Most Nezavisnih Lista</xr>
+                          -
+                          <xr pageref="N" ref="HR.DIR.1595241223">Hrvatski Suverenisti</xr>
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                                                                 <xr pageref="N" ref="HR.DIR.1595239596">Možemo!—Politička Platforma</xr>
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">10</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                          Naša Hrvatska (Our Croatia )
+                          <endnoteref idref="HR.DIR.83-4" ref-symbol="‖" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">Nezavisna Platforma Sjever (Independent Platform of the North)</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">
+                                                                 <xr pageref="N" ref="HR.DIR.1595246657">Fokus</xr>
+                          -Republika (Republic) coalition
+                        </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry style="DOT-LEADER">Others</entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       </row>
+                                                       <row>
+                                                            <entry align="left" style="DOT-LEADER">
+                                                                 <b>Total</b>
+                                                                 <endnoteref idref="HR.DIR.83-6" ref-symbol="§" />
+                                                            </entry>
+                                                            <entry align="right" style="NO-DOT-LEADER">151</entry>
+                                                       </row>
+                                                  </tbody>
+                                             </tgroup>
+                                        </table>
+                                        <endnote id="HR.DIR.83-1" ref-symbol="*">
+                  In alliance with the 
+                  <xr pageref="N" ref="HR.DIR.116">Hrvatska Demokršćanska Stranka</xr>
+                  , the 
+                  <xr pageref="N" ref="HR.DIR.130">Hrvatska Socijalno-Liberalna Stranka</xr>
+                  , the 
+                  <xr pageref="N" ref="HR.DIR.126">Hrvatska Narodna Stranka—Liberalni Demokrati</xr>
+                   and the 
+                  <xr pageref="N" ref="HR.DIR.125">Hrvatska Stranka Umirovljenika</xr>
+                                        </endnote>
+                                        <endnote id="HR.DIR.83-2" ref-symbol="†">
+                  A coalition including the 
+                  <xr pageref="N" ref="HR.DIR.143">Socijaldemokratska Partija Hrvatske</xr>
+                  , Centar, the 
+                  <xr pageref="N" ref="HR.DIR.123">Hrvatska Seljačka Stranka</xr>
+                  , the 
+                  <xr pageref="N" ref="HR.DIR.1595241938">Građansko-Liberalni Savez</xr>
+                  , Dalija Orešković i ljudi s Imenom i Prezimenom and the 
+                  <xr pageref="N" ref="HR.DIR.1595244094">Narodna Stranka—Reformisti</xr>
+                  .
+                </endnote>
+                                        <endnote id="HR.DIR.83-3" ref-symbol="‡">In alliance with other parties, including Pravo i Pravda (Law and Justice).</endnote>
+                                        <endnote id="HR.DIR.83-4" ref-symbol="‖">
+                  A coalition comprising the 
+                  <xr pageref="N" ref="HR.DIR.1691415738">Socijaldemokrati</xr>
+                  , the Hrvatski Laburisti-Stranka Rada (Croatian Labourists-Labour Party) and Demokrati (Democrats).
+                </endnote>
+                                        <endnote id="HR.DIR.83-6" ref-symbol="§">
+                  Including eight representatives elected by members of designated national minorities, and comprising three deputies of the 
+                  <xr pageref="N" ref="HR.DIR.132">Samostalna Demokratska Srpska Stranka</xr>
+                  , two independents, and one each of the Demokratska Zajednica Mađara Hrvatske (Democratic Union of Hungarians of Croatia), the Savez Roma u Republici Hrvatskoj `Kali Sara' (Kali Sara Union of Roma in the Republic of Croatia), and the Bošnjaci Zajedno—Nacionalna Koordinacija Bošnjaka u Hrvatskoj! (Bosniaks Together—National Coordination of Bosniaks in Croatia!).
+                </endnote>
+                                   </table-block>
+                              </table-blockref>
+                         </org-entry-expanded>
+                    </org-expandref>
+               </dir-section>
+          </dir-sectref>
+          

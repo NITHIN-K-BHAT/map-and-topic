@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62064" sllink="SLSDOCRF" sllinkid="62063" slsdocid="59298" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LT.DIR.198" id-root="lt.dir" iso="lt" sect-type="judicial" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Judicial System</heading>
+                    <!--MR 18.04.2022 Role groups checked-->
+                    <p id="LT.DIR.199">The organs of justice are the Supreme Court, the Court of Appeal, district courts and regional courts. The Parliament (Seimas) appoints and dismisses from office the judges of the Supreme Court in response to representations made by the President of the Republic (based upon the recommendation of the Chairman of the Supreme Court). Judges of the Court of Appeal are appointed by the President with the approval of the Parliament (on the recommendation of the Minister of Justice), while judges of district and local courts are appointed and dismissed by the President. The Council of Judges submits recommendations to the President of the Republic concerning the appointment of judges, as well as their promotion, transfer or dismissal from office.</p>
+                    <p id="LT.DIR.200">The Constitutional Court decides on the constitutionality of acts of the Parliament, as well as of the President and the Government. It consists of nine judges, who are appointed by the Parliament for a single term of nine years; one-third of the Court’s members are replaced every three years.</p>
+                    <p id="LT.DIR.201">The Office of the Prosecutor-General is an autonomous institution of the judiciary, comprising the Prosecutor-General and local and district prosecutors’ offices, which are subordinate to him. The Prosecutor-General and his deputies are appointed for terms of seven years by the President, subject to approval by the Parliament, while the prosecutors are appointed by the Prosecutor-General. The Office of the Prosecutor-General incorporates the Department for Crime Investigation.</p>
+                    <org-list>
+                         <org-entryref id="SL68496" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68495" slsdocid="59732" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LT.DIR.202" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="24.02.2006" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                        <alt-name>Lietuvos Respublikos Konstitucinis Teismas</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Gedimino pr. 36, Vilnius 01104</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(5) 261-3535</telephone>
+                                        <fax>(5) 212-7975</fax>
+                                        <email>pastas@lrkt.lt</email>
+                                        <internet>www.lrkt.lt</internet>
+                                   </address-block>
+                                   <found-date>1993</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Gintaras</forename>
+                                                  <surname>Goda</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL68498" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68497" slsdocid="59731" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LT.DIR.203" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Court of Appeal</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Gedimino pr. 40/1, Vilnius 01503</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(7) 066-3685</telephone>
+                                        <fax>(7) 066-3060</fax>
+                                        <email>apeliacinis@apeliacinis.lt</email>
+                                        <internet>www.apeliacinis.lt</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nerijus</forename>
+                                                  <surname>Meilutis</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL68500" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68499" slsdocid="59730" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LT.DIR.204" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="14.05.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                        <alt-name>Lietuvos Aukščiausiasis Teismas</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Gynėjų g. 6, Vilnius 01109</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(5) 261-6466</telephone>
+                                        <fax>(5) 261-6813</fax>
+                                        <email>lat@teismas.lt</email>
+                                        <internet>www.lat.lt</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Danguolę</forename>
+                                                  <surname>Bublienę</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL68502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68501" slsdocid="59729" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LT.DIR.205" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Office of the Prosecutor-General</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    Rinktinės g. 5
+                    <sc>a</sc>
+                    , Vilnius 01515
+                  </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(5) 250-0970</telephone>
+                                        <fax>(5) 266-2317</fax>
+                                        <email>generaline.prokuratura@prokuraturos.lt</email>
+                                        <internet>www.prokuraturos.lt</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Prosecutor-General</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nida</forename>
+                                                  <surname>Grunskienė</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

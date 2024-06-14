@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61866" sllink="SLSDOCRF" sllinkid="61865" slsdocid="57373" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="EE.DIR.69" id-root="ee.dir" iso="ee" sect-type="local-government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <!--DH: useful vocab may include Linnavalitsus (Town council/hall) and Maavalitsus (County govt/hall)-->
+                    <!--MR 16.07.2021 Headline content checked-->
+                    <heading>Local Government</heading>
+                    <p id="EE.DIR.70">Local elections are held every fourth year on the third Sunday in October. Following the implementation of reforms in 2017, which provided for the merger of municipalities comprising less than 5,000 people, there are 79 municipalities in Estonia (compared with the previous 213). Estonia is divided into 15 counties (maakonds) and six cities. The number of counties was unaffected by the reform, although boundaries were altered. Each maakond is presided over by a county government (headed by a governor) and a county council. The counties are subdivided into rural municipalities (vald) and towns (linn) There are also city councils and city governments, with each of the latter headed by a mayor. The most recent local elections took place in October 2021.</p>
+                    <dir-section id="EE.DIR.10893043801" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>City Governments</heading>
+                         <org-list>
+                              <org-entryref id="SL65110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65109" slsdocid="57448" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.87" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Kohtla-Järve City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Keskallee 19, Kohtla-Järve 30395</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">337-8500</telephone>
+                                             <email>linnavalitsus@kjlv.ee</email>
+                                             <internet>www.kohtla-jarve.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Virve</forename>
+                                                       <surname>Linder</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65112" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65111" slsdocid="57447" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.88" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Narva City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Peetri plats 5, Narva 20308</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">359-9005</telephone>
+                                             <email>narvalv@narva.ee</email>
+                                             <internet>www.narva.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Katri</forename>
+                                                       <surname>Raik</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65114" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65113" slsdocid="57446" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.89" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="18.03.2010" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Pärnu City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Suur-Sepa 16, Pärnu 80098</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">444-8200</telephone>
+                                             <email>linnavalitsus@parnu.ee</email>
+                                             <internet>parnu.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Romek</forename>
+                                                       <surname>Kosenkranius</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65116" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65115" slsdocid="57445" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.90" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Sillamäe City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kesk 27, Sillamäe 40231</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">392-5700</telephone>
+                                             <email>linnavalitsus@sillamae.ee</email>
+                                             <internet>www.sillamae.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tõnis</forename>
+                                                       <surname>Kalberg</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65118" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65117" slsdocid="57444" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.91" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.07.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Tallinn City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vabaduse väljak 7, Tallinn 15199</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">640-4141</telephone>
+                                             <email>lvpost@tallinnlv.ee</email>
+                                             <internet>www.tallinn.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mihhail</forename>
+                                                       <surname>Kõlvart</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL65120" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="65119" slsdocid="57443" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="EE.DIR.92" id-root="ee.dir" iso="ee" media="PRINTANDONLINE" print-only="NO" section="Local Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="15.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Tartu City Government</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Raekoja plats 1
+                      <sc>a</sc>
+                      , Tartu 50089
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">736-1221</telephone>
+                                             <email>lv@tartu.ee</email>
+                                             <internet>www.tartu.ee</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Mayor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Urmas</forename>
+                                                       <surname>Klaas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.1052" id-root="io-un.1052" iso="io-un.1052" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio ass mena"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Economic Commission for Africa</org-entry-name>
+               <abbr>ECA</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ass mena">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Regional Commissions)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">Economic Commission for Africa</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">The United Nations in Africa South of the Sahara</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="mena">The United Nations in the Middle East and North Africa</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Menelik II Ave, POB 3001, Addis Ababa, Ethiopia</verbatim-address>
+               </address>
+               <telephone alsofax="N">(11) 5445000</telephone>
+               <fax>(11) 5514416</fax>
+               <email>ecainfo@uneca.org</email>
+               <internet>www.uneca.org</internet>
+          </address-block>
+          <p id="IO-UN.1053">ECA, established in 1958, promotes sustainable socioeconomic development in Africa and aims to advance economic integration among African countries. It provides a forum for international co-operation in support of these aims. </p>
+          <int-org-section id="IO-UN.1054" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio ass mena">
+               <heading>Members</heading>
+               <table-block-simple id="IO-UN.1055" type="OTHER">
+                    <table style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.5cm" />
+                              <colspec colwidth="6.5cm" />
+                              <colspec colwidth="6.5cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Algeria</entry>
+                                        <entry style="NO-DOT-LEADER">Eswatini</entry>
+                                        <entry style="NO-DOT-LEADER">Namibia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Angola</entry>
+                                        <entry style="NO-DOT-LEADER">Ethiopia</entry>
+                                        <entry style="NO-DOT-LEADER">Niger</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Benin</entry>
+                                        <entry style="NO-DOT-LEADER">Gabon</entry>
+                                        <entry style="NO-DOT-LEADER">Nigeria</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Botswana</entry>
+                                        <entry style="NO-DOT-LEADER">The Gambia</entry>
+                                        <entry style="NO-DOT-LEADER">Rwanda</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Burkina Faso</entry>
+                                        <entry style="NO-DOT-LEADER">Ghana</entry>
+                                        <entry style="NO-DOT-LEADER">São Tomé and Príncipe</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Burundi</entry>
+                                        <entry style="NO-DOT-LEADER">Guinea</entry>
+                                        <entry style="NO-DOT-LEADER">Senegal</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cabo Verde</entry>
+                                        <entry style="NO-DOT-LEADER">Guinea-Bissau</entry>
+                                        <entry style="NO-DOT-LEADER">Seychelles</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cameroon</entry>
+                                        <entry style="NO-DOT-LEADER">Kenya</entry>
+                                        <entry style="NO-DOT-LEADER">Sierra Leone</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Central African Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Lesotho</entry>
+                                        <entry style="NO-DOT-LEADER">Somalia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chad</entry>
+                                        <entry style="NO-DOT-LEADER">Liberia</entry>
+                                        <entry style="NO-DOT-LEADER">South Africa</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Comoros</entry>
+                                        <entry style="NO-DOT-LEADER">Libya</entry>
+                                        <entry style="NO-DOT-LEADER">South Sudan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Congo, Democratic Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Madagascar</entry>
+                                        <entry style="NO-DOT-LEADER">Sudan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Congo, Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Malawi</entry>
+                                        <entry style="NO-DOT-LEADER">Tanzania</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Côte d’Ivoire</entry>
+                                        <entry style="NO-DOT-LEADER">Mali</entry>
+                                        <entry style="NO-DOT-LEADER">Togo</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Djibouti</entry>
+                                        <entry style="NO-DOT-LEADER">Mauritania</entry>
+                                        <entry style="NO-DOT-LEADER">Tunisia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Egypt</entry>
+                                        <entry style="NO-DOT-LEADER">Mauritius</entry>
+                                        <entry style="NO-DOT-LEADER">Uganda</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Equatorial Guinea</entry>
+                                        <entry style="NO-DOT-LEADER">Morocco</entry>
+                                        <entry style="NO-DOT-LEADER">Zambia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Eritrea</entry>
+                                        <entry style="NO-DOT-LEADER">Mozambique</entry>
+                                        <entry style="NO-DOT-LEADER">Zimbabwe</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.1056" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.1057" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ass">
+               <heading>Commission</heading>
+               <p>The Commission is empowered to make recommendations on any matter within its competence directly to governments of members or associate members, to governments admitted in a consultative capacity, and to the UN specialized agencies.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1059" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Conference of African Ministers</heading>
+               <p>A Conference of African Ministers of Finance, Planning and Economic Development meets every year and is the main deliberative body of the Commission. It addresses matters of general policy, considers inter-African and international economic policy, and makes recommendations to member states in connection with such matters. The 56th session was held in late February-early March 2024, in Victoria Falls, Zimbabwe, on the theme `Financing the transition to inclusive green economies in Africa: imperatives, opportunities and policy options’.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1065" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p>The secretariat implements the resolutions and programmes adopted by the Conference and the meetings of the Commission's subsidiary bodies. It is headed by an Executive Secretary, who is supported by two Deputy Executive Secretaries (for Programme and for Programme Support).</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.1067" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Executive Secretary</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Claver</forename>
+                                        <surname>Gatete</surname>
+                                   </person-name>
+                                   <person-note>Rwanda</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.1062" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>African Policy Centres</heading>
+               <p>The following are focal points for continental policymaking and programming:</p>
+               <gen-list>
+                    <item>African Centre for Statistics</item>
+                    <item>African Climate Policy Centre</item>
+                    <item>African Institute for Economic Development and Planning</item>
+                    <item>African Land Policy Centre</item>
+                    <item>African Minerals Development Centre</item>
+                    <item>African Trade Policy Centre</item>
+               </gen-list>
+          </int-org-section>
+          <int-org-section-alternates default="EWYB" type="ALTERNATES">
+               <int-org-section id="IO.UN.ECA.MENA.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="mena">
+                    <heading>Subregional Office</heading>
+                    <org-list>
+                         <org-entry id="IO-UN.MENA.2" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                              <org-entry-head>
+                                   <org-entry-name>North Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>BP 2062 Rabat Ryad, Morocco</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(53) 7717829</telephone>
+                                   <fax>(53) 7712702</fax>
+                                   <!--GS 27.05.2016 No email id, only contact form-->
+                                   <internet>www.uneca.org/north-africa</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: employment skills and balanced devt</content-note>
+                         </org-entry>
+                    </org-list>
+               </int-org-section>
+               <int-org-section id="IO-UN.1068.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio ass">
+                    <heading>Subregional Offices</heading>
+                    <p-alternates default="EWYB" type="ALTERNATES">
+                         <p usage="ewyb">There are Subregional Offices (SROs) in Yaoundé, Cameroon (for Central Africa; with a specialization in economic diversification policy and reforms); Kigali, Rwanda (for East Africa: deepening regional integration to support the implementation of the African Continental Free Trade Area—AfCFTA); Niamey, Niger (for West Africa: demographic dynamics for development); Rabat, Morocco (for North Africa: employment skills and balanced development); and Lusaka, Zambia (for Southern Africa: inclusive industrialization). The SROs provide advisory services to member states, regional economic communities and subregional development stakeholders, in support of economic and social ­transformation. Regional observatories have been established in each of the SROs, to provide localized information and data relating to the continental integration agenda.</p>
+                         <p usage="ass edio">The Subregional Offices (SROs) provide advisory services to member states, regional economic communities and subregional development stakeholders, in support of economic and social ­transformation. Regional observatories have been established in each of the SROs, to provide localized information and data relating to the continental integration agenda.</p>
+                    </p-alternates>
+                    <org-list>
+                         <org-entry id="IO-UN.1070" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass">
+                              <org-entry-head>
+                                   <org-entry-name>Central Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>POB 14935, Yaoundé, Cameroon</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">222-50-43-30</telephone>
+                                   <!--contact form instead of email.-->
+                                   <internet>www.uneca.org/central-africa</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: economic diversification policy and reforms</content-note>
+                         </org-entry>
+                         <org-entry id="IO-UN.1071" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass">
+                              <org-entry-head>
+                                   <org-entry-name>East Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>POB 4654, Kigali, Rwanda</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">252586549</telephone>
+                                   <fax>252586546</fax>
+                                   <email>eca-sro-ea-srdc@un.org</email>
+                                   <internet>www.uneca.org/sro-ea</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: deepening regional integration to support the implementation of the African Continental Free Trade Area—AfCFTA</content-note>
+                         </org-entry>
+                         <org-entry id="IO-UN.1072" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio">
+                              <org-entry-head>
+                                   <org-entry-name>North Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>BP 2062 Rabat Ryad, Morocco</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(53) 7717829</telephone>
+                                   <fax>(53) 7712702</fax>
+                                   <!--GS 27.05.2016 No email id, only a contact form.-->
+                                   <internet>www.uneca.org/north-africa</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: employment skills and balanced devt</content-note>
+                         </org-entry>
+                         <org-entry id="IO-UN.1073" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass">
+                              <!--rc 09.01.2020 could not confirm email-->
+                              <org-entry-head>
+                                   <org-entry-name>Southern Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Lusaka, Zambia</verbatim-address>
+                                   </address>
+                                   <email>director@uneca.org</email>
+                                   <internet>www.uneca.org/southern-africa</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: inclusive industrialization</content-note>
+                         </org-entry>
+                         <org-entry id="IO-UN.1074" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="edio ass">
+                              <org-entry-head>
+                                   <org-entry-name>West Africa</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>POB 744, Niamey, Niger</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">20-72-73-00</telephone>
+                                   <fax>20-72-28-94</fax>
+                                   <internet>www.uneca.org/west-africa</internet>
+                              </address-block>
+                              <content-note style="NORMAL">specialization: demographic dynamics for devt</content-note>
+                         </org-entry>
+                    </org-list>
+               </int-org-section>
+          </int-org-section-alternates>
+     </int-org-section>
+     <int-org-section id="IO-UN.1075" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>
+      ECA’s three core functions are: convening regional intergovernmental and multistakeholder platforms that establish development policy frameworks, standards and action plans; conducting multisectoral research and analysis; and providing policy advice to member states. The Commission’s work is focused on achieving the UN’s 
+      <xr pageref="N" ref="IO-UNDP.001">2030 Agenda for Sustainable Development</xr>
+       and Sustainable Development Goals (SDGs), and is guided by major regional strategies, including the Abuja Treaty on the establishment of an African Economic Community, 
+      <xr pageref="N" ref="IO-AU.1">Agenda 2063</xr>
+       (the African Union—AU’s long-term framework for economic and social transformation of the continent), the AU Development Agency (AUDA-NEPAD), and the Agreement Establishing the AfCFTA, adopted by an extraordinary summit of AU heads of state and of government in March 2018. In March 2021 the inaugural meeting took place of a new Regional Collaborative Platform: Africa (RCP: Africa), which aimed to enhance the effectiveness and co-ordination of UN development entities. The Platform is chaired by the UN Deputy Secretary-General, with ECA’s Executive Secretary and the Director of the UNDP Regional Bureau for Africa acting as Vice-Chairs.
+    </p>
+          <p usage="ass">ECA supports the independent, Kigali, Rwanda-based SDG Center for Africa, which was inaugurated in July 2016 to promote a continental vision for the attainment of the SDGs, and to extend technical support to assist in their implementation.</p>
+          <p>ECA helps to organize the annual Africa Regional Forum on Sustainable Development (ARFSD), which reviews progress being made towards achieving the SDGs. The 10th ARFSD was to be held in Cairo, Egypt, in late April 2024, on the theme `Reinforcing the 2030 Agenda for Sustainable Development and Agenda 2063 and eradicating poverty in times of multiple crises: the effective delivery of sustainable, resilient and innovative solutions’.</p>
+          <p>During 2024 ECA’s work programme focused on the following five strategic directions: Advancing ECA’s position as a premier knowledge institution; Developing macroeconomic and structural policy options to accelerate economic diversification and job creation; Designing and implementing innovative financing models for infrastructure, and for human, physical and social assets for transforming Africa; Contributing solutions to regional and transboundary challenges; and Advocating for Africa at the global level and developing regional responses with regard to global governance issues.</p>
+          <int-org-section id="IO-UNECA.MACROEC.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Macroeconomics and Governance</heading>
+               <p>ECA advocates for a sound regional macroeconomic policy framework, with the aim of promoting inclusive growth. Member states are supported in forecasting and analysing macroeconomic indicators, in designing, implementing and evaluating development strategies, in mobilizing financing, and in following up global and regional development frameworks. ECA assists with the collection of data; the preparation of annual economic surveys; the compilation of reports on regional economic conditions, governance and development management; the production of regional and national policy studies covering economic reforms, international and illicit financial flows, domestic resource mobilization, external debt, and exchange rate management; and the dissemination of best practices relating to specific aspects of economic management. </p>
+               <p>In March 2021 ECA initiated a Liquidity and Sustainability Facility (LSF) to support the issuance by member state governments of sovereign bonds. An ECA policy brief on sovereign debt restructuring in Africa was issued in late 2022. The Commission organized a workshop on debt management in October.</p>
+               <p>In January 2024 ECA forecast that growth in GDP across Africa would increase from 3.3% in 2023 to 3.5% in 2024; tight financial conditions, compounded by mounting geopolitical fragmentation, were deemed to pose risks to industrial production and global trade.</p>
+               <p>ECA aims to improve member states’ capacity for good governance and development management. The Commission provides support for the African Peer Review Mechanism, an AUDA-NEPAD initiative whereby participating member governments mutually assess compliance with a number of codes, standards and commitments that uphold good governance and sustainable development. In January 2017 ECA and the Mechanism signed a Memorandum of Understanding (MOU) establishing a continuous partnership in support of the goals of the AU and the UN. ECA assists civil society organ­izations to participate in governance; supports the development of private sector enterprises; and helps to improve public administration in member states. To achieve these aims the Commission provides technical assistance and advisory services, conducts studies, and organizes training workshops, seminars and conferences at national, subregional and regional level for ministers, public administrators and senior policymakers, as well as for private and non-governmental organizations (NGOs).</p>
+               <p>
+        The third 
+        <i>African Governance Report</i>
+        , on the theme `Unconstitutional Changes of Government in Africa’, was published in mid-2023.
+      </p>
+          </int-org-section>
+          <int-org-section id="IO-UNECA.010" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic Development and Planning</heading>
+               <p usage="ewyb edio mena ass">
+        Joint meetings of ECA ministers responsible for economic affairs, planning and economic development and 
+        <xr pageref="N" ref="AU.IO">AU</xr>
+         ministers responsible for the economy and finance are convened annually. In January 2018 the UN Secretary-General and AU Chairperson signed an AU-UN Framework for the Implementation of Agenda 2063 and the 2030 Agenda for Sustainable Development. ECA’s African Institute for Economic Development and Planning (IDEP), founded in 1962, undertakes pan-African capacity development and training programmes, and also conducts policy research and dialogue initiatives.
+      </p>
+               <p>Since 2006 ECA, with the AfDB and UNDP, has organized an annual African Economic Conference (AEC) to promote an exchange of ideas among economists and policymakers on development policy. The 2023 AEC was held in Addis Ababa, in November, focusing on the theme `The Imperatives for Sustainable Industrial Development in Africa’. In July 2016 the UN designated 2016-25 as the Third Industrial Development Decade for Africa.</p>
+               <p>In April 2020 ECA established a multi-agency Africa Knowledge Hub for COVID-19, and in mid-2020 ECA and partner agencies initiated an Africa Communication and Information Platform, which aimed to provide national and regional COVID-19 governmental task forces with data on survey responses, and actionable economic and health findings. ECA joined the African Vaccine Acquisition Task Team in August. In 2024 ECA was implementing a pilot AfCFTA-anchored Pharmaceutical Initiative, which aimed to scale up the expansion of local pharmaceutical production, and to promote continental pooled procurement and harmonized regulatory standards.</p>
+               <p usage="edio ewyb ass mena">
+        ECA hosts the secretariat of an independent Coalition for Dialogue on Africa (CoDA), which was founded in 2009, with the support of ECA, the AU and the 
+        <xr pageref="N" ref="ADB.IO">African Development Bank</xr>
+         (AfDB), and evolved from the other high-level consultative processes, including an African Development Forum. CoDA acts as secretariat for a High-Level Panel on Illicit Financial Flows. In November 2022 CoDA participated in a high-level technical meeting on the legal frameworks for the implementation of the Common African Position on Asset Recovery.
+      </p>
+               <p usage="ewyb edio ass">
+        The 2023 edition of the 
+        <publ-name>Economic Report on Africa</publ-name>
+        , released in November, was themed `Building Africa’s Resilience to Global Economic Shocks’, and focused on means of achieving inclusive economic transformation. The report emphasized the need to implement structural and public finance reforms, and to harness the potential of the AfCFTA and other regional initiatives. ECA co-ordinates a High-level Working Group on the Global Financial Architecture, with participation by African Ministers of Finance, Planning and Economic Development, and the AU, AfDB, Afreximbank and World Bank.
+      </p>
+               <p>
+        In October 2023 ECA issued a 
+        <publ-name>Technical report: Promoting inclusive and effective tax cooperation at the UN</publ-name>
+        .
+      </p>
+               <p usage="ass edio">An ECA Young Economists Network was launched in December 2021.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1097" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Integration and Trade</heading>
+               <p>ECA supports the implementation of the AU's regional integration agenda, through research; policy analysis; strengthening capacity and the provision of technical assistance to the regional economic communities; and through working on transboundary initiatives and undertaking activities across a variety of sectors. ECA promotes best practice in trade policy development, and undertakes research and dissemination activities on bilateral and international trade negotiations, with a view to helping African countries to benefit from globalization through trade. Projects are undertaken to support governments’ strategies on implementing the AfCFTA. The African Trade Policy Centre (ATPC), established in 2003, aims to strengthen the capacities of African governments to formulate and implement sound trade policies and to participate more effectively in international trade negotiations.</p>
+               <p>
+        In December 2021 ECA, the AU, the AfDB and the UN Conference on Trade and Development (UNCTAD) issued their 10th joint 
+        <publ-name>Assessing Regional Integration in Africa</publ-name>
+         report (
+        <publ-name>ARIA X</publ-name>
+        ); this addressed the liberalization and integration of continental trade in services under the AfCFTA. 
+        <publ-name>ARIA XI</publ-name>
+         was under preparation in 2024.
+      </p>
+               <p>In April 2016 an ECA-AU-AfDB Africa Regional Integration Index (ARII) was launched. Using 16 indicators, the Index systematically measured progress in regional integration across areas including governance; investment; trade; infrastructure; industry; the free movement of persons; energy; culture; and macroeconomic policy convergence. An updated version of ARII was released in 2019. In February 2022 ECA issued an AfCFTA Country Business Index (ACBI) Report aimed at linking businesses and policymakers.</p>
+               <p>ECA partners the Global Africa Business Initiative (GABI), which was established in September 2022 to draw attention to business opportunities across all sectors of African economies. In September 2023 ECA’s acting Executive Secretary participated in Unstoppable Africa, a GABI event that was convened in New York, USA, on the sidelines of the UN General Assembly. ECA organized the seventh African Business Forum in February 2024, in Addis Ababa, on the theme `Boosting Africa’s transformation through education, science, technology, and innovation’.</p>
+               <p>In December 2023 ECA and partners organized a high-level panel discussion that was focused on the rapid development of a sustainable, inclusive African Battery Electric Vehicles (BEV) value chain.</p>
+               <p usage="edio ass">
+        In April 2021 ECA, the AU, the AfDB and Afreximbank issued an 
+        <publ-name>African Trade Finance Survey Report,</publ-name>
+         which noted that in the first quarter of 2020, in view of the onset of the COVID-19 crisis, there had been a massive outflow of capital from Africa, that exceeded US&#8201;$5,000m. and placed strain on the net foreign assets of African banks.
+      </p>
+               <p>ECA acts as the secretariat for the AUDA-NEPAD-co-ordinated (2021-30) Programme for Infrastructure Development in Africa Priority Action Plan (PIDA-PAP II), which covers infrastructure development in transport, energy, ICT, and transboundary water resources. In February 2023 ECA co-organized, in Senegal, a Second Dakar Financing Summit for Africa’s Infrastructure, at which AUDA-NEPAD and Afreximbank agreed to establish a facility for financing the preparation of PIDA-PAP II initiatives.</p>
+               <p usage="ewyb edio ass">ECA and the World Bank jointly co-ordinate the sub-Saharan Africa Transport Programme (SSATP), established in 1987, which aims to facilitate policy development and related capacity building in the continent's transport sector. The regional Road Management Initiative under the SSATP seeks to encourage a partnership between the public and private sectors to manage and maintain road infrastructure more efficiently. An interconnected Trans-African Highways scheme, initiated by ECA in 1981, is focused on nine designated principal axes of roads across the continent. An Urban Mobility component aims to improve sub-Saharan African urban transport services, while a Trade and Transport component aims to enhance the international competitiveness of regional economies through the establishment of more cost-effective services for shippers. The Railway Restructuring element focuses on the provision of financially sustainable railway enterprises.</p>
+               <p>At the eighth Forum on China-Africa Cooperation (FOCAC) ministerial summit, held in November 2021, in Dakar, Chinese financial commitments were made for the period 2022-24 that totalled US&#8201;$40,000m.</p>
+               <p>A third Japan-Africa Business Forum was organized in July 2021. The eighth Tokyo International Conference on African Development (TICAD-8) was held in August 2022. TICAD-9 was scheduled to take place in 2025.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.ECA.1092.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Technology, Climate Change and Natural Resource Management </heading>
+               <p>ECA supports member states in drafting and implementing national policies on innovation and technology, and undertakes relevant research, for example on emerging technologies that might facilitate economic development, and on technology transfer. It also has a focus on measuring the social, economic and other outcomes of policies on innovation and technology. ECA helps to organize the African Science, Technology and Innovation Forum, held regularly since 2018 as a multi-stakeholder event to promote debate and the exchange of knowledge on all aspects of science, technology and innovation, and in particular on their contribution to the pursuit of the SDGs.</p>
+               <p usage="edio">In 2011 ECA, jointly with the Switzerland-based African Innovation Foundation, launched an annual Innovation Prize for Africa, which aims to reward regional innovation in the areas of science, technology and engineering.</p>
+               <p>ECA hosts the secretariat of the African Internet Governance Forum (AfIGF), which it established in 2011, jointly with the AU. The 12th Forum was convened in October 2023, on the theme `Digital Divides and Inclusion’.</p>
+               <p usage="ewyb edio">A joint ECA-AU Digital Identity, Digital Trade and Digital Economy (DITE) initiative, launched in 2019, aims to advance the continent’s digital potential.&#160;A report on e-commerce that was issued by ECA in March 2021 recommended that a relevant AfCFTA protocol should be drafted; an AfCFTA protocol on digital trade was eventually adopted by the AU in February 2024. In April a Learning Girls in ICT Initiative was launched with a view to narrowing the gender digital divide.</p>
+               <p usage="ewyb edio ass">In February 2022 ECA inaugurated an African Research Centre on Artificial Intelligence (ARCAI), in Brazzaville, Republic of the Congo.</p>
+               <p usage="ass">ECA provided technical support to the AU in developing a Convention on Cyber Security and Personal Data Protection, which was adopted in 2014. In November 2022 ECA launched a new regional Guideline for a Model Law on Cybersecurity.</p>
+               <p>ECA conducts research in support of policy, legal and regulatory frameworks underpinning the management of natural resources in Africa. It works to strengthen regional and national human and institutional capacities and to widen stakeholder participation in the protection of Africa’s environment and in the management of the continent’s mineral resources. It promotes research aimed at advancing policy makers’ capacities to analyse and address issues related to natural resource management, climate change, and the transition to an inclusive low-carbon blue (ocean-focused) and green (land-based) economy.</p>
+               <p>The African Climate Policy Centre (ACPC), launched by ECA in December 2007, helps member states to incorporate climate-related concerns in their development policies. In 2006, with the AU and the AfDB, the Commission initiated a Climate for Development in Africa Programme (ClimDev-Africa) to improve the collection of climate-related data and assist in forecasting and risk management. ECA provides the technical secretariat for ClimDev-Africa. Since 2011 ClimDev-Africa has organized annual Climate Change and Development in Africa Conferences (CCDAs). The first session of the fourth edition of a series of Africa Climate Talks (`ACTs!-4’), co-hosted by the ACPC in July 2022, addressed the theme `Ensuring a just and equitable transition and human security in Africa: Building resilience’. CCDA-XI was held in Nairobi, Kenya, in September 2023, as the technical section of a parallel high-level Africa Climate Summit. ClimDev-Africa Phase II was launched at the conference. CCDA-XI reports inform the African contribution to UN climate change conferences.In March 2024 ECA and the AU and partners co-organized the sixth Africa Climate Resilient Investment Summit (ACRIS-6).</p>
+               <p>ECA assists member states in the assessment and use of water resources and the development of river and lake basins common to more than one country. ECA encourages co-operation between countries with regard to water issues and collaborates with other UN agencies and regional organizations to promote technical and economic co-operation in this area.</p>
+               <p>ECA aims to advance the development of Africa’s extensive mineral and energy resources, focusing on promoting co-operation, integration and public-private sector partnerships; facilitating policy and dissemination of best practices; and supporting capacity building. A joint ECA-AU-AfDB multilateral Working Group on Infrastructure and Energy was established in November 2019. In November 2022 ECA and the UN University jointly launched the JUSTIS internet portal, which aimed to support Africa’s large informal employment sector in transitioning to clean energy sources.</p>
+               <p usage="ewyb edio ass">
+        In April 2016 ECA issued 
+        <publ-name>Africa’s Blue Economy Policy Handbook</publ-name>
+        , which noted that 38 member countries were coastal states, that in excess of 90% of Africa’s trade is conducted by sea, and that marine and freshwater fisheries contribute significantly to the continent’s food and nutritional security. In November 2018 ECA’s Executive Secretary, attending a sustainable blue economy conference held in Nairobi, announced the development of a joint ECA-AU Regional Blue Economy Framework. ECA supports the concept of the Great Blue Wall initiative, to conserve marine and coastal ecosystems in the Western Indian Ocean, in order to counter the impact of climate change and to contribute to the sustainable livelihoods of local communities.
+      </p>
+               <!--sea bed minerals-->
+               <p usage="ewyb edio ass">ECA, the AU and the AfDB jointly co-ordinate the Addis Ababa-located African Land Policy Centre (ALPC), which—based on the former joint Land Policy Initiative (LPI, formed in 2006)—was inaugurated in November 2017, during the second Conference on Land Policy in Africa (CLPA-2). The ALPC promotes equitable access to, and the efficient and sustainable utilization of land. It aims to advance women’s secure access to land, and the recognition of African customary land rights. CLPA-5 was convened in November 2023, in Addis Ababa. It urged further advances in effective land governance and policies, in order to contribute to infrastructure and trade opportunities, job creation, food security and climate initiatives.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.1082" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Gender, Poverty and Social Policy</heading>
+               <p>ECA aims to improve the socioeconomic prospects of women through the promotion of equal access to resources and opportunities, and equal participation in decision making. An African Centre for Gender and Development was established in 1975 to service all national, subregional and regional bodies involved in development issues relating to gender and the advancement of women. The Centre manages the African Women’s Development Fund, which was established in June 2000. An African Gender and Development Index, measuring the extent to which member states meet their commitments towards international agreements on gender equality and women’s advancement, was inaugurated in January 2005; the fifth phase of the Index was initiated in 2019. In April 2019 ECA launched an African Women Leadership Fund, focused on the provision of sustainable investment capital to businesses owned and led by African women.</p>
+               <p usage="ewyb edio">ECA promotes awareness of the relationship between population, food security, the environment and sustainable development, and provides policy analysis support and technical advisory services aimed at strengthening national population policies.</p>
+               <p>The Commission provides information on global processes on social policy, including on the International Conference on Population and Development and the UN’s 2030 Agenda for Sustainable Development. ECA maintains an African Social Development Index, which measures degrees of social exclusion. In June 2023 ECA and the AU launched a joint initiative to promote a positive narrative with regard to regional migration, to enhance migration governance, and to remove barriers to labour mobility.</p>
+          </int-org-section>
+          <int-org-section id="UNECA.IO.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Data and Statistics</heading>
+               <p>The African Centre for Statistics was established in 2006 to enhance the compilation, analysis and dissemination of reliable and comparable statistics. The four main sections of the Centre cover economic, infrastructure and agriculture statistics; demographic and social statistics; statistical development, data innovation and outreach; and geospatial information management systems. ECA assists its member states in population data collection and data processing; analysis of demographic data obtained from censuses or surveys; formulation of population policies; and integrating population variables in development planning. ECA leads the Core Group of an Africa Programme on Accelerated Improvement of Civil Registration and Vital Statistics (APAI-CRVS). In October 2022 the sixth conference of African ministers responsible for civil registration was convened, in Addis Ababa. (The first was held in August 2010.) </p>
+               <p>In September 2021 an online Africa UN Data for Development portal was launched as a collaborative initiative of some 17 UN agencies to make available reliable and comparable socioeconomic data. An Africa SDGs Progress Dashboard was incorporated into the portal in July 2022. An ECA Price Watch Centre for Africa collates data on consumer price levels across the continent.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.1106" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.1107">ECA's regular budget for 2024, an appropriation from the UN budget, was US&#160;$95.5m.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.1108" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Africa Statistics Flash</publ-name>
+                    <content-note style="NORMAL">monthly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Africa Sustainable Development Report</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Governance Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Statistical Yearbook</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Assessing Regional Integration in Africa</publ-name>
+                    <content-note style="NORMAL">with the AU, AfDB and UNCTAD</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Country Profiles</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Economic Performance and Outlook</publ-name>
+                    <content-note style="NORMAL">quarterly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Economic Report on Africa</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.1109">Subregional reports, policy and discussion papers, reports of conferences and meetings, training series, working paper series.</p>
+     </int-org-section>
+     <!--8.iv.24 - 3,858 words-->
+</int-org-entry>

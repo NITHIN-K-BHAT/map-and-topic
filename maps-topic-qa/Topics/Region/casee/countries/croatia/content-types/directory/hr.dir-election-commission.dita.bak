@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1604276" sllink="SLSDOCRF" sllinkid="1604275" slsdocid="1481415" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.1139225590" id-root="hr.dir" iso="hr" sect-type="legislature" section="Election Commission" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <heading>Election Commission</heading>
+                    <!--MR 05.04.2022 role group checked-->
+                    <org-list>
+                         <org-entryref id="SL1481450" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1481449" slsdocid="1481428" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HR.DIR.1139225955" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <!--IG Pres of Electoral Commission is always also the Pres of the Supreme Court; current term end in July 2021-->
+                                   <data-protection date-added="17.07.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Državno Izborno Povjerenstvo Republike Hrvatske</org-entry-name>
+                                        <alt-name>State Electoral Commission of the Republic of Croatia</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Zagreb, Visoka 15</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 2100600</telephone>
+                                        <fax>(1) 2100633</fax>
+                                        <email>dip@izbori.hr</email>
+                                        <internet>www.izbori.hr</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Radovan</forename>
+                                                  <surname>Dobronić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

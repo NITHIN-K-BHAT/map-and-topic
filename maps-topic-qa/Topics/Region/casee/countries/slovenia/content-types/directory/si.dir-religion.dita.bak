@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62194" sllink="SLSDOCRF" sllinkid="62193" slsdocid="61015" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="SI.DIR.338" id-root="si.dir" iso="si" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <p id="SI.DIR.339">Most of the population are Christian, predominantly adherents of the Roman Catholic Church. There are few Protestant Chris­tians, despite the importance of a Calvinist sect (the Church of Carni­ola) to the development of Slovene literature in the 16th century. At the census of 2002 57.8% of the population described themselves as Catholics, 10.1% as atheists, 2.4% as Muslims, 2.3% as Orthodox Christians and 0.8% as Protestants; 22.8% of all respondents did not answer the question requesting their religious allegiance.</p>
+                    <!--nb 18 01 2024 while the census stats remain the same/ could not locate recent ones , as per 2022 Report on International Religious Freedom: Slovenia, 71% are catholics, 5% muslim and nearlt 13% atheists...www.state.gov/reports/2022-report-on-international-religious-freedom/slovenia/-->
+                    <!--http://www.stat.si/doc/pub/slovenske_regije_2006-koncna.pdf https://www.stat.si/popis2002/en/rezultati_html/OBC-T-06ENG.htm-->
+                    <dir-section id="SI.DIR.340" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Christianity</heading>
+                         <dir-section id="SI.DIR.623" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Roman Catholic Church</heading>
+                              <p id="SI.DIR.341">The Roman Catholic Church in Slovenia comprises two archdioceses and four dioceses.</p>
+                              <org-list>
+                                   <org-entryref id="SL2702410" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2702409" slsdocid="2702403" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.1247225431" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bishops’ Conference</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>p.p. 1990, Krekov trg 1, 1001 Ljubljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4384800</telephone>
+                                                  <email>info@rkc.si</email>
+                                                  <internet>katoliska-cerkev.si</internet>
+                                             </address-block>
+                                             <found-date>1993</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev. Dr</title>
+                                                            <forename>Andrej</forename>
+                                                            <surname>Saje</surname>
+                                                       </person-name>
+                                                       <person-note>Bishop of Novo Mesto</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2702397" sllink="SLSDOCRF" sllinkid="2702396" slsdocid="60994" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="SI.DIR.343" id-root="si.dir" iso="si" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Ljubljana</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Stanislav</forename>
+                                                            <surname>Zore</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>p.p. 1990, Ciril Metodov trg 4, 1001 Ljub­ljana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 2342600</telephone>
+                                                  <fax>(1) 2314169</fax>
+                                                  <email>nadskofija.lubljana@rkc.si</email>
+                                                  <internet>nadskofija-ljubljana.si</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2702400" sllink="SLSDOCRF" sllinkid="2702399" slsdocid="1599451" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="SI.DIR.1146061039" id-root="si.dir" iso="si" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <dir-entry-name>Archbishop of Maribor</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Alojzij</forename>
+                                                            <surname>Cvikl</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Slomškov trg 19, 2000 Maribor</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(0590) 80100</telephone>
+                                                  <fax>(0590) 80111</fax>
+                                                  <email>info@nadskofija-maribor.si</email>
+                                                  <internet>www.nadskofija-maribor.si</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                         <dir-section id="SI.DIR.346" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Protestant Church</heading>
+                              <org-list>
+                                   <org-entryref id="SL71360" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="71359" slsdocid="61346" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="SI.DIR.347" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--nb 18 01 2024 could not verify the f. date-->
+                                             <!--Sc 08.02.2021 email confirmed at https://www.lutheranworld.org/content/evangelical-church-augsburg-confession-slovenia-->
+                                             <data-protection date-added="05.07.2017" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Evangelical Lutheran Church of Slovenia</org-entry-name>
+                                                  <alt-name>Evangelical Church of the Augsburg Confession</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>ul. Slovenska 17, 9000 Murska Sobota</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(02) 5221304</telephone>
+                                                  <email>info@evang.si</email>
+                                                  <internet>evang.si</internet>
+                                             </address-block>
+                                             <found-date>1564</found-date>
+                                             <content-note style="NORMAL">14 congregations</content-note>
+                                             <role-group>
+                                                  <role>Bishop</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Leon</forename>
+                                                            <surname>Novak</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="SI.DIR.12354822781" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Islam</heading>
+                         <org-list>
+                              <org-entryref id="SL2559751" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2559750" slsdocid="2559738" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="SI.DIR.1235481979" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Islam">
+                                        <org-entry-head>
+                                             <org-entry-name>Islamic Association in the Republic of Slovenia</org-entry-name>
+                                             <alt-name>Islamska Skupnost v Republiki Sloveniji</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Džamijska 10, 1000 Ljubljana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 2313625</telephone>
+                                             <email>officeofmufti@mesihat.si</email>
+                                             <internet>www.islamska-skupnost.si</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nevres</forename>
+                                                       <surname>Mustafić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

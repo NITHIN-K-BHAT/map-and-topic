@@ -1,0 +1,823 @@
+<?xml version="1.0"?>
+<int-org-sectref id="SL608818" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="608817" slsdocid="601414" slsdocty="int-org-section int-org-sectrefdtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+          
+          <int-org-section id="IO-UN.234" id-root="io-un.234" iso="io-un.234" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee sacac ass mena sasia fea eerca">
+               <heading>United Nations Information Centres/Services</heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">UNITED NATIONS</alt-heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee sacac ass mena sasia fea eerca">REGIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">United Nations Information Centres/Services</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="casee">The United Nations in Central and South-Eastern Europe</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sacac">The United Nations in South America, Central America and the Caribbean</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">The United Nations in Africa South of the Sahara</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="mena">The United Nations in the Middle East and North Africa</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="sasia">The United Nations in South Asia</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="fea">The United Nations in the Far East and Australasia</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="eerca">The United Nations in Eastern Europe, Russia and Central Asia</alt-heading>
+               <org-list>
+                    <org-entry id="IO-UN.236" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <data-protection date-added="19.02.2008" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Algeria</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>39 rue Mohamed Khoudi, 16030 El Biar, Algiers</verbatim-address>
+                              </address>
+                              <telephone alsofax="Y">(23) 05-13-12</telephone>
+                              <email>unic.algiers@unic.org</email>
+                              <internet>algeria.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.237" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <!--rc 24.11.2020 ownweb not working-->
+                         <org-entry-head>
+                              <org-entry-name>Argentina</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Paraguay 733, Buenos Aires</verbatim-address>
+                              </address>
+                              <email>unic-buenosaires@unic.org</email>
+                              <internet>www.argentina.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Uruguay</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.306" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Armenia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>0010 Yerevan, 14 Petros Adamyan St</verbatim-address>
+                              </address>
+                              <telephone alsofax="Y">(60) 53-00-00</telephone>
+                              <email>unic-yerevan@un.org</email>
+                              <internet>armenia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.238" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <data-protection date-added="07.10.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Australia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>18 King George Terrace, Parkes ACT 2600</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 6270-9200</telephone>
+                              <email>unic-canberra@un.org</email>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Fiji, Kiribati, Nauru, New Zealand, Samoa, Tonga, Tuvalu and Vanuatu</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.239" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <data-protection date-added="02.04.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Austria</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Vienna International Centre, Wagramerstr. 5, 1220 Vienna</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 26060-4666</telephone>
+                              <email>unis.vienna@un.org</email>
+                              <internet>www.unis.unvienna.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Hungary, Slovakia and Slovenia</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.307" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Azerbaijan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1001 Baku, UN 50th Anniversary St 3</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(12) 498-98-88</telephone>
+                              <email>unic-baku@un.org</email>
+                              <internet>azerbaijan.un.org/en</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.240" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Bahrain</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 26004, UN House, Bldg 69, Rd 1901, Manama 319</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">17311676</telephone>
+                              <email>unic-manama@un.org</email>
+                              <internet>bahrain.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Qatar and the United Arab Emirates</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.241" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>Bangladesh</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>House No. 08, Rd No. 54/A, Gulshan 2, Dhaka 1212</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 9183086</telephone>
+                              <email>unic-dhaka@un.org</email>
+                              <internet>bangladesh.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.308" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Belarus</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>220050 Minsk, vul. Kirova 17, 3rd Floor</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(29) 611-41-14</telephone>
+                              <email>radivinovski@un.org</email>
+                              <internet>belarus.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.243" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Bolivia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Calle 14 esq. Sánchez Bustamante, Edif. Metrobol II, Calacoto, La Paz</verbatim-address>
+                              </address>
+                              <email>unic-lapaz@un.org</email>
+                              <internet>bolivia.un.org/</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.244" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Brazil</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Palacio Itamaraty, Avda Marechal Floriano 196, 20080-002 Rio de Janeiro</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 2253-2211</telephone>
+                              <email>unic-riodejaneiro@un.org</email>
+                              <internet>unicrio.org.br</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.245" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Burkina Faso</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>BP 135, 14 ave de la Grande Chancellerie, Secteur 4, Ouagadougou</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">25-33-65-03</telephone>
+                              <email>unic-ouagadougou@un.org</email>
+                              <internet>burkinafaso.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Chad, Mali and Niger</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.246" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Burundi</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>BP 2160, ave de la Révolution 13, Bujumbura</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 225018</telephone>
+                              <email>unic-bujumbura@un.org</email>
+                              <internet>burundi.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.247" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Cameroon</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>BP 836, Immeuble Tchinda, rue 2044, Yaoundé</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">222-21-23-67</telephone>
+                              <email>unic-yaounde@un.org</email>
+                              <internet>cameroon.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers the Central African Republic and Gabon</content-note>
+                    </org-entry>
+                    <!--SM. UNIC web does not list the Santiago, Kinshasa, Addis Ababa and Monrovia centres anymore -->
+                    <org-entry id="IO-UN.249" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Colombia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                Calle 84
+                <sc>a</sc>
+                , No. 10-50, 7°, Bogotá 110221
+              </verbatim-address>
+                              </address>
+                              <email>unic-bogota@un.org</email>
+                              <internet>colombia.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Ecuador and Venezuela</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.251" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Congo, Republic</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 13210, ave Foch, Case ORTF 15, Brazzaville</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">661-20-68</telephone>
+                              <email>unic-brazzaville@un.org</email>
+                              <internet>congo.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.252" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>Czech Republic</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Železná 24, 110 00 Prague 1</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">255711645</telephone>
+                              <email>unic-prague@un.org</email>
+                              <internet>www.osn.cz</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.254" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <!--email removed info@unic-eg.org-->
+                         <org-entry-head>
+                              <org-entry-name>Egypt</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1 Osiris St, Garden City, Cairo</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 7959816</telephone>
+                              <email>unic-cairo@un.org</email>
+                              <internet>egypt.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Saudi Arabia</content-note>
+                    </org-entry>
+                    <org-entry id="IO-ASS.UN.309" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Eritrea</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Hiday St, Airport Rd, Asmara</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 151166</telephone>
+                              <email>unic-asmara@un.org</email>
+                              <internet>eritrea.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.310" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Georgia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>0179 Tbilisi, Eristavi St 9, UN House</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(32) 225-11-26</telephone>
+                              <email> unic-tbilisi@un.org</email>
+                              <internet>georgia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.259" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <data-protection date-added="27.06.2017" ticked-box="N" />
+                         <org-entry-head>
+                              <org-entry-name>Ghana</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB GP 2339, Fao Bldg 2, Gamel Abdul Nassar/Liberia Rds, Accra</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 665511</telephone>
+                              <email>unic-accra@un.org</email>
+                              <internet>ghana.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.261" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>India</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>55 and 73 Lodi Estate, New Delhi 110 003</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 24623439</telephone>
+                              <email>unic-newdelhi@un.org</email>
+                              <internet>in.one.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Bhutan</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.262" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Indonesia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Menara Thamrin Bldg, 10th Floor, 3 Jalan M. H. Thamrin Kavling, Jakarta 10250</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 39831011</telephone>
+                              <email>unic-jakarta@un.org</email>
+                              <internet>indonesia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.263" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Iran</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 15875-4557; 8 Shahrzad Blvd, Darrous, Tehran</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 22873837</telephone>
+                              <email>unic-tehran@un.org</email>
+                              <internet>iran.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.265" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Japan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>UNU Bldg, 8th Floor, 53-70 Jingumae 5-chome, Shibuya-ku, Tokyo 150 0001</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(3) 5467-4451</telephone>
+                              <email>unic-tokyo@un.org</email>
+                              <internet>www.unic.or.jp</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.311" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Kazakhstan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>050040 AlmatI, 303 Baizakov St</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(727) 258-26-43</telephone>
+                              <email>unic-almaty@un.org</email>
+                              <internet>www.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.266" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Kenya</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 67578-00200, United Nations Office, Gigiri, Nairobi</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 7623798</telephone>
+                              <email>unon-nairobiunic@un.org</email>
+                              <internet>www.kenya.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Seychelles and Uganda</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.267" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Lebanon</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>UN House, Riad el-Solh Sq., POB 11-8575-4656, Beirut</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 978832</telephone>
+                              <email>unic-beirut@un.org</email>
+                              <internet>www.unicbeirut.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Jordan, Kuwait and Syria</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.271" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Madagascar</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>159 rue Damantsoa Ankorahotra, Antananarivo</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(20) 2233050</telephone>
+                              <email>unic-antananarivo@un.org</email>
+                              <internet>madagascar.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.272" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Mexico</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Montes Urales 440, 3°, Col. Lomas de Chapultepec Morales, 11 000 Ciudad de México</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(55) 8842-6980</telephone>
+                              <email>unic-mexicocity@un.org</email>
+                              <internet>www.mexico.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Cuba and the Dominican Republic</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.273" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Morocco</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>BP 601; ave Ahmed Balafrej Souissi 13, Rabat</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(53) 7670283</telephone>
+                              <email>unic-rabat@un.org</email>
+                              <internet>morocco.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.274" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Myanmar</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>6 Natmauk Rd, Tamwe, Yangon</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 546933</telephone>
+                              <email>unic-yangon@un.org</email>
+                              <internet>myanmar.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.275" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Namibia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Private Bag 13351, UN House, 38-44 Stein St, Klein Windhoek</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(61) 2046408</telephone>
+                              <email>unic-windhoek@un.org</email>
+                              <internet>namibia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.276" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>Nepal</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 107, UN House, Harihar Bhawan, Kathmandu</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 5523200</telephone>
+                              <email>unic-kathmandu@un.org</email>
+                              <internet>un.info.np</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.278" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Nigeria</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 1068, 17 Alfred Rewane (formerly Kingsway) Rd, Ikoyi, Lagos</verbatim-address>
+                              </address>
+                              <email>unic-lagos@un.org</email>
+                              <internet>nigeria.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.279" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>Pakistan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Serena Business Complex, Level 7, Khayaban-e-Suhrawardey, Islamabad</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(51) 8354560</telephone>
+                              <email>unic-islamabad@un.org</email>
+                              <internet>pakistan.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.280" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Panama</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Casa de las Naciones Unidas, Edif. 129, Ciudad del Saber, Clayton, Panamá</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">302-4500</telephone>
+                              <email>unic-panamacity@un.org</email>
+                              <internet>panama.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.281" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Paraguay</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>World Trade Center, Avda Aviadores del Chaco 2050, Tower 1, 3rd Floor, Asunción</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 614443</telephone>
+                              <email>unic-asuncion@un.org</email>
+                              <internet>paraguay.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.282" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Peru</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                POB 14-0199, Avda Jorge Chavez 275, 
+                
+                1°, Miraflores, Lima
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 625-9000</telephone>
+                              <email>unic-lima@un.org</email>
+                              <internet>peru.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.283" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio fea">
+                         <org-entry-head>
+                              <org-entry-name>Philippines</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>15/F Rockwell Business Center, Sheridan Mandaluyong, Metro Manila</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 7902-9900</telephone>
+                              <email>unic-manila@un.org</email>
+                              <internet>philippines.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Papua New Guinea and Solomon Islands</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.284" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio casee">
+                         <org-entry-head>
+                              <org-entry-name>Poland</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Ul. Piekna 19; 00-549 Warsaw</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(22) 8255784</telephone>
+                              <email>unic-warsaw@un.org</email>
+                              <internet>www.unic.un.org.pl</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.287" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Russian Federation</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>125009 Moscow, per. Leontyevskii, 9</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(495) 787-21-07</telephone>
+                              <email>unic-moscow@un.org</email>
+                              <internet>www.unic.ru</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.288" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Senegal</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Parcelle N°20, route du King Fahd, Almadies, Dakar</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">33-869-99-11</telephone>
+                              <email>unic.dakar@unic.org</email>
+                              <internet>senegal.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Cabo Verde, Côte d'Ivoire, The Gambia, Guinea, Guinea-Bissau and Mauritania</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.289" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>South Africa</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Metro Park Bldg, 351 Francis Baard St, POB 12677, Pretoria 0126</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(12) 354-8509</telephone>
+                              <email>unic-pretoria@un.org</email>
+                              <internet>southafrica.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.291" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sasia">
+                         <org-entry-head>
+                              <org-entry-name>Sri Lanka</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 1505, 202-204 Bauddhaloka Mawatha, Colombo 7</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 2580691</telephone>
+                              <email>unic-colombo@un.org</email>
+                              <internet>srilanka.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.292" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <!--VK 08.01.2018 Fax confirmed from the UN Information Centre fact Sheet-->
+                         <org-entry-head>
+                              <org-entry-name>Sudan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 1992, UN Compound, House No. 7, Blk 5, Gamma’a Ave, Khartoum</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(187) 120000</telephone>
+                              <email>unic-khartoum@un.org</email>
+                              <internet>sudan.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Somalia</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.293" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <data-protection date-added="17.08.2009" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Switzerland</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Palais des Nations, 1211 Geneva 10</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">229172302</telephone>
+                              <email>press_geneva@un.org</email>
+                              <internet>www.ungeneva.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.294" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <!--GS 29.08.2017 Ditto-->
+                         <!--GS 21.12.2016 Could not confirm phone no.-->
+                         <data-protection date-added="26.07.2016" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>Tanzania</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 9224, 182 Mzinga Way, Oysterbay, Dar es Salaam</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(22) 2199200</telephone>
+                              <email>unic-daressalaam@unic.org</email>
+                              <internet>tanzania.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.296" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Togo</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>468 angle rue Atimé et ave de la Libération, BP 911, Lomé</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">093-94-32</telephone>
+                              <email>unic-lome@un.org</email>
+                              <internet>togo.un.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Benin</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.297" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio sacac">
+                         <org-entry-head>
+                              <org-entry-name>Trinidad and Tobago</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1 Chancery Lane, Port of Spain</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">224-8012</telephone>
+                              <email>unic-portofspain@un.org</email>
+                              <internet>www.un.org/caribbean-unic</internet>
+                         </address-block>
+                         <content-note style="NORMAL">also covers Antigua and Barbuda, Aruba, the Bahamas, Barbados, Belize, Dominica, Grenada, Guyana, Jamaica, the Netherlands Antilles, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, and Suriname</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.298" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Tunisia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>BP 863, Immeuble le Prestige Business Center, rue du Lac Windermere, Tour A, Les Berges du Lac 1053, Tunis</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(36) 011-680</telephone>
+                              <email>unic-tunis@un.org</email>
+                              <internet>tunisia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.299" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Türkiye</org-entry-name>
+                              <alt-name>Turkey</alt-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Yildiz Kule, Turan Güneş Bul. 106, 06550 Cankaya, Ankara</verbatim-address>
+                              </address>
+                              <email>unic-ankara@un.org</email>
+                              <internet>turkiye.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.312" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Ukraine</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>01021 Kyiv, Klovsky uzviz, 1</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(50) 900-22-97</telephone>
+                              <email>unic-kyiv@un.org</email>
+                              <internet>ukraine.un.org/en</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.301" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>USA</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1775 K St, NW, Suite 400, Washington, DC 20006</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 331-8670</telephone>
+                              <email>unic-washington@un.org</email>
+                              <internet>www.un.org/washington/</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.313" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio eerca">
+                         <org-entry-head>
+                              <org-entry-name>Uzbekistan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>100100 Tashkent, 4 T. Shevchenko St</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(93) 577-40-82</telephone>
+                              <email>unic-tashkent@un.org</email>
+                              <internet>uzbekistan.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.300" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio">
+                         <org-entry-head>
+                              <org-entry-name>Western Europe</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Residence Palace, Bloc C2, Level 7, 155 rue de la Loi/Wetstraat, 1040 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 788-84-84</telephone>
+                              <email>info@unric.org</email>
+                              <internet>www.unric.org</internet>
+                         </address-block>
+                         <content-note style="NORMAL">serves Andorra, Belgium, Cyprus, Denmark, Finland, France, Germany, Greece, the Holy See, Iceland, Ireland, Italy, Luxembourg, Malta, Monaco, the Netherlands, Norway, Portugal, San Marino, Spain, Sweden, the United Kingdom</content-note>
+                         <content-note style="NORMAL">also provides liaison with the institutions of the European Union</content-note>
+                    </org-entry>
+                    <org-entry id="IO-UN.302" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio mena">
+                         <org-entry-head>
+                              <org-entry-name>Yemen</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 237; Hadda Post Office Area, Sana`a</verbatim-address>
+                              </address>
+                              <email>unic-sanaa@un.org</email>
+                              <internet>yemen.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.303" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Zambia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 32905, Revenue House, Ground Floor, Kalambo Rd, Lusaka</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(21) 1228487</telephone>
+                              <email>unic-lusaka@un.org</email>
+                              <internet>zambia.un.org</internet>
+                         </address-block>
+                    </org-entry>
+                    <org-entry id="IO-UN.304" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb edio ass">
+                         <org-entry-head>
+                              <org-entry-name>Zimbabwe</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 4408, Sanders House, 2nd Floor, Cnr First St/Jason Moyo, Harare</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(4) 777060</telephone>
+                              <email>unic-harare@un.org</email>
+                              <internet>zimbabwe.un.org</internet>
+                         </address-block>
+                    </org-entry>
+               </org-list>
+               <!--06.iv.24- 1,089 words-->
+          </int-org-section>
+     </int-org-sectref>
+     

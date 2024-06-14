@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61964" sllink="SLSDOCRF" sllinkid="61963" slsdocid="58405" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.276" id-root="hr.dir" iso="hr" sect-type="broadcasting-comms" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--TP 06.07.2011 PROPOSED FOR INCLUSION: (i) Licensing authority - Hrvatska agencija za telekomunikacije/ Croatian Telecommunications Agency (CTA), (ii) Croatian Post and Electronic Communications Agency, www.hakom.hr-->
+                    <heading>Broadcasting and Communications</heading>
+                    <dir-section id="HR.DIR.277" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Telecommunications</heading>
+                         <org-list>
+                              <org-entryref id="SL6452821" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6452820" slsdocid="1170163" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1109693428" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <org-entry-head>
+                                             <org-entry-name>A1 Hrvatska</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Put Vrtni 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4691091</telephone>
+                                             <email>office@a1.hr</email>
+                                             <internet>www.vipnet.hr</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">wholly owned by A1 Austria (earlier Mobilkom)</content-note>
+                                        <content-note style="NORMAL">acquired B.net Hrvatska in 2011</content-note>
+                                        <found-date>1998 as VIPnet</found-date>
+                                        <content-note style="NORMAL">name adopted as above in 2018</content-note>
+                                        <content-note style="NORMAL">provides mobile telecommunications services</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Dvorjančanský</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4003049" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4003048" slsdocid="4003039" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1363957180" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <!--KP 18.06.2019 couldnt find email-->
+                                        <org-entry-head>
+                                             <org-entry-name>B.net Hrvatska</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Vrtni put 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(1) 4691091</telephone>
+                                             <internet>www.a1.hr/bnet</internet>
+                                        </address-block>
+                                        <found-date>2007</found-date>
+                                        <content-note style="NORMAL">provides fixed line and mobile telephone and internet services</content-note>
+                                        <content-note style="NORMAL">part of A1 Croatia</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Dvorjančanský</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6582468" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6582467" slsdocid="58702" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.278" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Hrvatski Telekom</org-entry-name>
+                                             <alt-name>Croatian Telecom</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Radnicka cesta 21</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4911000</telephone>
+                                             <fax>(1) 4911011</fax>
+                                             <email>info@t.ht.hr</email>
+                                             <internet>www.hrvatskitelekom.hr</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <content-note style="NORMAL">52% owned by Deutsche Telekom (Germany)</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kostas</forename>
+                                                       <surname>Nebis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7627112" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7627111" slsdocid="7627099" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1625120655" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <org-entry-head>
+                                             <org-entry-name>Infobip Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Utinjska 29</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6406055</telephone>
+                                             <internet>www.infobip.com</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">digital communications, cloud infrastructure and global connectivity</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Silvio</forename>
+                                                       <surname>Kutić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3999346" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999345" slsdocid="3999332" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1363695459" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <org-entry-head>
+                                             <org-entry-name>Optima Telekom</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Trg Drage Iblera 10, Importanne Galleria</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 5005001</telephone>
+                                             <fax>(1) 5005003</fax>
+                                             <email>info@optima-telekom.hr</email>
+                                             <internet>www.optima.hr</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <content-note style="NORMAL">fixed line telephone and internet services</content-note>
+                                        <content-note style="NORMAL">part-owned by Telemach Hrvatska</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Boris</forename>
+                                                       <surname>Batelić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3415750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3415749" slsdocid="3415731" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1309342082" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <!--MR 10.01.2022 https://united.group/united-group-renames-tele2-croatia-to-telemach-hrvatska-with-investment-of-eur-230-mln/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Telemach Hrvatska</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, ul. Josipa Marohnica 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6460700</telephone>
+                                             <email>info@telemach.hr</email>
+                                             <internet>telemach.hr</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <content-note style="NORMAL">wholly owned by United Group (Netherlands)</content-note>
+                                        <content-note style="NORMAL">fmrly Tele2 Croatia, name changed as above in 2020</content-note>
+                                        <content-note style="NORMAL">mobile telecommunications and internet services</content-note>
+                                        <role-group>
+                                             <role>Chair. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adrian</forename>
+                                                       <surname>Ježina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HR.DIR.279" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Broadcasting</heading>
+                         <dir-section id="HR.DIR.510" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Radio</heading>
+                              <org-list>
+                                   <org-entryref id="SL66968" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66967" slsdocid="58700" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.280" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <data-protection date-added="16.12.2017" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Croatian Radio</org-entry-name>
+                                                  <alt-name>Hrvatski Radio</alt-name>
+                                                  <abbr>HRT</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Prisavlje 3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 6342634</telephone>
+                                                  <fax>(1) 6343712</fax>
+                                                  <email>hrt@hrt.hr</email>
+                                                  <internet>www.hrt.hr</internet>
+                                                  <internet>hrti.hrt.hr</internet>
+                                             </address-block>
+                                             <found-date>1926</found-date>
+                                             <content-note style="NORMAL">state-owned radio broadcaster</content-note>
+                                             <ownership>forms part of the public broadcasting co Hrvatska Radiotelevizija (HRT)</ownership>
+                                             <stats>3 national radio stations; 8 regional stations (Sljeme, Osijek, Pula, Rijeka, Split, Zadar, Dubrovnik and Knin); and one international station, </stats>
+                                             <content-note style="NORMAL">broadcasting in English, German and Spanish</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Robert</forename>
+                                                            <surname>Šveb</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5690366" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5690365" slsdocid="5690351" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.1489748197" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Narodni Radio</org-entry-name>
+                                                  <alt-name>People’s Radio</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Većeslava Holjevca 29</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 6689580</telephone>
+                                                  <email>narodni@narodni.hr</email>
+                                                  <internet>narodni.hr</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <role-group>
+                                                  <role>Dir and Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Katijan</forename>
+                                                            <surname>Knok</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1170248" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1170247" slsdocid="58697" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.283" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Otvoreni Radio</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10010 Zagreb, Cebini 28/III</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 6623700</telephone>
+                                                  <fax>(1) 6623800</fax>
+                                                  <email>otvoreni@otvoreni.hr</email>
+                                                  <internet>www.otvoreni.hr</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">broadcasts popular music and entertainment programmes nationwide</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Robert</forename>
+                                                            <surname>Miličević</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66970" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66969" slsdocid="58699" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.281" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Radio 101</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Ljudevita Gaja 10</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 4891102</telephone>
+                                                  <email>info@radio101.hr</email>
+                                                  <internet>radio101.hr</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">independent</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Thomas Alexander</forename>
+                                                            <surname>Thimme</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66972" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66971" slsdocid="58698" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.282" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Radio Baranja</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>31300 Beli Manastir, trg Slobode 32/3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(31) 700700</telephone>
+                                                  <email>redakcija@radio-baranja.hr</email>
+                                                  <internet>www.radio-baranja.hr</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <ownership>independent</ownership>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zlata</forename>
+                                                            <surname>Maršić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="HR.DIR.284" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Television</heading>
+                              <org-list>
+                                   <org-entryref id="SL66976" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66975" slsdocid="58696" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.285" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Croatian Television</org-entry-name>
+                                                  <alt-name>Hrvatska Radiotelevizija</alt-name>
+                                                  <abbr>HRT</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Prisavlje 3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 6342634</telephone>
+                                                  <fax>(1) 6343712</fax>
+                                                  <email>hrt@hrt.hr</email>
+                                                  <internet>www.hrt.hr</internet>
+                                             </address-block>
+                                             <found-date>1956</found-date>
+                                             <content-note style="NORMAL">public broadcasting co</content-note>
+                                             <stats>5 main channels, including an international channel</stats>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Robert</forename>
+                                                            <surname>Šveb</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5690344" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5690343" slsdocid="5690300" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.1489747347" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <!--NS 15.05.2018 https://seenews.com/news/croatian-regulator-approves-nova-tv-sale-to-united-group-606870-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Nova TV</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Remetinečka cesta 139</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 6008300</telephone>
+                                                  <fax>(1) 6008333</fax>
+                                                  <email>novatv@novatv.hr</email>
+                                                  <internet>novatv.dnevnik.hr</internet>
+                                             </address-block>
+                                             <found-date>2000</found-date>
+                                             <content-note style="NORMAL">wholly owned by United Group (registered in the Netherlands)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dražen</forename>
+                                                            <surname>Mavrić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zrinka</forename>
+                                                            <surname>Jankov</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5690286" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5690285" slsdocid="5690255" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="HR.DIR.1489746367" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>RTL</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10000 Zagreb, Krapinska 45</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(1) 3660000</telephone>
+                                                  <fax>(1) 3660009</fax>
+                                                  <email>rtl@rtl.hr</email>
+                                                  <internet>www.rtl.hr</internet>
+                                             </address-block>
+                                             <found-date>2004</found-date>
+                                             <content-note style="NORMAL">3 national channels</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marc</forename>
+                                                            <surname>Puškarić</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,2264 @@
+<?xml version="1.0"?>
+<stats-table sect-type="area-population" id="STATS.TABLE.31" sllink="SLSDOC" id-root="x" iso="x"
+     slsdocrf="STATS-TABREF" 
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>Employment by sector, 2019</heading>
+     <units>% of total employment</units>
+     <sources>
+          <source-head>Source</source-head>
+          <source-info>World Bank, <i>World Development Indicators</i> database.</source-info>
+     </sources>
+     <country-stats-group>
+          <country-stats iso="af">
+               <name>Afghanistan</name>
+               <data-group>
+                    <value label="Agriculture">42.5</value>
+                    <value label="Industry">18.5</value>
+                    <value label="Services">39.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi-al">
+               <name>Åland Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="al">
+               <name>Albania</name>
+               <data-group>
+                    <value label="Agriculture">36.4</value>
+                    <value label="Industry">20.1</value>
+                    <value label="Services">43.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dz">
+               <name>Algeria</name>
+               <data-group>
+                    <value label="Agriculture">9.6</value>
+                    <value label="Industry">30.4</value>
+                    <value label="Services">60.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="as">
+               <name>American Samoa</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ad">
+               <name>Andorra</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ao">
+               <name>Angola</name>
+               <data-group>
+                    <value label="Agriculture">50.7</value>
+                    <value label="Industry">6.8</value>
+                    <value label="Services">42.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ai">
+               <name>Anguilla</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ag">
+               <name>Antigua and Barbuda</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ar">
+               <name>Argentina</name>
+               <data-group>
+                    <value label="Agriculture">0.1</value>
+                    <value label="Industry">21.8</value>
+                    <value label="Services">78.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="am">
+               <name>Armenia</name>
+               <data-group>
+                    <value label="Agriculture">24.0</value>
+                    <value label="Industry">24.8</value>
+                    <value label="Services">51.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="aw">
+               <name>Aruba</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="au">
+               <name>Australia</name>
+               <data-group>
+                    <value label="Agriculture">2.6</value>
+                    <value label="Industry">19.1</value>
+                    <value label="Services">78.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="at">
+               <name>Austria</name>
+               <data-group>
+                    <value label="Agriculture">3.7</value>
+                    <value label="Industry">25.4</value>
+                    <value label="Services">71.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="az">
+               <name>Azerbaijan</name>
+               <data-group>
+                    <value label="Agriculture">36.0</value>
+                    <value label="Industry">14.8</value>
+                    <value label="Services">49.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bs">
+               <name>Bahamas</name>
+               <data-group>
+                    <value label="Agriculture">2.2</value>
+                    <value label="Industry">14.5</value>
+                    <value label="Services">83.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bh">
+               <name>Bahrain</name>
+               <data-group>
+                    <value label="Agriculture">0.9</value>
+                    <value label="Industry">35.3</value>
+                    <value label="Services">63.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bd">
+               <name>Bangladesh</name>
+               <data-group>
+                    <value label="Agriculture">38.3</value>
+                    <value label="Industry">21.3</value>
+                    <value label="Services">40.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bb">
+               <name>Barbados</name>
+               <data-group>
+                    <value label="Agriculture">2.7</value>
+                    <value label="Industry">18.9</value>
+                    <value label="Services">78.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="by">
+               <name>Belarus</name>
+               <data-group>
+                    <value label="Agriculture">11.1</value>
+                    <value label="Industry">30.4</value>
+                    <value label="Services">58.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="be">
+               <name>Belgium</name>
+               <data-group>
+                    <value label="Agriculture">0.9</value>
+                    <value label="Industry">20.8</value>
+                    <value label="Services">78.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bz">
+               <name>Belize</name>
+               <data-group>
+                    <value label="Agriculture">16.8</value>
+                    <value label="Industry">15.6</value>
+                    <value label="Services">67.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bj">
+               <name>Benin</name>
+               <data-group>
+                    <value label="Agriculture">38.3</value>
+                    <value label="Industry">18.3</value>
+                    <value label="Services">43.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bm">
+               <name>Bermuda</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bt">
+               <name>Bhutan</name>
+               <data-group>
+                    <value label="Agriculture">55.8</value>
+                    <value label="Industry">10.1</value>
+                    <value label="Services">34.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bo">
+               <name>Bolivia</name>
+               <data-group>
+                    <value label="Agriculture">30.5</value>
+                    <value label="Industry">19.4</value>
+                    <value label="Services">50.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ba">
+               <name>Bosnia and Herzegovina</name>
+               <data-group>
+                    <value label="Agriculture">18.0</value>
+                    <value label="Industry">31.7</value>
+                    <value label="Services">50.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bw">
+               <name>Botswana</name>
+               <data-group>
+                    <value label="Agriculture">19.9</value>
+                    <value label="Industry">17.6</value>
+                    <value label="Services">62.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="br">
+               <name>Brazil</name>
+               <data-group>
+                    <value label="Agriculture">9.1</value>
+                    <value label="Industry">20.0</value>
+                    <value label="Services">70.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vg">
+               <name>British Virgin Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bn">
+               <name>Brunei Darussalam</name>
+               <data-group>
+                    <value label="Agriculture">2.0</value>
+                    <value label="Industry">20.8</value>
+                    <value label="Services">77.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bg">
+               <name>Bulgaria</name>
+               <data-group>
+                    <value label="Agriculture">6.6</value>
+                    <value label="Industry">30.0</value>
+                    <value label="Services">63.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bf">
+               <name>Burkina Faso</name>
+               <data-group>
+                    <value label="Agriculture">26.2</value>
+                    <value label="Industry">25.2</value>
+                    <value label="Services">48.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="bi">
+               <name>Burundi</name>
+               <data-group>
+                    <value label="Agriculture">86.2</value>
+                    <value label="Industry">3.3</value>
+                    <value label="Services">10.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kh">
+               <name>Cambodia</name>
+               <data-group>
+                    <value label="Agriculture">34.5</value>
+                    <value label="Industry">27.9</value>
+                    <value label="Services">37.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cm">
+               <name>Cameroon</name>
+               <data-group>
+                    <value label="Agriculture">43.5</value>
+                    <value label="Industry">14.4</value>
+                    <value label="Services">42.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ca">
+               <name>Canada</name>
+               <data-group>
+                    <value label="Agriculture">1.5</value>
+                    <value label="Industry">19.3</value>
+                    <value label="Services">79.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cv">
+               <name>Cabo Verde</name>
+               <data-group>
+                    <value label="Agriculture">10.6</value>
+                    <value label="Industry">21.8</value>
+                    <value label="Services">67.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ky">
+               <name>Cayman Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cf">
+               <name>Central African Republic</name>
+               <data-group>
+                    <value label="Agriculture">69.8</value>
+                    <value label="Industry">6.3</value>
+                    <value label="Services">23.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ce">
+               <name>Ceuta</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="td">
+               <name>Chad</name>
+               <data-group>
+                    <value label="Agriculture">75.1</value>
+                    <value label="Industry">1.9</value>
+                    <value label="Services">23.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-ci">
+               <name>Channel Islands</name>
+               <data-group>
+                    <value label="Agriculture">2.6</value>
+                    <value label="Industry">24.6</value>
+                    <value label="Services">72.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cl">
+               <name>Chile</name>
+               <data-group>
+                    <value label="Agriculture">9.0</value>
+                    <value label="Industry">22.3</value>
+                    <value label="Services">68.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cn">
+               <name>China, People's Republic</name>
+               <footnote id="STATS.TABLE.31.1" ref-symbol="1">Including Hong Kong and Macao, listed
+                    separately.</footnote>
+               <data-group>
+                    <value label="Agriculture">25.3</value>
+                    <value label="Industry">27.4</value>
+                    <value label="Services">47.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cx">
+               <name>Christmas Island</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cc">
+               <name>Cocos (Keeling) Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="co">
+               <name>Colombia</name>
+               <data-group>
+                    <value label="Agriculture">15.8</value>
+                    <value label="Industry">20.1</value>
+                    <value label="Services">64.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="km">
+               <name>Comoros</name>
+               <data-group>
+                    <value label="Agriculture">34.4</value>
+                    <value label="Industry">18.8</value>
+                    <value label="Services">46.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cd">
+               <name>Congo, Democratic Republic</name>
+               <data-group>
+                    <value label="Agriculture">64.3</value>
+                    <value label="Industry">9.8</value>
+                    <value label="Services">25.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cg">
+               <name>Congo, Republic</name>
+               <data-group>
+                    <value label="Agriculture">33.5</value>
+                    <value label="Industry">21.5</value>
+                    <value label="Services">45.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ck">
+               <name>Cook Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cr">
+               <name>Costa Rica</name>
+               <data-group>
+                    <value label="Agriculture">12.0</value>
+                    <value label="Industry">18.8</value>
+                    <value label="Services">69.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ci">
+               <name>Côte d'Ivoire</name>
+               <data-group>
+                    <value label="Agriculture">40.2</value>
+                    <value label="Industry">12.9</value>
+                    <value label="Services">47.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hr">
+               <name>Croatia</name>
+               <data-group>
+                    <value label="Agriculture">6.2</value>
+                    <value label="Industry">27.7</value>
+                    <value label="Services">66.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cu">
+               <name>Cuba</name>
+               <data-group>
+                    <value label="Agriculture">17.4</value>
+                    <value label="Industry">17.1</value>
+                    <value label="Services">65.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cw">
+               <name>Curaçao</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cy">
+               <name>Cyprus</name>
+               <data-group>
+                    <value label="Agriculture">2.4</value>
+                    <value label="Industry">18.4</value>
+                    <value label="Services">79.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="cz">
+               <name>Czech Republic</name>
+               <data-group>
+                    <value label="Agriculture">2.7</value>
+                    <value label="Industry">37.3</value>
+                    <value label="Services">60.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dk">
+               <name>Denmark</name>
+               <data-group>
+                    <value label="Agriculture">2.2</value>
+                    <value label="Industry">18.5</value>
+                    <value label="Services">79.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dj">
+               <name>Djibouti</name>
+               <data-group>
+                    <value label="Agriculture">24.5</value>
+                    <value label="Industry">13.4</value>
+                    <value label="Services">62.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="dm">
+               <name>Dominica</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="do">
+               <name>Dominican Republic</name>
+               <data-group>
+                    <value label="Agriculture">8.8</value>
+                    <value label="Industry">18.8</value>
+                    <value label="Services">72.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ec">
+               <name>Ecuador</name>
+               <data-group>
+                    <value label="Agriculture">29.7</value>
+                    <value label="Industry">17.2</value>
+                    <value label="Services">53.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="eg">
+               <name>Egypt</name>
+               <data-group>
+                    <value label="Agriculture">20.6</value>
+                    <value label="Industry">26.9</value>
+                    <value label="Services">52.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sv">
+               <name>El Salvador</name>
+               <data-group>
+                    <value label="Agriculture">16.3</value>
+                    <value label="Industry">22.5</value>
+                    <value label="Services">61.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gq">
+               <name>Equatorial Guinea</name>
+               <data-group>
+                    <value label="Agriculture">39.5</value>
+                    <value label="Industry">19.4</value>
+                    <value label="Services">41.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="er">
+               <name>Eritrea</name>
+               <data-group>
+                    <value label="Agriculture">63.1</value>
+                    <value label="Industry">7.3</value>
+                    <value label="Services">29.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ee">
+               <name>Estonia</name>
+               <data-group>
+                    <value label="Agriculture">3.2</value>
+                    <value label="Industry">28.7</value>
+                    <value label="Services">68.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sz">
+               <name>Eswatini</name>
+               <data-group>
+                    <value label="Agriculture">12.1</value>
+                    <value label="Industry">23.4</value>
+                    <value label="Services">64.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="et">
+               <name>Ethiopia</name>
+               <data-group>
+                    <value label="Agriculture">66.6</value>
+                    <value label="Industry">9.3</value>
+                    <value label="Services">24.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fk">
+               <name>Falkland Islands (Malvinas)</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fo">
+               <name>Faroe Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fj">
+               <name>Fiji</name>
+               <data-group>
+                    <value label="Agriculture">17.6</value>
+                    <value label="Industry">14.1</value>
+                    <value label="Services">68.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fi">
+               <name>Finland</name>
+               <footnote id="STATS.TABLE.31.2" ref-symbol="2">Including the Åland Islands, listed
+                    separately.</footnote>
+               <data-group>
+                    <value label="Agriculture">3.8</value>
+                    <value label="Industry">21.6</value>
+                    <value label="Services">74.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fr">
+               <name>France (metropolitan)</name>
+               <data-group>
+                    <value label="Agriculture">2.5</value>
+                    <value label="Industry">20.4</value>
+                    <value label="Services">77.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gf">
+               <name>French Guiana</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pf">
+               <name>French Polynesia</name>
+               <data-group>
+                    <value label="Agriculture">6.8</value>
+                    <value label="Industry">16.6</value>
+                    <value label="Services">76.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ga">
+               <name>Gabon</name>
+               <data-group>
+                    <value label="Agriculture">30.0</value>
+                    <value label="Industry">10.7</value>
+                    <value label="Services">59.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gm">
+               <name>Gambia</name>
+               <data-group>
+                    <value label="Agriculture">27.0</value>
+                    <value label="Industry">15.0</value>
+                    <value label="Services">58.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ge">
+               <name>Georgia</name>
+               <data-group>
+                    <value label="Agriculture">38.2</value>
+                    <value label="Industry">14.3</value>
+                    <value label="Services">47.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="de">
+               <name>Germany</name>
+               <data-group>
+                    <value label="Agriculture">1.2</value>
+                    <value label="Industry">27.2</value>
+                    <value label="Services">71.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gh">
+               <name>Ghana</name>
+               <data-group>
+                    <value label="Agriculture">29.8</value>
+                    <value label="Industry">21.0</value>
+                    <value label="Services">49.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gi">
+               <name>Gibraltar</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gr">
+               <name>Greece</name>
+               <data-group>
+                    <value label="Agriculture">11.6</value>
+                    <value label="Industry">15.3</value>
+                    <value label="Services">73.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gl">
+               <name>Greenland</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gd">
+               <name>Grenada</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gp">
+               <name>Guadeloupe</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gu">
+               <name>Guam</name>
+               <data-group>
+                    <value label="Agriculture">0.2</value>
+                    <value label="Industry">15.5</value>
+                    <value label="Services">84.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gt">
+               <name>Guatemala</name>
+               <data-group>
+                    <value label="Agriculture">31.3</value>
+                    <value label="Industry">18.7</value>
+                    <value label="Services">50.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gn">
+               <name>Guinea</name>
+               <data-group>
+                    <value label="Agriculture">60.7</value>
+                    <value label="Industry">5.8</value>
+                    <value label="Services">33.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gw">
+               <name>Guinea-Bissau</name>
+               <data-group>
+                    <value label="Agriculture">60.5</value>
+                    <value label="Industry">8.6</value>
+                    <value label="Services">30.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gy">
+               <name>Guyana</name>
+               <data-group>
+                    <value label="Agriculture">15.4</value>
+                    <value label="Industry">25.0</value>
+                    <value label="Services">59.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ht">
+               <name>Haiti</name>
+               <data-group>
+                    <value label="Agriculture">29.0</value>
+                    <value label="Industry">6.7</value>
+                    <value label="Services">64.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hn">
+               <name>Honduras</name>
+               <data-group>
+                    <value label="Agriculture">29.5</value>
+                    <value label="Industry">21.4</value>
+                    <value label="Services">49.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hk">
+               <name>Hong Kong</name>
+               <data-group>
+                    <value label="Agriculture">0.2</value>
+                    <value label="Industry">11.1</value>
+                    <value label="Services">88.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="hu">
+               <name>Hungary</name>
+               <data-group>
+                    <value label="Agriculture">4.7</value>
+                    <value label="Industry">32.1</value>
+                    <value label="Services">63.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="is">
+               <name>Iceland</name>
+               <data-group>
+                    <value label="Agriculture">4.0</value>
+                    <value label="Industry">17.5</value>
+                    <value label="Services">78.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="in">
+               <name>India</name>
+               <data-group>
+                    <value label="Agriculture">42.6</value>
+                    <value label="Industry">25.1</value>
+                    <value label="Services">32.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="id">
+               <name>Indonesia</name>
+               <data-group>
+                    <value label="Agriculture">28.5</value>
+                    <value label="Industry">22.4</value>
+                    <value label="Services">49.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ir">
+               <name>Iran</name>
+               <data-group>
+                    <value label="Agriculture">17.4</value>
+                    <value label="Industry">31.4</value>
+                    <value label="Services">51.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="iq">
+               <name>Iraq</name>
+               <data-group>
+                    <value label="Agriculture">18.3</value>
+                    <value label="Industry">22.9</value>
+                    <value label="Services">58.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ie">
+               <name>Ireland</name>
+               <data-group>
+                    <value label="Agriculture">4.4</value>
+                    <value label="Industry">18.8</value>
+                    <value label="Services">76.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb-iom">
+               <name>Isle of Man</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="il">
+               <name>Israel</name>
+               <data-group>
+                    <value label="Agriculture">0.9</value>
+                    <value label="Industry">17.2</value>
+                    <value label="Services">81.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="it">
+               <name>Italy</name>
+               <data-group>
+                    <value label="Agriculture">3.9</value>
+                    <value label="Industry">25.9</value>
+                    <value label="Services">70.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jm">
+               <name>Jamaica</name>
+               <data-group>
+                    <value label="Agriculture">15.2</value>
+                    <value label="Industry">16.2</value>
+                    <value label="Services">68.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jp">
+               <name>Japan</name>
+               <data-group>
+                    <value label="Agriculture">3.4</value>
+                    <value label="Industry">24.2</value>
+                    <value label="Services">72.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="jo">
+               <name>Jordan</name>
+               <data-group>
+                    <value label="Agriculture">2.5</value>
+                    <value label="Industry">24.5</value>
+                    <value label="Services">73.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kz">
+               <name>Kazakhstan</name>
+               <data-group>
+                    <value label="Agriculture">14.9</value>
+                    <value label="Industry">21.0</value>
+                    <value label="Services">64.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ke">
+               <name>Kenya</name>
+               <data-group>
+                    <value label="Agriculture">54.3</value>
+                    <value label="Industry">6.2</value>
+                    <value label="Services">39.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ki">
+               <name>Kiribati</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kp">
+               <name>Korea, Democratic People's Republic</name>
+               <data-group>
+                    <value label="Agriculture">43.8</value>
+                    <value label="Industry">12.7</value>
+                    <value label="Services">43.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kr">
+               <name>Korea, Republic</name>
+               <data-group>
+                    <value label="Agriculture">5.1</value>
+                    <value label="Industry">24.6</value>
+                    <value label="Services">70.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ks">
+               <name>Kosovo</name>
+               <footnote id="STATS.TABLE.31.3" ref-symbol="3">Declared independence from Serbia in
+                    February 2008.</footnote>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kw">
+               <name>Kuwait</name>
+               <data-group>
+                    <value label="Agriculture">1.8</value>
+                    <value label="Industry">22.1</value>
+                    <value label="Services">76.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kg">
+               <name>Kyrgyzstan</name>
+               <data-group>
+                    <value label="Agriculture">19.3</value>
+                    <value label="Industry">25.4</value>
+                    <value label="Services">55.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="la">
+               <name>Lao PDR</name>
+               <data-group>
+                    <value label="Agriculture">61.4</value>
+                    <value label="Industry">12.9</value>
+                    <value label="Services">25.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lv">
+               <name>Latvia</name>
+               <data-group>
+                    <value label="Agriculture">7.3</value>
+                    <value label="Industry">23.7</value>
+                    <value label="Services">69.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lb">
+               <name>Lebanon</name>
+               <data-group>
+                    <value label="Agriculture">11.3</value>
+                    <value label="Industry">23.6</value>
+                    <value label="Services">65.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ls">
+               <name>Lesotho</name>
+               <data-group>
+                    <value label="Agriculture">44.3</value>
+                    <value label="Industry">13.3</value>
+                    <value label="Services">42.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lr">
+               <name>Liberia</name>
+               <data-group>
+                    <value label="Agriculture">42.6</value>
+                    <value label="Industry">10.1</value>
+                    <value label="Services">47.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ly">
+               <name>Libya</name>
+               <data-group>
+                    <value label="Agriculture">16.4</value>
+                    <value label="Industry">24.4</value>
+                    <value label="Services">59.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="li">
+               <name>Liechtenstein</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lt">
+               <name>Lithuania</name>
+               <data-group>
+                    <value label="Agriculture">6.4</value>
+                    <value label="Industry">25.7</value>
+                    <value label="Services">67.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lu">
+               <name>Luxembourg</name>
+               <data-group>
+                    <value label="Agriculture">0.7</value>
+                    <value label="Industry">10.8</value>
+                    <value label="Services">88.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mo">
+               <name>Macao</name>
+               <data-group>
+                    <value label="Agriculture">0.4</value>
+                    <value label="Industry">9.7</value>
+                    <value label="Services">89.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mg">
+               <name>Madagascar</name>
+               <data-group>
+                    <value label="Agriculture">64.1</value>
+                    <value label="Industry">8.7</value>
+                    <value label="Services">27.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mw">
+               <name>Malawi</name>
+               <data-group>
+                    <value label="Agriculture">76.4</value>
+                    <value label="Industry">5.4</value>
+                    <value label="Services">18.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="my">
+               <name>Malaysia</name>
+               <data-group>
+                    <value label="Agriculture">10.3</value>
+                    <value label="Industry">27.0</value>
+                    <value label="Services">62.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mv">
+               <name>Maldives</name>
+               <data-group>
+                    <value label="Agriculture">8.3</value>
+                    <value label="Industry">19.1</value>
+                    <value label="Services">72.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ml">
+               <name>Mali</name>
+               <data-group>
+                    <value label="Agriculture">62.4</value>
+                    <value label="Industry">7.6</value>
+                    <value label="Services">30.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mt">
+               <name>Malta</name>
+               <data-group>
+                    <value label="Agriculture">1.0</value>
+                    <value label="Industry">18.9</value>
+                    <value label="Services">80.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mh">
+               <name>Marshall Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mq">
+               <name>Martinique</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mr">
+               <name>Mauritania</name>
+               <data-group>
+                    <value label="Agriculture">30.8</value>
+                    <value label="Industry">17.6</value>
+                    <value label="Services">51.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mu">
+               <name>Mauritius</name>
+               <data-group>
+                    <value label="Agriculture">6.0</value>
+                    <value label="Industry">23.7</value>
+                    <value label="Services">70.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="yt">
+               <name>Mayotte</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es-ml">
+               <name>Melilla</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mx">
+               <name>Mexico</name>
+               <data-group>
+                    <value label="Agriculture">12.5</value>
+                    <value label="Industry">25.5</value>
+                    <value label="Services">62.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="fm">
+               <name>Micronesia, Federated States</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="md">
+               <name>Moldova</name>
+               <data-group>
+                    <value label="Agriculture">21.0</value>
+                    <value label="Industry">21.7</value>
+                    <value label="Services">57.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mc">
+               <name>Monaco</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mn">
+               <name>Mongolia</name>
+               <data-group>
+                    <value label="Agriculture">25.3</value>
+                    <value label="Industry">21.6</value>
+                    <value label="Services">53.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="me">
+               <name>Montenegro</name>
+               <data-group>
+                    <value label="Agriculture">7.2</value>
+                    <value label="Industry">19.4</value>
+                    <value label="Services">73.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ms">
+               <name>Montserrat</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ma">
+               <name>Morocco</name>
+               <data-group>
+                    <value label="Agriculture">33.3</value>
+                    <value label="Industry">23.1</value>
+                    <value label="Services">43.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mz">
+               <name>Mozambique</name>
+               <data-group>
+                    <value label="Agriculture">70.2</value>
+                    <value label="Industry">8.6</value>
+                    <value label="Services">21.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mm">
+               <name>Myanmar</name>
+               <data-group>
+                    <value label="Agriculture">48.8</value>
+                    <value label="Industry">16.9</value>
+                    <value label="Services">34.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="na">
+               <name>Namibia</name>
+               <data-group>
+                    <value label="Agriculture">21.9</value>
+                    <value label="Industry">16.4</value>
+                    <value label="Services">61.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nr">
+               <name>Nauru</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="np">
+               <name>Nepal</name>
+               <data-group>
+                    <value label="Agriculture">64.4</value>
+                    <value label="Industry">15.1</value>
+                    <value label="Services">20.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nl">
+               <name>Netherlands</name>
+               <data-group>
+                    <value label="Agriculture">2.1</value>
+                    <value label="Industry">16.1</value>
+                    <value label="Services">81.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nc">
+               <name>New Caledonia</name>
+               <data-group>
+                    <value label="Agriculture">1.9</value>
+                    <value label="Industry">22.9</value>
+                    <value label="Services">75.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nz">
+               <name>New Zealand</name>
+               <data-group>
+                    <value label="Agriculture">5.8</value>
+                    <value label="Industry">19.3</value>
+                    <value label="Services">74.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ni">
+               <name>Nicaragua</name>
+               <data-group>
+                    <value label="Agriculture">30.6</value>
+                    <value label="Industry">16.2</value>
+                    <value label="Services">53.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ne">
+               <name>Niger</name>
+               <data-group>
+                    <value label="Agriculture">72.5</value>
+                    <value label="Industry">6.7</value>
+                    <value label="Services">20.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ng">
+               <name>Nigeria</name>
+               <data-group>
+                    <value label="Agriculture">35.0</value>
+                    <value label="Industry">12.0</value>
+                    <value label="Services">53.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nu">
+               <name>Niue</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="nf">
+               <name>Norfolk Island</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mp">
+               <name>Northern Mariana Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="mk">
+               <name>North Macedonia</name>
+               <data-group>
+                    <value label="Agriculture">13.9</value>
+                    <value label="Industry">31.1</value>
+                    <value label="Services">55.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="no">
+               <name>Norway</name>
+               <data-group>
+                    <value label="Agriculture">2.0</value>
+                    <value label="Industry">19.4</value>
+                    <value label="Services">78.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="om">
+               <name>Oman</name>
+               <data-group>
+                    <value label="Agriculture">4.0</value>
+                    <value label="Industry">32.0</value>
+                    <value label="Services">64.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pk">
+               <name>Pakistan</name>
+               <data-group>
+                    <value label="Agriculture">36.9</value>
+                    <value label="Industry">25.0</value>
+                    <value label="Services">38.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pw">
+               <name>Palau</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ps">
+               <name>Palestinian Autonomous Areas</name>
+               <data-group>
+                    <value label="Agriculture">6.1</value>
+                    <value label="Industry">30.4</value>
+                    <value label="Services">63.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pa">
+               <name>Panama</name>
+               <data-group>
+                    <value label="Agriculture">14.4</value>
+                    <value label="Industry">17.7</value>
+                    <value label="Services">67.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pg">
+               <name>Papua New Guinea</name>
+               <data-group>
+                    <value label="Agriculture">56.2</value>
+                    <value label="Industry">13.2</value>
+                    <value label="Services">30.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="py">
+               <name>Paraguay</name>
+               <data-group>
+                    <value label="Agriculture">18.7</value>
+                    <value label="Industry">18.1</value>
+                    <value label="Services">63.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pe">
+               <name>Peru</name>
+               <data-group>
+                    <value label="Agriculture">27.4</value>
+                    <value label="Industry">15.2</value>
+                    <value label="Services">57.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ph">
+               <name>Philippines</name>
+               <data-group>
+                    <value label="Agriculture">22.9</value>
+                    <value label="Industry">19.1</value>
+                    <value label="Services">58.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pn">
+               <name>Pitcairn Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pl">
+               <name>Poland</name>
+               <data-group>
+                    <value label="Agriculture">9.1</value>
+                    <value label="Industry">32.1</value>
+                    <value label="Services">58.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pt">
+               <name>Portugal</name>
+               <data-group>
+                    <value label="Agriculture">5.5</value>
+                    <value label="Industry">24.7</value>
+                    <value label="Services">69.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pr">
+               <name>Puerto Rico</name>
+               <data-group>
+                    <value label="Agriculture">1.1</value>
+                    <value label="Industry">15.2</value>
+                    <value label="Services">83.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="qa">
+               <name>Qatar</name>
+               <data-group>
+                    <value label="Agriculture">1.2</value>
+                    <value label="Industry">53.7</value>
+                    <value label="Services">45.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="re">
+               <name>Réunion</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ro">
+               <name>Romania</name>
+               <data-group>
+                    <value label="Agriculture">21.2</value>
+                    <value label="Industry">30.1</value>
+                    <value label="Services">48.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ru">
+               <name>Russian Federation</name>
+               <data-group>
+                    <value label="Agriculture">5.8</value>
+                    <value label="Industry">26.8</value>
+                    <value label="Services">67.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rw">
+               <name>Rwanda</name>
+               <data-group>
+                    <value label="Agriculture">62.3</value>
+                    <value label="Industry">8.6</value>
+                    <value label="Services">29.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sh">
+               <name>St Helena and Dependencies</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="kn">
+               <name>Saint Kitts and Nevis</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lc">
+               <name>Saint Lucia</name>
+               <data-group>
+                    <value label="Agriculture">10.0</value>
+                    <value label="Industry">14.7</value>
+                    <value label="Services">75.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="pm">
+               <name>St Pierre and Miquelon</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vc">
+               <name>Saint Vincent and the Grenadines</name>
+               <data-group>
+                    <value label="Agriculture">10.1</value>
+                    <value label="Industry">19.9</value>
+                    <value label="Services">70.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ws">
+               <name>Samoa</name>
+               <data-group>
+                    <value label="Agriculture">30.2</value>
+                    <value label="Industry">24.9</value>
+                    <value label="Services">44.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sm">
+               <name>San Marino</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="st">
+               <name>São Tomé and Príncipe</name>
+               <data-group>
+                    <value label="Agriculture">19.1</value>
+                    <value label="Industry">17.9</value>
+                    <value label="Services">62.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sa">
+               <name>Saudi Arabia</name>
+               <data-group>
+                    <value label="Agriculture">2.4</value>
+                    <value label="Industry">24.8</value>
+                    <value label="Services">72.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sn">
+               <name>Senegal</name>
+               <data-group>
+                    <value label="Agriculture">30.1</value>
+                    <value label="Industry">13.1</value>
+                    <value label="Services">56.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="rs">
+               <name>Serbia</name>
+               <footnote id="STATS.TABLE.31.4" ref-symbol="4">Including Kosovo until February
+                    2008.</footnote>
+               <data-group>
+                    <value label="Agriculture">15.6</value>
+                    <value label="Industry">27.4</value>
+                    <value label="Services">57.0</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sc">
+               <name>Seychelles</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sl">
+               <name>Sierra Leone</name>
+               <data-group>
+                    <value label="Agriculture">54.5</value>
+                    <value label="Industry">6.8</value>
+                    <value label="Services">38.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sg">
+               <name>Singapore</name>
+               <data-group>
+                    <value label="Agriculture">0.0</value>
+                    <value label="Industry">15.6</value>
+                    <value label="Services">84.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sx">
+               <name>Sint Maarten</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sk">
+               <name>Slovakia</name>
+               <data-group>
+                    <value label="Agriculture">2.8</value>
+                    <value label="Industry">36.1</value>
+                    <value label="Services">61.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="si">
+               <name>Slovenia</name>
+               <data-group>
+                    <value label="Agriculture">4.3</value>
+                    <value label="Industry">34.1</value>
+                    <value label="Services">61.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sb">
+               <name>Solomon Islands</name>
+               <data-group>
+                    <value label="Agriculture">37.3</value>
+                    <value label="Industry">12.1</value>
+                    <value label="Services">50.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="so">
+               <name>Somalia</name>
+               <data-group>
+                    <value label="Agriculture">80.3</value>
+                    <value label="Industry">2.4</value>
+                    <value label="Services">17.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="za">
+               <name>South Africa</name>
+               <data-group>
+                    <value label="Agriculture">5.3</value>
+                    <value label="Industry">22.3</value>
+                    <value label="Services">72.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ss">
+               <name>South Sudan</name>
+               <data-group>
+                    <value label="Agriculture">60.4</value>
+                    <value label="Industry">16.4</value>
+                    <value label="Services">23.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="es">
+               <name>Spain</name>
+               <footnote id="STATS.TABLE.31.5" ref-symbol="5">Including Ceuta and Melilla, listed
+                    separately.</footnote>
+               <data-group>
+                    <value label="Agriculture">4.0</value>
+                    <value label="Industry">20.4</value>
+                    <value label="Services">75.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="lk">
+               <name>Sri Lanka</name>
+               <data-group>
+                    <value label="Agriculture">25.0</value>
+                    <value label="Industry">27.9</value>
+                    <value label="Services">47.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sd">
+               <name>Sudan</name>
+               <data-group>
+                    <value label="Agriculture">38.4</value>
+                    <value label="Industry">16.8</value>
+                    <value label="Services">44.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sr">
+               <name>Suriname</name>
+               <data-group>
+                    <value label="Agriculture">8.1</value>
+                    <value label="Industry">24.3</value>
+                    <value label="Services">67.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sj (part)">
+               <name>Svalbard</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="se">
+               <name>Sweden</name>
+               <data-group>
+                    <value label="Agriculture">1.7</value>
+                    <value label="Industry">18.4</value>
+                    <value label="Services">79.9</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ch">
+               <name>Switzerland</name>
+               <data-group>
+                    <value label="Agriculture">2.6</value>
+                    <value label="Industry">20.3</value>
+                    <value label="Services">77.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="sy">
+               <name>Syrian Arab Republic</name>
+               <data-group>
+                    <value label="Agriculture">10.1</value>
+                    <value label="Industry">23.2</value>
+                    <value label="Services">66.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tw">
+               <name>Taiwan</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tj">
+               <name>Tajikistan</name>
+               <data-group>
+                    <value label="Agriculture">44.7</value>
+                    <value label="Industry">15.8</value>
+                    <value label="Services">39.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tz">
+               <name>Tanzania</name>
+               <data-group>
+                    <value label="Agriculture">65.1</value>
+                    <value label="Industry">6.5</value>
+                    <value label="Services">28.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="th">
+               <name>Thailand</name>
+               <data-group>
+                    <value label="Agriculture">31.4</value>
+                    <value label="Industry">22.8</value>
+                    <value label="Services">45.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tp">
+               <name>Timor-Leste</name>
+               <data-group>
+                    <value label="Agriculture">39.3</value>
+                    <value label="Industry">16.3</value>
+                    <value label="Services">44.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tg">
+               <name>Togo</name>
+               <data-group>
+                    <value label="Agriculture">32.4</value>
+                    <value label="Industry">19.2</value>
+                    <value label="Services">48.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tk">
+               <name>Tokelau</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="to">
+               <name>Tonga</name>
+               <data-group>
+                    <value label="Agriculture">19.4</value>
+                    <value label="Industry">30.9</value>
+                    <value label="Services">49.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tt">
+               <name>Trinidad and Tobago</name>
+               <data-group>
+                    <value label="Agriculture">3.0</value>
+                    <value label="Industry">26.6</value>
+                    <value label="Services">70.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tn">
+               <name>Tunisia</name>
+               <data-group>
+                    <value label="Agriculture">13.8</value>
+                    <value label="Industry">33.5</value>
+                    <value label="Services">52.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tr">
+               <name>Türkiye </name>
+               <data-group>
+                    <value label="Agriculture">18.1</value>
+                    <value label="Industry">25.3</value>
+                    <value label="Services">56.6</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tm">
+               <name>Turkmenistan</name>
+               <data-group>
+                    <value label="Agriculture">20.7</value>
+                    <value label="Industry">39.8</value>
+                    <value label="Services">39.5</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tc">
+               <name>Turks and Caicos Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="tv">
+               <name>Tuvalu</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ug">
+               <name>Uganda</name>
+               <data-group>
+                    <value label="Agriculture">72.1</value>
+                    <value label="Industry">6.5</value>
+                    <value label="Services">21.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ua">
+               <name>Ukraine</name>
+               <footnote id="STATS.TABLE.31.6" ref-symbol="6">Including the Republic of Crimea and
+                    Sevastopol City (admitted to the Russian Federation in March 2014).</footnote>
+               <data-group>
+                    <value label="Agriculture">13.8</value>
+                    <value label="Industry">25.0</value>
+                    <value label="Services">61.2</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ae">
+               <name>United Arab Emirates</name>
+               <data-group>
+                    <value label="Agriculture">1.4</value>
+                    <value label="Industry">34.2</value>
+                    <value label="Services">64.4</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="gb">
+               <name>United Kingdom</name>
+               <footnote id="STATS.TABLE.31.7" ref-symbol="7">Including Northern Ireland.</footnote>
+               <data-group>
+                    <value label="Agriculture">1.0</value>
+                    <value label="Industry">18.1</value>
+                    <value label="Services">80.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="us">
+               <name>United States of America</name>
+               <data-group>
+                    <value label="Agriculture">1.4</value>
+                    <value label="Industry">19.9</value>
+                    <value label="Services">78.7</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vi">
+               <name>US Virgin Islands</name>
+               <data-group>
+                    <value label="Agriculture">1.9</value>
+                    <value label="Industry">18.7</value>
+                    <value label="Services">79.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uy">
+               <name>Uruguay</name>
+               <data-group>
+                    <value label="Agriculture">8.4</value>
+                    <value label="Industry">18.8</value>
+                    <value label="Services">72.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="uz">
+               <name>Uzbekistan</name>
+               <data-group>
+                    <value label="Agriculture">25.7</value>
+                    <value label="Industry">23.0</value>
+                    <value label="Services">51.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vu">
+               <name>Vanuatu</name>
+               <data-group>
+                    <value label="Agriculture">56.8</value>
+                    <value label="Industry">14.1</value>
+                    <value label="Services">29.1</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="va">
+               <name>Vatican City</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ve">
+               <name>Venezuela</name>
+               <data-group>
+                    <value label="Agriculture">7.9</value>
+                    <value label="Industry">15.3</value>
+                    <value label="Services">76.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="vn">
+               <name>Viet Nam</name>
+               <data-group>
+                    <value label="Agriculture">37.2</value>
+                    <value label="Industry">27.4</value>
+                    <value label="Services">35.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="wf">
+               <name>Wallis and Futuna Islands</name>
+               <data-group>
+                    <value label="Agriculture">
+                         <not-avail/>
+                    </value>
+                    <value label="Industry">
+                         <not-avail/>
+                    </value>
+                    <value label="Services">
+                         <not-avail/>
+                    </value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="ye">
+               <name>Yemen</name>
+               <data-group>
+                    <value label="Agriculture">27.5</value>
+                    <value label="Industry">10.2</value>
+                    <value label="Services">62.3</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zm">
+               <name>Zambia</name>
+               <data-group>
+                    <value label="Agriculture">49.6</value>
+                    <value label="Industry">10.5</value>
+                    <value label="Services">39.8</value>
+               </data-group>
+          </country-stats>
+          <country-stats iso="zw">
+               <name>Zimbabwe</name>
+               <data-group>
+                    <value label="Agriculture">66.2</value>
+                    <value label="Industry">6.6</value>
+                    <value label="Services">27.2</value>
+               </data-group>
+          </country-stats>
+     </country-stats-group>
+</stats-table>

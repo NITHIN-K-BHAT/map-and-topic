@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.2009" id-root="io-un.2009" iso="io-un.2009" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>International Civil Aviation Organization</org-entry-name>
+               <abbr>ICAO</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Specialized Agencies and Related Organizations)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">International Civil Aviation Organization</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>999 University St, Montréal, QC H3C 5H7, Canada</verbatim-address>
+               </address>
+               <telephone alsofax="N">(514) 954-8219</telephone>
+               <fax>(514) 954-6077</fax>
+               <email>icaohq@icao.int</email>
+               <internet>www.icao.int</internet>
+          </address-block>
+          <p id="IO-UN.2010">ICAO was founded in 1947, following the adoption, in Chicago, USA, in 1944, of the Convention on International Civil Aviation. It serves as the global forum for civil aviation, promoting co-operation in all aspects of air transport and supporting the development of new standards and innovations.</p>
+          <int-org-section id="IO-UN.2011" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <p id="IO-UN.2012">ICAO has 193 contracting states.</p>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.2013" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.2014" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Assembly</heading>
+               <p id="IO-UN.2015">Composed of representatives of all member states, the Assembly is ICAO's legislative body and meets at least once every three years. It reviews the work of the organization, sets out the work programme for the next three years, approves the budget and determines members' contributions. The 41st Assembly was held in late September-early October 2022, on the theme `Reconnecting the World’.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2016" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Council</heading>
+               <p id="IO-UN.2017">
+        Composed of representatives of 36 member states, the Council is elected by the Assembly. It is the executive body, and meets in virtually continuous session. It elects the President, appoints the Secretary-General, and administers the finances of the organization. It is mandated to adopt ICAO 
+        <xr pageref="N" ref="ICAO.IO.SPECS.1">technical specifications</xr>
+        ; to arbitrate between member states on matters concerning aviation and implementation of the Convention, and to maintain the safety and regularity of operation of international air transport. The Council is assisted by the 
+        <xr pageref="N" ref="IO-ICAO.11">Air Navigation Commission</xr>
+        ; by committees of Air Transport, Joint Support of Air Navigation Services, Governance, Aviation Security, Aviation Environmental Protection, Climate and Environment, Technical Co-operation and Implementation Support, Finance, Human Resources, Cooperation with External Parties, Relations with the Host Country, and of the Edward Warner Award (which honours outstanding achievements in aviation). The Council is also supported by an ICAO Industry Consultative Forum.
+      </p>
+               <!--expansion of the Council to 40 mems still pending ii.24-->
+               <dir-list>
+                    <dir-entry id="IO-UN.2018" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>President of the Council</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Salvatore</forename>
+                                        <surname>Sciacchitano</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <!--~ Sciacchitano re-elected to a new 3-year term in x.23-->
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-ICAO.11" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Air Navigation Commission</heading>
+               <p>Composed of 19 independent experts in the field, appointed by the Council, the Commission manages ICAO’s technical work programme. It also considers and recommends for adoption new Standards and Recommended Practices or Procedures for Air Navigation Services. The Commission convenes for three sessions a year.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2019" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p id="IO-UN.2020">The secretariat, headed by a Secretary-General, comprises five main Bureaux, covering: Air Navigation; Air Transport; Capacity Development and Implementation; Legal Affairs and External Relations; and Administration and Services. Directors of ICAO’s seven regional offices also report directly to the Secretary-General.</p>
+               <dir-list>
+                    <dir-entry id="IO-UN.2021" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Juan Carlos</forename>
+                                        <surname>Salazar Gómez</surname>
+                                   </person-name>
+                                   <person-note>Colombia</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="IO-UN.2022" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+               <heading>Regional Offices</heading>
+               <org-list>
+                    <org-entry id="IO-UN.2023" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Asia and Pacific</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>252/1 Vibhavadi-Rangsit Rd, Ladyao, Chatuchak, Bangkok 10900, Thailand</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 537-8189</telephone>
+                              <email>apac@icao.int</email>
+                              <internet>www.icao.int/apac</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Tao</forename>
+                                        <surname>Ma</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2024" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Eastern and Southern Africa</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Limuru Rd, Gigiri, POB 46294, Nairobi, Kenya</verbatim-address>
+                              </address>
+                              <email>icaoesaf@icao.int</email>
+                              <internet>www.icao.int/esaf</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Lucy</forename>
+                                        <surname>Mbugua</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2025" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <data-protection date-added="29.04.2008" ticked-box="Y" />
+                         <org-entry-head>
+                              <org-entry-name>European and North Atlantic</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>3 bis Villa Emile-Bergerat, 92522 Neuilly-sur-Seine Cedex, France</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">1-46-41-85-85</telephone>
+                              <fax>1-46-41-85-00</fax>
+                              <email>icaoeurnat@paris.icao.int</email>
+                              <internet>www.icao.int/EURNAT</internet>
+                         </address-block>
+                         <found-date>1944</found-date>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Nicolas</forename>
+                                        <surname>Rallo</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2026" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Middle East</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 85, Cairo Airport Post Office Terminal One, Cairo 11776, Egypt</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 2674841</telephone>
+                              <fax>(2) 2674843</fax>
+                              <email>icaomid@icao.int</email>
+                              <internet>www.icao.int/mid</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Mohamed</forename>
+                                        <surname>Abubaker Farea</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2027" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>North America, Central America and the Caribbean</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Avda Presidente Masaryk 29, 11560 Ciudad de México, Mexico</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(55) 5250-3211</telephone>
+                              <fax>(55) 5203-2757</fax>
+                              <email>icaonacc@icao.int</email>
+                              <internet>www.icao.int/nacc</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Acting Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Christopher</forename>
+                                        <surname>Barks</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2028" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>South America</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Avda Víctor Andrés Belaúnde 147, San Isidro, Lima, Peru</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 611-8686</telephone>
+                              <fax>(1) 611-8689</fax>
+                              <email>icaosam@icao.int</email>
+                              <internet>www.icao.int/sam</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Fabio Faizi</forename>
+                                        <surname>Rahnemay Rabbani</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="IO-UN.2029" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Western and Central Africa</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Leopold Sedar Senghor International Airport, POB 38050, Dakar, Senegal</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">33-869-2424</telephone>
+                              <fax>33-820-3259</fax>
+                              <email>icaowacaf@icao.int</email>
+                              <internet>www.icao.int/wacaf</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Regional Dir</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Prosper</forename>
+                                        <surname>Zo'o Minto'o</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p>A Nadi, Fiji-based ICAO Pacific Small Island Developing States Liaison Office was inaugurated in October 2023.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2030" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>The following strategic objectives were being pursued by ICAO in 2024: aviation safety; air navigation capacity and efficiency; security and facilitation; economic development of aviation transport; and environmental protection. An ICAO Business Plan that was being implemented during 2023-25 was focused on: transformation, people, innovation, and on efficiency and effectiveness in the implementation of the agency’s mandates.</p>
+          <int-org-section id="ICAO.IO.SPECS.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ICAO Technical Specifications</heading>
+               <p>ICAO technical specifications comprise Standards and Recommended Practices (SARPs), which are adopted by the ICAO Council and contained in 19 annexes to the Chicago Convention; and Procedures for Air Navigation Services (PANS). The specifications are periodically revised in keeping with developments in technology and changing requirements. The annexes to the Convention include personnel licensing, rules relating to the conduct of flights, meteorological services, aeronautical charts, air-to-ground communications, safety management, safety specifications, identification, air traffic control, rescue services, environmental protection, security and the transporting of dangerous goods. Technical Manuals and Circulars are issued to facilitate implementation.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2032" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Aviation Safety</heading>
+               <p>Through the Global Aviation Safety Plan (GASP), initiated in 1997, and updated at three-yearly intervals, ICAO aims to ensure and enhance all aspects of air safety. The following were priority areas of activity under the 2023-25 GASP: achieving a continuous reduction of operational safety risks (including decreasing the global accident rate for commercial scheduled operations); implementing all critical elements of a safety oversight system; fully implementing effective state safety programmes; strengthening collaboration at the regional level to enhance safety; advancing the use of industry programmes and safety information sharing networks; and ensuring the necessary infrastructure for safe operations. The development of related regional and national aviation safety plans (known as RASPs and NASPs) is promoted. ICAO has developed a series of safety performance indicators and targets. It also supports programmes to assist the victims of aircraft accidents.</p>
+               <p>A Universal Safety Oversight Audit Programme (USOAP) became operational on 1 January 1999, providing for mandatory, systematic and harmonized safety audits regularly to be undertaken in member states in fields including the airworthiness of aircraft, flight operations and personnel licensing. From 1 January 2005 the USOAP was expanded to incorporate all safety-related provisions of the annexes to the Chicago Convention. A USOAP-Continuous Monitoring Approach (USOAP-CMA) has been in effect since 1 January 2013.</p>
+               <p>ICAO’s Safety Fund (SAFE), established by the Council in 2010, collects and channels towards aviation safety programmes voluntary contributions from member states and other international donors. By February 2024 SAFE had implemented 43 projects (four global, 17 regional and 22 within member states) at a total cost of US&#8201;$8m.</p>
+               <!--RASGs ASIAP -->
+               <p>In November 2017 ICAO initiated a Runway Safety Programme action plan (a second edition of the plan was launched in February 2024). A Global Reporting Format to standardize the assessment and reporting of runway surface conditions became applicable in November 2021. Other safety programmes cover mid-air collision, controlled flight into terrain, cabin safety, and loss of in-flight control (cited by ICAO as the cause of one quarter of fatalities arising from scheduled commercial air transport; SARPs addressing fatigue management have been adopted). Annex 19 to the 1944 Chicago Convention, consolidating SARPs on safety management, entered into force in November 2013.</p>
+               <p>ICAO maintains an Integrated Safety Trend Analysis and Reporting System (iSTARS). An iMPLEMENT digital product has been developed to help member states to assess and report on the needs and capabilities of their aviation sector.</p>
+               <p-group>
+                    <heading>Public Health</heading>
+                    <p>
+          ICAO’s 
+          <xr pageref="N" ref="IO-UN.2442">World Health Organization</xr>
+           (WHO)-supported Collaborative Arrangement for the Prevention and Management of Public Health Events in Civil Aviation (CAPSCA) programme, introduced in 2006, aims to strengthen preparedness planning and emergency response to public emergencies with the potential to harm the aviation sector, such as communicable diseases; bioterrorism; nuclear power accidents and other chemical emergencies; and volcanic ash. In March 2022, in view of the COVID-19 pandemic, the ICAO Council adopted new global SARPs (that entered into effect in November) on national civil aviation responses to public health emergencies, and on the inspection and security of travel documents and travel-related health records. In December, in the framework of the CAPSCA programme, ICAO and 
+          <xr pageref="N" ref="IO-UN.2442">WHO</xr>
+           finalized an agreement on co-operation in the use of risk-based evidence-informed approaches to the management of international travel. In January 2023, through the CAPSCA initiative, ICAO issued strengthened recommendations on risk management and on the introduction of national COVID-19-related air travel requirements.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Unmanned Aviation</heading>
+                    <p>ICAO is working to co-ordinate and develop SARPs and other guidance on all aspects of unmanned aviation, as new technologies and opportunities emerge. In March 2012 the ICAO Council adopted Standards related to Remotely Piloted Aircraft Systems (RPAS). Amendments to the Chicago Convention to support the integration of RPAS into the international air transport regulatory framework were approved by the Council in March 2021. ICAO organizes an annual Unmanned Aircraft Systems Industry Symposium (DRONE ENABLE, 2023: December, in Montréal, on the theme `Innovation and infrastructure developments supporting the future of unmanned aviation’). The inaugural Advanced Air Mobility Symposium (`AAM 2024’) was to be organized in September 2024, in Montréal.</p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="IO-UN.2034" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Air Navigation Capacity and Efficiency</heading>
+               <p>ICAO’s Air Navigation Bureau develops technical studies for the Air Navigation Commission, as well as recommendations for SARPs relating to the safety, regularity and efficiency of international air navigation. Focal areas are policy and standardization; and safety and infrastructure monitoring, analysis, and implementation. Areas of activity include meteorology; automated data interchange systems; accident investigation and prevention; and air traffic management (ATM).</p>
+               <p>ICAO Council’s ongoing Global Air Navigation Plan (GANP), covering the period 2016-30, is focused on a conceptual roadmap covering: flight operations in a digital-rich environment; time-based operations enabled by an information revolution; trajectory-based operations enabled by full connectivity through the internet of aviation; and optimizing performance management. (The first GANP was launched in March 1998.)</p>
+               <p>In February 2013 the first World ATM Congress was held, in Madrid, Spain; ATM congresses have subsequently been convened in Madrid, normally on an annual basis (2023: in September). ICAO’s 14th annual Air Navigation Conference was to be convened in late August-early September 2024, in Montréal.</p>
+               <p>In March 2018 the ICAO Council adopted an amendment to Annex 15 of the Chicago Convention covering modern data-centric Aeronautical Information Services. The development was initiated in 2019 of an International Aviation Trust Framework, consisting of best practices, policies and requirements to enable the secure exchange of digital information.</p>
+               <p>In October 1998 the Assembly adopted a Charter on the Rights and Obligations of States relating to Global Navigation Satellite Systems (GNSS). ICAO has worked closely with other partner organizations to develop a GNSS infrastructure. In March 2023 the Council adopted standardization guidance and a roll-out of a new dual-frequency multi-constellation (DFMC) capability, which aimed to expand the effectiveness and coverage of the GNSS.</p>
+               <p>ICAO’s regional and global Performance-based Navigation (PBN) task forces support countries' implementation of PBN—an air navigation concept setting clear performance targets for specific flight operations, and emphasizing the use of accurate satellite-based navigation aids.</p>
+          </int-org-section>
+          <int-org-section id="IO-ICAO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Aviation Security and Facilitation</heading>
+               <p>In October 1998 a protocol to the Chicago Convention, prohibiting the use of weapons against civil aircraft in flight, entered into effect. Following the terrorist attacks perpetrated against targets in the USA in September 2001, involving the use of hijacked aircraft as weapons, the 33rd ICAO Assembly—held in September-October—adopted a Declaration on the Misuse of Civil Aircraft as Weapons of Destruction and Other Terrorist Acts involving Civil Aviation. In June 2002 a Universal Security Audit Programme (USAP) was launched to help to identify and correct deficiencies in the implementation of security-related SARPs. In October 2010 the Assembly adopted the ICAO Declaration on Aviation Security, which included a roadmap to guide the development of security screening procedures and enhanced capacity-building assistance. In the following month the Chicago Convention annex on security was amended to enhance air cargo security SARPs. Following the completion of two USAP audit cycles, a new USAP-Continuous Monitoring Approach (USAP-CMA) was introduced from 2015. An online conflict zone risk information repository, listing continuously updated information on potential risks to civil airspace arising from armed conflicts, was introduced by ICAO in April 2015. From 2008 ICAO issued guidance to harmonize airport security controls on liquids, aerosols and gels (LAGs), which could contain hazardous substances. These measures, and the use of security tamper-evident bags, were to remain in place pending the development of new screening technology.</p>
+               <p>
+        In September 2016 the UN Security Council adopted a resolution in which it urged member states to co-operate within the framework of ICAO to ensure an efficient response to terrorist threats targeting of civil aviation. ICAO and the 
+        <xr pageref="N" ref="WB0231XE.IO.TXT.55">International Criminal Police Organization (INTERPOL)</xr>
+         agreed in June to strengthen co-operation on preventing travel by foreign terrorist fighters. In November 2017 the ICAO Council endorsed a Global Aviation Security Plan (GASeP); this addressed security capabilities and new technologies, and aimed to refine related supervisory and quality assurance frameworks. A Protocol Supplementary to the Convention for the Suppression of Unlawful Seizure of Aircraft entered into force on 1 January 2018, and on 1 July a Convention on the Suppression of Unlawful Acts Relating to International Civil Aviation (Beijing Convention) entered into effect. In November 2018 the ICAO Secretary-General signed the UN Global Counter-Terrorism Co-ordination Compact, and in the following month ICAO and the UN Counter-Terrorism Office concluded an agreement establishing a framework for collaboration in enhancing the security of international air transport and border management. A new co-operative agreement between the two organizations was signed in February 2022. In May the Council adopted amendments to the Chicago Convention’s Annex 17 that provided for the implementation of a `security culture’; in this context, a new Standard was to focus on the application of hold baggage screening methods that were capable of detecting explosives and explosive devices.
+      </p>
+               <p>An Aviation Security panel of experts (AVSEC) meets regularly to develop security policies and strategies and to respond to emerging threats. ICAO sponsors a global network of 35 Aviation Security Training Centres (ASTCs). It also offers Aviation Security Training Packages (ASTPs), and organizes workshops on topics including security culture, airport security, risk management, and crisis management. An ICAO Security Week was scheduled to be held in Oman, in October 2024.</p>
+               <p>The first SARPs on Facilitation were incorporated into Annex 9 of the Chicago Convention in 1944. ICAO’s Facilitation Programme aims to maximize the efficiency of member states’ border clearance formalities, with a particular focus on immigration, customs and quarantine procedures, while also ensuring a high level of security and effective law enforcement. The year 2024 was designated by the ICAO Council as the `Year of Facilitation’.</p>
+               <p-group>
+                    <heading>Aviation Cybersecurity</heading>
+                    <p>In October 2019—given the aviation sector’s reliance on interconnected cyber-based technology for on-board aircraft communications and control systems, air navigation systems, airport ground systems, security screening, and flight information systems—the 40th Assembly adopted the first global Cybersecurity Strategy for Civil Aviation. In November 2020 ICAO initiated a supporting Cybersecurity Action Plan (CyAP); a second edition of the CyAP was issued in January 2022, with a focus on 32 priority actions and 51 measures and tasks.</p>
+               </p-group>
+               <p-group>
+                    <heading>Traveller Identification Programme (TRIP)</heading>
+                    <p>The TRIP strategy was adopted by the 38th ICAO Assembly in October 2013. It aims to provide guidance and to promote collaboration in order to ensure a coherent global traveller identification management system. In March 2005 ICAO adopted new Standards concerning the development of a globally interoperable system of Machine Readable Travel Documents (MRTDs), incorporating biometric identification data, in order to enhance airport and international security. ICAO subsequently provided technical assistance to support the efforts of contracting states to develop MRTDs. The first Standard required that from 1 April 2010 all states only issue machine readable passports; in accordance with the second, universal machine readable compliance was achieved on 24 November 2015. The TRIP strategy also aimed to facilitate the use of travel documents at all border crossings and to promote interoperable inspection systems and tools.</p>
+               </p-group>
+               <p-group>
+                    <heading>Belarus/Ryanair Flight FR4978</heading>
+                    <p>An emergency meeting of the ICAO Council was held in May 2021 to address the forced diversion by the Belarusian regime of an international Ryanair passenger flight, FR4978, which, while crossing Belarusian air space had been intercepted by an armed Belarusian fighter jet and forced to land in that country’s capital, Minsk; two passengers—an exiled Belarusian journalist and his Russian companion—were subsequently arrested and detained. A fact-finding mission subsequently reported its findings to the Council. In July 2022 the Council determined that Belarusian Government officials had deliberately used a false `bomb threat’ as a pretext to orchestrate the diversion of the plane. A subsequent determination by the Council that the Belarus regime’s actions had violated the Chicago Convention was endorsed by the 41st ICAO Assembly (which concluded in early October). In November the President of the ICAO Council briefed the UN Security Council on these developments.</p>
+               </p-group>
+               <!--MH17 PS-752-->
+          </int-org-section>
+          <int-org-section id="IO-UN.2036" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Environmental Protection</heading>
+               <p>
+        ICAO’s Committee on Aviation Environment Protection (CAEP) supports the Council’s work in drafting new policies and adopting new SARPs that relate to aircraft noise and aircraft engine carbon dioxide emissions (focused on the advancement of developments in aircraft technology, operational improvements, the use of alternative aviation fuels, and the implementation of market-based measures through the 
+        <xr pageref="N" ref="ICAO.IO.CORSIA.1">Carbon Offsetting and Reduction Scheme for International Aviation</xr>
+        ). The CAEP undertakes studies and analysis. Its triennial 
+        <publ-name>ICAO Global Environmental Trends</publ-name>
+         report is presented to each session of the ICAO Assembly to inform debate and decisions. A triennial 
+        <i>Environmental Report</i>
+         addresses technical and policy aspects of aviation's impact on the environment; the fifth edition, issued in 2022, was themed `Innovation for a Green Transition’. ICAO’s Carbon Emissions Calculator, launched in 2008, and available online and as a mobile phone application, estimates the carbon dioxide emissions from air travel for individual use or for use in devising carbon footprint offset programmes. In March 2020 the ICAO Council adopted a standard aimed at reducing non-volatile particulate matter released by civil aviation, and the onwards impacts on local air quality and human health. International standards and guidelines for noise certification of aircraft and international provisions for the regulation of aircraft engine emissions have been adopted and published in Annex 16 to the Chicago Convention.
+      </p>
+               <p-group>
+                    <heading>Aircraft Noise</heading>
+                    <p>
+          In June 2021 the Council adopted a stricter noise Standard (applicable from 1 January 2006) for jet and large propeller-driven aircraft, as well as new noise limits for helicopters. ICAO’s Balanced Approach to Aircraft Noise Management, approved in late 2001 by the 33rd Assembly and reaffirmed by all subsequent Assembly sessions, entails identifying the source of noise problems on a case-by-case basis and deploying remedial measures that achieve maximum environmental benefit. An updated second edition of 
+          <publ-name>Guidance on the Balanced Approach to Aircraft Noise Management</publ-name>
+           was issued in October 2010.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Global Long-term Aspirational Goal</heading>
+                    <p>
+          The 
+          <xr pageref="N" ref="UN.CC.KYOTO.IO.1">Kyoto Protocol to the UN Framework Convention on Climate Change (UNFCCC)</xr>
+           recognized ICAO as the global body through which industrialized nations were to pursue the limitation or reduction of greenhouse gas emissions from international aviation. In October 2016, following the adoption in December 2015 of the Paris Agreement on climate change by the 21st (Paris) Conference of the Parties (COP) of the UNFCCC, the 39th ICAO Assembly recommitted to two global aspirational goals for the international aviation sector: carbon neutral growth from 2020, and an annual 2% improvement in aircraft fuel efficiency until 2050. In March 2017 the ICAO Council endorsed a new Standard governing the certification of reduced emissions of greenhouse gases from aircraft that was to be applied to new aircraft designs from 2020, and from 2023 to aircraft types that were already in production. In March 2020, at the request of the 40th ICAO Assembly (held in October 2019), the CAEP established a task group to support planning for a Global Long-term Aspirational Goal (LTAG) of achieving net-zero carbon emissions by 2050, in support of the 2015 Paris Agreement. In November 2021, at the 26th UNFCCC COP, held in Glasgow, UK, 23 nations signed up to an International Aviation Climate Ambition Coalition, endorsing the proposed ICAO LTAG. A High-level Meeting on the Feasibility of an LTAG for International Aviation CO2 Emissions Reductions was convened at ICAO Headquarters in July 2022. In October ICAO’s 41st Assembly endorsed the LTAG of achieving net zero by 2050.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading>Alternative Fuels</heading>
+                    <p>
+          A second ICAO Conference on Aviation and Alternative Fuels (CAAF/2—the inaugural conference having been held in November 2009), convened in October 2017, in Mexico City, Mexico, endorsed a 2050 Vision for Sustainable Aviation Fuels (SAF) to promote the development and introduction of alternative fuels to reduce industry carbon emissions. SAF, deemed by a CAEP report issued in March 2022 to have the greatest potential to reduce carbon emissions from international aviation, comprise renewable or waste-derived aviation fuels. ICAO works to develop globally-accepted environmental Standards for SAF; sets policies, goals and best practices on SAF; and extends related capacity-building support to member states. ICAO also promotes the use of Lower Carbon Aviation Fuels (LCAF)—defined in Annex 16 of the Chicago Convention as fossil-based aviation fuels that meet 
+          <xr pageref="N" ref="ICAO.IO.CORSIA.1">CORSIA</xr>
+           sustainability criteria. An ICAO Assistance, Capacity-building and Training for Sustainable Aviation Fuels (ACT-SAF) programme was initiated in June 2022; by February 2024 90 states and 60 organizations had signed up to become formal partners in the scheme. A new ICAO Global Framework for SAF, LCAF and other Aviation Cleaner Energies was endorsed at CAAF/3, which was held in Dubai, United Arab Emirates, in November 2023; under the Framework the near-term aspirational goal was set of reducing carbon emissions in international aviation by 5% by 2030.
+        </p>
+               </p-group>
+               <p-group id="ICAO.IO.CORSIA.1">
+                    <heading>CORSIA</heading>
+                    <p>CORSIA, a global market-based measure scheme for international aviation, was endorsed by the Assembly in October 2016. CORSIA includes methodologies that enable aircraft operators to reduce emissions offsetting requirements through the use of SAF and LCAF. ACT-CORSIA, a programme providing CORSIA-related assistance, capacity-building and training to member states, was launched in July 2018. In March 2020 the ICAO Council approved a series of eligible emissions units for CORSIA. SAF were certified for the first time under the scheme in June 2023. A new CORSIA offsetting threshold for smaller airlines took effect on 1 January 2024. Following a voluntary pilot phase that was implemented during 2021-23, the first (likewise voluntary) implementation phase of CORSIA was underway during 2024-26. A second implementation phase was to cover 2027-35. By 2024 126 states were participating in the scheme.</p>
+               </p-group>
+               <!--1.i.24 - second edition of Annex 16 chapter 1V effective-->
+          </int-org-section>
+          <int-org-section id="IO-UN.ICAO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic Development</heading>
+               <p>ICAO aims to foster the development of a sound and economically viable—while environmentally and socially sustainable—civil aviation system of airlines, airports and air navigation service providers, providing freedom to travel and affordable access to mobility; fair and equal opportunities for states and air transport users; support for sustainable global and regional economic development; a long-term reasonable rate of return for air transport industry; and the efficient use of existing and future resources and technologies.</p>
+               <p>ICAO contributes data towards monitoring the progress of UN Sustainable Development Goal (SDG) 9: Build resilient infrastructure, promote sustainable industrialization and foster innovation (by 2030). ICAO was appointed as the lead agency with responsibility for collecting and sharing data on air transport indicators, with respect to SDG Target 9.1 relating to passenger and freight volumes by mode of transport. In March 2024 ICAO organized an Innovation Fair, at its Montréal headquarters, themed `Digital Aviation: the Future is Now’.</p>
+               <p>ICAO provides Template Air Services Agreements (TASAs) for use by member states, and maintains a database of World Air Services Agreements, holding summaries of bilateral `open skies’ air services agreements, and arrangements at regional level. The Agency organizes an annual ICAO Air Services Negotiation (ICAN) conference, at which bilateral air services agreements are signed. At the 2023 event, convened in Riyadh, Saudi Arabia, in December, 521 new agreements were concluded.</p>
+               <p>In April 2023 ICAO reported that in 2021 the proportion, globally, of women employed in aviation sector positions such as pilots, air traffic controllers and maintenance technicians stood at 4.9%. An ICAO Global Aviation Gender Summit was organized in July, in Madrid, Spain.</p>
+               <p>
+        From March 2020 ICAO compiled regular economic impact analysis of the effects of the COVID-19 pandemic on international aviation. In April the ICAO Council established a COVID-19 Aviation Recovery Task Force (CART), which subsequently released a series of recommendations that were aimed at restarting the international air transport system and at facilitating the global mutual recognition, harmonization and convergence of COVID-19 related aviation measures. A companion 
+        <publ-name>Take Off</publ-name>
+         document addressed public health risk mitigation measures for airports, aircraft, air cargo and flight personnel. ICAO maintained an online COVID-19 Response and Recovery Platform (including a COVID-19 Air Traffic Dashboard), issued relevant guidance manuals, bulletins and tools, and extended expert support to enable member states to address challenges posed by the pandemic. In January 2021 ICAO reported that, in view of the pandemic, international air passenger traffic had declined by 60% in 2020 (representing a return to 2003 levels). In October 2021 ICAO signed an MOU with the 
+        <xr pageref="N" ref="IO-UN.1080816764">UN World Tourism Organization</xr>
+         to enhance collaboration in order to support a sustainable post-COVID-19 recovery and future development of the aviation and tourism industries. By January 2022 air industry losses as a result of pandemic crisis were estimated at US&#8201;$696,000m. In early 2024, however, ICAO reported that by the end of 2023 passenger levels on most routes had reached or surpassed 2019 (pre-pandemic) levels; cargo traffic in 2023 stood at 3% below pre-pandemic levels.
+      </p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2042" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Capacity Development</heading>
+               <p>
+        ICAO's Capacity Development and Implementation Bureau promotes the implementation of ICAO 
+        <xr pageref="N" ref="ICAO.IO.SPECS.1">specifications</xr>
+        , and assists developing countries in the execution of various projects, financed by the UN Development Programme and other sources. ICAO offers training courses in areas including aviation management, air navigation services, aviation security, aviation security, and aviation law. A Next Generation of Aviation Professionals Task Force was established in 2009 to support the harmonized training and qualification of aviation personnel; the initiative was awarded full programme status by the ICAO Council in December 2015. 
+      </p>
+               <p>In 2014 ICAO initiated a campaign entitled No Country Left Behind (NCLB), which aimed to support members to implement all ICAO SARPs. A third annual ICAO Global Implementation Support Symposium (GISS) was to be convened in late April-early May 2024, in Punta Cana, Dominican Republic. It was conceived, in 2022, as a single event combining the objectives of previously held World Aviation Forums, Global Aviation Cooperation Symposiums and Global Aviation Training and TRAINAIR PLUS Symposiums.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2045" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.2046">ICAO is financed mainly by contributions from member states. The authorized budget for the triennium 2023-25 totalled C&#8201;$357.6m.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.2047" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Air Navigation Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Air Transport Monitor</publ-name>
+                    <content-note style="NORMAL">monthly and annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Annual Report of the Council</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ICAO Environmental Report</publ-name>
+                    <content-note style="NORMAL">every 3 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ICAO Global Environmental Trends</publ-name>
+                    <content-note style="NORMAL">every 3 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ICAO TRIP Magazine</publ-name>
+                    <content-note style="NORMAL">2 a year</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Safety Report</publ-name>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.2048">Conventions, agreements, rules of procedures, regulations, technical publications and manuals.</p>
+     </int-org-section>
+</int-org-entry>

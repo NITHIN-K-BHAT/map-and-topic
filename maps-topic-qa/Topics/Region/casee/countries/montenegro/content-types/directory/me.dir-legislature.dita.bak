@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1809295" sllink="SLSDOCRF" sllinkid="1809294" slsdocid="1809241" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.DIR.1164379625" id-root="me.dir" iso="me" sect-type="legislature" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 23.07.2021 role groups confirmed-->
+                    <heading>Legislature</heading>
+                    <dir-section id="ME.DIR.16475178271" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Assembly of Montenegro</heading>
+                         <alt-heading>Skupština Crne Gore</alt-heading>
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7941519" sllink="SLSDOCRF" sllinkid="7941518" slsdocid="7941499" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="ME.DIR.1647519336" id-root="me.dir" iso="me" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                        <dir-entry-name>Assembly of Montenegro</dir-entry-name>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>81000 Podgorica, bul. Svetog Petra Cetinjskog 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 244759</telephone>
+                                             <fax>(20) 242192</fax>
+                                             <email>predsjednik@skupstina.me</email>
+                                             <internet>www.skupstina.me</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7941525" sllink="SLSDOCRF" sllinkid="7941524" slsdocid="655443" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="ME.DIR.1063021202" id-root="me.dir" iso="me" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Speaker</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrija</forename>
+                                                       <surname>Mandić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                         </dir-list>
+                         <table-blockref id="SL7941531" sllink="SLSDOCRF" sllinkid="7941530" slsdocid="1800117" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                              
+                              <table-block id="ME.DIR.1163518619" id-root="me" iso="me" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="ELECTION" usage="ewyb casee">
+                                   <table-heading>Election, 11 June 2023</table-heading>
+                                   <table pgwide="NO" style="WITH-RULES">
+                                        <tgroup cols="4">
+                                             <colspec align="left" colname="COL1" colnum="1" colwidth="12.5cm" />
+                                             <colspec align="right" colname="COL2" colnum="2" colwidth="3cm" />
+                                             <colspec align="right" colname="COL3" colnum="3" colwidth="2.42cm" />
+                                             <colspec align="right" colname="COL4" colnum="4" colwidth="2.42cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">%</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Evropa Sad! (Europe Now!)</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">77,203</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">25.53</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">24</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Zajedno! Za Budućnost Koja ti Pripada (Together! For the Future that Belongs to You)
+                        <endnoteref idref="ME.TABLE-DIR1_1.1" ref-symbol="*" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">70,228</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">23.22</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">21</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Za Budućnost Crne Gore (For the Future of Montenegro)
+                        <endnoteref idref="ME.TABLE-DIR1_1.2" ref-symbol="†" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">44,565</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">14.74</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Aleksa i Dritan-Hrabro se Broji! (Aleksa and Dritan—Count Bravely!)
+                        <endnoteref idref="ME.TABLE-DIR1_1.3" ref-symbol="‡" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">37,730</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">12.48</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Jasno Je!—Bošnjačka Stranka (It is Clear!—Bosniak Party)</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">21,423</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">7.08</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Socijalistička Narodna Partija Crne Gore (Socialist People’s Party of Montenegro)-Demokratski Savez (Democratic Alliance)</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">9,472</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">3.13</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Albanski Forum (Albanian Forum)
+                        <endnoteref idref="ME.TABLE-DIR1_1.4" ref-symbol="‖" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">5,767</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1.91</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Albanska Alijansa (Albanian Alliance)
+                        <endnoteref idref="ME.TABLE-DIR1_1.5" ref-symbol="§" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4,512</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1.49</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Hrvatska Građanska Inicijativa (Croatian Civic Initiative)</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2,226</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">0.74</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Others</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">29,310</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">9.69</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <b>Total</b>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">302,436</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">81</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                                   <endnote id="ME.TABLE-DIR1_1.1" ref-symbol="*"> A coalition comprising the Demokratska Partija Socijalista Crne Gore (Democratic Party of Socialists of Montenegro), the Socijaldemokrate Crne Gore (Social Democrats of Montenegro), the Liberalna Partija Crne Gore (Liberal Party of Montenegro) and the Unionit Demokratik të Shqiptarëve (Democratic Union of Albanians).</endnote>
+                                   <endnote id="ME.TABLE-DIR1_1.2" ref-symbol="†">A coalition comprising the Demokratska Narodna Partija Crne Gore (Democratic People’s Party of Montenegro), the Nova Srpska Demokratija (New Serbian Democracy) and the Radnička Partija (Workers’ Party).</endnote>
+                                   <endnote id="ME.TABLE-DIR1_1.3" ref-symbol="‡">A coalition comprising the Demokratska Crna Gora (Democratic Montenegro) and the Ujedinjena Reformska Akcija (United Reform Action).</endnote>
+                                   <endnote id="ME.TABLE-DIR1_1.4" ref-symbol="‖">A coalition comprising the Alternativa Shqiptare (Albanian Alternative), the Lidhja Demokratik Shqiptare (Albanian Democratic League) and the Unioni Nacional Shqiptar (Albanian National Union).</endnote>
+                                   <endnote id="ME.TABLE-DIR1_1.5" ref-symbol="§">A coalition comprising the Forca e Re Demokratike (New Democratic Force), the Partia Demokratike (Democratic Party) and the Lidhja Demokratike në Mal të Zi (Democratic League in Montenegro).</endnote>
+                              </table-block>
+                         </table-blockref>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

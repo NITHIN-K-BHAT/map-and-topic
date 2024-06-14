@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62132" sllink="SLSDOCRF" sllinkid="62131" slsdocid="59820" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LV.DIR.551" id-root="lv.dir" iso="lv" sect-type="defence" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee ewyb">
+                    <heading>Defence</heading>
+                    <p id="LV.DIR.552">
+          As assessed at November 2023, Latvia’s total armed forces numbered 6,600, including an army of 1,500, a navy of 500, an air force of 500, joint staff of 2,400, and a national guard of 1,400. Reservists numbered 16,000. Latvia became a full member of the 
+          <xr pageref="N" ref="NATO.IO">North Atlantic Treaty Organization (NATO)</xr>
+           on 29 March 2004. In February 2015 NATO announced plans to establish an expanded rapid reaction force, under which new NATO command centres were installed in Latvia and other Eastern European states. A decision was adopted at a NATO summit meeting in Warsaw, Poland, in July 2016 to deploy four multinational battalions, respectively, to the Baltic states and Poland. In 2018 Latvia fulfilled its target to increase defence spending to the equivalent of 2.0% of gross domestic product (GDP), in compliance with its commitments as a NATO member; spending was to increase to 2.5% of GDP during 2022-25. In February 2019 the Latvian, Estonian and Danish ministers of defence signed an agreement providing for the establishment of the headquarters for NATO’s Multinational Division North (part of the Alliance’s command structure) at Ādaži, near Rīga; it opened in March. At November 2023 the NATO battlegroup in Latvia numbered around 2,453 personnel. A National Cybersecurity Strategy for 2023-26 was approved in March 2023, and a National Cyber Security Centre, attached to the Ministry of Defence, has been established. In April the Parliament approved legislation formally reintroducing mandatory military service (abandoned in 2006), lasting 11 months, for men aged between 18 and 27 years, with effect from 1 January 2024. A National Security Concept was introduced in September 2023. Latvia plans significantly to expand its armed forces.
+        </p>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2981362" sllink="SLSDOCRF" sllinkid="2981361" slsdocid="2981352" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.1272973643" id-root="lv.dir" iso="lv" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Defence Expenditure</dir-entry-name>
+                                   <content-note style="NORMAL">€967m. in 2023.</content-note>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL68708" sllink="SLSDOCRF" sllinkid="68707" slsdocid="59805" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.555" id-root="lv.dir" iso="lv" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>Commander of the National Armed Forces</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Lt-Gen.</title>
+                                                  <forename>Leonīds</forename>
+                                                  <surname>Kalniņš</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL68712" sllink="SLSDOCRF" sllinkid="68711" slsdocid="59803" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.557" id-root="lv.dir" iso="lv" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <!--NS 29.04.2016 http://www.mil.lv/Vienibas/Aviacijas_baze/Par%20Mums/Vadiba.aspx-->
+                                   <!--Sc 21.04.2020 https://www.mil.lv/en/node/4092-->
+                                   <dir-entry-name>Commander of the Air Force</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Lt-Col</title>
+                                                  <forename>Viesturs</forename>
+                                                  <surname>Masulis</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL68714" sllink="SLSDOCRF" sllinkid="68713" slsdocid="59802" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="LV.DIR.558" id-root="lv.dir" iso="lv" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <!--NS 29.04.2016 http://www.leta.lv/eng/defence_matters_eng/defence_matters_eng/news/7E4659CE-9366-433A-884A-5D66C076803D/ http://www.mil.lv/Vienibas/Flotile/Par_juras_spekiem/Vadiba.aspx-->
+                                   <!--www.navy.mil.lv-->
+                                   <!--sc 21.04.2020 https://www.baltictimes.com/kaspars_zelcs_to_take_over_as_navy_commander/-->
+                                   <dir-entry-name>Commander in Chief of the Navy</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Capt.</title>
+                                                  <forename>Māris</forename>
+                                                  <surname>Polencs</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+               </dir-section>
+          </dir-sectref>
+          

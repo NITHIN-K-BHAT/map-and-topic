@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52164" sllink="SLSDOCRF" sllinkid="52163" slsdocid="51120" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.147" id-root="al.dir" iso="al" sect-type="judicial" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 24.03.2023 headline content checked-->
+                    <heading>Judicial System</heading>
+                    <p id="AL.DIR.148">
+          From 2016 Albania was engaged in a process of significant judicial reform, which introduced new bodies, including a High Prosecutorial Council and a High Judicial Council (both established in December 2018), and new procedures. The Supreme Court consists of 17 members, appointed to office by the President, with the approval of the legislature, for a single, nine-year term. The Constitutional Court arbitrates on constitutional issues, and determines, 
+          <i>inter alia</i>
+          , the conformity of proposed legislation with the Constitution. It is empowered to prohibit the activities of political organizations on constitutional grounds, and also formulates legislation regarding the election of the President of the Republic. The Constitutional Court comprises nine members, three of whom are appointed by the President, three by the legislature, and three by the Supreme Court. Judges serve a term of nine years, and one-third of the Court’s members are renewed every three years.
+        </p>
+                    <org-list>
+                         <org-entryref id="SL580562" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="580561" slsdocid="580514" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AL.DIR.1056119541" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Judicial system" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                        <alt-name>Gjykata e Larte</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rruga Ibrahim Rugova, 1010 Tirana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(4) 2257304</telephone>
+                                        <fax>(4) 2228837</fax>
+                                        <email>supremecourt@gjykataelarte.gov.al</email>
+                                        <internet>www.gjykataelarte.gov.al</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chief Justice</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Sokol</forename>
+                                                  <surname>Sadushi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL574742" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="574741" slsdocid="574734" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AL.DIR.1055267897" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Judicial system" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Constitutiional Court">
+                                   <!--IG BASHKIM DEDJA DISMISSED In DECEMBER 2018 on corruption charges-->
+                                   <!--Sc 07.04.2020 Vitore is handling Pres work for now-->
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                        <alt-name>Gjykata Kushtetuese</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Bulevardi Dëshmorët e Kombit, 1010 Tirana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(4) 22230924</telephone>
+                                        <email>sekretar.kryetar@gjk.gov.al</email>
+                                        <internet>www.gjk.gov.al</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Holta</forename>
+                                                  <surname>Zaçaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL2163347" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2163346" slsdocid="2163338" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AL.DIR.1193832379" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Judicial system" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Office of the Prosecutor-General</org-entry-name>
+                                        <alt-name>Zyra e Prokuroria e Përgjithshme</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rruga Qemal Stafa 1, 1005 Tirana</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(4) 2282000</telephone>
+                                        <email>foreign.department@pp.gov.al</email>
+                                        <internet>www.pp.gov.al</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">the High Prosecutorial Council (est. Dec. 2018) nominates the Prosecutor-General, who serves a term of seven years (rather than five years, as was the case until 2017)</content-note>
+                                   <role-group>
+                                        <role>Prosecutor-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Olsian</forename>
+                                                  <surname>Çela</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

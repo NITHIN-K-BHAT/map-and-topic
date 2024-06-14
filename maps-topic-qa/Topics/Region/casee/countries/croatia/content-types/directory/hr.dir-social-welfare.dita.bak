@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61978" sllink="SLSDOCRF" sllinkid="61977" slsdocid="58395" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.454" id-root="hr.dir" iso="hr" sect-type="social-welfare" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Social Welfare</heading>
+                    <p id="HR.DIR.455">Health care in Croatia is available to all citizens, free of charge. </p>
+                    <p>Most government spending on social services is disbursed through extra-budgetary social funds (the Pension Fund, the Health Fund, the Employment Fund and the Child Benefit Fund). From January 1999 the retirement age rose by five years, to 65 years for men; from 2010 the retirement age of 60 years for women began to increase by three months each year. Pension reforms introduced in January 2019 envisaged an increase in the retirement age to 67 by 2033, and introduced financial penalties for early retirement. In January 2000 the Government introduced a private pension scheme. In December 2013 the Government initiated welfare reform, merging several social benefits, and capping total benefit receipts at the gross minimum wage. The minimum gross salary for 2021 was 4,250 kuna per month, compared with 4,062.5 kuna per month in 2019.</p>
+                    <dir-section id="HR.DIR.457" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <!--MR 15.07.2021 Headline content checked-->
+                         <heading>National Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL66616" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66615" slsdocid="58532" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.460" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL AGENCIES">
+                                        <!--MR 30.05.2022 Website has toll free no., not sure about tele and fax-->
+                                        <org-entry-head>
+                                             <org-entry-name>Croatian Institute for Health Insurance</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Magaretska 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4577150</telephone>
+                                             <fax>(1) 4812606</fax>
+                                             <email>glasnogovornik@hzzo.hr</email>
+                                             <internet>www.hzzo.hr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Prof. Dr</title>
+                                                       <forename>Drago</forename>
+                                                       <surname>Prgomet</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1650877" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1650876" slsdocid="1650861" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1151925036" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Croatian National Institute of Public Health</org-entry-name>
+                                             <alt-name>Hrvatski Zavod za Javno Zdravstvo</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Zagreb, Rockefellerova 7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4863222</telephone>
+                                             <fax>(1) 4863366</fax>
+                                             <email>hzjz@hzjz.hr</email>
+                                             <internet>www.hzjz.hr</internet>
+                                        </address-block>
+                                        <found-date>1893</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Krunoslav</forename>
+                                                       <surname>Capak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HR.DIR.462" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Non-Governmental Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL5786243" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5786242" slsdocid="5786222" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1496312061" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON GOVERNMENTAL ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Croatian Red Cross</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10001 Zagreb, ul. Crvenog Križa 14, POB 93</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4655814</telephone>
+                                             <fax>(1) 4655365</fax>
+                                             <email>redcross@hck.hr</email>
+                                             <internet>www.hck.hr</internet>
+                                        </address-block>
+                                        <found-date>1878</found-date>
+                                        <role-group>
+                                             <role>Exec. Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert</forename>
+                                                       <surname>Markt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2373463" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2373462" slsdocid="2373456" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.1215016968" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Health and Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Non-governmental organizations">
+                                        <org-entry-head>
+                                             <org-entry-name>Hrvatski Caritas</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      10000 Zagreb, Ksaverska cesta 12
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 5635045</telephone>
+                                             <email>caritas.croatia@caritas.hr</email>
+                                             <internet>www.caritas.hr</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">Roman Catholic welfare org.</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bože</forename>
+                                                       <surname>Radoš</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tomislav</forename>
+                                                       <surname>Glavnik</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66620" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66619" slsdocid="58529" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HR.DIR.463" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON-GOVERNMENTAL ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Institute for Medicinal Research and Occupational Health</org-entry-name>
+                                             <alt-name>Institut za Medicinska Istraživanja i Medicinu Rada</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10001 Zagreb, Ksaverska cesta 2, POB 291</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 4682500</telephone>
+                                             <fax>(1) 4673303</fax>
+                                             <email>uprava@imi.hr</email>
+                                             <internet>www.imi.hr</internet>
+                                        </address-block>
+                                        <found-date>1947</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana</forename>
+                                                       <surname>Lucić Vrdoljak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

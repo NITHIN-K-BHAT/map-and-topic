@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654081" sllink="SLSDOCRF" sllinkid="1654080" slsdocid="1653144" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.DIR.1152110239" id-root="me.dir" iso="me" sect-type="publishers" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Publishers</heading>
+                    <!---->
+                    <org-list>
+                         <org-entryref id="SL8881532" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8881531" slsdocid="8881517" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1706005278" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRUES">
+                                   <org-entry-head>
+                                        <org-entry-name>Izdavačka Kuća CID</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Njegoševa 11/I</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 664164</telephone>
+                                        <email>cid@t-com.me</email>
+                                        <internet>cidcg.me</internet>
+                                   </address-block>
+                                   <found-date>1994</found-date>
+                                   <content-note style="NORMAL">natural sciences, literature, philosophy and sociology</content-note>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ratko</forename>
+                                                  <surname>Bojanović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1653152" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1653151" slsdocid="288634" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.442" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--MR 22.01.2024 not sure about role group-->
+                                   <org-entry-head>
+                                        <org-entry-name>Narodna Knijiga</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Nikšićki put, Komani b.b.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(69) 352386</telephone>
+                                        <fax>(20) 3232230</fax>
+                                        <email>narodnaknjiga@t-com.me</email>
+                                        <internet>narodna-knjiga.com</internet>
+                                   </address-block>
+                                   <found-date>2002</found-date>
+                                   <content-note style="NORMAL">classical literature and music</content-note>
+                                   <role-group>
+                                        <role>CEO</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Miodrag</forename>
+                                                  <surname>Minić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

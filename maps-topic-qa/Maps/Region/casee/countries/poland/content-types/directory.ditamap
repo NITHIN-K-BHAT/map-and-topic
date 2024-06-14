@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Directory</mainbooktitle>
+     </booktitle>
+     <chapter id="pl.dir" navtitle="Directory">
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir.dita" navtitle="Directory" keyscope="directory" keys="directory" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-government.dita" navtitle="The government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-president.dita" navtitle="President" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-legislature.dita" navtitle="Legislature" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-local-government.dita" navtitle="Local government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-election-commission.dita" navtitle="Election commission" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-political-organizations.dita" navtitle="Political organizations" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-diplomatic-representation.dita" navtitle="Diplomatic representation" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-judicial-system.dita" navtitle="Judicial system" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-religion.dita" navtitle="Religion" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-press.dita" navtitle="The press" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-publishers.dita" navtitle="Publishers" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-broadcasting-communications.dita" navtitle="Broadcasting and communications" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-finance.dita" navtitle="Finance" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-trade-industry.dita" navtitle="Trade and industry" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-transport.dita" navtitle="Transport" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-tourism.dita" navtitle="Tourism" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-culture.dita" navtitle="Culture" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-social-welfare.dita" navtitle="Social welfare" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-environment.dita" navtitle="The environment" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-defence.dita" navtitle="Defence" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-education.dita" navtitle="Education" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="../../../../../../Topics/Region/casee/countries/poland/content-types/directory/pl.dir-bibliography.dita" navtitle="Bibliography" keyscope="bibl-ref" keys="directory" format="dita" />
+     </chapter>
+</bookmap>

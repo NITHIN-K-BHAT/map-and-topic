@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4406467" sllink="SLSDOCRF" sllinkid="4406466" slsdocid="57855" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="GR.DIR.376" id-root="gr.dir" iso="gr" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--11.07.2018 headline content checked-->
+                    <!--nb 04 04 2023 headline content checked-->
+                    <!--nb 09 04 2024 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="GR.DIR.377" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <p>Four principal banks (the National Bank of Greece, Alpha Bank, Eurobank SA and Piraeus Bank) hold the majority of deposits.</p>
+                         <dir-section id="GR.DIR.624" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL4406427" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4406426" slsdocid="58160" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.378" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="27.01.2020" ticked-box="Y" />
+                                             <!--Sc 19.07.202 role group confirmed at https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7a4a5091-61ea-4b1f-ac95-f1a7bbec94f0-->
+                                             <!--IF Have requested to be removed from our content. As per email from 24.01.2020. Am seeing what we can do to push back against this.-->
+                                             <!--sb 14.03.2014 figures not available-->
+                                             <!--Sc1 27.12.2017 email not confirmed-->
+                                             <!--sc 05.03.2020 email and fax confirmed at https://www.athexgroup.gr/company-profile/-/select-company/53-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank of Greece</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Leoforos E. Venizelos 21, 102 50 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3201111</telephone>
+                                                  <email>secretariat@bankofgreece.gr</email>
+                                                  <internet>www.bankofgreece.gr</internet>
+                                             </address-block>
+                                             <found-date>1927</found-date>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Yannis</forename>
+                                                            <surname>Stournaras</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="GR.DIR.379" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Commercial Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL66036" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66035" slsdocid="58158" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.381" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc1 27.12.2017 email not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Alpha Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Stadiou 40, 102 52 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3260000</telephone>
+                                                  <email>communication@alpha.gr</email>
+                                                  <internet>www.alpha.gr</internet>
+                                             </address-block>
+                                             <found-date>1879</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2000</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vasileios</forename>
+                                                            <surname>Rapanos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vassilios</forename>
+                                                            <surname>Psaltis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66040" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66039" slsdocid="58156" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.383" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc1 27.05.2019 https://greece.greekreporter.com/2019/05/25/recently-appointed-chief-of-attica-bank-dies-at-69/ https://www.atticabank.gr/el/group/attica-bank/administrationhttps://www.atticabank.gr/el/group/attica-bank/administration-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Attica Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Omirou 23, 106 72 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3669000</telephone>
+                                                  <email>info@atticabank.gr</email>
+                                                  <internet>www.atticabank.gr</internet>
+                                             </address-block>
+                                             <found-date>1925</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Konstantinos</forename>
+                                                            <surname>Makedos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2250224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2250223" slsdocid="770176" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.1077796815" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Black Sea Trade and Development Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Komninon 1, 546&#160;24 Thessaloniki</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(231) 290400</telephone>
+                                                  <fax>(231) 221796</fax>
+                                                  <email>info@bstdb.org</email>
+                                                  <internet>www.bstdb.org</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <content-note style="NORMAL">owned by 11 member states: Greece, the Russian Federation and Türkiye (16.5% each); Romania (14.0%); Bulgaria and Ukraine (13.5% each); Azerbaijan (5.0%); Albania (2.0%); Armenia (1.0%); Georgia and Moldova (0.5% each)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Serhat</forename>
+                                                            <surname>Köksal</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66043" slsdocid="58154" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.385" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc 09.07.2021 note at https://www.kathimerini.gr/economy/561421645/enischyoyn-tin-paroysia-toys-sta-valkania-oi-ellinikes-trapezes/-->
+                                             <!--SBE could not confirm the presiden-->
+                                             <!--Sc1 27.12.2017 role group confirmed at https://www.eurobank.gr/en/group/about-eurobank/corporate-governance/board-of-directors/the-bod-members-->
+                                             <!--Sc1 27.12.2017 add and other details confirmed at http://eurobankpb.lu/-Our-Group-->
+                                             <!--Sc1 email not confirmed-->
+                                             <!--sc1 05.03.2020 add details confirmed ta https://www.ecbs.org/banks/greece/efg-eurobank-ergasias/view-details.html stats not confirmed chair confirmed at https://www.eurobank.gr/en/group/grafeio-tupou/etairiki-anakoinosi-01-04-19-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Eurobank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Leoforos Amalias 20, 105 57 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 9555000</telephone>
+                                                  <email>info@eurobank.gr</email>
+                                                  <internet>www.eurobank.gr</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <content-note style="NORMAL">16.9% owned by Fairfax Financial Holding Ltd (USA); 8.8% owned by Capital Gp Cos (USA); 61.0% owned by other foreign institutional investors; and 2.4% owned by Hellenic Financial Stability Fund</content-note>
+                                             <content-note style="NORMAL">acquired Direktna Bank (Serbia) in 2021</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>George</forename>
+                                                            <surname>Zanias</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Fokion C.</forename>
+                                                            <surname>Karavias</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66054" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66053" slsdocid="58149" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.390" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sc1 09.05.2018 https://www.reuters.com/article/nbg-ceo-resignation/update-2-greeces-national-bank-ceo-fragiadakis-steps-down-idUSL8N1SB5X4-->
+                                             <org-entry-head>
+                                                  <org-entry-name>National Bank of Greece</org-entry-name>
+                                                  <abbr>NBG</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Aeolou 86, 102 32 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 4848484</telephone>
+                                                  <email>contact.center@nbg.gr</email>
+                                                  <internet>www.nbg.gr</internet>
+                                             </address-block>
+                                             <found-date>1841</found-date>
+                                             <content-note style="NORMAL">state-controlled, but operates independently of the Govt</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Paul</forename>
+                                                            <surname>Mylonas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL66056" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66055" slsdocid="58148" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.391" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc1 27.12.2017 email not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Piraeus Bank</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Amerikis 4, 105 64 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3288000</telephone>
+                                                  <email>investor_relations@piraeusbank.gr</email>
+                                                  <internet>www.piraeusbankgroup.com</internet>
+                                             </address-block>
+                                             <found-date>1916</found-date>
+                                             <content-note style="NORMAL">absorbed Geniki Bank in 2014</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>George</forename>
+                                                            <surname>Handjinicolaou</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christos</forename>
+                                                            <surname>Megalou</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="GR.DIR.15547124301" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Banking Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL6584600" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6584599" slsdocid="6584574" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.1554712333" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING ASSOCIATION">
+                                             <org-entry-head>
+                                                  <org-entry-name>Hellenic Bank Association</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        Odos Amerikis 21
+                        <sc>a</sc>
+                        , 106 72 Athens
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3386500</telephone>
+                                                  <fax>(210) 3615324</fax>
+                                                  <email>hba@hba.gr</email>
+                                                  <internet>www.hba.gr</internet>
+                                             </address-block>
+                                             <found-date>1928</found-date>
+                                             <stats>18 mems</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Charoula</forename>
+                                                            <surname>Apalagaki</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="GR.DIR.397" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL66066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66065" slsdocid="58141" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.398" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Athens Exchange Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Odos Athinon 110, 104 42 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3366800</telephone>
+                                             <email>protocol@athexgroup.gr</email>
+                                             <internet>www.helex.gr</internet>
+                                        </address-block>
+                                        <found-date>1876</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>George</forename>
+                                                       <surname>Handjinicolaou</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yianos</forename>
+                                                       <surname>Kontopoulos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="GR.DIR.399" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Principal Insurance Companies</heading>
+                         <org-list>
+                              <org-entryref id="SL66074" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66073" slsdocid="58136" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.403" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--sb 14.02.2014 role group not confirmed. SBE 08.12.2015 Same-->
+                                        <!--Sc1 27.12.2017 email not confirmed-->
+                                        <!--SC1 27.12.2017 role group not confirmed-->
+                                        <!--sc1 11.03.2020 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Atlantiki Enosis/Atlantic Union</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Odos Messoghion 71 &amp; Ilidos 36, 115 26 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 7454000</telephone>
+                                             <fax>(210) 7794446</fax>
+                                             <email>support@atlantiki.gr</email>
+                                             <internet>www.atlantiki.gr</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <content-note style="NORMAL">subsidiary of Baloise (Switzerland)</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yiannis</forename>
+                                                       <surname>Lapatas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4360999" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4360998" slsdocid="58132" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.406" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--MR 19.01.2023 ditto-->
+                                        <!--Sc1 27.12.2017 man dir not confirmed-->
+                                        <data-protection date-added="26.03.2003" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Crédit Agricole Life</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Odos Mitropoleos 45, 105 56 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(214) 4166700</telephone>
+                                             <fax>(214) 4166718</fax>
+                                             <email>custserv@ca-life.gr</email>
+                                             <internet>www.ca-life.gr</internet>
+                                        </address-block>
+                                        <found-date>2001 as Emporiki Life</found-date>
+                                        <content-note style="NORMAL">est. as a joint venture of Emporiki Bank and insurance arm of Crédit Agricole</content-note>
+                                        <content-note style="NORMAL">became a subsidiary of Crédit Agricole Assurances in 2010</content-note>
+                                        <content-note style="NORMAL">name changed as above in 2011</content-note>
+                                        <content-note style="NORMAL">life insurance</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dominique</forename>
+                                                       <surname>Lefebvre</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Caroline</forename>
+                                                       <surname>Catoire</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2590801" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2590800" slsdocid="58135" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.404" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Dynamis</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Vassilissis Sofias 10, 151 24 Marousi, Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 9006900</telephone>
+                                             <email>info@dynamis.gr</email>
+                                             <internet>dynamis.gr</internet>
+                                        </address-block>
+                                        <found-date>1977</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Georgios</forename>
+                                                       <surname>Kalpakos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4360995" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4360994" slsdocid="58113" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.423" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--MR 19.01.2023 All info from https://www.ergo.com/en/Unternehmen/ERGO-International/Griechenland Greece website not working, first role group not confirmed.-->
+                                        <!--Sc1 28.12.2017 add, tel, fax website confirmed at https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=226802058-->
+                                        <!--Sc1 28.12.2017 no other info confirmed-->
+                                        <!--sc1 11.03.2020 Man dir nor confirmed CEO confirmed at https://www.ergo.com/en/Unternehmen/ERGO-International/Griechenland-->
+                                        <org-entry-head>
+                                             <org-entry-name>ERGO Insurance Co S.A.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 173, 171 21 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3705300</telephone>
+                                             <fax>(210) 3244134</fax>
+                                             <email>ergo@ergohellas.gr</email>
+                                             <internet>www.ergohellas.gr</internet>
+                                        </address-block>
+                                        <found-date>1972 as Victoria General Insurance Co S.A.</found-date>
+                                        <content-note style="NORMAL">renamed ERGO General Insurance Co S.A. in 2011</content-note>
+                                        <content-note style="NORMAL">acquired ATE Insurance S.A. in 2016</content-note>
+                                        <content-note style="NORMAL">merger with ERGO Life S.A. confirmed in 2018, and name changed as above</content-note>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>G.</forename>
+                                                       <surname>Andoniadis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nikos</forename>
+                                                       <surname>Antimissaris</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66081" slsdocid="58131" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.407" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--sc1 11.03.2020 add details conirmed at http://www.bhcc.gr/business-index/634-ethniki-a-e-e-g-a-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ethniki Hellenic General Insurance Co SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 103-105, 117 45 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 9099000</telephone>
+                                             <email>ethniki@insurance.nbg.gr</email>
+                                             <internet>www.ethnikiasfalistiki.gr</internet>
+                                        </address-block>
+                                        <found-date>1891</found-date>
+                                        <content-note style="NORMAL">owned by National Bank of Greece</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Athanasios</forename>
+                                                       <surname>Zarkalis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert Constantin</forename>
+                                                       <surname>Gauci</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4360991" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4360990" slsdocid="58112" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.424" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--MR 19.01.2023 Role group https://www.groupama.gr/getattachment/etairia/Omilos-Groupama/2021-GROUPAMA_Annual-Report.pdf.aspx-->
+                                        <!--sb 19.02.2014 could not gather anything on role group as url not translating and website does not seem to have any info-->
+                                        <!--SC1 29.12.2017 email not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Groupama Phoenix</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 213-215, N. Smirni, 171 21 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3295111</telephone>
+                                             <email>info@groupama.gr</email>
+                                             <internet>www.groupama.gr</internet>
+                                        </address-block>
+                                        <found-date>1928</found-date>
+                                        <content-note style="NORMAL">general</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Thierry</forename>
+                                                       <surname>Martel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66102" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66101" slsdocid="58120" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.417" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--SBE 26.04.2016 Not changing the add as per reply. Retaining the old address, which is on the website-->
+                                        <data-protection date-added="26.03.2003" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Imperial</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 253, N. Smirni, 171 22 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 9426355</telephone>
+                                             <fax>(210) 9426202</fax>
+                                             <email>imperial@imperial.gr</email>
+                                             <internet>www.imperial.gr</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>George</forename>
+                                                       <surname>Tzanis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66104" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66103" slsdocid="58119" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.418" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--Sc1 28.12.2017 website not working info taken from www.insurope.com-->
+                                        <!--Sc1 28.122017 role group confirmed at bloom berg-->
+                                        <!--sc1 11.03.2020 email and tel confirmed at https://www.amcham.gr/amchamgr-members/interamerican-hellenic-life-insurance-company-s-a/ add confirmed at https://www.bloomberg.com/profile/company/INZOI:GA role group and stats not confirmed website not owrking-->
+                                        <org-entry-head>
+                                             <org-entry-name>Interamerican Hellenic Life Insurance Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 124-126, 117 45 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 9462000</telephone>
+                                             <fax>(210) 9461008</fax>
+                                             <email>custserv@interamerican.gr</email>
+                                             <internet>www.interamerican.gr</internet>
+                                        </address-block>
+                                        <found-date>1969</found-date>
+                                        <content-note style="NORMAL">owned by Achmea Group (Netherlands)</content-note>
+                                        <content-note style="NORMAL">subsidiary cos provide medical, property, casualty, and automobile insurance</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yiannis</forename>
+                                                       <surname>Kantoros</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6666636" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6666635" slsdocid="58124" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.414" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--sb 14.02.2014 listed as a member in the 2012 annual stats report of hellenic association of insurance companies no other info available-->
+                                        <!--Sc1 28.12.2017 role group not confirmed As per the news Mr.Christos Achis, is the executive director https://www.orizonins.gr/el/news/86/-->
+                                        <!--Sc1 31.05.2019 role goup not confirmed-->
+                                        <!--sc1 11.03.2020 linked it says that other Christos is the CEO https://www.linkedin.com/in/christos-achis-0516b118/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Orizon Asfalistiki</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Leoforos Amalias 26
+                      <sc>a</sc>
+                      , 105 57 Athens
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3227932</telephone>
+                                             <fax>(210) 3225540</fax>
+                                             <email>info@orizonins.gr</email>
+                                             <internet>www.orizonins.gr</internet>
+                                        </address-block>
+                                        <found-date>1965</found-date>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Theodore</forename>
+                                                       <surname>Achis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66114" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66113" slsdocid="58109" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.426" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sideris AEGA S.A.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Odos Lekka 3-5, 105 63 Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 3224484</telephone>
+                                             <fax>(210) 3231066</fax>
+                                             <email>siderisa@siderisins.gr</email>
+                                             <internet>www.siderisins.gr</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL66116" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66115" slsdocid="58108" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="GR.DIR.427" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                        <!--SBE 10.12.2015 More info found on http://www.gtp.gr/TDirectoryDetails.asp?ID=49879-->
+                                        <org-entry-head>
+                                             <org-entry-name>Syneteristiki General Insurance Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Leoforos Syngrou 367, 175&#160;64 Kallithea, Athens</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(210) 9491280</telephone>
+                                             <fax>(210) 9403148</fax>
+                                             <email>info@syneteristiki.gr</email>
+                                             <internet>www.syneteristiki.gr</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dimitris</forename>
+                                                       <surname>Zorbas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alexandros</forename>
+                                                       <surname>Kontos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="GR.DIR.430" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Insurance Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL66120" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66119" slsdocid="58106" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="GR.DIR.431" id-root="gr.dir" iso="gr" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL INSURANCE COMPANIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Hellenic Association of Insurance Companies</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Odos Xenophontos 10, 105 57 Athens</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(210) 3334100</telephone>
+                                                  <email>info@eaee.gr</email>
+                                                  <internet>www1.eaee.gr</internet>
+                                             </address-block>
+                                             <found-date>1907</found-date>
+                                             <stats>44 mem. cos</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alexandros</forename>
+                                                            <surname>Sarrigeorgiou</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Gen. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Elina</forename>
+                                                            <surname>Papaspyropoulou</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<int-org-entryref id="SL609087" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="609086" slsdocid="601437" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+          
+          <int-org-entry id="IO-UN.527" id-root="io-un.527" iso="io-un.527" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio">
+               <int-org-entry-head>
+                    <int-org-name-group type="MAIN">
+                         <org-entry-name>International Court of Justice</org-entry-name>
+                    </int-org-name-group>
+               </int-org-entry-head>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+               <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">UNITED NATIONS</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations</alt-heading>
+               <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">International Court of Justice</alt-heading>
+               <int-org-block>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Peace Palace, Carnegieplein 2, 2517 KJ The Hague, Netherlands</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(70) 3022323</telephone>
+                         <fax>(70) 3649928</fax>
+                         <email>information@icj-cij.org</email>
+                         <internet>www.icj-cij.org</internet>
+                    </address-block>
+                    <p id="IO-UN.528">Established in 1945, the Court is the principal judicial organ of the UN. All members of the UN are parties to the Statute of the Court.</p>
+                    <int-org-section id="IO-UN.529" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                         <heading>The Judges</heading>
+                         <heading-note>June 2024, in order of precedence</heading-note>
+                         <table-block-simple id="IO-UN.530" type="OTHER">
+                              <table style="WITHOUT-RULES">
+                                   <tgroup cols="2">
+                                        <colspec colwidth="15cm" />
+                                        <colspec colwidth="5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER" />
+                                                  <entry align="right" style="NO-DOT-LEADER">
+                      Term Ends
+                      <endnoteref idref="IO-UN.532" ref-symbol="*" />
+                                                  </entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>President:</b>
+                       N
+                      <sc>awaf</sc>
+                       S
+                      <sc>alam</sc>
+                       (Lebanon)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2027</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                                                       <b>Vice-President:</b>
+                       J
+                      <sc>ulia</sc>
+                       S
+                      <sc>ebutinde</sc>
+                       (Uganda) 
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">
+                                                       <b>Judges:</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER" />
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      P
+                      <sc>eter</sc>
+                       T
+                      <sc>omka</sc>
+                       (Slovakia)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      R
+                      <sc>onny</sc>
+                       A
+                      <sc>braham</sc>
+                       (France)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2027</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      A
+                      <sc>bdulqawi</sc>
+                       A
+                      <sc>hmed</sc>
+                       Y
+                      <sc>usuf</sc>
+                       (Somalia)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2027</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      X
+                      <sc>ue</sc>
+                       H
+                      <sc>anqin</sc>
+                       (People's Republic of China)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      D
+                      <sc>alveer</sc>
+                       B
+                      <sc>handari</sc>
+                       (India)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2027</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Y
+                      <sc>uji</sc>
+                       I
+                      <sc>wasawa </sc>
+                       (Japan)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      G
+                      <sc>eorg</sc>
+                       N
+                      <sc>olte</sc>
+                       (Germany)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      H
+                      <sc>ilary</sc>
+                       C
+                      <sc>harlesworth</sc>
+                       (Australia)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      L
+                      <sc>eonardo</sc>
+                       N
+                      <sc>emer</sc>
+                       C
+                      <sc>aldeira</sc>
+                       B
+                      <sc>rant</sc>
+                       (Brazil)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2027</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      J
+                      <sc>uan</sc>
+                       M
+                      <sc>anuel</sc>
+                       G
+                      <sc>ómez</sc>
+                       R
+                      <sc>obledo</sc>
+                       (Mexico)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      S
+                      <sc>arah</sc>
+                       H. C
+                      <sc>leveland</sc>
+                       (USA)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      B
+                      <sc>ogdan</sc>
+                      -L
+                      <sc>ucian</sc>
+                       A
+                      <sc>urescu</sc>
+                       (Romania)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      D
+                      <sc>ire</sc>
+                       T
+                      <sc>ladi</sc>
+                       (South Africa)
+                    </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2030</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block-simple>
+                         <endnote id="IO-UN.532" ref-symbol="*">Each term ends on 5 February of the year indicated.</endnote>
+                         <dir-list>
+                              <dir-entry id="IO-UN.531" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Registrar</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Philippe</forename>
+                                                  <surname>Gautier</surname>
+                                             </person-name>
+                                             <person-note>Belgium</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <!--~ term expires 2026-->
+                         </dir-list>
+                         <p id="IO-UN.533">The Court is composed of 15 judges, each of a different nationality, elected with an absolute majority by both the General Assembly and the Security Council. Representation of different legal systems of the world are borne in mind in their election. Candidates are nominated by national panels of jurists.</p>
+                         <p id="IO-UN.534">The judges are elected for nine years and may be re-elected; elections for five seats are held every three years. The Court elects its President and Vice-President for each three-year period. Members may not have any political, administrative, or other professional occupation, and may not sit in any case with which they have been otherwise connected than as a judge of the Court. For the purposes of a case, each side—consisting of one or more states—may, unless the Bench already includes a judge with a corresponding nationality, choose a person from outside the Court to sit as a judge on terms of equality with the members. Judicial decisions are taken by a majority of the judges present, subject to a quorum of nine members. The President has a casting vote.</p>
+                    </int-org-section>
+                    <int-org-section id="IO-UN.535" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                         <heading>Functions</heading>
+                         <p id="IO-UN.536">The Court operates in accordance with a Statute which is an integral part of the UN Charter; all UN member states are therefore parties to the Statute. Only states may be parties in cases before the Court; those not parties to the Statute may have access under conditions laid down by the Security Council. Palestine (not a UN member state) accepted the competence of the Court on 4 July 2018.</p>
+                         <p id="IO-UN.537">The Jurisdiction of the Court comprises:</p>
+                         <gen-list>
+                              <item>1. All cases which the parties refer to it jointly by special agreement</item>
+                              <item>2. All matters concerning which a treaty or convention in force provides for reference to the Court through the inclusion of a jurisdictional clause. Some 300 agreements, both bilateral and multilateral, have been notified to the Court's Registry</item>
+                              <item>3. Legal disputes between states which have recognized the jurisdiction of the Court as compulsory for specified classes of dispute. Declarations by 74 states accepting the compulsory jurisdiction of the Court are in force (although many with reservations): Australia, Austria, Barbados, Belgium, Bot­swana, Bulgaria, Cambodia, Cameroon, Canada, the Democratic Republic of the Congo (DRC), Costa Rica, Côte d'Ivoire, Cyprus, Denmark, Djibouti, Dominica, the Dominican Republic, Egypt, Equatorial Guinea, Estonia, Eswatini, Finland, The Gambia, Georgia, Germany, Greece, Guinea, Guinea-Bissau, Haiti, Honduras, Hungary, India, Iran, Ireland, Italy, Japan, Latvia, Lesotho, Liberia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Malta, Marshall Islands, Mauritius, Mexico, the Netherlands, New Zealand, Nicaragua, Nigeria, Norway, Pakistan, Panama, Paraguay, Peru, the Philippines, Poland, Portugal, Romania, Senegal, Slovakia, Somalia, Spain, Sudan, Suriname, Sweden, Switzerland, Timor-Leste, Togo, Uganda, the United Kingdom and Uruguay.</item>
+                         </gen-list>
+                    </int-org-section>
+                    <int-org-section id="IO-UN.543" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                         <heading>Contentious Cases</heading>
+                         <p>During the period 22 May 1947-29 April 2024 some 195 cases were referred to the Court relating to legal disputes or legal questions. Some were removed from the list as a result of settlement or discontinuance, or on the grounds of a lack of basis for jurisdiction.</p>
+                         <int-org-section id="IO-UN.544" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                              <heading>Judgments</heading>
+                              <p id="IO-UN.545">Judgments are without appeal, but are binding only for the partic­ular case and between the parties. States appearing before the Court undertake to comply with its Judgment. If a party to a case fails to do so, the other party may apply to the Security Council, which may make recommendations or decide upon measures to give effect to the Judgment.</p>
+                              <p>In March 2023 the Court delivered an initial Judgment on the merits of the case brought by Iran against the USA concerning `certain Iranian assets’, finding that the USA had illegally permitted courts to freeze the assets of some sanctioned Iranian companies, and ordering the USA to pay compensation in this respect. In the following month the Court issued a Judgment on a preliminary objection raised by Venezuela in the case concerning the Arbitral Award of 3 October 1899 (Guyana v. Venezuela). A further Judgment was delivered in July on the case brought by Nicaragua against Colombia concerning the delimitation of the continental shelf between the two countries (initial judgment having been delivered in March 2016). In January 2024 the Court issued a Judgment in a case brought by Ukraine against the Russian Federation in 2017 concerning alleged violations of the International Convention for the Suppression of the Financing of Terrorism (1999) and of the International Convention on the Elimination of All Forms of Racial Discrimination (1965), which acquitted Russia of having financed terrorism in eastern Ukraine; however, Russia was found to have violated the latter Convention with regard to the way that it had implemented Ukrainian-language school education in Crimea post-2014.</p>
+                              <p usage="edio">
+              Previous cases which have been the subject of a Judgment by the Court include: Monetary Gold Removed from Rome in 1943 (Italy 
+              <i>v.</i>
+               France, UK and USA); Sovereignty over Certain Frontier Land (Belgium/Netherlands); Arbitral Award made by the King of Spain on 23 December 1906 (Honduras 
+              <i>v.</i>
+               Nicaragua); Temple of Preah Vihear (Cambodia 
+              <i>v.</i>
+               Thailand); South West Africa (Ethiopia and Liberia 
+              <i>v.</i>
+               South Africa); Northern Cameroons (Cameroon 
+              <i>v.</i>
+               UK); North Sea Continental Shelf (Federal Republic of Germany/Denmark and Netherlands); Appeal relating to the Jurisdiction of the ICAO Council (India 
+              <i>v.</i>
+               Pakistan); Fisheries Jurisdiction (UK 
+              <i>v.</i>
+               Iceland; Federal Republic of Germany 
+              <i>v.</i>
+               Iceland); Nuclear Tests (Australia 
+              <i>v.</i>
+               France; New Zealand 
+              <i>v.</i>
+               France); Aegean Sea Continental Shelf (Greece 
+              <i>v.</i>
+               Türkiye—formerly known as Turkey); United States of America Diplomatic and Consular Staff in Tehran (USA 
+              <i>v.</i>
+               Iran) (initial Judgments); Continental Shelf (Tunisia/Libya) (preliminary Judgment); Delimitation of the Maritime Boundary in the Gulf of Maine Area (Canada/USA); Continental Shelf (Libya/Malta); Application for revision and interpretation of the Judgment of 24 February 1982 in the case concerning the Continental Shelf (Tunisia 
+              <i>v.</i>
+               Libya); Military and Paramilitary Activities in and against Nicaragua (Nicaragua 
+              <i>v.</i>
+               USA); Frontier Dispute (Burkina Faso/Mali); Delimitation of Maritime Boundary (Denmark 
+              <i>v.</i>
+               Norway); Maritime Boundaries (Guinea-Bissau 
+              <i>v.</i>
+               Senegal); Elettronica Sicula SpA (USA 
+              <i>v.</i>
+               Italy); Land, Island and Maritime Frontier Dispute (El Salvador/Honduras, in one aspect of which Nicaragua was permitted to intervene) (also, in 2003, Application for Revision of the 1992 Judgment in the Case concerning the Land, Island and Maritime Frontier Dispute, requested by El Salvador); Delimitation of Maritime Boundary in the area between Greenland and Jan Mayen island (Denmark 
+              <i>v.</i>
+               Norway); Maritime Delimitation and Territorial Questions between Qatar and Bahrain (Qatar 
+              <i>v.</i>
+               Bahrain); Territorial Dispute (Libya/Chad); East Timor (Portugal 
+              <i>v.</i>
+               Australia); the Gabčíkovo-Nagymaros Hydroelectric Project (Hungary 
+              <i>v.</i>
+               Slovakia); Fisheries Jurisdiction (Spain 
+              <i>v.</i>
+               Canada); Delimitation of the Boundary around Kasikili Sedudu Island (Botswana 
+              <i>v.</i>
+               Namibia); La Grand case (Germany 
+              <i>v.</i>
+               USA); Arrest Warrant of 11 April 2000 (DRC 
+              <i>v.</i>
+               Belgium); Land and Maritime Boundary between Cameroon and Nigeria (Cameroon 
+              <i>v.</i>
+               Nigeria, with Equatorial Guinea intervening); Sovereignty over Pulau Ligatan and Pulau Sipadan (Indonesia/Malaysia); Destruction of Oil Platforms (Iran 
+              <i>v.</i>
+               USA); Avena and other Mexican Nationals (Mexico 
+              <i>v.</i>
+               USA); Legality of Use of Force (Serbia and Montenegro 
+              <i>v.</i>
+               Belgium; Canada; France; Germany; Italy; Netherlands; Portugal; and UK); Certain Property (Liechtenstein 
+              <i>v.</i>
+               Germany); Frontier Dispute (Benin/Niger); Armed Activities on the Territory of the Congo (DRC 
+              <i>v.</i>
+               Burundi; Rwanda; and Uganda); Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina 
+              <i>v.</i>
+               Serbia and Montenegro); Territorial and Maritime Dispute in the Caribbean Sea (Nicaragua 
+              <i>v.</i>
+               Honduras); a Case Concerning the Sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore); Certain Questions of Mutual Assistance in Criminal Matters (Djibouti 
+              <i>v.</i>
+               France); Request for Interpretation of the Judgment of 31 March 2004 in the case concerning Avena and Other Mexican Nationals (Mexico 
+              <i>v.</i>
+               USA); Maritime Delimitation in the Black Sea (Romania 
+              <i>v.</i>
+               Ukraine); a Dispute regarding Navigational and Related Rights (Costa Rica 
+              <i>v.</i>
+               Nicaragua); Pulp Mills on the River Uruguay (Argentina 
+              <i>v.</i>
+               Uruguay); Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Georgia 
+              <i>v.</i>
+               Russia); Application of the Interim Accord of 13 September 1995 (former Yugoslav Republic of Macedonia, now North Macedonia 
+              <i>v.</i>
+               Greece); Jurisdictional Immunities of the State (Germany 
+              <i>v.</i>
+               Italy: Greece intervening); Ahmadou Sadio Diallo—Compensation owed by the DRC to the Republic of Guinea (Republic of Guinea 
+              <i>v.</i>
+               DRC); Questions relating to the Obligation to Prosecute or Extradite (Belgium 
+              <i>v.</i>
+               Senegal); Territorial and Maritime Dispute (Nicaragua 
+              <i>v.</i>
+               Colombia); Frontier Dispute (Burkina Faso 
+              <i>v.</i>
+               Niger); Request for Interpretation of the Judgment of 15 June 1962 of the case concerning the Temple of Preah Vihear (Cambodia 
+              <i>v.</i>
+               Thailand); Maritime Dispute (Peru 
+              <i>v.</i>
+               Chile); Whaling in the Antarctic (Australia 
+              <i>v.</i>
+               Japan: New Zealand intervening); Application of the 1948 Convention on the Prevention and Punishment of the Crime of Genocide (Croatia 
+              <i>v.</i>
+               Serbia); Construction of a Road in Costa Rica along the San Juan River (Nicaragua 
+              <i>v.</i>
+               Costa Rica); Question of the Delimitation of the Continental Shelf between Nicaragua and Colombia beyond 200 nautical miles from the Nicaraguan Coast (Nicaragua 
+              <i>v.</i>
+               Colombia); Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands 
+              <i>v.</i>
+               UK); Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands 
+              <i>v.</i>
+               Pakistan); Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands 
+              <i>v.</i>
+               India); Land Boundary in the Northern Part of Isla Portillos (Costa Rica 
+              <i>v.</i>
+               Nicaragua); Request for Interpretation of the Judgment of 23 May 2008 in the case concerning Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia 
+              <i>v.</i>
+               Singapore); Application for Revision of the Judgment of 23 May 2008 in the Case Concerning Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia 
+              <i>v.</i>
+               Singapore); Obligation to Negotiate Access to the Pacific Ocean (Bolivia 
+              <i>v.</i>
+               Chile); Jadhav (India 
+              <i>v.</i>
+               Pakistan) (concerning the detention and trial in Pakistan of an Indian national); two Appeals relating to the Jurisdiction of the ICAO Council (Bahrain, Egypt, Saudi Arabia and United Arab Emirates 
+              <i>v.</i>
+               Qatar); Immunities and Criminal Proceedings (Equatorial Guinea 
+              <i>v.</i>
+               France); Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar 
+              <i>v.</i>
+               United Arab Emirates); and Maritime Delimitation in the Indian Ocean (Somalia 
+              <i>v.</i>
+               Kenya); Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua 
+              <i>v.</i>
+               Colombia); and Dispute over the Status and Use of the Waters of the Silala (Chile 
+              <i>v.</i>
+               Bolivia).
+            </p>
+                         </int-org-section>
+                         <int-org-section id="IO-ICJ.UN.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                              <heading>Pending Cases</heading>
+                              <p>
+              At the end of May 2024 the following cases were under consideration, or pending before the Court: two cases brought by Armenia and Azerbaijan against each other regarding the application of the International Convention on the Elimination of All Forms of Racial Discrimination; a request by Slovakia for an additional judgment in the dispute with Hungary concerning the Gabčíkovo-Nagymaros Hydroelectric Project (initial judgment having been delivered in September 1997); further deliberation of Certain Iranian Assets (Iran 
+              <i>v.</i>
+               USA);&#160;further deliberation of the case brought by Guyana against Venezuela that requested the Court to confirm the legal validity and binding effect of the `1899 Award’ relating to the boundary between the two countries; further deliberation of Alleged Violations of the 1955 Treaty of Amity, Economic Relations, and Consular Rights (Iran
+              <i> v.</i>
+               USA); a case brought by Palestine against the USA relating to the relocation of the US embassy in Israel to Jerusalem; a case brought by Guatemala against Belize regarding a territorial, insular and maritime claim by the former; a case initiated by The Gambia against Myanmar, within the context of the 1948 UN Convention on the Prevention and Punishment of the Crime of Genocide, concerning genocidal acts allegedly committed by the Myanmar military (`Tatmadaw’) and other national security forces against the Myanma Rohingya community during systematic `clearance operations’ perpetrated from late 2016 (in January 2020, voting unanimously, the Court issued an emergency order demanding that the Myanmar Government take all measures within its power to prevent genocide; the order deemed that the Rohingya remaining in Myanmar continued to be at serious risk of genocide and of incurring serious bodily and mental harm; in July 2022 the Court rejected all preliminary objections presented by Myanmar against the case); a case brought as a Special Agreement by Gabon and Equatorial Guinea requesting the Court to rule on land and maritime delimitation and sovereignty over several islands; a case initiated (on 1 March 2022) by Ukraine against Russia, relating to the interpretation and application of the 1948 Genocide Convention in Luhansk and Donetsk, eastern Ukraine (on 16 March 2022 the Court granted a request from Ukraine for provisional measures, including an order that Russia should immediately cease its military invasion; on 2 February 2024 the Court reached a preliminary conclusion that it did have jurisdiction to open proceedings in the case, rejecting most preliminary objections that had been submitted by Russia); a case brought by Germany against Italy for allegedly failing to respect its jurisdictional immunity as a sovereign State; a case brought against France by Equatorial Guinea to secure the return of property confiscated in criminal proceedings; a case brought by Belize against Honduras, regarding sovereignty of the Sapodilla Cayes; a case brought by Canada and the Netherlands against the Syrian Arab Republic concerning alleged violations of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (in November 2023 the Court ordered Syria take all measures within its power to prevent such acts, and to take effective measures to ensure the preservation of related evidence); a case brought by Iran against Canada that concerned alleged violations of Iran’s immunities; a case brought by Canada, Sweden, Ukraine and the UK against Iran alleging that Iran had violated a series of obligations under the 1999 Montreal Convention, in relation to the shooting down by Iranian military personnel on 8 January 2020 of a civil aircraft, Ukraine International Airlines flight PS752 (which had resulted in 176 fatalities); a case brought by South Africa against Israel that concerned alleged violations by Israel of its obligations under the 1948 Genocide Convention with regard to Palestinians in Gaza (see below); a case brought by Nicaragua against Germany (on 1 March 2024) relating to Alleged Breaches of Certain International Obligations in respect to the Occupied Palestinian Territory, in the context of Germany’s ongoing assistance to the Israeli Government and decision to suspend funding for the UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA); proceedings instituted by Ecuador against Mexico (on 1 April) arising from Mexico’s shielding in its diplomatic mission to Ecuador (from an Ecuadorian criminal investigation) of the former Ecuadorian Vice-President Jorge David Glas Espinel; and a case brought by Mexico against Ecuador (on 29 April) regarding the Embassy of Mexico in Quito.
+            </p>
+                              <p>On 26 January 2024 the Court declined a request by Israel that it remove the case brought against it by South Africa from the General List. It also determined that there was a plausible link to a requirement for the protection of the rights of the Palestinians under the Convention and an urgent need to adopt provisional measures to protect against `severe and irreparable harm’ to those rights. Accordingly, the Court issued a legally-binding order on provisional measures, including that Israel take, with immediate effect, all measures within its power to ensure that its forces did not commit any of the inhumane acts covered by the Convention. The measures also required Israel to enable the provision of basic services and humanitarian assistance to the Palestinians and to report on measures taken. On 28 March (by which time famine was reported to be emerging in Gaza) the Court ordered Israel to ensure the unhindered provision at scale of urgently needed basic services and humanitarian assistance, as well as medical supplies and medical care, to Palestinians throughout Gaza—including by expanding the number and capacity of land crossing points and maintaining them open for as long as necessary. Israel was also ordered to ensure with immediate effect that its military did not commit acts that constitute a violation of any of the rights of Palestinians in Gaza (including by preventing—through any action—the delivery of urgently needed humanitarian assistance). On 24 May—in view of an Israeli order issued on 6 May that demanded the evacuation of the eastern portion of Rafah, and the initiation of an Israeli military offensive against that governorate (which, as it intensified, prompted further Israeli evacuation demands)—the Court delivered a further order. This reaffirmed the provisional measures indicated in the orders of 26 January and 28 March, and indicated the following further provisional measures: Israel was to immediately to halt its military offensive, and any other action in Rafah which might `inflict on the Palestinian group in Gaza conditions of life that could bring about its physical destruction in whole or in part’; to maintain open the Rafah crossing (at Gaza’s border with Egypt) for unimpeded humanitarian deliveries at scale; and to take effective measures to ensure the unrestricted access to Gaza of any mission mandated by the UN to investigate allegations of genocide.</p>
+                         </int-org-section>
+                    </int-org-section>
+                    <int-org-section id="IO-UN.547" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                         <heading>Advisory Opinions</heading>
+                         <p id="IO-UN.548">Advisory opinions on legal questions may be requested by the General Assembly, the Security Council or, if so authorized by the General Assembly, other UN organs or specialized agencies. Matters on which the Court has delivered an Advisory Opinion at the request of the UN General Assembly include the following: Condition of Admission of a State to Membership in the UN; Competence of the General Assembly for the Admission of a State to the UN; Interpretation of the Peace Treaties with Bulgaria, Hungary and Romania; International Status of South West Africa; Reservations to the Convention on the Prevention and Punishment of the Crime of Genocide; Effect of Awards of Compensation Made by the UN Administrative Tribunal (UNAT); Western Sahara; Application for Review of UNAT Judgment No. 333; Applicability of the Obligation to Arbitrate under Section 21 of the UN Headquarters Agreement of 26 June 1947 (relating to the closure of the Observer Mission to the UN maintained by the Palestine Liberation Organization); Legality of the Use or Threat of Nuclear Weapons; Legal Consequences of the Construction of a Wall by Israel in the Occupied Palestinian Territory; Accordance with international law of a unilateral declaration of independence by the Provisional Institutions of Self-Government of Kosovo; and Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965 (delivered in February 2019), which found that the archipelago had been and remained unlawfully occupied by the UK.</p>
+                         <p id="IO-UN.549">An Advisory Opinion was given at the request of the Security Council: Legal Consequences for States of the continued presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970).</p>
+                         <p id="IO-UN.550">
+            In 1989 (at the request of the UN Economic and Social Council—ECOSOC) the Court gave an Advisory Opinion on the Applicability of Article 6, Section 22, of the Convention on the Privileges and Immunities of the UN. The Court has also, at the request of the UN Educational, Scientific and Cultural Organization (UNESCO), given an Advisory Opinion on Judgments of the Administrative Tribunal of the 
+            <xr pageref="N" ref="IO-UN.2077">International Labour Organization</xr>
+             upon Complaints made against UNESCO, and on the Constitution of the Maritime Safety Committee of the Inter-Governmental Maritime Consultative Organization (IMCO), at the request of IMCO. In July 1996 the Court delivered an Advisory Opinion on the Legality of the Use by a State of Nuclear Weapons in Armed Conflict, requested by the World Health Organization. In April 1999 the Court delivered an Advisory Opinion, requested by ECOSOC, on the Difference Relating to Immunity from Legal Process of a Special Rapporteur of the Commission on Human Rights. In February 2012 the Court delivered an Advisory Opinion, requested by the International Fund for Agricultural Development, relating to a Judgment rendered by the Administrative Tribunal of the ILO.
+          </p>
+                         <p>In December 2022 the UN General Assembly adopted a resolution that asked the Court to issue an Advisory Opinion on the legal status and the consequences of Israel’s `policies and practices’ in the occupied Palestinian territory, including East Jerusalem; the request was formally submitted in January 2023. Public hearings in the case were concluded in February 2024.</p>
+                         <p>In March 2023 the General Assembly adopted a resolution that requested the Court to provide an Advisory Opinion on: (i) nations’ obligations under international law to ensure the protection for present and future generations of the climate system and other parts of the environment from greenhouse gas emissions, and (ii) on the legal consequences for nations that cause significant harm to the climate system and other parts of the environment.</p>
+                         <p>
+            In November 2023 the 
+            <xr pageref="N" ref="IO-UN.2077">ILO</xr>
+             requested the Court for an interpretation of ILO Convention No. 87 with respect to workers’ right to strike.
+          </p>
+                    </int-org-section>
+               </int-org-block>
+               <int-org-section id="IO-UN.551" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                    <heading>Finance</heading>
+                    <p id="IO-UN.552">The proposed UN budget appropriation for the Court for 2024 amounted to US&#8201;$32.6m.</p>
+               </int-org-section>
+               <int-org-section id="IO-UN.553" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                    <heading>Publications</heading>
+                    <publ-list>
+                         <publ-entry>
+                              <publ-name>Acts and Documents, No. 7</publ-name>
+                              <content-note style="NORMAL">contains Statute and Rules of the Court and Practice Directions</content-note>
+                         </publ-entry>
+                         <publ-entry>
+                              <publ-name>Annuaire-Yearbook</publ-name>
+                         </publ-entry>
+                         <publ-entry>
+                              <publ-name>Pleadings</publ-name>
+                              <content-note style="NORMAL">Written Pleadings and Statements, Oral Proceedings, Correspondence</content-note>
+                         </publ-entry>
+                         <publ-entry>
+                              <publ-name>Reports</publ-name>
+                              <content-note style="NORMAL">Judgments, Opinions and Orders</content-note>
+                         </publ-entry>
+                    </publ-list>
+               </int-org-section>
+               <!--8.iv.24: 3,441 words-->
+          </int-org-entry>
+     </int-org-entryref>
+     

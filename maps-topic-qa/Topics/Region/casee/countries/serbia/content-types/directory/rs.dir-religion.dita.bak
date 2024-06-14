@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289560" sllink="SLSDOCRF" sllinkid="289559" slsdocid="288351" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RS.DIR.312" id-root="rs.dir" iso="rs" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Religion</heading>
+                    <p id="RS.DIR.313">Most of the inhabitants of Serbia are Christian, but there is a significant Muslim minority. The main Christian denomination is Eastern Orthodox, but there is a strong Roman Catholic presence. There are also small minorities of Old Catholics, Protestants and Jews.</p>
+                    <p>According to the 2022 census, 81.1% of the population of Serbia were Orthodox Christians, 4.2% were Muslim and 3.9% were Roman Catholics.</p>
+                    <!--MR 15.02.2024 https://popis2022.stat.gov.rs/en-us/5-vestisaopstenja/news-events/20230616-st/?a=0&s=0-->
+                    <dir-section id="RS.DIR.314" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Christianity</heading>
+                         <dir-section id="RS.DIR.315" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Eastern Orthodox Church</heading>
+                              <org-list>
+                                   <org-entryref id="SL292470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="292469" slsdocid="288741" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RS.DIR.316" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>Serbian Orthodox Church</org-entry-name>
+                                                  <alt-name>Srpska Pravoslavna Crkva</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11000 Belgrade, Kralja Petra 5, POB 182</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(11) 3025101</telephone>
+                                                  <email>info@spc.rs</email>
+                                                  <internet>spc.rs</internet>
+                                             </address-block>
+                                             <stats>11m. adherents</stats>
+                                             <role-group>
+                                                  <role>Patriarch of Serbia, Archbishop of Peć and Metropolitan of Belgrade-Karlovci</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <surname>Porfirije (Perić)</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="RS.DIR.319" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>The Roman Catholic Church</heading>
+                              <p id="RS.DIR.320">Serbia comprises one archdiocese and three dioceses, including one, Srijem, responsible to the Croatian hierarchy. There is also an apostolic exarchate of Serbia and Montenegro for Byzantine rite Catholics.</p>
+                              <org-list>
+                                   <org-entryref id="SL2195124" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2195123" slsdocid="2195120" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RS.DIR.1199899393" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <org-entry-head>
+                                                  <org-entry-name>International Bishops' Conference of SS Cyril and Methodius</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>23001 Zrenjanin, Trg slobode 8, pp. 98</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(23) 534722</telephone>
+                                                  <fax>(23) 528625</fax>
+                                                  <email>info@ceicem.org</email>
+                                                  <internet>www.ceicem.org</internet>
+                                             </address-block>
+                                             <found-date>2006</found-date>
+                                             <content-note style="NORMAL">membership comprises Bishops of Montenegro and Serbia</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Ladislav</forename>
+                                                            <surname>Német</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL292478" sllink="SLSDOCRF" sllinkid="292477" slsdocid="288320" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="RS.DIR.322" id-root="rs.dir" iso="rs" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <dir-entry-name>Archbishop of Belgrade</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Ladislav</forename>
+                                                            <surname>Nemet</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11000 Belgrade, Svetozara Markovića 20</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(11) 3032246</telephone>
+                                                  <fax>(11) 3032248</fax>
+                                                  <email>nadbiskupija@kc.org.rs</email>
+                                                  <internet>www.kc.org.rs</internet>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1994762" sllink="SLSDOCRF" sllinkid="1994761" slsdocid="1994745" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="RS.DIR.1179250991" id-root="rs.dir" iso="rs" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Christianity">
+                                             <!--MR 13.02.2024 only role group confirmed https://www.catholic-hierarchy.org/diocese/dseby.html-->
+                                             <dir-entry-name>Apostolic Exarch to Serbia and Montenegro for Catholics of the Byzantine Rite</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Đura Džudžar</forename>
+                                                       </person-name>
+                                                       <person-note>Titular Archbishop of Acrasso</person-note>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>25233 Ruski Krstur, M. Tita 64</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 5703836</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                         <dir-section id="RS.DIR.325" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Protestant Churches</heading>
+                              <org-list>
+                                   <org-entryref id="SL292488" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="292487" slsdocid="288734" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RS.DIR.329" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <!--MR 13.02.2024 website does not have any info-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Christian Reformed Church</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>21000 Novi Sad, Safarikova</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="Y">(21) 4720808</telephone>
+                                                  <email>admin@rkevajdasag.com</email>
+                                                  <internet>rkevajdasag.com</internet>
+                                             </address-block>
+                                             <found-date>1919</found-date>
+                                             <stats>17,000 mems</stats>
+                                             <role-group>
+                                                  <role>Bishop</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>László</forename>
+                                                            <surname>Harangozó</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL292496" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="292495" slsdocid="288730" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="RS.DIR.333" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Christianity">
+                                             <data-protection date-added="16.02.2022" ticked-box="N" />
+                                             <!--NR 13.02.2024 details from https://lutheranworld.org/member-churches/central-eastern-europe/serbia-->
+                                             <!--NS 29.03.2016 https://www.lutheranworld.org/content/slovak-evangelical-church-augsburg-confession-serbia-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Slovak Evangelical Church of the Augsburg (Lutheran) Confession</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>21101 Novi Sad, Karadžićeva 2</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(21) 6611882</telephone>
+                                                  <fax>(21) 525443</fax>
+                                                  <email>secav@eunet.rs</email>
+                                                  <internet>seavc.rs</internet>
+                                             </address-block>
+                                             <stats>50,000 mems (2024)</stats>
+                                             <role-group>
+                                                  <role>Bishop</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Jaroslav</forename>
+                                                            <surname>Javorník</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="RS.DIR.336" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Islam</heading>
+                         <p id="RS.DIR.337">There are ethnic Slav Muslims (Bosniaks) in the part of Sandžak located in south-western Serbia, in particular in and around the town of Novi Pazar. Most Muslims in the country are Sunni.</p>
+                         <org-list>
+                              <org-entryref id="SL1923626" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1923625" slsdocid="1923532" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RS.DIR.1176288439" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Islam">
+                                        <!--MR 13.02.2024 email not confirmed-->
+                                        <!--NS 29.03.2016 address. phone and fax not confirmed-->
+                                        <data-protection date-added="08.02.2017" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Islamic Community of Serbia</org-entry-name>
+                                             <alt-name>Islamska Zajednica Srbije</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11000 Belgrade, G. Jevremova 11</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(11) 3031284</telephone>
+                                             <fax>(11) 3031285</fax>
+                                             <email>mufti_bg@rijaset.rs</email>
+                                             <internet>www.rijaset.rs</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Reis-ul-ulema</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Senad</forename>
+                                                       <surname>Halitović</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RS.DIR.339" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Judaism</heading>
+                         <org-list>
+                              <org-entryref id="SL292504" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="292503" slsdocid="288725" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RS.DIR.340" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Judaism">
+                                        <data-protection date-added="03.05.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Federation of Jewish Communities in Serbia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11000 Belgrade, Kneginje Ljubice 14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(11) 2910363</telephone>
+                                             <email>office@savezjos.org</email>
+                                             <internet>www.savezjos.org</internet>
+                                        </address-block>
+                                        <found-date>1919, revived 1944</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aleksandar</forename>
+                                                       <surname>Albahari</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

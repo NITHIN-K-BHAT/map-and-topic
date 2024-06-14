@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<int-org-entry id="IO-UN.2248" id-root="io-un.2248" iso="io-un.2248" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>International Telecommunication Union</org-entry-name>
+               <abbr>ITU</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">United Nations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb">United Nations (Specialized Agencies and Related Organizations)</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="edio">International Telecommunication Union</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Place des Nations, 1211 Geneva 20, Switzerland</verbatim-address>
+               </address>
+               <telephone alsofax="N">227305111</telephone>
+               <fax>227337256</fax>
+               <email>itumail@itu.int</email>
+               <internet>www.itu.int</internet>
+          </address-block>
+          <p id="IO-UN.2249">Founded in 1865, ITU became a specialized agency of the UN in 1947. It promotes international connectivity in communications networks, develops technical standards, allocates global satellite and radio spectrum orbits, and aims to expand access to communications technologies in developing countries.</p>
+          <int-org-section id="IO-UN.2250" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Members</heading>
+               <p id="IO-UN.2251">ITU has 193 member states. More than 1,000 companies, academic institutions, research institutes and other organizations are also ITU members.</p>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="IO-UN.2252" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="IO-UN.2253" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Plenipotentiary Conference</heading>
+               <p id="IO-UN.2254">The Conference, which meets every four years, elects ITU's leadership, establishes policies, revises its Constitution and Convention, and approves limits on budgetary spending. The 21st Conference took place in Bucharest, Romania, in September-October 2022. Qatar was to host the 22nd Conference, in 2026, in its capital, Doha.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2257" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ITU Council</heading>
+               <p id="IO-UN.2258">The Council is composed of 48 members elected by the Plenipotentiary Conference. It normally meets annually, in Geneva, Switzerland, with additional online participation (2024: in June). The Council ensures the efficient co-ordination and implementation of the work of the Union in all matters of policy, administration and finance, in the interval between Plenipotentiary Conferences, and approves the annual budget.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.2260" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>General Secretariat</heading>
+               <p id="IO-UN.2261">
+        The Secretary-General is elected by the Plenipotentiary Conference and is assisted by a Co-ordination Committee that also comprises the Deputy Secretary-General and the Directors of the three 
+        <xr pageref="N" ref="ITU.IO.BUREAUX.1">Sector Bureaux</xr>
+        . The General Secretariat comprises the Office of the Secretary-General and departments of Strategic Planning and Membership; Conferences and Publications; Financial Resources Management; Human Resources Management; and Information Services.
+      </p>
+               <dir-list>
+                    <dir-entry id="IO-UN.2262" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Doreen</forename>
+                                        <surname>Bogdan-Martin</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-UN.2263" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Deputy Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Tomas</forename>
+                                        <surname>Lamanauskas</surname>
+                                   </person-name>
+                                   <person-note>Lithuania</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="ITU.IO.BUREAUX.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Sector Bureaux</heading>
+               <p>
+        The administrative work of the 
+        <xr pageref="N" ref="ITU.IO.ITU-R.1">ITU Radiocommunication Sector (ITU-R)</xr>
+        , 
+        <xr pageref="N" ref="ITU.IO.ITU-T.1">ITU Telecommunication Standardization Sector (ITU-T)</xr>
+        , and 
+        <xr pageref="N" ref="ITU.IO.ITU-D.1">ITU Telecommunication Development Sector (ITU-D)</xr>
+         is supported by, respectively, the Radiocommunication Bureau, Telecommunication Standardization Bureau and Telecommunication Development Bureau. Each Bureau is headed by an elected Director, who reports to the ITU Council. The Directors and operations of each Sector are assisted by, respectively, the Radiocommunication Advisory Group, the Telecommunication Standardization Advisory Group, and the Telecommunication Development Advisory Group. The Director of the Radiocommunication Bureau is also Executive Secretary of the 
+        <xr pageref="N" ref="ITU.IO.RRB.1">Radio Regulations Board</xr>
+        .
+      </p>
+               <dir-list>
+                    <dir-entry id="IO-UN.2277" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Director of the Radiocommunication Bureau</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Mario</forename>
+                                        <surname>Maniewicz</surname>
+                                   </person-name>
+                                   <person-note>Uruguay</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-UN.2281" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Director of the Telecommunication Standardization Bureau</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Seizo</forename>
+                                        <surname>Onoe</surname>
+                                   </person-name>
+                                   <person-note>Japan</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="IO-UN.2286" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Director of the Telecommunication Development Bureau</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Cosmas Luckyson</forename>
+                                        <surname>Zavazava</surname>
+                                   </person-name>
+                                   <person-note>Zimbabwe</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="ITU.IO.SECTCONFS.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Sectoral Conferences</heading>
+               <p id="IO-UN.2256">Separate meetings are held by the Union's three Sectors. A World Radiocommunication Conference is convened every two or three years, a Radiocommunication Assembly takes place every three or four years, and up to four sessions of a 12-member Radio Regulations Board are held each year. World Telecommunication Standardization Assemblies are organized every four years; and World Telecommunication Development Conferences are also held on a quadrennial basis. A World Conference on International Telecommunications was convened in December 2012, in Dubai, United Arab Emirates, to review and revise the International Telecommunications Regulations (ITRs) applying to the provision and operation of international telecom­munications services.</p>
+               <!--Last Regional Radiocommunication Conference: 2006-->
+          </int-org-section>
+          <int-org-section id="ITU.IO.REG.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Offices</heading>
+               <p>ITU maintains regional offices in Addis Ababa, Ethiopia (for Africa); Brasília, Brazil (Americas); Cairo, Egypt (Arab states); Bangkok, Thailand (Asia and the Pacific); Moscow, Russian Federation (the Commonwealth of Independent States); and Geneva (Europe).</p>
+               <!--also area offices-->
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2272" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>The December 2012 World Conference on International Telecommunications endorsed new International Telecommunications Regulations (ITRs), updating those previously set down in 1988. The 2012 Regulations included provisions that aimed to secure freedom of expression, to assist developing countries to enhance their telecommunications infrastructure, to promote accessibility to persons with disabilities, to limit unsolicited bulk electronic communications, and to improve the energy efficiency of telecommunications networks. The ITRs were signed by 89 states; dissenting states included the Canada, the United Kingdom and the USA, citing opposition to governmental regulation of the internet.</p>
+          <p>In October 2022 the 21st Plenitpotentiary Conference, held in Bucharest, Romania, endorsed a strategic plan for 2024-27, focused on two strategic goals: (i) Universal Connectivity: Enable and foster universal access to affordable, high-quality and secured telecommunications/ICTs; and (ii) Sustainable Digital Transformation: Foster equitable and inclusive use of telecommunications/ICTs to empower people and societies for sustainable development.</p>
+          <p>A World Telecommunication and Information Society Day is observed annually on 17 May (marking the anniversary of the signing of the International Telegraph Convention, establishing ITU, in 1865).</p>
+          <int-org-section id="IO-UN.ITU.WSIS.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>World Summit on the Information Society</heading>
+               <p>ITU took a lead role in organizing the World Summit on the Information Society (WSIS), which was held, under the auspices of the UN Secretary-General, in two phases: in Geneva, Switzerland, in December 2003, and in Tunis, Tunisia, in November 2005. The WSIS recognized the central role of ITU in building an information society, and put in place a framework for advancing inclusive, development-focused digital co-operation. ITU organizes an annual follow-up WSIS Forum. In May 2024 ITU was to co-host a WSIS+20 Forum High-level Event, in Geneva. The WSIS called upon the UN Secretary-General to establish an Internet Governance Forum (IGF): the 19th annual IGF was to be held in Riyadh, Saudi Arabia, in December 2024.</p>
+          </int-org-section>
+          <int-org-section id="IO-UN.ITU.AI.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Artificial Intelligence (AI)</heading>
+               <p>
+        ITU is engaged with monitoring progress in AI, and its potential transformational impacts. It co-leads with 
+        <xr pageref="N" ref="IO-UN.2293">UNESCO</xr>
+         an Inter-Agency Working Group on AI, which met for the first time in March 2021. ITU’s 
+        <publ-name>United Nations Activities on Artificial Intelligence 2022</publ-name>
+         addressed AI initiatives undertaken across the UN system, including in smart agriculture, financial services, food systems, healthcare and transportation. Across the ITU’s Sectors areas of focus on AI have included MT-2020 (5G)—which will support, 
+        <i>inter alia</i>
+        , smart homes and cities, augmented reality, cloud activities and self-driven cars; intelligent transport systems; machine type communications; cognitive radio systems; the satellite ecosystem; spectrum monitoring; data mining; language translation; and text-voice/voice-text translation. ITU’s AI for Good digital platform acts as a hub for debate, innovation, and for the identification of practical AI solutions to advance the UN Sustainable Development Goals (SDGs). An annual AI for Good Global Summit is convened (in 2024: in May, in Geneva).
+      </p>
+          </int-org-section>
+          <int-org-section id="ITU.IO.ITU-R.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ITU-R</heading>
+               <p>
+        The Radiocommunication Bureau (known by its French acronym, BR) has departments of Study Groups (SGs); Space Services; Terrestrial Services; and of Informatics, Administration and Publications. SGs, comprising more than 5,000 telecommunication specialists, develop the technical basis for matters addressed by World Radiocommunication Conferences (WRCs) and ITU-R Recommendations (global technical standards)—of which some become binding, if incorporated by reference into Radio Regulations. In 2024 the following ITU-R SGs were active: Spectrum management; Radiowave propagation; Satellite services; Terrestrial services; Broadcasting service
+        <!--sic-->
+        ; and Science services. Technical work on certain specific issues is conducted by Radiocommunication Assemblies. The role of ITU-R is globally to manage, and to ensure the equitable, efficient and interference-free use of the radio frequency (RF) spectrum and satellite orbits (limited resources that are used by an ever expanding number of fixed, mobile, amateur, broadcasting, meteorology, emergency telecommunications, environmental monitoring and communications services, space research services, and global positioning systems). Frequency assignments notified to ITU by member states are recorded in a Master International Frequency Register (MIFR). ITU-R supports the implementation of Recommendations, regional agreements and the Radio Regulations. The Space Services Department co-ordinates and records procedures for space systems and earth stations, manages space-related RF assignment plans, and ensures the suitability of proposed orbital slots, with a focus on preventing harmful interference. A Space Networks List and Space Networks Systems Database are maintained. The 
+        <publ-name>BR Space Services</publ-name>
+        , detailing frequency assignments to space stations, Earth stations and radioastronomy stations, is issued by ITU-R every two weeks (IFIC being an acronym for International Frequency Information Circular). In October 2023 ITU-R issued a new 
+        <publ-name>Handbook on Small Satellites</publ-name>
+        . The Terrestrial Services Department assists in the international management of the RF spectrum in relation to broadcasting, fixed, aeronautical mobile and maritime mobile services. ITU-R is responsible for defining and recommending standards and frequency arrangements for international mobile telecommunications (IMT), in collaboration with governments, industry and the private sector. ITU-R’s GLAD online repository includes international means of identification such as the Maritime Identification Digits—MIDs and International Call Sign Series assigned to shipping. The Maritime Mobile Access and Retrieval System (MARS) provides access to operational information registered in the ITU maritime database. A 
+        <publ-name>BR IFIC Terrestrial Services</publ-name>
+         bulletin is published.
+      </p>
+               <p-group id="ITU.IO.RR.1">
+                    <heading>Radio Regulations</heading>
+                    <p>The Radio Regulations govern the use of the RF spectrum (Article 5 includes a Table of Frequency Allocations) and space orbit resources. They incorporate all Resolutions, Appendices and Recommendations of the WRCs, and ITU-R Recommendations incorporated by reference.</p>
+                    <p>The 38th WRC, held in late October-November 2019, adopted new regulatory measures to support the use and deployment of non-geostationary satellite orbit (NGSO) systems; determined regulatory and technical conditions for the use of earth stations in motion (ESIMs) to provide broadband communications for maritime, aeronautical and land vehicles; and allocated new RF bands for 5G IMT networks and high-altitude platform stations (HIBS). The new Radio Regulations came into effect for all signatory parties on 1 January 2021. The 39th WRC took place in Dubai, UAE, in November-December 2023. Participants adopted further revisions to the Radio Regulations, which identified a new spectrum for IMT and RF bands for using HIBS as IMT base stations.</p>
+               </p-group>
+               <p-group id="ITU.IO.RRB.1">
+                    <heading>Radio Regulations Board</heading>
+                    <p>
+          The Radio Regulations Board approves 
+          <publ-name>Rules of Procedure</publ-name>
+           used by ITU-R for clarification in the application of the Radio Regulations, regional agreements, conference Resolutions and Recommendations; and in registering RF assignments that are made by member states. An updated issue of the 
+          <publ-name>Rules</publ-name>
+           was issued in 2021. The Board addresses matters referred to it by ITU-R that cannot be resolved through the application of the Radio Regulations or rules of procedure, and considers cases of unresolved interference. It provides advice to Radiocommunication Assemblies and to conferences. It considers appeals lodged against decisions of ITU-R regarding frequency assignments.
+        </p>
+               </p-group>
+          </int-org-section>
+          <int-org-section id="ITU.IO.ITU-T.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ITU-T</heading>
+               <p>
+        The Telecommunication Standardization Bureau comprises departments of Telecommunication Standardization Policy, SGs, and Operations and Planning. In 2024 ITU-T SGs were addressing, 
+        <i>inter alia,</i>
+         Environment, electromagnetic fields (EMF) and circular economy; Broadband, cable and TV; Future networks; Transport, access and home; Multimedia and digital technologies; and Internet of Things (IoT), smart cities and communities. Regional groups within the ITU-T SGs guide their activities to take into account the particular requirements of all global regions. Focus groups are convened, in particular to give consideration to emerging technologies. In 2024 ITU-T focus groups were considering: the metaverse; testbeds federations for IMT-2020 and beyond; AI and IoT for digital agriculture; AI for natural disaster management; autonomous networks; AI for health; and cost models for affordable data services. The SGs develop, and World Telecommunication Standardization Assemblies (WTSAs) adopt, ITU-T Recommendations (standards), aimed at guaranteeing the effective provision of telecommunication services. Under an Alternative Approval Process (AAP) Recommendations may be approved by fast track, overriding the interval between conferences, if a sectoral SG concludes such action to be urgent. More than 4,000 ITU-T Recommendations were in effect in 2024, addressing, 
+        <i>inter alia</i>
+        , next generation networks (NGN), future networks, big data, cloud computing, web services, e-health, smart cities and communities, universal power adapters and chargers, and dial-up modems. A Group on Bridging the Standardization Gap (BSG) was established within the Telecommunication Standardization Advisory Group in 2004. ITU-T adopted a new Flexible Optical Transport Network (FlexO) standard in December 2023, relating to data transmission at rates from 400 to 800 gigabits per second. In February 2024 the ITU initiated a new Expert Group on Communications Technology for Automated Driving.
+      </p>
+               <p>
+        WTSA-20, held in Geneva, in March 2022 (having been postponed from 2020), adopted resolutions on, 
+        <i>inter alia,</i>
+         country code top-level domain names; cybersecurity; countering spam; Internet Protocol (IP) address allocation and facilitating the transition to the next IP version: IPv6; measurement concerns related to human exposure to EMF; and the designation of a common emergency number for Africa. WTSA-24 was to be convened in October 2024, in New Delhi, India.
+      </p>
+          </int-org-section>
+          <int-org-section id="ITU.IO.ITU-D.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>ITU-D</heading>
+               <p>ITU-D focuses on the following priority areas of activity: affordable connectivity; digital transformation; enabling policy and regulatory environment; resource mobilization and international co-operation; and inclusive and secure telecommunications/ICTs for sustainable development. SGs supported by the Telecommunication Development Bureau in 2024 were addressing Digital transformation; and Enabling environment for meaningful connectivity. ITU-D undertakes technical co-operation and assistance activities.</p>
+               <p>In September 2021 ITU initiated a Partner2Connect (P2C) Digital Coalition to advance the digital connectivity of Least Developed Countries (LDCs), small island states and other countries confronting development challenges. A P2C pledging platform and action framework aimed at advancing universal connectivity were launched in March 2022. In May 2023 ITU appealed for support to the initiative to reach US&#8201;$100,000m. by 2026 (by February 2024 some $46,070m. had been raised).</p>
+               <p>The Sector regularly holds conferences to encourage international co-operation in the advancement of telecommunications, and to determine strategies for development. Conferences consider the result of work undertaken by SGs on issues of benefit to developing countries, including development policy, finance, network planning and operation of services. The eighth World Telecommunication Development Conference (WTDC), held in Kigali, Rwanda, in June 2022, adopted the Kigali Action Plan on digital development, aligned with the UN SDGs, and resolutions on supporting internet connectivity in schools through an ITU-UN Children’s Fund Giga initiative (established in 2019 with the aim of expanding connectivity to every school); and confirming the P2C Digital Coalition as the primary platform for fostering new development partnerships on digital transformation. WTDC-25 was to be convened in Nairobi, Kenya, in February 2025.</p>
+               <p>ITU-D periodically compiles an ICT Development Index (IDI). The 2023 edition, released in December, measured ICT access, use, and skills in 169 countries, on the basis of 10 indicators. It noted a strong correlation between IDI performance and income levels.</p>
+               <p>
+        Data, research, analysis and tools are provided to member states to underpin their policy and strategy making. A Digital Regulation Network fosters collaborative approaches to digital policy, regulation and governance. ITU’s fifth annual Global Symposium for Regulators (GSR-24) was to be held in June 2024, in Kampala, on the theme `Regulation for Impact’. Its 
+        <publ-name>Global Digital Regulatory Outlook 2023</publ-name>
+        , published in January 2024, tracked market and regulatory trends in the global digital economy The fourth ITU Global Standards Symposium, which comprised seven sessions on the theme `International Standards to enable transformation and achieve the UN SDGs’, was convened in February 2022, in Geneva. The Symposium addressed, 
+        <i>inter alia,</i>
+         harnessing digital technologies to advance equitable access to health care, AI for road safety, and boosting financial inclusion with digital transformation. ITU co-organized an SDG Digital event in September 2023, at the UN Headquarters in New York, USA. An ITU Academy Training Centres (ATCs) programme was launched in that year, offering high-quality training to ICT professionals—for example, on policy and regulation, spectrum management, cybersecurity, network infrastructure and digital inclusion—with a particular focus on developing countries.
+      </p>
+               <p-group id="ITU.IO.INFRASTRUCTURE.1">
+                    <heading>Network and Digital Infrastructure</heading>
+                    <p>
+          ITU-D aims to develop secure, modern, accessible and affordable connectivity infrastructures. The ITU/
+          <xr pageref="N" ref="IO-UN.2293">UNESCO</xr>
+           Broadband Commission for Sustainable Development (founded in 2010 as the UN Broadband Commission for Digital Development and renamed in 2015) pursues seven advocacy targets, to be achieved by 2025: make broadband policy universal; make broadband affordable; get everyone online (ITU reported that 67% of the world’s population had online access in 2023); promote digital skills development; increase use of e-finance; get micro-, small- and medium sized enterprises (MSMEs) online; and bridge the gender digital divide. The Broadband Commission’s 
+          <publ-name>The State of Broadband 2023,</publ-name>
+           issued in September, addressed progress towards meeting the seven advocacy targets. In April 2022 ITU and the UN Secretary-General’s Special Envoy on Technology jointly announced aspirational targets on digital connectivity to be achieved by 2030, including that 100% of the global population should be covered by the most current mobile networks; more than 70% of internet users should have basic digital skills, with more than 50% possessing intermediate digital skills (for example the ability to install software); internet access should be affordable for all; all fixed-broadband subscriptions should be at least 10 megabits per second; and download speeds of 20 megabits per second should be available in all schools. ITU-D identifies connectivity gaps, including through broadband mapping using Geographic Information Systems. It advocates for enhanced access to affordable, reliable sources of electricity as a key factor in closing the digital divide in rural and other remote areas, particularly in developing countries. With a view to promoting affordable telecommunications and high-speed connectivity in developing countries, the BDT issues an 
+          <publ-name>ICT infrastructure business planning toolkit</publ-name>
+          —an updated version addressing 5G networks was released in July 2023. An ITU DataHub, launched in June 2022, comprises around 200 statistical indicators, including on digital connectivity, markets, governance, and affordability. ITU promotes the use by MSMEs of technologies, including cloud computing, smart metering and smart grids, to support their economic growth. A Financial Inclusion Global Initiative (FIGI), aiming to advance research in digital finance (for example e-payments) and formulate policy recommendations for digital financial inclusion, was co-founded by ITU in July 2017. The third FIGI Symposium was convened in May-June 2021, in a virtual format.
+        </p>
+               </p-group>
+               <p-group id="ITU.IO.CYBER.1">
+                    <heading>Cybersecurity</heading>
+                    <p>
+          The 
+          
+          WSIS entrusted ITU with addressing issues relating to cybersecurity. In May 2008 ITU launched a Global Cybersecurity Agenda (GCA). In November, within the GCA framework, ITU inaugurated a Child Online Protection (COP) initiative (updated ITU COP Guidelines were published in June 2020). In May 2011 ITU signed a Memorandum of Understanding (MOU) with the 
+          <xr pageref="N" ref="IO-UN.1170">UN Office on Drugs and Crime</xr>
+           to promote co-operation at global level to counter cybercrime. An ITU Regional Cybersecurity Centre was inaugurated in March 2013, in Muscat, Oman. ITU supports the establishment and development of national Computer Incident Response Teams (CIRTs). The second edition of an ITU 
+          <publ-name>Guide to Developing a National Cybersecurity Strategy</publ-name>
+           was published in 2021. ITU also conducts regional and national CyberDrill events, aimed at enhancing CIRTs’ cybersecurity readiness and promoting information sharing. The fifth edition of an ITU Global Cybersecurity Index (first issued in 2014), which ranks the relative strengths of national cybersecurity strategies, was under development in 2024. ITU hosts a Digital Financial Services Security Lab; in February 2024 the Lab issued a new cybersecurity resilience assessment toolkit.
+        </p>
+               </p-group>
+               <p-group id="ITU.IO.EMERG.1">
+                    <heading>Emergency Telecommunications</heading>
+                    <p>
+          ITU develops standards to assist member states in the use of telecommunication systems for disaster risk reduction, disaster management, and humanitarian response. It played a key role in drafting and promoting the Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations that entered into force in January 2005. The Convention facilitates the deployment and use of telecommunications equipment in emergency situations, in particular by removing regulatory barriers. 
+          <publ-name>BDT Guidelines for Developing National Emergency Telecommunication Plans</publ-name>
+           have been issued to support policy makers. In the aftermath of an emergency ITU-D assesses the damage to the information infrastructure and its rehabilitation needs, and deploys temporary telecommunications solutions. The third Global Forum on Emergency Telecommunications (GET): Saving Lives, convened by ITU in March 2019, in Balaclava, Mauritius, addressed the role of big data, IoT, robotics and AI in predicting, detecting, monitoring and responding to disasters. The BDT co-leads Pillar 3, on `Warning Dissemination and Communication’, of an Early Warnings for All initiative that was launched by the UN Secretary-General in November 2022 with the aim of ensuring that every person on Earth is protected by early warning systems by 2027.
+        </p>
+               </p-group>
+               <p-group id="ITU.IO.DIGITALTRANSF.1">
+                    <heading>Digital Transformation</heading>
+                    <p>ITU-D’s work on digital transformation aims to close the digital divide and advance sustainable development; and to support member states to foster digital transformation through ICT entrepreneurship and increased innovation in the ICT ecosystem.</p>
+                    <p>An Innovation and Entrepreneurship Alliance for Digital Development was launched by ITU-D in January 2023 to provide a support framework to enable countries to bridge the digital innovation gap and to accelerate the impact of their digital innovation systems. Under its auspices a 17-member global Network of Acceleration Centres was initiated in September; the first Meeting of the ITU Acceleration Centres and a capacity building workshop for the Alliance were convened in March 2024. In March 2023 an ITU Area Office and Innovation Centre (the first such ITU centre) was inaugurated in New Delhi, India.</p>
+                    <p>
+          ITU-D promotes inclusivity, aiming to develop digital literacy skills and opportunities for grassroots stakeholders—including women, youth, older persons and indigenous communities. A Generation Connect Young Leadership Programme is undertaken with the Chinese tech company Huawei to provide training in digital development to annual cohorts of 30 young people. The Global Partnership for Gender Equality in the Digital Age (EQUALS) initiative, launched in September 2016 by ITU and 
+          <xr pageref="N" ref="UN-WOMEN.IO">UN Women</xr>
+          , supports women’s and girls’ participation in the use of digital technology. In this framework, in December 2023 ICT-D released a 
+          <publ-name>Handbook on mainstreaming gender in digital policies</publ-name>
+          . Also in December, the Telecommunication Development Bureau and Saudi Arabia’s Communication, Space and Technology Commission agreed to implement a project focused on building a network of women leaders in the telecommunications development sector. An EQUALS in Tech Awards scheme recognizes efforts to bridge the gender digital divide around the world. An African Girls Can Code Initiative is implemented in partnership with 
+          <xr pageref="N" ref="UN-WOMEN.IO">UN Women</xr>
+          , the 
+          <xr pageref="N" ref="AU.IO">African Union</xr>
+          , and other agencies. Since 2014 ITU has sponsored the annual Girls in ICT Day, held on 26 April. A Network of Women initiative, launched in December 2016, aims to promote a gender balance in the decision making of all ITU’s Sectors.
+        </p>
+                    <p>
+          ICT-D works to reduce the environmental impact of the global digital infrastructure. It promotes a circular economy for electronics, including developing policies and standards to support the management of e-waste. ITU participates in the UNEP-co-ordinated E-waste Coalition. An ITU 
+          <publ-name>Policy Practices for E-waste Management</publ-name>
+           toolkit and a guide on 
+          <publ-name>Circular and Sustainable Public Procurement for ICTs</publ-name>
+           have been issued. In October 2023 ICT-D released the second edition of a co-authored 
+          <publ-name>Greening Digital Companies: Monitoring emissions and climate commitments</publ-name>
+           report, which included best practices to support tech businesses in monitoring their Greenhouse Gas emissions. In September ITU and partners issued a guide titled 
+          <publ-name>Green data centers: towards a sustainable digital transformation</publ-name>
+           that was focused on means of `greening’ specialized facilities that house computer systems. A regular ITU Symposium on ICT, Environment and Climate Change is convened.
+        </p>
+                    <p>
+          ICT-D’s Digital Services and Applications programme develops socially useful digitally-enabled solutions. The GovStack Global Initiative aims to broaden the accessibility of digital government services. A Digital Identity for Development initiative focuses on the advancement of national digital identification systems (important in the pursuit of SDG Target 16.9, on the right to a `legal identity for all’). Smart learning solutions aim to harness mobile applications and other digital technology to reduce barriers to education. Digital health projects include Be He@lthy, Be Mobile, undertaken jointly with the 
+          <xr pageref="N" ref="IO-UN.2442">World Health Organization</xr>
+          , which develops mobile phone-based `mHealth’ services to deliver information on noncommunicable diseases and their risk factors. Innovative e-agriculture solutions are under development, to boost production. In May 2016 ITU and the 
+          <xr pageref="N" ref="IO-UN.923">UN Economic Commission for Europe</xr>
+           jointly launched the United for Smart Sustainable Cities (U4SSC) initiative, advocating for public policy that promotes the use of ICTs. ITU signed an MOU with UN-Habitat in December 2020 in support of greater collaboration on the use of digital innovation to attain sustainable urban environments. An ITU-led Smart Villages and Smart Islands initiative aims to enhance connectivity for remote locations in developing countries.
+        </p>
+                    <p>The 2023 edition of an annual ITU Regional Development Forum (RDF) for Africa was organized in October, in Addis Ababa, Ethiopia, with a focus on accelerating the implementation of the SDGs across the continent through digital transformation. An ITU RDF for the Arab States was convened in the following month, in Bahrain.</p>
+               </p-group>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="IO-UN.2289" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Finance</heading>
+          <p id="IO-UN.2290">The proposed budget for 2024-25 amounted to 329m. Swiss francs.</p>
+     </int-org-section>
+     <int-org-section id="IO-UN.2291" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>BR IFIC Space Services</publ-name>
+                    <content-note style="NORMAL">every 2 weeks</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>BR IFIC Terrestrial Services</publ-name>
+                    <content-note style="NORMAL">every 2 weeks</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Global Digital Regulatory Outlook</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ITU Journal on Future and Evolving Technologies</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>ITU News Magazine</publ-name>
+                    <content-note style="NORMAL">3 a year</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Measuring Digital Development</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Operational Bulletin</publ-name>
+                    <content-note style="NORMAL">every two weeks</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Trends in Telecommunication Reform</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="IO-UN.2292">
+      Conventions, recommendations, statistics, regulations, technical documents and manuals, conference documents. Maintains a 
+      <i>World Telecommunications/ICT Indicators Database</i>
+       with country-specific and global data.
+    </p>
+     </int-org-section>
+</int-org-entry>

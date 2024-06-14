@@ -1,0 +1,750 @@
+<?xml version="1.0"?>
+<int-org-entry id="ADB.IO" id-root="adb.io" iso="adb.io" original-filename="wb02029.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb ass edio mena"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>African Development Bank</org-entry-name>
+               <abbr>AfDB</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">INTERNATIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">MAJOR NON-UN ORGANIZATIONS</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ass mena">REGIONAL ORGANIZATIONS</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE">African Development Bank</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Immeuble du Centre de Commerce International d’Abidjan, ave Jean-Paul II, 01 BP 1387, Abidjan 01, Côte d'Ivoire</verbatim-address>
+               </address>
+               <telephone alsofax="N">20-26-39-00</telephone>
+               <email>afdb@afdb.org</email>
+               <internet>www.afdb.org</internet>
+          </address-block>
+          <p id="ADB.IO.3">Established in 1964, the Bank began operations in July 1966, with the aim of financing economic and social development in African countries. Non-African countries were admitted to the Bank from 1982. The Bank aims to contribute to development and poverty reduction by mobilizing funds for investment and by providing policy and technical assistance. The Bank and two other institutions, the African Development Fund and the Nigeria Trust Fund, constitute the African Development Bank (AfDB) Group.</p>
+          <int-org-section id="ADB.IO.365" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Members</heading>
+               <table-block-simple id="ADB.IO.366" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="7cm" />
+                              <colspec colwidth="6.5cm" />
+                              <colspec colwidth="6.5cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Algeria</entry>
+                                        <entry style="NO-DOT-LEADER">Eritrea</entry>
+                                        <entry style="NO-DOT-LEADER">Namibia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Angola</entry>
+                                        <entry style="NO-DOT-LEADER">Eswatini</entry>
+                                        <entry style="NO-DOT-LEADER">Niger</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Benin</entry>
+                                        <entry style="NO-DOT-LEADER">Ethiopia</entry>
+                                        <entry style="NO-DOT-LEADER">Nigeria</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Botswana</entry>
+                                        <entry style="NO-DOT-LEADER">Gabon</entry>
+                                        <entry style="NO-DOT-LEADER">Rwanda</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Burkina Faso</entry>
+                                        <entry style="NO-DOT-LEADER">The Gambia</entry>
+                                        <entry style="NO-DOT-LEADER">São Tomé and</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Burundi</entry>
+                                        <entry style="NO-DOT-LEADER">Ghana</entry>
+                                        <entry style="NO-DOT-LEADER">&#8195;Príncipe</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cabo Verde</entry>
+                                        <entry style="NO-DOT-LEADER">Guinea</entry>
+                                        <entry style="NO-DOT-LEADER">Senegal</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cameroon</entry>
+                                        <entry style="NO-DOT-LEADER">Guinea-Bissau</entry>
+                                        <entry style="NO-DOT-LEADER">Seychelles</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Central African</entry>
+                                        <entry style="NO-DOT-LEADER">Kenya</entry>
+                                        <entry style="NO-DOT-LEADER">Sierra Leone</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">&#8195;Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Lesotho</entry>
+                                        <entry style="NO-DOT-LEADER">Somalia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Chad</entry>
+                                        <entry style="NO-DOT-LEADER">Liberia</entry>
+                                        <entry style="NO-DOT-LEADER">South Africa</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Comoros</entry>
+                                        <entry style="NO-DOT-LEADER">Libya</entry>
+                                        <entry style="NO-DOT-LEADER">South Sudan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Congo,</entry>
+                                        <entry style="NO-DOT-LEADER">Madagascar</entry>
+                                        <entry style="NO-DOT-LEADER">Sudan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">&#8195;Democratic</entry>
+                                        <entry style="NO-DOT-LEADER">Malawi</entry>
+                                        <entry style="NO-DOT-LEADER">Tanzania</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">&#8195;Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Mali</entry>
+                                        <entry style="NO-DOT-LEADER">Togo</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Congo, Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Mauritania</entry>
+                                        <entry style="NO-DOT-LEADER">Tunisia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Côte d'Ivoire</entry>
+                                        <entry style="NO-DOT-LEADER">Mauritius</entry>
+                                        <entry style="NO-DOT-LEADER">Uganda</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Djibouti</entry>
+                                        <entry style="NO-DOT-LEADER">Morocco</entry>
+                                        <entry style="NO-DOT-LEADER">Zambia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Egypt</entry>
+                                        <entry style="NO-DOT-LEADER">Mozambique</entry>
+                                        <entry style="NO-DOT-LEADER">Zimbabwe</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Equatorial Guinea</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                        <entry style="NO-DOT-LEADER" />
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+               <p id="ADB.IO.59">The Bank has 27 non-African members.</p>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="ADB.IO.367" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="ADB.IO.368" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Board of Governors</heading>
+               <p id="ADB.IO.60">The Board of Governors is the highest policymaking body of the Bank, responsible for electing the Board of Directors and the President. Each member country nominates one Governor, usually its Minister of Finance and Eco­nomic Affairs, and an alternate Governor or the Governor of its central bank. The Board meets in ordinary session once a year: the 2024 meeting was to be held in Nairobi, Kenya, in late May.</p>
+          </int-org-section>
+          <int-org-section id="ADB.IO.369" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Board of Directors</heading>
+               <p id="ADB.IO.61">The 20-member Board of Directors, elected by the Board of Governors for a term of three years, is responsible for the general operations of the Bank and meets on a weekly basis.</p>
+          </int-org-section>
+          <int-org-section id="ADB.IO.370" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Administration</heading>
+               <p>The President—who is elected for a five-year term and serves as the Chairperson of the Board of Directors—is responsible for the organization and the day-to-day operations of the Bank, under the guidance of the Board of Direc­tors. The Bank has the following divisions, each headed by a Vice-President: Power, Energy, Climate, and Green Growth; Agriculture, Human and Social Development; Private Sector, Infrastructure and Industrialization; Regional Development, Integration and Business Delivery; Economic Governance and Knowledge Management; Finance; People and Talent Management; and Technology and Corporate Services.</p>
+               <p>In 2024 Bank field offices were located in 41 member countries. The Bank’s first external representation office (for Asia) was inaugurated in Tokyo, Japan, in October 2012. An African Natural Resources Management and Investment Centre was established in 2013, at the Bank’s headquarters.</p>
+               <!--Infrastructure, Cities, and Urban Development, Water &c - est. x.16 Representation offices for the Americas (Wash, DC) and Europe (Brussels) envisaged xii.23: international staff withdrawn from Ethiopia following -diplomatic incident-->
+               <dir-list>
+                    <dir-entry id="ADB.IO.63" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>President and Chairperson of Board of Directors</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Akinwumi A.</forename>
+                                        <surname>Adesina</surname>
+                                   </person-name>
+                                   <person-note>Nigeria</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <!--re-elected to second 5-year term 27.viii.20-->
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="ADB.IO.371" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Financial Structure</heading>
+               <p id="ADB.IO.65">The African Development Bank Group of development financing institutions uses a unit of account (UA), which at December 2022 was valued at US&#160;$1.33084.</p>
+               <p id="ADB.IO.66" usage="edio ass mena">The capital stock of the Bank was at first exclusively open for subscription by African countries, with each member's subscription consisting of an equal number of paid-up and callable shares. In 1978, however, the Governors agreed to open the capital stock of the Bank to subscription by non-regional states on the basis of nine principles aimed at maintaining the African character of the institution. The decision was finally ratified in May 1982, and the participation of non-regional countries became effective on 30 December. It was agreed that African members should still hold two-thirds of the share capital, that all loan operations should be restricted to African members, and that the Bank's President should always be a national of an African state. In May 1998 the Board of Governors resolved that the non-African members' share of the capital be increased from 33.3% to 40%.</p>
+               <p>In October 2019 an extraordinary meeting of the Board of Governors approved the Bank’s seventh general capital increase, of some US&#8201;$115,000m. At 31 December 2022 the Bank's authorized capital was UA&#8201;180,638.83m.; subscribed capital at the end of 2022 was UA&#8201;148,768.18m. (of which the paid-up portion was UA&#8201;9,974.54m.).</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="ADB.IO.372" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>The Bank’s Ten-Year Strategy for 2013-22 focused on achieving inclusive growth and promoting the transition to green growth, with infrastructure development, regional integration, private sector development, governance and accountability, and skills and technology designated as core areas of priority. Further areas of special emphasis included fragile states, gender, agriculture, and food security. The Development and Business Delivery Model that was endorsed by the Board in April 2016 resolved to transform the Bank’s internal organization in alignment with its strategic objectives and the following High 5 priorities: Light up and power Africa, Feed Africa, Industrialize Africa, Integrate Africa, and Improve the quality of life for the people of Africa.</p>
+          <p id="ADB.IO.71">
+      In March 2009 a Coalition for Dialogue on Africa was inaugurated by the Bank, the United Nations (UN) 
+      <xr pageref="N" ref="IO-UN.1052">Economic Commission for Africa (ECA)</xr>
+       and the 
+      <xr pageref="N" ref="WB02062.IO.TXT">African Union (AU)</xr>
+      . A joint secretariat supports co-operation activities between the three organizations. The AfDB is actively involved in the 
+      <xr pageref="N" ref="WB02062.IO.TXT.100">AU Development Agency (AUDA-NEPAD)</xr>
+      , which aims to promote sustainable development and eradicate poverty throughout the region. The Bank is a strategic partner in AUDA-NEPAD’s African Peer Review Mechanism.
+    </p>
+          <p>In June 2023, during the Summit for a New Global Financing Pact, convened in Paris, France, the AfDB, European Investment Bank, Islamic Development Bank and World Health Organization collectively launched a Health Impact Investment Platform, focused on strengthening essential, climate and crisis-resilient primary health care services in low- and low-and-middle income states.</p>
+          <p>In May 2023 the Bank reported that GDP growth across Africa had decelerated from 4.8% in 2021 to 3.8% in 2022. In March 2024 the Bank estimated that continental GDP had expanded by more than 3% in 2023.</p>
+          <int-org-section id="ADB.IO.67.7" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Financial Operations</heading>
+               <p>By the end of 2022 the Bank Group had approved total lending of UA&#8201;131,617m. for 6,859 operations since the beginning of its activities in 1967. In 2022 the Group approved 284 lending operations amounting to UA&#8201;6,155.8m., compared with 196 operations with a value of UA&#8201;4,506.3m. in the previous year. Of the total amount approved in 2022, UA&#8201;5,327.9m. was for loans and grants, UA&#8201;512.7m. for guarantees, and UA&#8201;40.1m. for equity participation.</p>
+               <p>Of the cost of the total operations approved in 2022, by High 5 priority sector, UA&#8201;1,593.55m. (25.9%) was for Industrialize Africa projects; UA&#8201;1,561.36m. (25.4%) was for Improve the quality of life for the people of Africa initiatives; UA&#8201;1,341.97m. (21.8%) was for Feed Africa initiatives; UA&#8201;1,134.75m. (18.4%) for Integrate Africa; and UA&#8201;&#160;524.12m. (8.5%) was for Light up and power Africa initiatives. Some 24.2% of expenditure was allocated to agriculture and rural projects; 21.5% to transport; 20.1% to finance; 12.9% to multisector projects; and 10.4% to energy supply initiatives. In terms of geographical distribution, 36.5% of approved Bank Group operations in 2022 were allocated to countries in West Africa, 27.1% to East Africa, 15.5% to Southern Africa, 14.3% to North Africa, and 5.5% to countries in Central Africa; furthermore, around 1% of approvals was for multiregional projects.</p>
+               <int-org-section id="ADFDB.IO.44" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                    <heading>African Development Bank</heading>
+                    <p id="ADB.IO.72">The Bank makes loans at a variable rate of interest, which is adjusted twice a year, plus a commitment fee of 0.75%. Lending approved (including resources allocated under the Post-conflict Country Facility and private and public equity participations) amounted to UA&#8201;3,718.8m. for 76 operations in 2022, compared with UA&#8201;2,449.1m. for 66 operations in 2021. Since October 1997 fixed and floating rate loans have been made available.</p>
+               </int-org-section>
+               <int-org-section id="AFDB.ADF.IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                    <heading>African Development Fund</heading>
+                    <p id="ADB.IO.294">The Fund commenced operations in 1974. It grants interest-free loans to low-income African countries for projects with repayment over 50 years (including a 10-year grace period) and with a service charge of 0.75% per annum. Grants for project feasibility studies are made to the poorest countries.</p>
+                    <p>In December 2022 a global coalition of donor countries concluded an agreement on ADF-16, replenishing the Fund by a record US&#8201;$8,900m. for the period 2023-25. An ADF Climate Action Window was established in 2022, to support climate adaptation in low-income African states.</p>
+                    <p>In 2022 approvals under the ADF amounted to UA&#8201;1,817.8m. for 107 projects, compared with UA&#8201;1,263.3m. for 66 projects in the previous year.</p>
+               </int-org-section>
+               <int-org-section id="AFDB.NTF.IO.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+                    <heading>Nigeria Trust Fund</heading>
+                    <p usage="ewyb edio ass">The Agreement establishing the NTF was signed in February 1976 by the Bank and the Government of Nigeria. The Fund is administered by the Bank and its loans are granted for up to 25 years, including grace periods of up to five years, and carry 0.75% commission charges and 4% interest charges. The loans are intended to provide finan­cing for projects in co-operation with other lending institutions. The Fund also aims to promote the private sector and trade between African countries by providing information on African and international financial institutions able to finance African trade.</p>
+                    <p usage="ewyb edio ass">No new operations were approved under the NTF in 2022; UA&#8201;6.0m. was disbursed under the Fund in that year.</p>
+                    <p>The AfDB and Nigerian authorities co-manage a Nigeria Technical Cooperation Fund (NTCF), which became operational in 2004 to support regional development initiatives.</p>
+               </int-org-section>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.REGDEVT.3" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Regional Development, Integration and Business Delivery</heading>
+               <p>The Bank, the AU and ECA jointly contribute to Agenda 2063, a long-term vision to guide the economic and social transformation of Africa, within the context of which a series of African Development Goals (ADGs) are to be pursued; Agenda 2063 was adopted by AU heads of state and of government in January 2015. The independent, profit-driven Africa50 Infrastructure Fund—headquartered in Finance City, Casablanca, Morocco—was inaugurated in September 2014, having been endorsed by the Board of Governors in May 2013.</p>
+               <p usage="ewyb edio ass">The AfDB has identified the following as fragile states: Burundi, the Central African Republic, Comoros, the Democratic Republic of Congo (DRC), Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Madagascar, Mali, Sierra Leone, Somalia, South Sudan, Sudan, Togo and Zimbabwe. A Transition Support Facility (TSF) was established in 2014. The resources released through the TSF are mainly allocated to capacity-building initiatives, social services projects, and to infrastructure development. In 2022 the Bank approved UA&#8201;344.0m. for 64 operations funded through the TSF. Of the total, UA&#8201;314.2m. was allocated to 15 operations supporting state-building efforts. The fourth Africa Resilience Forum, themed `COVID-19 and Beyond: Working Together for a Resilient Continent’, was convened by the Bank at the end of September 2021, in a virtual format. In March 2022 the AfDB initiated a Strategy for Addressing Fragility and Building Resilience in Africa, covering the period 2022-26, with a focus on catalyzing private investment, and strengthening economies, institutional capacity and societies.</p>
+               <p>An Africa Growing Together Fund was established in 2014, with the People’s Republic of China, to co-finance public and private sector projects in support of regional integration and infrastructure development. In July 2017 the AfDB and the Islamic Development Bank concluded an agreement under which they were to provide some US&#8201;$2,000m. in support of activities aimed at accelerating economic development in Africa, with a particular emphasis on promoting agriculture and food security, energy, and small and medium-sized enterprises (SMEs). An AfDB Microfinance Capacity Building Fund for Africa was launched in 2011.</p>
+               <p>
+        An AfDB Regional Integration Strategy was being implemented over the period 2018-28, with a focus on enhancing power and infrastructure connectivity; trade and investment; and financial sector integration. An Africa Regional Integration Index, jointly developed by the AfDB, ECA and the 
+        <xr pageref="N" ref="AU.IO">AU</xr>
+        , was launched in April 2016. The Index aims to measure, systematically (providing data on member states and regional economic communities), regional integration across areas including governance, investment, trade, infrastructure, industry, the free movement of persons, energy, culture and macroeconomic policy convergence. The second edition of the Index, issued in May 2020, found South Africa to be the most regionally integrated African country. It recommended, 
+        <i>inter alia,</i>
+         enhancing member states’ productive, distributive, and marketing capacities; promoting public-private partnerships to strengthen the continental infrastructure; strengthening regional sectoral value-chain frameworks; fully implementing the African Continental Free Trade Area; enhancing workers’ technological and other competencies; and promoting the free movement of people on the continent.
+      </p>
+               <p usage="ewyb edio ass mena">
+        Since 1996 the Bank has collaborated closely with international partners, in particular the World Bank, in efforts to address the prob­lems of heavily indebted poor countries (HIPCs—see 
+        <xr pageref="N" ref="IO-UN.1891">IBRD</xr>
+        ). 
+      </p>
+               <p usage="ewyb edio ass">Of the 41 countries identified as potentially eligible for assistance under the scheme, 33 were in sub-Saharan Africa. In April 2006 the Board of Directors endorsed a Multilateral Debt Relief Initiative (MDRI), which provided for 100% cancellation of eligible debts from the ADF, the International Monetary Fund and the International Development Association; the ADF's participation in the MDRI, which became effective in September, was anticipated to provide some UA&#8201;5,570m. (US&#8201;$8,540m.) in debt relief.</p>
+               <p usage="edio ass">The AfDB’s Lusophone Compact, initiated in 2018, is a financing platform engaging the Bank, Portugal and the six Portuguese-speaking African countries—Angola, Cabo Verde, Guinea-Bissau, Mozambique, São Tomé and Príncipe and Equatorial Guinea (where Portuguese was declared an official language in 2011). In July 2019 the Bank and the Governments of Angola and Portugal signed a Country-Specific Compact under the initiative, which aimed to advance the sustainable development of Angola’s private sector. In December 2021 the AfDB and International Finance Corporation (IFC) concluded a partnership agreement that admitted the latter to the Lusophone Compact.</p>
+               <p usage="mena">In December 2012 the AfDB Board of Directors approved the Bank’s participation as an implementation support agency for the World Bank-administered Middle East and North Africa Transition Fund. The Fund was established by the Deauville Partnership, formed in May 2011 by the (then) Group of Eight (G8) industrialized nations, in collaboration with regional and international financial institutions and regional governments, to support political and economic reforms being undertaken by several countries in North Africa and the Middle East, notably Egypt, Jordan, Morocco and Tunisia.</p>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.POWER.1" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Power, Energy, Climate and Green Growth</heading>
+               <p>In 2012 the Bank initiated, with funding from the Government of Denmark, a Sustainable Energy Fund for Africa (SEFA); in September 2013 the Board approved the conversion of SEFA into a multi-donor trust fund. The Bank’s Board of Governors decided in November 2019 to restructure SEFA as a concessional financing facility. Its launch as the SEFA Special Fund was marked by a virtual gathering of donor and development partners, industry representatives and government officials in December 2020. The Bank hosts the secretariats of the African Energy Leaders Group and of the Africa Hub of the UN’s Sustainable Energy for All initiative. In December 2016 the Bank’s Board of Directors endorsed a trusteeship role for the Bank with respect to the administration and management of the resources of the African Renewable Energy Initiative, which was initiated by the AU in December 2015, with the aim of producing by 2030 some 300 GW of electricity across the continent. The AfDB’s New Deal on Energy for Africa and related High 5 priority: Light up and power Africa by 2025 focus on fostering partnerships between governments, the private sector and energy sector initiatives to develop an overarching Transformative Partnership on Energy for Africa, providing innovative financing for the continental energy sector. The AfDB launched an online Africa Energy Portal (AEP) in November 2018. In October 2020 the Bank and AUDA-NEPAD jointly released the recommendations of a baseline study that had examined the planned development of a continental energy transmission grid and market. The fifth round of an AfDB-designed Africa Energy Market Place (AEMP), a collaborative investment platform within the New Deal on Energy framework, was convened online in October 2021.</p>
+               <p>
+        In April 2014 the Board of Directors endorsed the establishment of an Africa Climate Change Fund, which is hosted by the Bank, and aims to assist the transition of African countries towards climate-resilient and low-carbon development. The AfDB and Green Climate Fund concluded a partnership agreement in November 2017. The Bank announced in March 2019 that it would commit at least US&#8201;$25,000m. towards climate finance projects during the period 2020-25. An Africa Nationally Determined Contributions (NDCs) Hub supports member countries through fostering long-term climate action; mobilizing finance, capacity building, and technology development and transfer; and co-ordination, advocacy and partnerships. In 2022 the AfDB committed 42% of expenditure to climate-sensitive projects, compared with 9% in 2016. The AfDB’s Africa Nationally Determined Contributions Hub supports member states in meeting obligations under the 2015 Paris Agreement on climate change. Secretariat services are provided by the Bank to the Africa Financial Alliance on Climate Change (AFAC), which co-ordinates the mobilization of contributions towards climate action and climate-resistant development by, 
+        <i>inter alia,</i>
+         African central, commercial and development banks, stock exchanges, funds and insurance companies. The 2023 edition of the Bank’s 
+        <publ-name>African Economic Outlook</publ-name>
+        , issued in May, was themed `Mobilizing Private Sector Financing for Climate and Green Growth in Africa’. In September the Bank initiated an Africa Climate Risk Insurance Facility for Adaptation.
+      </p>
+               <p usage="ass">The AfDB supported the implementation of the Africa Carbon Forum process from 2008. The 11th forum was held in Accra, Ghana, in March 2019; an Africa Climate Week was observed at that time.</p>
+               <p>The Bank hosts the secretariat of the Congo Basin Forest Fund, which was established in 2008, as a multi-donor facility, with initial funding from Norway and the United Kingdom, to protect and manage the forests in that region.</p>
+               <p>In March 2000 African ministers responsible for water resources endorsed an African Water Vision and a Framework for Action to pursue the equitable and sustainable use and management of water resources in Africa, in order to facilitate socioeconomic development, poverty alleviation and environmental protection. An African Ministers' Council on Water (AMCOW) was established in April 2002 to provide the political leadership and focus for implementation of the Vision and the Framework for Action. AMCOW requested the Bank to establish and administer an African Water Facility Special Fund, in order to provide the financial requirements for achieving their objectives; this became operational in December. In November 2021 the Board of Directors approved a revised version of the African Water Facility Strategy (2017-25). A new five-year strategy, titled `Towards a Water Secure Africa’ was also endorsed.</p>
+               <p usage="edio ass">The AfDB manages the Zimbabwe Multi Donor Trust Fund (ZimFund), established in 2010 to support that country in improving water supply and quality, power services and sanitation facilities. The Bank’s Multi-Partner Somalia Infrastructure Fund, which became operational in 2016, supports infrastructure rehabilitation and institution rebuilding.</p>
+               <p>
+        In December 2015 the Bank joined the Inclusive Green Growth Partnership, a collaboration between the 
+        <xr id="OTHER.DEVT.IO.1" pageref="N">Global Green Growth Institute</xr>
+        , UN agencies and multilateral development banks, which aimed to promote social inclusion and green growth at national level. The Bank is also one of 26 partners that support the Africa Food Systems Forum (formerly the African Green Revolution Forum: renamed in September 2022). In 2023 this was held in Dar es Salaam, Tanzania, in September.
+      </p>
+               <p>In March 2022 the Board of Directors approved a five-year Africa Circular Economy Facility, which was to focus on institutional capacity building to enhance the regulatory framework for relevant innovations; on a business development programme; and on the provision of technical assistance to the African Circular Economy Alliance (founded in 2017 to minimize waste and damage from economic activities in the region).</p>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.IND.2" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Private Sector, Infrastructure and Industrialization</heading>
+               <p>
+        In 1989 the Bank, in co-ordination with the IFC and UNDP, created the African Management Services Company (AMSCo), which provides management support and training to private companies in Africa. The Bank is one of three multilateral donors, with the World Bank and UNDP, supporting the 
+        <xr pageref="N" ref="WB0231XB.IO.TXT.50">African Capacity Building Foundation</xr>
+        , which was established in 1991 to strengthen and develop institutional and human capacity in support of sustainable development activities. An Enhanced Private Sector Assistance initiative (EPSA) was established, with support from the Japanese Government, in 2005 to support the Bank’s strategy for the development of the private sector. The scheme incorporated an Accelerated Cofinancing Facility for Africa and a Fund for African Private Sector Assistance. In October 2010 the Board of Directors agreed to convert the Fund into a multi-donor trust fund. A fifth phase of EPSA, covering the period 2023-25, was announced by the Bank and Japanese Government in August 2022. In 2014 the Bank established a Private Sector Credit Enhancement Facility (PSF), which aimed to increase private sector financing in low-income member countries. No new approvals were made under the PSF in 2022.
+      </p>
+               <p>The Bank’s Africa Trade Fund, launched in 2012, aims to facilitate the integration of member states and of African regional economic communities into multilateral trading systems.</p>
+               <p>The Africa Investment Forum (AIF) was established by the Executive Board in October 2016, to act as a platform for international investors. In July 2020 the AIF announced that, under its Unified COVID-19 Response, US&#8201;$3,790m. would be allocated to addressing the impacts of the COVID-19 crisis across the following priority sectors: agriculture and agro-processing, energy, health, telecommunications, and industry and trade. The 2024 edition of the AIF’s flagship Market Days event was to be convened in December, in Rabat, Morocco.</p>
+               <p>The AfDB is an executing agency for and, jointly with the AU Commission and AUDA-NEPAD, leads the Programme for Infrastructure Development in Africa (PIDA), which aims to develop the continental energy, transport, transboundary water resources, and information and communications technologies infrastructures. A second PIDA Priority Action Plan (PIDA PAP 2) was being implemented over the period 2011-30. Since 2005 the AfDB has managed the NEPAD-Infrastructure Project Preparation Facility (NEPAD-IPPF), a multi-donor trust fund. The Bank hosts the secretariat of the Infrastructure Consortium for Africa, which was inaugurated in October of that year by several major African institutions and donor countries to accelerate efforts to develop the region’s infrastructure. In November 2022, at the 27th Conference of the Parties to the UN Framework Convention on Climate Change, the Bank launched, with the AU, Africa50 and other international partners, a new Alliance for Green Infrastructure in Africa. The Alliance aimed to mobilize US $500m. to accelerate project preparation and financing of green infrastructure schemes.</p>
+               <p usage="ewyb edio ass">In 1990 the Bank established the African Business Round Table (ABR), which is composed of the chief executive officers (CEOs) of Africa's leading corporations, and aims to strengthen Africa's private sector, promote intra-African trade and investment, and attract foreign investment to Africa. The AfDB, jointly with the French media company Groupe Jeune Afrique, organizes the annual Africa CEO Forum (2024: in Kigali, Rwanda). In November 2023, in Lomé (Togo), the Africa CEO Forum, with support from the IFC, organized the third Financial Industry Summit, with participation by African financial sector leaders. During the first such summit, convened in March 2021, an African Financial Industry Barometer had been released, which found the top three priorities for financial institutions to be: digitization; operational efficiency; and mastering emerging risks. </p>
+               <p>In July 2016 the AfDB Executive Board approved an Industrialization Strategy for Africa, covering the period 2016-25; this outlined a roadmap for the implementation of priority programmes aimed at advancing the industrial transformation of the continent.</p>
+               <p>The Bank’s Africa SME Programme provides lines of credit and technical assistance to African local financial institutions to support local businesses. The AfDB does not, however, finance SMEs directly.</p>
+               <p usage="ewyb edio mena">In September 2023 the AfDB and European Bank for Reconstruction and Development initiated a joint task force focused on strengthening entrepreneurship and jobs creation in Egypt, Morocco and Tunisia.</p>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.AGRIC.4" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Agriculture, Human and Social Development</heading>
+               <p>The Bank’s Feed Africa strategy aims to transform continental agriculture into a sustainable, business-oriented, globally competitive, inclusive, employment and wealth generating sector, with a focus on ending extreme poverty; eliminating hunger and improving nutrition; making Africa a net exporter of agricultural commodities; and moving to the top (by market share) of agricultural value chains for processed commodities. In October 2015 a conference on Feeding Africa, held in Dakar, under the auspices of the Bank, adopted an action plan, and endorsed several partnerships aimed at developing agribusiness on the continent. The Bank manages a multi-donor Agriculture Fast Track Fund, which was launched in 2013 to boost continental agribusiness and agricultural infrastructure investments. In February 2018 the Board of Directors approved the establishment of a Rockefeller Trust Fund, which was to have a particular focus on supporting the High 5 priorities: Feed Africa and Improve the quality of life for the people of Africa.</p>
+               <p>The Bank hosts the secretariat of an African Fertilizer Financing Mechanism (AFFM), established in 2007 to boost agricultural productivity, food security and the sustainable management of natural resources in Africa. The 11th meeting of the AFFM Governing Council, hosted by the Bank in March 2023, adopted a strategic plan for the period 2022-28, focused on broadening access to finance through policy reforms and capital investments.</p>
+               <p>The AfDB’s operational plan under Strategy 2030 for promoting rural development and food security aimed to transform agriculture and to promote sustainable resilient food supply systems, with a focus on the provision of safe, nutritious food, achieving higher incomes for farmers, and generating economic growth in rural areas. The Bank’s support for food systems quadrupled from US&#8201;$409m. in 2010 to $1,200m. in 2020.</p>
+               <p usage="ewyb edio ass">
+        In April 2020 the Bank’s Board of Directors approved a US&#8201;$1.5m. emergency relief grant to support efforts by nine East African countries (co-ordinated by the 
+        <xr pageref="N" ref="IGAD.IO">Intergovernmental Authority on Development</xr>
+        ) to control severe desert locust swarms that were endangering regional food output and livelihoods.
+      </p>
+               <p>In May 2022, in response to the wider global impacts of the Russian Federation’s invasion of Ukraine, the AfDB, IMF, World Bank and other international financial institutions collectively issued a Joint International Financial Institution Plan to Address Food Insecurity. Also in May the Bank approved US&#8201;$1,500m. for a new African Emergency Food Production Facility to counter the disruption to food and fertilizer supplies resulting from the conflict in Ukraine.</p>
+               <p>In January 2023 the Bank co-hosted, with the AU, an African Food Summit (so-called Dakar 2—the inaugural meeting having been convened in 2015). The meeting focused on boosting Africa’s agricultural productivity and strengthening its food systems.</p>
+               <p>An AfDB-supported African Leaders for Nutrition (ALN) initiative was launched in January 2018. In February 2019 the AfDB and AU Commission and partners issued a Continental Nutrition Accountability Scorecard, compiled by the ALN to promote commitments towards ending malnutrition.</p>
+               <p>The Bank launched an African Gender Equality Index in May 2015. In March 2016 the Bank and UN Women signed a Memorandum of Understanding (MOU) on jointly advancing gender equality in Africa. In May 2016 the AfDB established an Affirmative Finance Action for Women in Africa (AFAWA) initiative, with a view to raising US&#8201;$3,000m. towards reducing the risks incurred by commercial banks and microfinance institutions in financing businesses owned by women in the region. In April 2020 the AfDB Board of Directors endorsed a Gender Equality Trust Fund dedicated to supporting the AFAWA agenda. The Bank funds a continental 50 Million African Women Speak Project (50MAWSP), which aims to address specific challenges confronting women, including female entrepreneurs, in securing access to financial and non-financial services. A 50 Million Women Digital Platform was launched in November 2019. In December a digital skills training platform for young people, Coding for Employment, was launched. In December 2020 the Bank’s Board of Directors initiated a Gender Strategy for 2021-25, based on three pillars: Empowering women through access to finance and markets; Accelerating employability and job creation for women through skills enhancement; and Increasing women's access to social services through infrastructure. An AfDB People Strategy for 2021-26, fostering resilience and diversity, was also introduced in 2020. In 2022 100% of the Bank’s sovereign operations were categorized under its Gender Marker System—a tool for systematizing the mainstreaming of gender in its business processes.</p>
+               <p>In April 2020 the Bank initiated a US&#8201;$10,000m. COVID-19 Rapid Response Facility, to support the continental recovery from the impacts of the ongoing public health, social and economic emergency. During 2020 the AfDB Group significantly refocused its lending programme to meet the challenges posed by the pandemic crisis, as a result of which loan approvals declined by 43%, compared with 2019, while disbursements increased by 44%. In February 2022 the Bank’s Board of Directors approved a new Strategy for Quality Health Infrastructure in Africa 2022-30 to support national health systems, including through strengthening health information systems, promoting regional collaboration and harmonizing health policies and regulation.</p>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.KNOWL.5" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic Governance and Knowledge Management</heading>
+               <p>In April 2022 the AfDB approved a Knowledge Management Strategy, covering the period 2022-31, which aimed to enhance the Bank’s provision of knowledge required to optimize the outcomes of development strategies.</p>
+               <p>An Africa Integrity Fund was established in November 2016, to support member states in combating corruption. The AfDB hosts the African Legal Support Facility, which since 2010 has provided legal advice and technical assistance to African governments negotiating complex commercial transactions.</p>
+               <p>The Bank Group, with ECA and UNDP, organizes an annual African Economic Conference (AEC), which aims to foster dialogue and the exchange of knowledge on issues affecting the continent. The 18th AEC was held in November 2023, in Addis Ababa (Ethiopia).</p>
+               <p>The Bank provides technical assistance to regional member countries in the form of experts' services, pre-investment feasibility studies and staff training. Much of this assistance is financed through bilateral trust funds contributed by non-African member states. The Bank's African Development Institute provides training and seminars for officials of regional member countries in order to enhance the management of Bank-financed projects and, more broadly, to strengthen national capacities for promoting sustainable development. The Institute also manages an AfDB/Japan Fellowship programme that provides scholarships to African students to pursue further education.</p>
+          </int-org-section>
+          <int-org-section id="AFDB.IO.FINANCE.6" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Finance</heading>
+               <p>The Bank hosts the secretariat of an African Financing Partnership, which was established in 2008 to mobilize private sector resources through collaborations with regional development finance institutions. It also hosts the secretariat of the Making Finance Work for Africa Partnership (MFW4A), which aims to support the development of the financial sector in the sub-Saharan region. Through a Migration and Development Initiative Fund, initiated in 2009, the Bank supports the development of financial services for migrant workers, and facilitates channelling remittances towards productive uses in workers’ countries of origin. In 2019 it initiated an Africa Digital Financial Inclusion Facility, which aimed to promote digital financial tools to ensure engagement by a further 332m. Africans (with a particular focus on women) in the formal economy.</p>
+               <p>In 2008 the AfDB initiated the African Financial Markets Initiative (AFMI), to support the development of bond markets throughout the continent and to stimulate domestic resource mobilization. In February 2015 an AFMI-Bloomberg African Bond Index was launched. A new Sustainable Bond Framework was introduced in September 2023, supporting the issuance of social, green and sustainability bonds.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="ADB.IO.377" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>AfDB Statistics Pocketbook</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Africa Competitiveness Report</publ-name>
+                    <content-note style="NORMAL">every 2 years</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Africa Economic Brief</publ-name>
+                    <content-note style="NORMAL">monthly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Development Report</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Development Review</publ-name>
+                    <content-note style="NORMAL">quarterly</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Macroeconomic Performance and Outlook Report </publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>African Statistical Yearbook</publ-name>
+                    <content-note style="NORMAL">with the AU and ECA</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Annual Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Compendium of Statistics on Bank Group Operations</publ-name>
+                    <content-note style="NORMAL">annually</content-note>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Development Effectiveness Review Series</publ-name>
+               </publ-entry>
+               <p id="ADB.IO.364">Other reports, country profiles, working papers, background and Board documents.</p>
+          </publ-list>
+     </int-org-section>
+     <int-org-section id="ADB.IO.390" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Statistics</heading>
+          <table-block id="ADB.IO.299" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Summary of Bank Group Operations</table-heading>
+               <heading-note>millions of UA</heading-note>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="4">
+                         <colspec colwidth="9cm" />
+                         <colspec colname="COLSPEC0" colwidth="3.50cm" />
+                         <colspec colname="COLSPEC1" colwidth="3.50cm" />
+                         <colspec colwidth="4cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">2021</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2022</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">
+                Cumulative total
+                <endnoteref idref="ADB.IO.304" ref-symbol="*" />
+                                   </entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">
+                                        <b>AfDB approvals</b>
+                                        <endnoteref idref="ADB.IO.304.3" ref-symbol="†" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">66</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">76</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,194</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Amount</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,449.14</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,718.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">81,045</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">
+                                        <b>ADF approvals</b>
+                                        <endnoteref idref="ADB.IO.304.3" ref-symbol="†" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">66</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">107</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,337</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Amount</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,263.25</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,817.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">41,894</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">
+                                        <b>NTF approvals</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">105</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Amount</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.60</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">491</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">
+                                        <b>Special Funds</b>
+                                        <endnoteref idref="ADB.IO.301.2" ref-symbol="‡" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">31</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">37</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">696</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Amount</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">263.55</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">275.10</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,948</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">
+                                        <b>Group total</b>
+                                        <endnoteref idref="ADB.IO.304.3" ref-symbol="†" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Number</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">196</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">284</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,859</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Amount</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4,506.29</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,155.75</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">131,617</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <endnote id="ADB.IO.304" ref-symbol="*">Since the initial operations of the three institutions (1967 for the AfDB, 1974 for the ADF and 1976 for the NTF)</endnote>
+               <endnote id="ADB.IO.304.3" ref-symbol="†">Includes loans and grant operations, private and public equity investments, emergency operations, HIPC debt relief, and loan reallocations and guarantees, and the Post-Conflict Country Facility; Group total approvals include those from the Private Sector Credit Enhancement Facility and the Transition Support Facility</endnote>
+               <endnote id="ADB.IO.301.2" ref-symbol="‡">Includes approvals on the operations of the African Water Facility, the Rural Water Supply and Sanitation Initiative, the Global Environment Facility, the Africa Climate Change Fund, the Climate Investment Funds, the Congo Basin Forest Fund, the Fund for African Private Sector Assistance, the Global Agriculture and Food Security Programme, the Micro Finance Capacity Building Fund, the Migration and Development Initiative Fund, OPEC, the Sustainable Energy Fund for Africa, the Middle East and North Africa Transition Fund, the Trust Fund for Countries in Transition, the Nigeria Technical Cooperation Fund, and the Zimbabwe Multi-Donor Trust Fund</endnote>
+          </table-block>
+          <table-block id="ASIANDB.IO.230" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <!--Made Bank Group Approvals by Sector table to substitute at least temporarily (until it s available?) for Group Loan and Grant Operations by Sub-region and Country table CAH 20.06.2012-->
+               <table-heading>Bank Group Approvals by High 5 Priority, 2022</table-heading>
+               <heading-note>millions of UA</heading-note>
+               <table pgwide="YES" style="WITH-RULES">
+                    <tgroup cols="5">
+                         <colspec colname="1" colwidth="20cm" />
+                         <colspec colname="COLSPEC2" colwidth="5cm" />
+                         <colspec colname="COLSPEC3" colwidth="5cm" />
+                         <colspec colname="COLSPEC4" colwidth="5cm" />
+                         <colspec colname="R" colwidth="5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">High 5 Priority</entry>
+                                   <entry align="right" style="NO-DOT-LEADER" valign="bottom">AfDB</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">ADF</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">
+                Special resources
+                <endnoteref idref="AFDB.IO.1" ref-symbol="*" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER" valign="bottom">Total</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Light up and power Africa</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">248.50</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">125.33</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">150.29</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">524.12</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Power generation, transmission and distribution (conventional)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">102.01</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">18.51</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">66.75</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">187.27</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Power generation (renewable)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">139.30</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">91.60</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">55.14</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">286.04</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Off-grid solutions</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.03</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.86</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.89</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Energy sector strengthening and reform</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.51</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.99</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.50</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Infrastructure for energy sector development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Multisector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Other</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.19</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.67</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">23.56</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">38.42</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Feed Africa</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">737.42</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">427.09</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">177.42</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,341.97</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;National and regional operations in production and value addition</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">79.50</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">305.87</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">145.62</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">530.99</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Investment in infrastructure</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.69</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">39.30</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.86</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">43.84</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Agriculture finance and agribusiness environment</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">25.13</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">20.25</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.23</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">51.61</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Inclusivity and sustainable development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">34.69</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10.51</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">14.26</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">59.46</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Multisector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">595.41</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">51.16</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.50</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">656.07</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Industrialize Africa</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,331.22</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">187.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">74.52</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,593.55</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Industrial business environment</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">76.15</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.80</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">83.95</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Financial sector and capital markets development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,024.43</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">177.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">47.76</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,250.00</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Enterprise development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.62</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.20</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.45</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.27</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Infrastructure for industry</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">213.29</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">19.31</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">232.61</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Multisector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Regional environment improvement</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11.72</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11.72</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Integrate Africa</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">325.67</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">774.75</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">34.33</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,134.75</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Regional infrastructure connectivity</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">248.28</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">514.15</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">18.85</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">781.29</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Trade facilitation and investment</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">77.39</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.03</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.50</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">82.91</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Support to RECs</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8.20</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.21</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">12.41</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Regional Operations</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">247.37</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10.76</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">258.13</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Improve quality of life for the people of Africa</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,076.00</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">302.83</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">182.53</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,561.36</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Water supply and sanitation</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">184.58</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">114.72</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">88.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">388.11</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Human and social development</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.17</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">58.33</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.66</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">69.17</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">&#8195; &#8195;Multisector</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">671.26</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">40.53</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.16</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">726.95</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">&#8195; &#8195;Other</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">212.98</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">89.25</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">74.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">377.14</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">
+                                        <b>Total</b>
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,718.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,817.81</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">619.13</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,155.75</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <endnote id="AFDB.IO.1" ref-symbol="*">Including the NTF, PSF, TSF and Special Funds (as defined above)</endnote>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          African Development Bank, 
+          <i>Annual Report 2022</i>
+                    </source-info>
+               </sources>
+          </table-block>
+     </int-org-section>
+</int-org-entry>

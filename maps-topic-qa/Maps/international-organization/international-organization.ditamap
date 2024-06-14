@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Int-org-entry</mainbooktitle>
+     </booktitle>
+     <chapter href="./content-types/int-org-entry.ditamap" format="ditamap" />
+     <chapter href="./content-types/int-org-group.ditamap" format="ditamap" />
+</bookmap>

@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL226208" sllink="SLSDOCRF" sllinkid="226207" slsdocid="216837" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="PL.DIR.484" id-root="pl.dir" iso="pl" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--sc1 12.07.2018 headline content checked-->
+                    <!--nb 19 04 2023 headline content checked-->
+                    <!--nb 20 07 2023 headline content checked-->
+                    <!--nb 26 04 2024 headline content checked-->
+                    <heading>Finance</heading>
+                    <dir-section id="PL.DIR.485" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Banking</heading>
+                         <p id="PL.DIR.486">In 2021 there were 30 commercial banks operating in Poland.</p>
+                         <!--ak 1.4.10 http://www.knf.gov.pl/en/about_the_market/Banking/index.html-->
+                         <dir-section id="PL.DIR.11678395161" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Supervisory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL1833146" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1833145" slsdocid="1833130" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.1167838991" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Polish Financial Supervision Authority</org-entry-name>
+                                                  <abbr>PFSA</abbr>
+                                                  <alt-name>Komisja Nadzoru Finansowego</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-549 Warsaw, ul. Piękna 20</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 2625000</telephone>
+                                                  <fax>(22) 2625111</fax>
+                                                  <email>knf@knf.gov.pl</email>
+                                                  <internet>www.knf.gov.pl</internet>
+                                             </address-block>
+                                             <found-date>2008 to succeed Financial Supervision Commission</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jacek</forename>
+                                                            <surname>Jastrzębski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marta</forename>
+                                                            <surname>Perycz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="PL.DIR.488" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>National Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL235018" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235017" slsdocid="217211" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.489" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--sb 17.04.2013;22.04.2014 figures not available-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Narodowy Bank Polski</org-entry-name>
+                                                  <abbr>NBP</abbr>
+                                                  <alt-name>National Bank of Poland</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-919 Warsaw, ul. Świętokrzyska 11/21, POB 1011</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 1851000</telephone>
+                                                  <email>listy@nbp.pl</email>
+                                                  <internet>www.nbp.pl</internet>
+                                             </address-block>
+                                             <found-date>1945</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Adam</forename>
+                                                            <surname>Glapiński</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="PL.DIR.490" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Other Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL1659336" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1659335" slsdocid="217201" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.499" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--SBE 18.12.2015 Merged with GE money bank in 2009-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank BPH SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>80-280 Gdańsk, ul. Cypriana Kamila Norwida 1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(58) 3007500</telephone>
+                                                  <email>kontaktbph@ge.com</email>
+                                                  <internet>www.bph.pl</internet>
+                                             </address-block>
+                                             <found-date>1989</found-date>
+                                             <content-note style="NORMAL">fmrly Bank Przemysłowo-Handlowy PBK SA; present name adopted in 2004</content-note>
+                                             <ownership>99.4% owned by GE Investments Poland</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Paweł</forename>
+                                                            <surname>Bandurski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235028" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235027" slsdocid="217205" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.495" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank Gospodarstwa Krajowego—BGK</org-entry-name>
+                                                  <alt-name>National Economy Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-955 Warsaw, Al. Jerozolimskie 7, POB 41</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 4757575</telephone>
+                                                  <fax>(22) 4758689</fax>
+                                                  <email>bgk@bgk.pl</email>
+                                                  <internet>www.bgk.pl</internet>
+                                             </address-block>
+                                             <found-date>1924</found-date>
+                                             <ownership>100% state-owned</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michał</forename>
+                                                            <surname>Prawdzic Łaszcz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mirosław</forename>
+                                                            <surname>Czekaj</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL531387" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="531386" slsdocid="217198" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.502" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc 31.03.2020 email confirmed at https://www.bankmillennium.pl/przedsiebiorstwa/kontakt role group confirmed athttps://www.bankmillennium.pl/documents/10184/27623516/Bank_Millennium_institutional_wrzesie%C5%84_2019_PL.2pptx.pdf/a19f9d81-19fa-40df-8703-a69fe4bece1d?t=1570450879743 stats not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank Millennium</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        02-593 Warsaw, Stanisława Żaryna 2
+                        <sc>a</sc>
+                                                       </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 5984040</telephone>
+                                                  <email>kontakt@bankmillennium.pl</email>
+                                                  <internet>www.bankmillennium.pl</internet>
+                                             </address-block>
+                                             <found-date>1989 as Bank Inicjatyw Gospodarczych (BIG)</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2003</content-note>
+                                             <ownership>50.1% owned by Banco Comercial Português SA (Portugal)</ownership>
+                                             <role-group>
+                                                  <role>Chair. of Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>João Bras</forename>
+                                                            <surname>Jorge</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235032" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235031" slsdocid="217203" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.497" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--nb 19 04 2023 no new appointment made so far for role group and the VP is managing the duties-->
+                                             <!--Sc 31.03.2020 stats not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank Ochrony Środowiska</org-entry-name>
+                                                  <abbr>BOS</abbr>
+                                                  <alt-name>Environmental Protection Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-382 Warsaw, ul. Żelazna 32</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 5433434</telephone>
+                                                  <email>bos@bosbank.pl</email>
+                                                  <internet>www.bosbank.pl</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">52.4% owned by Polish National Fund for the Protection of the Environment and Water</content-note>
+                                             <role-group>
+                                                  <role>Pres. of Man. Bd</role>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235033" slsdocid="217202" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.498" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Bank Pekao</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-950 Warsaw, ul. Grzybowska 53/57</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 6560000</telephone>
+                                                  <fax>(22) 6560004</fax>
+                                                  <email>info@pekao.com.pl</email>
+                                                  <internet>www.pekao.com.pl</internet>
+                                             </address-block>
+                                             <found-date>1929</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2017</content-note>
+                                             <ownership>20.0% owned by Powszechny Zakład Ubezpieczeń, 12.8% owned by Polski Fundusz Rozwoju</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Leszek</forename>
+                                                            <surname>Skiba</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Beata</forename>
+                                                            <surname>Kozłowska-Chyła</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5418701" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5418700" slsdocid="217206" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.494" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>BGZ BNP Paribas SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>01-211 Warsaw, ul. Kasprzaka 2</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 1340000</telephone>
+                                                  <fax>(22) 5669010</fax>
+                                                  <email>relacjeinwestorskie@bnpparibas.pl</email>
+                                                  <internet>www.bgzbnpparibas.pl</internet>
+                                             </address-block>
+                                             <found-date>1919</found-date>
+                                             <content-note style="NORMAL">present name adopted in 1994</content-note>
+                                             <content-note style="NORMAL">universal commercial bank</content-note>
+                                             <content-note style="NORMAL">finances agriculture, forestry and food processing</content-note>
+                                             <ownership>33.1% owned by European institutional investors</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Przemysław</forename>
+                                                            <surname>Gdański</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1231809" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1231808" slsdocid="217204" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.496" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Citibank Handlowy</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>01-249 Warsaw, ul. Goleszowska 6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 6577200</telephone>
+                                                  <email>listybh@citi.com</email>
+                                                  <internet>www.citibank.pl</internet>
+                                             </address-block>
+                                             <found-date>1870</found-date>
+                                             <content-note style="NORMAL">trade and finance bank</content-note>
+                                             <content-note style="NORMAL">specializes in corporate and investment banking</content-note>
+                                             <content-note style="NORMAL">fmrly Bank Handlowy w Warszawie (Trade Bank in Warsaw)</content-note>
+                                             <ownership>75% owned by Citibank Overseas Investment Corpn (USA)</ownership>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Elżbieta</forename>
+                                                            <surname>Światopełk-Czetwertyńska</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sławomir S.</forename>
+                                                            <surname>Sikora</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4458363" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4458362" slsdocid="531486" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.1051624488" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--Sc1 11.06.2019 CEO confirmed at https://www.linkedin.com/in/tomasz-kowalski-3ba7237/?originalSubdomain=pl https://www.money.pl/banki/po-16-latach-opuszcza-stanowisko-krzysztof-kalicki-juz-nie-jest-prezesem-deutsche-bank-polska-6375880229423235a.html -->
+                                             <!--sc1 11.06.2019 Chair of Bd confiremed at https://www.bloomberg.com/research/stocks/private/person.asp?personId=40273697&privcapId=9870832 stats not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Deutsche Bank Polska</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-609 Warsaw, Al. Armii Ludowej 26</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 4680680</telephone>
+                                                  <email>info.db@db.com</email>
+                                                  <internet>country.db.com/poland</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <ownership>100% owned by Deutsche Bank AG (Germany)</ownership>
+                                             <content-note style="NORMAL">corporate banking</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jörg</forename>
+                                                            <surname>Bongartz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tomasz</forename>
+                                                            <surname>Kowalski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235056" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235055" slsdocid="217190" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.509" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>ING Bank Śląski</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>40-086 Katowice, ul. Sokolska 34</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(32) 3570069</telephone>
+                                                  <email>investor@ing.pl</email>
+                                                  <internet>www.ingbank.pl</internet>
+                                             </address-block>
+                                             <found-date>1989</found-date>
+                                             <ownership>75% owned by ING Bank NV (Netherlands)</ownership>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Aleksander</forename>
+                                                            <surname>Galos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brunon</forename>
+                                                            <surname>Bartkiewicz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4330014" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330013" slsdocid="217195" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.504" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc 31.03.2020 email and stats confirmedat https://www.mbank.pl/pdf/relacje-inwestorskie/factsheet_mbankgroup_eng.pdf-->
+                                             <org-entry-head>
+                                                  <org-entry-name>mBank SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-950 Warsaw, ul. Senatorska 18, POB 728</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 8290000</telephone>
+                                                  <email>kontakt@mbank.pl</email>
+                                                  <internet>www.mbank.pl</internet>
+                                             </address-block>
+                                             <found-date>1987</found-date>
+                                             <content-note style="NORMAL">fmrly BRE Bank</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2013</content-note>
+                                             <content-note style="NORMAL">69.3% owned by Commerzbank AG (Germany)</content-note>
+                                             <content-note style="NORMAL">specializes in corporate banking</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Cezary</forename>
+                                                            <surname>Stypułkowski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235062" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235061" slsdocid="217187" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.512" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="02..07.2021" ticked-box="Y" />
+                                             <!--nb 19 04 2023 role groups confirmed from Press Releases https://media.pkobp.pl/238508-dariusz-szwed-powolany-na-stanowisko-prezesa-zarzadu-pko-banku-polskiego-->
+                                             <org-entry-head>
+                                                  <org-entry-name>PKO Bank Polski—Powszechna Kasa Oszczędności Bank Państwowy—PKO</org-entry-name>
+                                                  <alt-name>State Savings Bank</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>00-975 Warsaw, ul. Pulawska 15, POB 183</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 5316060</telephone>
+                                                  <email>informacje@pkobp.pl</email>
+                                                  <internet>www.pkobp.pl</internet>
+                                             </address-block>
+                                             <found-date>1919</found-date>
+                                             <content-note style="NORMAL">29.4% state-owned</content-note>
+                                             <role-group>
+                                                  <role>Pres. of Management Bd</role>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair. of Supervisory Bd</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Katarzyna</forename>
+                                                            <surname>Zimnicka-Jankowska</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--CROSS-REFERENCE: Kredobank (ID: pl.dir.512)-->
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL235066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235065" slsdocid="217184" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.514" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--Sc 01.04.2020 pres not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Raiffeisen Bank International AG</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>03-736 Warsaw, Plac Konesera 8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(22) 5785602</telephone>
+                                                  <email>customer@rbinternational.com</email>
+                                                  <internet>www.rbinternational.com.pl</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2013 after merger of Raiffeisen Bank Polska and Polbank EFG</content-note>
+                                             <ownership>100% owned by Raiffeisen International Bank Holding AG (Austria)</ownership>
+                                             <role-group>
+                                                  <role>Chair. and Gp CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Johann</forename>
+                                                            <surname>Strobl</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alexander</forename>
+                                                            <surname>Fleischmann</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6680702" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6680701" slsdocid="217199" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="PL.DIR.501" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--SC1 25.01.2018 tel and fax not confirmed-->
+                                             <!--Sc1 11.06.2019 tel and fax not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Santander Bank Polska S.A.</org-entry-name>
+                                                  <alt-name>Santander Bank Polska</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>50-950 Wrocław, Dolnośląskie Rynek 9/11</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(61) 8119999</telephone>
+                                                  <email>kontakt@santander.pl</email>
+                                                  <internet>www.santander.pl</internet>
+                                             </address-block>
+                                             <found-date>1989, renamed Bank Zachodni WBK in 2001</found-date>
+                                             <content-note style="NORMAL">renamed Santander Bank in Sept. 2019</content-note>
+                                             <content-note style="NORMAL">67.4% owned by Santander (Spain) since 2011</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Antonio</forename>
+                                                            <surname>Escámez Torres</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. of Man. Bd and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michał</forename>
+                                                            <surname>Gajewski</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="PL.DIR.515" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL235068" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235067" slsdocid="217182" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.517" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGE">
+                                        <org-entry-head>
+                                             <org-entry-name>Warsaw Stock Exchange</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-498 Warsaw, ul. Książęca 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 6283232</telephone>
+                                             <email>gpw@gpw.pl</email>
+                                             <internet>www.gpw.pl</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">opened for trading in 1991</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tomasz</forename>
+                                                       <surname>Bardziłowski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="PL.DIR.518" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Insurance</heading>
+                         <!--http://www.knf.gov.pl/en/about_the_market/Insurance/index.html-->
+                         <org-list>
+                              <org-entryref id="SL2933852" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2933851" slsdocid="2932969" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.1270120063" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--SC1 29.12.2018 role group confirmed at http://www.rp.pl/Wywiady/307319861-Veit-Stutz-Szukamy-nowego-banku.html-->
+                                        <!--sc1 11.06.2019 role goup confirmed at https://alebank.pl/matthias-baltin-prezesem-spolek-allianz-polska-jest-zgoda-knf/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Allianz Życie Polska</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>02-685 Warsaw, ul. Rodziny Hiszpańskich 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 4224224</telephone>
+                                             <email>rzecznik@allianz.pl</email>
+                                             <internet>www.allianz.pl</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <content-note style="NORMAL">life</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matthias</forename>
+                                                       <surname>Baltin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL235070" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235069" slsdocid="217180" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.520" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>Grupa Powszechny Zakład Ubezpieczeń</org-entry-name>
+                                             <abbr>PZU</abbr>
+                                             <alt-name>Polish National Insurance Group</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-133 Warsaw, Al. Jana Pawła II 24</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 5665555</telephone>
+                                             <email>kontakt@pzu.pl</email>
+                                             <internet>www.pzu.pl</internet>
+                                        </address-block>
+                                        <found-date>1803</found-date>
+                                        <content-note style="NORMAL">insurance group comprising two principal cos dealing in life and non-life insurance, and six support cos</content-note>
+                                        <role-group>
+                                             <role>Chief Exec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Beata</forename>
+                                                       <surname>Kozłowska-Chyła</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6051124" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6051123" slsdocid="2933223" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.1270122421" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--Sc1 29.01.2018 https://www.nn.pl/-/ing-zycie-oraz-ing-ofe-zmieniaja-nazwy-na-nationale-nederlanden-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nationale-Nederlanden Towarzystwo Ubezpieczeń na Życie</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-342 Warsaw, ul. Topiel 12</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 5227124</telephone>
+                                             <email>info@nn.pl</email>
+                                             <internet>www.nn.pl</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">present name adopted in 2015</content-note>
+                                        <ownership>wholly owned by NN Continental Europe Holdings BV (Netherlands)</ownership>
+                                        <found-date>1994</found-date>
+                                        <role-group>
+                                             <role>Pres. of the Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paweł</forename>
+                                                       <surname>Kacprzyk</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2933270" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2933269" slsdocid="2933249" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.1270122760" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--SC1 29.01.2018 Nordea Polska Towarzystwo Ubezpiecze&#160; na &#160;ycie SA was acquired by PKO Bank Polski SA and changed its name to PKO &#160;ycie Towarzystwo Ubezpiecze&#160; SA http://www.nordeazycie.pl/-->
+                                        <org-entry-head>
+                                             <org-entry-name>PKO Życie Towarzystwo Ubezpieczeń</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-872 Warsaw, ul. Chłodna 52</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 5410892</telephone>
+                                             <email>zycie@pkoubezpieczenia.pl</email>
+                                             <internet>pkoubezpieczenia.pl</internet>
+                                        </address-block>
+                                        <found-date>2014</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2014</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leszek</forename>
+                                                       <surname>Skop</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2933319" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2933318" slsdocid="2933302" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.1270123583" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--SBE president name not updated-->
+                                        <!--Sc 03.04.2020 email not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>UNIQA Towarzystwo Ubezpieczeń na Życie</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-867 Warsaw, ul. Chłodna 51</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 5999522</telephone>
+                                             <email>centrala@uniqa.pl</email>
+                                             <internet>www.uniqa.pl</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <ownership>98.6% owned by UNIQA internationale Beteiligungs-Verwaltungs GmbH</ownership>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marcin</forename>
+                                                       <surname>Nedwidek</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL235072" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="235071" slsdocid="217177" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="PL.DIR.523" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--Sc1 29.01.2018 tel and fax confirmed at https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=20385704-->
+                                        <!--Sc 03.04.2020 Email and tel confirmed at https://media.warta.pl/kontakt/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Warta—Towarzystwo Ubezpieczeń i Reasekuracji Warta</org-entry-name>
+                                             <alt-name>Warta Insurance and Reinsurance Co</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-843 Warsaw, rondo I. Daszyńskiego 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 2723057</telephone>
+                                             <email>rzecznik@warta.pl</email>
+                                             <internet>www.warta.pl/spolka-tuir/#spółka-tuir</internet>
+                                        </address-block>
+                                        <found-date>1920</found-date>
+                                        <content-note style="NORMAL">marine, air, motor, fire, luggage and credit insurance</content-note>
+                                        <ownership>75.7% owned by Talanx International AG; 24.3% owned by Meiji Yasuda Life Insurance Co</ownership>
+                                        <role-group>
+                                             <role>Chair. of Man. Bd</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jarosław</forename>
+                                                       <surname>Parkot</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 31.03.2010 email address not verified-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

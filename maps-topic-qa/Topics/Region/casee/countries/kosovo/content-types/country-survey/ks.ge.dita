@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<country-survey id="KS.GE" id-root="ks" iso="none" print-style="PGWIDTH" sect-type="geography" usage="casee"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <country-head>Kosovo</country-head>
+     <heading>Geography</heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee">Kosovo</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE">Geography</alt-heading>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Physical Features</heading>
+          <p id="KS.GEOG.1">The Republic of Kosovo (Kosova), which declared independence from Serbia in February 2008, is situated in the central Balkan Peninsula, in South-Eastern Europe, and is landlocked. There are borders with Serbia in the north-west and north-east, North Macedonia in the south, Albania in the south-west, and with Montenegro to the west.</p>
+          <p id="YU.GEOG.2">Kosovo occupies a plateau, and the principal river is the Ibër (Ibar), which flows north into Serbia. The total area of Kosovo is 10,908 sq&#160;km (4,212 sq&#160;miles).</p>
+     </gen-section>
+     <gen-section id="KS.GEOG.12168005791" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Climate</heading>
+          <p>The climate is continental, and has both Mediterranean and alpine influences. On average, there are 160 rainy days a year. In 2022, the average maximum temperature was in July (30.5°C), while the average minimum temperature was in February (-4.4°C).In 2022 the highest average monthly temperature was recorded in July 30.5°C (86.9°F), and the lowest average monthly temperature was −4.4°C (24.1°F), recorded in February.</p>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Population</heading>
+          <p id="KS.GEOG.4">
+               <!--a bit more about Albanian language (its origin/lack of relationship with other langs?)-->
+      The principal language in Kosovo is Albanian, although the Serb population speak Serbian. Albanian is written in the Latin script. Serbian (formerly known as the 
+      <i>ekavian</i>
+       dialect of Serbo-Croat) was previously written exclusively in the Cyrillic script, but has also begun to appear in the Latin script. According to the Constitution of June 2008, both Albanian and Serbian have official status throughout Kosovo, while Turkish, Bosnian (also formerly considered a variant of Serbo-Croatian) and Roma may also be granted official status at municipal level.
+    </p>
+          <figure-group media="PRINT">
+               <figure filename="/raidtec/esdata/EUROPA/EECIS/GRAPHICS/EPS/Kosovo.lay" usage="PRINT" />
+          </figure-group>
+          <p id="KS.GEOG.5">The principal religion in Kosovo is Islam. Serbs are principally adherents of Orthodox Christianity, as represented by the Serbian Orthodox Church, while some Albanians are Roman Catholics.</p>
+          <p id="KS.GEOG.6">According to the results of the 2011 census, Kosovo (excluding four principally Serb-inhabited municipalities or districts in which no census was conducted) had a population of 1,739,825. By the end of 2022, according to official projections, the population was forecast to number 1,814,461, giving a population density of 166.3 per sq km. According to the 2011 census, 92.9% of the population were ethnic Albanians, 1.6% Bosniaks, 1.5% Serbs and 1.1% Turks. (However, the proportion of the population accounted for by Serbs was substantially understated, as no census was conducted in four principally Serb-inhabited municipalities: official estimates in January 2006 had determined that 5.3% of the population were Serbs.) The capital is Prishtina (Prishtinë—Priština), which had a total population of 207,708 at the end of 2016, according to official estimates. Other large towns include Prizren, in the south-west, with an estimated population of 189,058, and Ferizaj/Uroševac in the south (101,107).</p>
+     </gen-section>
+</country-survey>

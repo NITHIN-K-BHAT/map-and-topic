@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62122" sllink="SLSDOCRF" sllinkid="62121" slsdocid="59825" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LV.DIR.450" id-root="lv.dir" iso="lv" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="LV.DIR.451">Among Latvia’s principal tourist attractions are the historic centre of Rīga, with its medieval and art nouveau buildings, the extensive beaches of the Baltic coastline, and Gauja National Park, which stretches east of the historic town of Sigulda for nearly 100&#160;km.</p>
+                    <org-list>
+                         <org-entryref id="SL68862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68861" slsdocid="60006" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LV.DIR.453" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--MR 02.02.2023 Only address confirmed, website has no info-->
+                                   <!--KP 14.-6.2019 the email info@latvia.travel has been omitted from the website, there is a contact form instead-->
+                                   <!--sb 23.04.2015 info on tava.gov.lv/en-->
+                                   <!--sc1 30.01.2019 no info available-->
+                                   <org-entry-head>
+                                        <org-entry-name>Latvian Tourism Development Agency</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Pils laukums 4, Rīga 1050</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">6722-9945</telephone>
+                                        <internet>www.latvia.travel</internet>
+                                   </address-block>
+                                   <found-date>1993</found-date>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Armands</forename>
+                                                  <surname>Slokenbergs</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

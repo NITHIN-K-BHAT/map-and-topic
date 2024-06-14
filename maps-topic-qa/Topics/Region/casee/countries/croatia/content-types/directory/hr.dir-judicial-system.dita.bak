@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL61956" sllink="SLSDOCRF" sllinkid="61955" slsdocid="58410" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HR.DIR.190" id-root="hr.dir" iso="hr" sect-type="judicial" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Judicial System</heading>
+                    <!--MR 05.04.2022 Checked role groups-->
+                    <p id="HR.DIR.191">The Supreme Court is the highest judicial body in the country, comprising 42 judges; the President of the Supreme Court is elected for a four-year term, renewable once. The Constitutional Court consists of 13 judges, elected by the Assembly (Sabor) for a period of eight years.</p>
+                    <org-list>
+                         <org-entryref id="SL1148380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1148379" slsdocid="58773" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HR.DIR.195" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--IG Pres of Electoral Commission is always also the Pres of the Supreme Court; current term end in July 2021-->
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Zagreb, trg Nikole Šubića Zrinskog 3</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 4862222</telephone>
+                                        <fax>(1) 4810035</fax>
+                                        <email>vsrh@vsrh.hr</email>
+                                        <internet>www.vsrh.hr</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Radovan</forename>
+                                                  <surname>Dobronić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL67096" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67095" slsdocid="58774" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HR.DIR.194" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Zagreb, Marka trg 4</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 6400250</telephone>
+                                        <fax>(1) 4551055</fax>
+                                        <email>ustavni_sud@usud.hr</email>
+                                        <internet>www.usud.hr</internet>
+                                   </address-block>
+                                   <found-date>1991</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Miroslav</forename>
+                                                  <surname>Šeparović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL7397629" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7397628" slsdocid="58772" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HR.DIR.196" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>State Attorney’s Office of the Republic of Croatia</org-entry-name>
+                                        <abbr>DORH</abbr>
+                                        <alt-name>Državno Odvjetništvo Republike Hrvatske</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    10000 Zagreb, Gajeva 30
+                    <sc>a</sc>
+                                             </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 4591888</telephone>
+                                        <fax>(1) 4591854</fax>
+                                        <email>pisarnica@dorh.hr</email>
+                                        <internet>www.dorh.hr</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">a body of the DORH, the Croatian State Prosecutor's Office for the Suppression of Organized Crime and Corruption (USKOK), is tasked with cases of corruption and organized crime</content-note>
+                                   <role-group>
+                                        <role>Attorney-General</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ivan</forename>
+                                                  <surname>Turudić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1148373" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1148372" slsdocid="1148365" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="HR.DIR.1107971018" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>State Judicial Council</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>10000 Zagreb, trg Vukovara 49</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(1) 6040940</telephone>
+                                        <fax>(1) 6040905</fax>
+                                        <email>pisarnica@dsv.pravosudje.hr</email>
+                                        <internet>www.dsv.pravosudje.hr</internet>
+                                   </address-block>
+                                   <found-date>2010</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Darko</forename>
+                                                  <surname>Milković</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

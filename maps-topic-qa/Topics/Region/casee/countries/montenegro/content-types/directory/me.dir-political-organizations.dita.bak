@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1654050" sllink="SLSDOCRF" sllinkid="1654049" slsdocid="1652448" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="ME.1152090711" id-root="me.dir" iso="me" sect-type="political-orgs" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <!--MR 19.04.2022 role groups checked-->
+                    <heading>Political Organizations</heading>
+                    <org-list>
+                         <org-entryref id="SL5536780" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5536779" slsdocid="1799237" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163436297" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--MR 09.02.2021 Only role group confirmed-->
+                                   <!--NS 17.01.2018 role group http://www.fokuspress.com/u-fokusu/4955-okupljanje-partija-u-gusinju-albanska-alternativa-potpisala-sporazum-o-saradnji-sa-albanskom-alijansom DH please use Albanian spelling of his forename, Gjergj (rather than derD/Djerdj) maybe give Albanian name of party? -->
+                                   <!--sc1 22.04.2020 no info available-->
+                                   <org-entry-head>
+                                        <org-entry-name>Alternativa Shqiptare</org-entry-name>
+                                        <alt-name>Albanian Alternative</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81206 Tuzi</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 404565</telephone>
+                                        <internet>www.facebook.com/alternativa.shqiptare.9</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">contested 2020 legislative elections as mem. of Albanska Lista (Albanian List) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nik</forename>
+                                                  <surname>Gjeloshaj</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL2607791" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2607790" slsdocid="1799080" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163434994" id-root="me" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Bošnjačka Stranka</org-entry-name>
+                                        <abbr>BS</abbr>
+                                        <alt-name>Bosniak Party</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>84310 Rožaje, Raduna Đukića b.b.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(51) 270164</telephone>
+                                        <fax>(51) 270165</fax>
+                                        <email>info@bscg.me</email>
+                                        <internet>www.bscg.me</internet>
+                                   </address-block>
+                                   <found-date>2006</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ervin</forename>
+                                                  <surname>Ibrahimović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8802641" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                         <org-entryref id="SL5531686" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5531685" slsdocid="3884539" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1351770084" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Demokratska Crna Gora</org-entry-name>
+                                        <abbr>DCG</abbr>
+                                        <alt-name>Democratic Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, ul. 8 Marta 72</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(20) 662397</telephone>
+                                        <email>demokrate.strucnasluzba@gmail.com</email>
+                                        <internet>demokrate.me</internet>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <content-note style="NORMAL">centrist party</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Aleksa</forename>
+                                                  <surname>Bečić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Gen. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Boris</forename>
+                                                  <surname>Bogdanović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5542741" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5542740" slsdocid="5542728" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1478519137" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Demokratska Narodna Partija Crne Gore</org-entry-name>
+                                        <abbr>DNP</abbr>
+                                        <alt-name>Democratic People’s Party of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, bul. Crnogorskih Serdara 77</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 674577</telephone>
+                                        <email>office@dnpcg.me</email>
+                                        <internet>www.dnpcg.me</internet>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <content-note style="NORMAL">mem. of Za Budućnost Crne Gore (For the Future of Montenegro) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Milan</forename>
+                                                  <surname>Knežević</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1652463" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1652462" slsdocid="288860" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.183" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Demokratska Partija Socijalista Crne Gore</org-entry-name>
+                                        <abbr>DPS</abbr>
+                                        <alt-name>Democratic Party of Socialists of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Jovana Tomaševića b.b.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 242971</telephone>
+                                        <email>info@dps.me</email>
+                                        <internet>www.dps.me</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">present name adopted in 1991</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Danijel</forename>
+                                                  <surname>Živković</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL2618049" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2618048" slsdocid="1797764" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163415685" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--MR 21.04.2023 Website is not reachable. role group not confirmed-->
+                                   <!--MR 15.07.2022 No recent info about role group-->
+                                   <org-entry-head>
+                                        <org-entry-name>Demokratska Srpska Stranka Crne Gore</org-entry-name>
+                                        <abbr>DSS</abbr>
+                                        <alt-name>Democratic Serbian Party of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Ivana Crnojevića 125</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 671277</telephone>
+                                        <email>dss@t-com.me</email>
+                                        <internet>www.dsscg.com</internet>
+                                   </address-block>
+                                   <found-date>2003</found-date>
+                                   <content-note style="NORMAL">centre-right</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dragica</forename>
+                                                  <surname>Perović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5753459" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5753458" slsdocid="5400429" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1467806478" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Demokratski Savez</org-entry-name>
+                                        <abbr>DEMOS</abbr>
+                                        <alt-name>Democratic Alliance</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Novaka Miloševa 46/1</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 240245</telephone>
+                                        <internet>demos.co.me</internet>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <content-note style="NORMAL">liberal conservative</content-note>
+                                   <content-note style="NORMAL">contested 2020 legislative elections as mem. of Mir je Naša Nacija (Peace is Our Nation) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Miodrag</forename>
+                                                  <surname>Lekić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8478140" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8478139" slsdocid="8478110" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1680694629" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Evropa Sad!</org-entry-name>
+                                        <abbr>ES!</abbr>
+                                        <alt-name>Europe Now!</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, ul. Baku 36</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 644344</telephone>
+                                        <email>info@evropasad.com</email>
+                                        <internet>evropasad.com</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">pro-European Union</content-note>
+                                   <found-date>2022</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Milojko</forename>
+                                                  <surname>Spajić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4585075" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4585074" slsdocid="2608029" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1239196050" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Forca e Re Demokratike/Nova Demokratska Snaga</org-entry-name>
+                                        <abbr>FORCA</abbr>
+                                        <alt-name>New Democratic Force</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>85360 Ulcinj, bul. Skenderbeu</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(30) 401760</telephone>
+                                        <email>info@forca.me</email>
+                                        <internet>forca.me</internet>
+                                   </address-block>
+                                   <found-date>2005</found-date>
+                                   <content-note style="NORMAL">contested 2020 legislative elections as mem. of Albanska Lista (Albanian List) coalition</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nazif</forename>
+                                                  <surname>Cungu</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4585065" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4585064" slsdocid="1801082" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163603757" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Hrvatska Građanska Inicijativa</org-entry-name>
+                                        <abbr>HGI</abbr>
+                                        <alt-name>Croatian Civic Initiative</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>85320 Tivat, Luke Tomanovića b.b.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(32) 660348</telephone>
+                                        <email>hgicg@t-com.me</email>
+                                        <internet>www.hgi.co.me</internet>
+                                   </address-block>
+                                   <found-date>2003</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Adrijan</forename>
+                                                  <surname>Vuksanović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL3882624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3882623" slsdocid="1799013" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163433828" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Liberalna Partija Crne Gore</org-entry-name>
+                                        <abbr>LPCG</abbr>
+                                        <alt-name>Liberal Party of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Južna tribina Gradskog stadiona, ulaz 5, ul. 19 Decembra</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(20) 220944</telephone>
+                                        <email>liberalnapartija@t-com.me</email>
+                                        <internet>www.lpcg.me</internet>
+                                   </address-block>
+                                   <found-date>2004</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vatroslav</forename>
+                                                  <surname>Belan</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Gen. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Esad-Esko</forename>
+                                                  <surname>Šainović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL4585078" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4585077" slsdocid="2607944" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1239192919" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Nova Srpska Demokratija</org-entry-name>
+                                        <abbr>NOVA</abbr>
+                                        <alt-name>New Serbian Democracy</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Hercegovachka 18</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(20) 651903</telephone>
+                                        <email>centar@nova.org.me</email>
+                                        <internet>nova.org.me</internet>
+                                   </address-block>
+                                   <found-date>2009</found-date>
+                                   <content-note style="NORMAL">f. Demokratski Front (DF) in 2012; mem. of Za Budućnost Crne Gore (For the Future of Montenegro) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Andrija</forename>
+                                                  <surname>Mandić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8183932" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8183931" slsdocid="8183927" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1658847444" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Partia Demokratike</org-entry-name>
+                                        <abbr>PD</abbr>
+                                        <alt-name>Democratic Party</alt-name>
+                                   </org-entry-head>
+                                   <found-date>2010</found-date>
+                                   <content-note style="NORMAL">conservative, Albanian</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Fatmir</forename>
+                                                  <surname>Gjeka</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1799321" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1799320" slsdocid="1797787" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1163416398" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Pokret za Promjene</org-entry-name>
+                                        <abbr>PzP</abbr>
+                                        <alt-name>Movement for Changes</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, bul. Ivana Crnojevića 107</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(20) 269337</telephone>
+                                        <email>pzp@promjene.org</email>
+                                        <internet>www.promjene.org</internet>
+                                   </address-block>
+                                   <found-date>2002 as NGO</found-date>
+                                   <content-note style="NORMAL">became political party in 2006</content-note>
+                                   <content-note style="NORMAL">f. Demokratski Front (DF) in 2012</content-note>
+                                   <content-note style="NORMAL">supports European integration</content-note>
+                                   <content-note style="NORMAL">contested 2020 legislative elections as mem. of Za Budućnost Crne Gore (For the Future of Montenegro) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nebojša</forename>
+                                                  <surname>Medojević</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5542788" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5542787" slsdocid="5542750" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1478519829" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--KP 05.07.2019 details confirmed using facebook page https://www.facebook.com/radnickapartijapg/-->
+                                   <!--NS 17.01.2018 website not working only role group confirmed-->
+                                   <!--Sc 22.02.2020 https://www.in4s.net/maksim-vucinic-radnicka-partija-u-sluzbi-naroda-i-na-korist-drzavi/?lang=lat-->
+                                   <org-entry-head>
+                                        <org-entry-name>Radnička Partija</org-entry-name>
+                                        <abbr>RP</abbr>
+                                        <alt-name>Workers’ Party</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>c/o Skupština Crne Gore, 81000 Podgorica, Slobode 74</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="Y">(20) 687179</telephone>
+                                        <email>radnickapartijapg@gmail.com</email>
+                                        <internet>www.radnickapartija.me</internet>
+                                   </address-block>
+                                   <found-date>2012</found-date>
+                                   <content-note style="NORMAL">mem. of Za Budućnost Crne Gore (For the Future of Montenegro) coalition</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Maksim</forename>
+                                                  <surname>Vučinić</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8802640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8802639" slsdocid="8183940" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1658848022" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Savez Građana CIVIS</org-entry-name>
+                                        <alt-name>Citizens’ Movement CIVIS</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Podgorica</verbatim-address>
+                                        </address>
+                                   </address-block>
+                                   <found-date>2020</found-date>
+                                   <content-note style="NORMAL">liberal, anti-corruption party</content-note>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Srđan</forename>
+                                                  <surname>Pavićević</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5289795" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5289794" slsdocid="5289771" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1460350694" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Socijaldemokrate Crne Gore</org-entry-name>
+                                        <abbr>SDCG</abbr>
+                                        <alt-name>Social Democrats of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Jovana Tomaševića 2</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 510015</telephone>
+                                        <fax>(20) 510013</fax>
+                                        <email>sd@sdcg.me</email>
+                                        <internet>sdcg.me</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Damir</forename>
+                                                  <surname>Šehović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Miloš</forename>
+                                                  <surname>Čelanović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1652475" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1652474" slsdocid="288836" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.206" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Socijaldemokratska Partija Crne Gore</org-entry-name>
+                                        <abbr>SDP</abbr>
+                                        <alt-name>Social Democratic Party of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Jovana Tomaševića b.b.</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 248648</telephone>
+                                        <fax>(20) 248748</fax>
+                                        <email>sdp@sdp.co.me</email>
+                                        <internet>sdp.co.me</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ivan</forename>
+                                                  <surname>Vujović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1652479" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1652478" slsdocid="288845" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.198" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="04.05.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Socijalistička Narodna Partija Crne Gore</org-entry-name>
+                                        <abbr>SNP</abbr>
+                                        <alt-name>Socialist People’s Party of Montenegro</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>81000 Podgorica, Vaka Đurovića 5</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 682570</telephone>
+                                        <fax>(20) 272421</fax>
+                                        <email>medijskicentarsnp@gmail.com</email>
+                                        <internet>www.snp.co.me</internet>
+                                   </address-block>
+                                   <found-date>1997</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vladimir</forename>
+                                                  <surname>Joković</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL5542718" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5542717" slsdocid="5542643" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1478518357" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Ujedinjena Reformska Akcija</org-entry-name>
+                                        <abbr>URA</abbr>
+                                        <alt-name>United Reform Action</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    81000 Podgorica, ul. Dalmatinska 130
+                    <sc>d</sc>
+                                             </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(20) 240222</telephone>
+                                        <email>info@ura.org.me</email>
+                                        <internet>ura.org.me</internet>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Dritan</forename>
+                                                  <surname>Abazović</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL6255435" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6255434" slsdocid="1677514" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="ME.DIR.1154008935" id-root="me.dir" iso="me" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Unionit Demokratik të Shqiptarëve</org-entry-name>
+                                        <abbr>UDSh</abbr>
+                                        <alt-name>Democratic Union of Albanians</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>85360 Ulcinj</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(30) 402024</telephone>
+                                        <email>udsh@t-com.me</email>
+                                        <internet>www.facebook.com/udsh.dua</internet>
+                                   </address-block>
+                                   <found-date>1993</found-date>
+                                   <content-note style="NORMAL">contested 2020 legislative elections as mem. of Albanska Koalicija (Albanian Coalition)</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Mehmed</forename>
+                                                  <surname>Zenka</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

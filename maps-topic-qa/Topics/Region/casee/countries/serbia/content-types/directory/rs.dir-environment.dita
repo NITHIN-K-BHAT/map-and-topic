@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL289582" sllink="SLSDOCRF" sllinkid="289581" slsdocid="288338" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RS.DIR.696" id-root="rs.dir" iso="rs" sect-type="environment" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>The Environment</heading>
+                    <dir-section id="RS.DIR.704" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Academic Institutes</heading>
+                         <org-list>
+                              <org-entryref id="SL291882" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291881" slsdocid="288397" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RS.DIR.706" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="The Environment" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ACADEMIC INSTITUTES">
+                                        <org-entry-head>
+                                             <org-entry-name>Institute for Plant Protection and the Environment</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11040 Belgrade, POB 936, T.&#160;Drajzera 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(11) 2660049</telephone>
+                                             <fax> (11) 2669860</fax>
+                                             <internet>www.izbis.org.rs</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Nenad</forename>
+                                                       <surname>Trkulja</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RS.DIR.707" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Non-Governmental Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL291890" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291889" slsdocid="288391" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RS.DIR.711" id-root="rs.dir" iso="rs" media="PRINTANDONLINE" print-only="NO" section="The Environment" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NON-GOVERNMENTAL ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Ecological Movement of Novi Sad</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>21000 Novi Sad, Vojvodanskih brigada 17/1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(21) 6372940</telephone>
+                                             <email>ekopokretns@gmail.com</email>
+                                             <internet>www.ekopokret.org.rs</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">environmental protection, affiliated with over 150 orgs, mostly schools and institutes</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nikola</forename>
+                                                       <surname>Aleksić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62080" sllink="SLSDOCRF" sllinkid="62079" slsdocid="59286" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LT.DIR.496" id-root="lt.dir" iso="lt" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Tourism</heading>
+                    <p id="LT.DIR.497">Tourist attractions in Lithuania include the historic cities of Vilnius, Kaunas, Kėdainiai, Trakai and Klaipėda, coastal resorts, such as Palanga and Kuršių Nerija, and picturesque countryside.</p>
+                    <org-list>
+                         <org-entryref id="SL8395568" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8395567" slsdocid="8395557" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LT.DIR.1675421944" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <org-entry-head>
+                                        <org-entry-name>Lithuania Travel</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Gedimino pr. 38, Vilnius 01104</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(6) 980-3509</telephone>
+                                        <email>info@lithuania.travel</email>
+                                        <internet>www.lithuania.travel</internet>
+                                   </address-block>
+                                   <found-date>2019</found-date>
+                                   <role-group>
+                                        <role>Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Olga</forename>
+                                                  <surname>Gončarova</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

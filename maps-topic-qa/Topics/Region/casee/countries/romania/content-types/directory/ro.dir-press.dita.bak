@@ -1,0 +1,1975 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL62154" sllink="SLSDOCRF" sllinkid="62153" slsdocid="60353" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RO.DIR.282" id-root="ro.dir" iso="ro" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <dir-section id="RO.DIR.285" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL70110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70109" slsdocid="60866" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.286" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 21.02.2022 Stats not confirmed-->
+                                        <!--NS 20.03.2017 only role group and circ. fig. confirmed-->
+                                        <!--Sc1 06.02.2019 only role group and email confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Adevărul</org-entry-name>
+                                             <alt-name>The Truth</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>077190 Bucharest, Şos. Fabrica de Glucoză 21/2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 8603057</telephone>
+                                             <fax>(372) 130068</fax>
+                                             <email>contact@adevarul.ro</email>
+                                             <internet>www.adevarul.ro</internet>
+                                        </address-block>
+                                        <found-date>1888</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dan</forename>
+                                                       <surname>Marinescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6214493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6214492" slsdocid="60846" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.306" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Argeşul</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>110177 jud. Argeş, Piteşti, Str. Republicii 88</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(24) 8217704</telephone>
+                                             <email>argesul@gmail.com</email>
+                                             <internet>www.ziarulargesul.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriel</forename>
+                                                       <surname>Lixandru</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70112" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70111" slsdocid="60864" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.287" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 21.02.2022 Website not working, no info found-->
+                                        <!--19.12.2005 historically affiliated w National Salvation Front-->
+                                        <org-entry-head>
+                                             <org-entry-name>Azi</org-entry-name>
+                                             <alt-name>Today</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>030167 Bucharest, Ion Cãmpineanu nr. 20, CP 45-49</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3141998</telephone>
+                                             <email>redactia@azi.ro</email>
+                                             <internet>www.eazi.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">online</content-note>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Octavian</forename>
+                                                       <surname>Ştireanu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093205" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093204" slsdocid="60839" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.318" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Bună Ziua Braşov</org-entry-name>
+                                             <alt-name>Good Afternoon Braşov</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>500240 jud. Braşov, Braşov, Str. Fundătura Hărmanului nr. 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(268) 547780</telephone>
+                                             <email>bzb@bzb.ro</email>
+                                             <internet>www.bzb.ro</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mirela</forename>
+                                                       <surname>Leontică</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093587" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093586" slsdocid="60810" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.364" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Ceahlăul</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>610263 jud. Neamţ, Piatra-Neamţ, Al. Tiparului 14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(233) 225282</telephone>
+                                             <email>publicitateceahlaul@gmail.com</email>
+                                             <internet>ziarulceahlaul.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <role-group>
+                                             <role>Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anamaria</forename>
+                                                       <surname>Rebegia</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70114" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70113" slsdocid="60863" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.288" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--NS 20.03.2017 ownership not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Cotidianul</org-entry-name>
+                                             <alt-name>The Daily</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>012327 Bucharest 1, Str. Parãngului 76</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(37) 1186253</telephone>
+                                             <email>redactia@cotidianul.ro</email>
+                                             <internet>www.cotidianul.ro</internet>
+                                        </address-block>
+                                        <found-date>1927</found-date>
+                                        <content-note style="NORMAL">revived in 1991</content-note>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">online only</content-note>
+                                        <content-note style="NORMAL">50% owned by Academia Caţavencu</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen. and Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cornel</forename>
+                                                       <surname>Nistorescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093665" slsdocid="60802" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.378" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Crai Nou</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>720059 jud. Suceava, Suceava, Str. Mihai Viteazul 32</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(230) 214723</telephone>
+                                             <email>contact@crainou.ro</email>
+                                             <internet>crainou.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cristian</forename>
+                                                       <surname>Vălianu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093623" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093622" slsdocid="60832" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.330" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Cuget Liber</org-entry-name>
+                                             <alt-name>Free Thinking</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>900711 jud. Constanţa, Constanţa, Şos. I.&#160;C. Brătianu 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(241) 582100</telephone>
+                                             <fax>(241) 619524</fax>
+                                             <email>office@cugetliber.ro</email>
+                                             <internet>www.cugetliber.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carmen</forename>
+                                                       <surname>Mocanu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70118" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70117" slsdocid="60861" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.290" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 21.02.2022 dir gen. not found, circ. not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Curierul Naţional</org-entry-name>
+                                             <alt-name>The National Courier</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010024 Bucharest, Str. Cristian Popişteanu 2-4, 5th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(40) 757279306</telephone>
+                                             <email>trafic@curierulnational.ro</email>
+                                             <internet>www.curierulnational.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <ownership>Gheorghe Constantin Paunescu</ownership>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stefan </forename>
+                                                       <surname>Radeanu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093657" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093656" slsdocid="60796" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.389" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Curierul de Vãlcea</org-entry-name>
+                                             <alt-name>Courier of Vãlcea</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>240591 jud. Vãlcea, Rãmnicu Vãlcea, Carol I/19</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(250) 732325</telephone>
+                                             <fax>(250) 732326</fax>
+                                             <email>office@curierul.ro</email>
+                                             <internet>www.curierul.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>daily except Sat. and Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">commerce</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valentin</forename>
+                                                       <surname>Mateescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098805" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098804" slsdocid="60812" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.361" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--MR 21.02.2022 Stats not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Cuvãntul Liber</org-entry-name>
+                                             <alt-name>The Free Word</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>540015 jud. Mureş, Tãrgu Mureş, Str. Gh. Doja 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(265) 267382</telephone>
+                                             <email>cuvantul-liber@mures.rdsmail.ro</email>
+                                             <internet>www.cuvantul-liber.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ioan</forename>
+                                                       <surname>Husar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098789" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098788" slsdocid="60827" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.337" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--MR 21.02.2022 Ditto-->
+                                        <!--sc1 06.02.2019 only email confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Cuvãntul Libertăţii</org-entry-name>
+                                             <alt-name>The Word of Liberty</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      200733 jud. Dolj, Craiova, Str. Nicolăescu Plopşor 2
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(251) 412457</telephone>
+                                             <fax>(251) 414141</fax>
+                                             <email>mediafax@mail.cvlpress.ro</email>
+                                             <internet>www.cvlpress.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mircea</forename>
+                                                       <surname>Canţăr</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 11.06.2013 circ fig could not be updated; details in pdf version of the newspaper-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098797" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098796" slsdocid="60828" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.335" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--MR 21.02.2022 Ditto-->
+                                        <!--Sc1 06.02.2019 editor and email not confirmed-->
+                                        <data-protection date-added="13.06.2018" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Dãmboviţa</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>130082 jud. Dãmboviţa, Tãrgovişte, bul. Unirii 32</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(245) 634017</telephone>
+                                             <internet>www.ziardambovita.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mircea</forename>
+                                                       <surname>Cotãrţă</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--NS 20.03.2017 editor name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093615" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093614" slsdocid="60845" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.308" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Deşteptarea</org-entry-name>
+                                             <alt-name>The Awakening</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>600011 jud. Bacău, Bacău, Str. Vasile Alecsandri 41</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(749) 258814</telephone>
+                                             <email>redactie@desteptarea.ro</email>
+                                             <internet>www.desteptarea.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Răzvan</forename>
+                                                       <surname>Bibire</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3261572" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3261571" slsdocid="60786" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.400" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Economistul</org-entry-name>
+                                             <alt-name>The Economist</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>040042 Bucharest 4, Splaiul Unirii 176, sala 33</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(21) 3124799</telephone>
+                                             <email>redactie@economistul.ro</email>
+                                             <internet>www.economistul.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Constantin</forename>
+                                                       <surname>Boştină</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Apostol</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 10.06.2013 not listed by AUDIT TIRAJE, http://www.brat.ro/-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098812" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098811" slsdocid="60844" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.310" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Erdélyi Napló</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>400027 jud. Kolozsvár, Str. Ferdinánd Király 37/14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(26) 4705205</telephone>
+                                             <email>office@erdelyinaplo.ro</email>
+                                             <internet>erdelyinaplo.ro</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>József</forename>
+                                                       <surname>Makkay</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093629" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093628" slsdocid="60818" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.352" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <data-protection date-added="09.06.2020" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Evenimentul</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>700124 jud. Iaşi, bul. Ştefan cel Mare şi Sfãnt 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(232) 246000</telephone>
+                                             <fax>(232) 211927</fax>
+                                             <email>redactie@ziarulevenimentul.ro</email>
+                                             <internet>www.ziarulevenimentul.ro</internet>
+                                        </address-block>
+                                        <found-date>1893</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dan</forename>
+                                                       <surname>Brezuleanu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70122" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70121" slsdocid="60859" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.292" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 21.02.2022 Not sure about role group-->
+                                        <!--sc1 06.02.2019 stats not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Evenimentul Zilei</org-entry-name>
+                                             <alt-name>The Event of the Day</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>011465 Bucharest 1, Bd. Marasti 65-67</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 5271111</telephone>
+                                             <fax>(21) 5271113</fax>
+                                             <email>secretariat@evzgroup.ro</email>
+                                             <internet>evz.ro</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">tabloid</content-note>
+                                        <content-note style="NORMAL">Bucharest, Transylvania and western regional editions</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Simona</forename>
+                                                       <surname>Ionescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP contact no from Romanian ABC website: http://www.brat.ro/index.php?page=ratecard&pub_id=3-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098830" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098829" slsdocid="60834" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.327" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Făclia de Cluj</org-entry-name>
+                                             <alt-name>Cluj Torch</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>401050 jud. Cluj, Cluj-Napoca, Str. Clinicilor 33</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(264) 450707</telephone>
+                                             <email>redactia@ziarulfaclia.ro</email>
+                                             <internet>ziarulfaclia.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">
+                  fmrly
+                  <i> Adevărul de Cluj</i>
+                   (Cluj Truth)
+                </content-note>
+                                        <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cosmin</forename>
+                                                       <surname>Puriş</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 11.06.2013 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1631848" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1631847" slsdocid="1631834" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1149592566" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily Newspapers">
+                                        <!--founded by staff from Adevarul-->
+                                        <org-entry-head>
+                                             <org-entry-name>Gãndul</org-entry-name>
+                                             <alt-name>Thought</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bucharest 1, Şos. Fabrica de Glucoza 21</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 8256410</telephone>
+                                             <email>publicitate@gandul.info</email>
+                                             <internet>www.gandul.info</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">online</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Livia</forename>
+                                                       <surname>Ispas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70124" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70123" slsdocid="60858" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.293" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 21.02.2022 Only email and role group confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Gazeta Sporturilor</org-entry-name>
+                                             <alt-name>Sports Gazette</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>051431 Bucharest 1, Şos. Dionisie Lupu 64-66</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 4066506</telephone>
+                                             <fax>(21) 2087484</fax>
+                                             <email>gazeta@gsp.ro</email>
+                                             <internet>www.gsp.ro</internet>
+                                        </address-block>
+                                        <found-date>1924</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cătălin</forename>
+                                                       <surname>Tolontan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093637" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093636" slsdocid="60824" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.343" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <data-protection date-added="08.07.2015" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Gorjeanul</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>210192 jud. Gorj, Tãrgu Jiu, Str. Tudor Vladimirescu 17</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(253) 214767</telephone>
+                                             <fax>(253) 213409</fax>
+                                             <email>redactie@gorjeanul.ro</email>
+                                             <internet>gorjeanul.ro</internet>
+                                        </address-block>
+                                        <found-date>1924</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anamaria</forename>
+                                                       <surname>Stoica</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098854" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098853" slsdocid="60815" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.356" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Graiul Maramureşului</org-entry-name>
+                                             <alt-name>The Voice of Maramureş</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>430051 jud. Maramureş, Baia Mare, Piaţa Revolutiei 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(262) 221017</telephone>
+                                             <email>graiul@graiul.ro</email>
+                                             <internet>www.graiul.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Pres. and Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vasile</forename>
+                                                       <surname>Iluţ</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098868" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098867" slsdocid="60807" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.370" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--NS 21.03.2017 role group http://www.graiulsalajului.ro/index.php?cmd=redactia-->
+                                        <org-entry-head>
+                                             <org-entry-name>Graiul Sălajului</org-entry-name>
+                                             <alt-name>Voice of Sălaj</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>450042 jud. Sălaj, Zalău, Str. Mihai Viteazul 14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(260) 611320</telephone>
+                                             <fax>(260) 612479</fax>
+                                             <email>graiulsj@unisys.ro</email>
+                                             <internet>www.graiulsalajului.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alina</forename>
+                                                       <surname>Rad</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093641" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093640" slsdocid="1107961" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1102353108" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="District Newspapers">
+                                        <org-entry-head>
+                                             <org-entry-name>Hargita Népe</org-entry-name>
+                                             <alt-name>People of Hargita</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>530190 jud. Harghita, Miercurea-Ciuc, Str. Timisoarei 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(72) 8001496</telephone>
+                                             <email>aruhaz@hargitanepe.ro</email>
+                                             <internet>hargitanepe.ro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>István</forename>
+                                                       <surname>Sarány</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098860" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098859" slsdocid="60829" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.333" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Háromszék</org-entry-name>
+                                             <alt-name>Three Chairs</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>520003 jud. Covasna, Sfãntu Gheorghe, Str. Mihai Viteazul 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(267) 351504</telephone>
+                                             <email>hpress@3szek.ro</email>
+                                             <internet>www.3szek.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">sociopolitical</content-note>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Botond</forename>
+                                                       <surname>Farcádi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70126" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70125" slsdocid="60857" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.294" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Jurnalul National</org-entry-name>
+                                             <alt-name>The National Journal</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      020335 Bucharest 2, bul. Dimitrie Pompeiu 9-9
+                      <sc>a</sc>
+                      , Complex Iride Business Park, Bldg 14
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(787) 802913</telephone>
+                                             <email>micapublicitate@jurnalul.ro</email>
+                                             <internet>jurnalul.ro</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <ownership>owned by Intact Production SRL</ownership>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adrian</forename>
+                                                       <surname>Cercelescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 10.06.2013 details page: http://jurnalul.ro/vechiul-site/promo/contact-501523.html-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70128" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70127" slsdocid="60856" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.295" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Libertatea</org-entry-name>
+                                             <alt-name>Freedom</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      020335 Bucharest 2, bul. Dimitrie Pompeiu 9-9
+                      <sc>a</sc>
+                      , Iride Business Park, Sector 2
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(729) 729000</telephone>
+                                             <email>redactie@libertatea.ro</email>
+                                             <internet>www.libertatea.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">owned by Ringier (Switzerland)</content-note>
+                                        <content-note style="NORMAL">
+                  Sun. edition, 
+                  <i>Libertatea de Duminica</i>
+                  , launched in 2002
+                </content-note>
+                                        <content-note style="NORMAL">tabloid</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dan</forename>
+                                                       <surname>Duca</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093649" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093648" slsdocid="1456841" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1134996635" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="District Newspapers">
+                                        <!--MR 22.02.2022 Role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mesagerul de Bistriţa-Năsăud</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>420074 jud. Bistriţa-Năsăud, Bistriţa, Str. Ursului 14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(263) 234689</telephone>
+                                             <email>redactie@mesagerulbn.ro</email>
+                                             <internet>mesagerulbn.ro</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">daily</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname>Lazar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 09.02.2011 email add on http://www.mesagerul.ro/2008/03/15/uniunea-ziaristilor-profesionisti-are-filiala-la-bistrita-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093661" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093660" slsdocid="60841" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.314" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--04/05 replaced untraceable Gazeta de Botosani, with one of a regional chain of papers-->
+                                        <!--sc1 07.02.2019 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Monitorul de Botoşani</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>710210 jud. Botoşani, Botoşani, Str. Mihail Kogălniceanu 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(231) 515053</telephone>
+                                             <fax>(231) 515130</fax>
+                                             <email>monitorul@monitorulbt.ro</email>
+                                             <internet>www.monitorulbt.ro</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cătălin</forename>
+                                                       <surname>Moraru</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 09.02.2011 details available on About Us page: http://www.monitorulbt.ro/redactia-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098848" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098847" slsdocid="60811" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.362" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Népújság</org-entry-name>
+                                             <alt-name>People’s Journal</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>540015 jud. Mureş, Tãrgu Mureş, Str. Gh. Doja 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(265) 266780</telephone>
+                                             <fax>(265) 266270</fax>
+                                             <email>nepujsag@e-nepujsag.ro</email>
+                                             <internet>www.e-nepujsag.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zsigmond</forename>
+                                                       <surname>Karácsonyi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093645" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093644" slsdocid="60837" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.321" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--sc107.02.2019 add not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Opinia</org-entry-name>
+                                             <alt-name>Opinion</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>jud. Buzău, Buzău, bul. Nicolae Bălcescu 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(238) 437802</telephone>
+                                             <email>opinia@opiniabuzau.ro</email>
+                                             <internet>opiniabuzau.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andreea</forename>
+                                                       <surname>Tudor</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093611" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093610" slsdocid="60808" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.368" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Prahova</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      100066 jud. Prahova, Ploieşti, Str. Democraţiei 28
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(244) 515691</telephone>
+                                             <email>publicitate@ziarulprahova.ro</email>
+                                             <internet>ziarulprahova.ro</internet>
+                                        </address-block>
+                                        <found-date>1870</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Luiza</forename>
+                                                       <surname>Radulescu-Pintilie</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 12.06.2013 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1631348" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1631347" slsdocid="1631340" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1149505891" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Dailies">
+                                        <!--sc1 06.02.2019 tel confirmed athttps://www.facebook.com/pg/prosport.ro/about/?ref=page_internal-->
+                                        <org-entry-head>
+                                             <org-entry-name>ProSport</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>077190 Bucharest 2, şos. Fabrica de Glucoză 21</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(777) 677678</telephone>
+                                             <email>redactia.prosport@prosport.ro</email>
+                                             <internet>www.prosport.ro</internet>
+                                        </address-block>
+                                        <found-date>1997</found-date>
+                                        <content-note style="NORMAL">sports news</content-note>
+                                        <content-note style="NORMAL">online only since Dec. 2013</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrei</forename>
+                                                       <surname>Trifan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098839" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098838" slsdocid="60800" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.382" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--MR 22.02.2022 Role groups not found-->
+                                        <!--NS 21.03.2017 editor name not confirmed-->
+                                        <!--sc1 07.02.2019 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Renaşţerea Bănăţeană</org-entry-name>
+                                             <alt-name>The Banat Renaissance</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>300024 jud. Timiş, Timişoara, Bd. Revoluţiei 1989/8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(256) 490145</telephone>
+                                             <fax>(256) 495317</fax>
+                                             <email>renasterea@renasterea.ro</email>
+                                             <internet>renasterea.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <content-note style="NORMAL">tabloid</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stefan</forename>
+                                                       <surname>Vartiade</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Octavian</forename>
+                                                       <surname>Roşa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL70130" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70129" slsdocid="60855" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.296" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Romãnia Libera</org-entry-name>
+                                             <alt-name>Free Romania</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bucharest 1, Unirea Shopping Center, 5th Floor</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3030308</telephone>
+                                             <email>redactie@romanialibera.ro</email>
+                                             <internet>romanialibera.ro</internet>
+                                        </address-block>
+                                        <found-date>1877</found-date>
+                                        <frequency>daily</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adelina</forename>
+                                                       <surname>Toader</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7098825" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7098824" slsdocid="60833" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.328" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <data-protection date-added="28.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Szabadság</org-entry-name>
+                                             <alt-name>Freedom</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>400009 jud. Cluj, Cluj-Napoca, Str. Napoca 16, POB 340</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(264) 596408</telephone>
+                                             <fax>(264) 597206</fax>
+                                             <email>office@szabadsag.ro</email>
+                                             <internet>szabadsag.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">organ of Minerva Cultural Asscn (non-governmental org.)</content-note>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <content-note style="NORMAL">online edition</content-note>
+                                        <content-note style="NORMAL">covers 5 counties</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ildikó</forename>
+                                                       <surname>Újvári</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093653" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093652" slsdocid="60804" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.374" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Szatmári Friss Újság</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>jud. Satu Mare, Satu Mare, Corneliu Coposu Sétány 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(261) 712024</telephone>
+                                             <email> frissujsag@frissujsag.ro</email>
+                                             <internet>www.frissujsag.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elek</forename>
+                                                       <surname>Anikó</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093633" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093632" slsdocid="60803" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.376" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--MR 22.02.2022 Ditto-->
+                                        <!--sc1 07.02.2019 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Tribuna</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>550013 jud. Sibiu, Sibiu, Str. Gheorghe Coşbuc 38</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(269) 211281</telephone>
+                                             <fax>(269) 214141</fax>
+                                             <email>red@tribuna.ro</email>
+                                             <internet>www.tribuna.ro</internet>
+                                        </address-block>
+                                        <found-date>1884</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mircea</forename>
+                                                       <surname>Bitu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname>Staicu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--NS 21.03.2017 editor name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093605" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093604" slsdocid="60848" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.302" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <!--NS 21.03.2017 role groups from old website http://unirea.3x.ro/redactia.html-->
+                                        <!--Sc1 07.02.2019 only add and tel confirmed at http://www.edituraunirea.ro/contact/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Unirea</org-entry-name>
+                                             <alt-name>The Union</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>510093 jud. Alba, Alba Iulia, Str. Decebal 27</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(258) 812464</telephone>
+                                             <email>unirea@unirea-pres.ro</email>
+                                             <internet>ziarulunirea.ro</internet>
+                                        </address-block>
+                                        <found-date>1891</found-date>
+                                        <frequency>daily except Sun.</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zelu</forename>
+                                                       <surname>Popa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anca</forename>
+                                                       <surname>Dinică</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 09.02.2011 (i) editor name not verified; (ii) details from old website: www.unirea.3x.ro; the new website as is standing does not provide any details, and BRAT website, http://www.brat.ro/index.php?page=publications&id=704&index=0-->
+                                        <!--TP 12.06.2013 editor name not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093597" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093596" slsdocid="60826" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.339" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Viaţa Libera</org-entry-name>
+                                             <alt-name>Free Life</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>800215 jud. Galaţi, Galaţi, Str. Domnească 68</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(23) 460620</telephone>
+                                             <email>redactie@viata-libera.ro</email>
+                                             <internet>www.viata-libera.ro</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriela</forename>
+                                                       <surname>Creţu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anca</forename>
+                                                       <surname>Spãnu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1456812" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1456811" slsdocid="1456805" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1134993628" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily Newspapers">
+                                        <org-entry-head>
+                                             <org-entry-name>Ziarul Financiar</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bucharest, str. Gheorghe Polizu 58-60</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 8256288</telephone>
+                                             <fax>(31) 8256285</fax>
+                                             <email>zf24@zf.ro</email>
+                                             <internet>www.zf.ro</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sorin</forename>
+                                                       <surname>Pislaru</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7093201" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7093200" slsdocid="60817" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.353" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <data-protection date-added="04.05.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Ziarul de Iaşi</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>700256 jud. Iaşi, Iaşi, Bd. N.&#160;Iorga 35</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(232) 271271</telephone>
+                                             <fax>(232) 270415</fax>
+                                             <email>redactie@ziaruldeiasi.ro</email>
+                                             <internet>www.ziaruldeiasi.ro</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Toni</forename>
+                                                       <surname>Hriţac</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.392" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL2632665" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632664" slsdocid="60793" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.393" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>22</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010093 Bucharest, Calea Victoriei 120</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3112208</telephone>
+                                             <fax>(21) 3141776</fax>
+                                             <email>redactia@revista22.ro</email>
+                                             <internet>revista22.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andreea</forename>
+                                                       <surname>Pora</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP details available on About Us page: http://www.revista22.ro/despre-noi.php-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632675" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632674" slsdocid="60792" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.394" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 22.02.2022 Role group not confirmed-->
+                                        <!--NS 21.03.2017 news report saying online only https://www.paginademedia.ro/2017/02/la-revedere-academia-catavencu-pe-hartie-dupa-27-de-ani-titlul-ramane-pe-online-->
+                                        <org-entry-head>
+                                             <org-entry-name>Academia Caţavencu</org-entry-name>
+                                             <alt-name>Caţavencu Academy</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>32266 Bucharest 3, Bd. Theodor Pallady 54-56</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 510282</telephone>
+                                             <email>redactia@academiacatavencu.info</email>
+                                             <internet>www.academiacatavencu.info</internet>
+                                        </address-block>
+                                        <found-date>1991 as a weekly publ., twice a month from 2014</found-date>
+                                        <content-note style="NORMAL">online only from 2017</content-note>
+                                        <content-note style="NORMAL">satirical</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sabin</forename>
+                                                       <surname>Orcan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632681" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632680" slsdocid="60789" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.397" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 22.02.2022 Ditto-->
+                                        <!--sc1 07.02.2019 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Bursa</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010804 Bucharest 1, Str. Popa Tatu 71</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(720) 220203</telephone>
+                                             <email>redactia@bursa.ro</email>
+                                             <internet>www.bursa.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">finance</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ancuţa</forename>
+                                                       <surname>Stanciu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--NS 21.03.2017 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632690" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632689" slsdocid="60788" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.398" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <data-protection date-added="10.06.2020" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Capital</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      011465 Bucharest 1, Bd. Marasti 65-67, Romexpo, Pavilionul 
+                      <sc>G</sc>
+                      4
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 5271112</telephone>
+                                             <fax>(21) 5271113</fax>
+                                             <email>publicitate@evz.ro</email>
+                                             <internet>www.capital.ro</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <frequency>Monthly</frequency>
+                                        <content-note style="NORMAL">economic and financial magazine</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sorin</forename>
+                                                       <surname>Andreiana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>circ. 5,000 (Dec. 2019)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632698" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632697" slsdocid="60785" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.401" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Contemporanul—Ideea Europeană</org-entry-name>
+                                             <alt-name>The Contemporanul—Ideea Europeană Journal</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>014780 Bucharest 1, Piaţa Amzei, Asociaţia Contemporanul, POB 113, Of. p. 22</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(21) 2125692</telephone>
+                                             <email>office@contemporanul.ro</email>
+                                             <internet>www.contemporanul.ro</internet>
+                                        </address-block>
+                                        <found-date>1881</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">cultural, political and scientific review; publ. by the Contemporanul Asociation</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aura</forename>
+                                                       <surname>Christi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632812" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632811" slsdocid="60759" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.429" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 28.02.2022 No info confirmed, website is outdated too-->
+                                        <!--NS 21.03.2017 only role group confirmed-->
+                                        <!--sc1 07.02.2019 it does not exist-->
+                                        <org-entry-head>
+                                             <org-entry-name>Cronica</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>700511 jud. Iaşi, Iaşi, Str. Păcurari 4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(232) 262140</telephone>
+                                             <email>cronica_iasi@yahoo.com</email>
+                                             <internet>www.revistacronica.wordpress.com</internet>
+                                        </address-block>
+                                        <found-date>1966</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">cultural review</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valeriu</forename>
+                                                       <surname>Stancu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <!--TP 13.06.2013 Erdelyi Figyelo REMOVED-->
+                              <org-entryref id="SL2632709" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632708" slsdocid="60782" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.404" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 28.02.2022 no recent info about role groups avail.-->
+                                        <!--NS 21.03.2017 editor name not confirmed Manolache no more editor for sure https://www.linkedin.com/in/istanescu/-->
+                                        <!--sc1 07.02.2019 role group confirmed at https://www.burda.ro/wp-content/uploads/2019/01/corectat-Mediakit-FEMEIA-2019-nou.pdf dir gen not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Femeia</org-entry-name>
+                                             <alt-name>Woman</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>031891 Bucharest, str. Drumeţului 54,, Sector 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 700702</telephone>
+                                             <email>office@burda.ro</email>
+                                             <internet>www.femeia.ro</internet>
+                                        </address-block>
+                                        <found-date>1868</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sandrin</forename>
+                                                       <surname>Apostoloiu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cătălina</forename>
+                                                       <surname>Oprea</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632713" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632712" slsdocid="60781" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.405" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--NS 21.03.2017 circ fig not updated-->
+                                        <org-entry-head>
+                                             <org-entry-name>Flacăra</org-entry-name>
+                                             <alt-name>The Flame</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>013701 Bucharest 1, Piaţa Presei Libere 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3179142</telephone>
+                                             <fax>(21) 3179143</fax>
+                                             <email>office@publicatiileflacara.ro</email>
+                                             <internet>revistaflacara.ro</internet>
+                                        </address-block>
+                                        <found-date>1911</found-date>
+                                        <frequency>monthly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Liliana</forename>
+                                                       <surname>Petruş</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5728228" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5728227" slsdocid="5728210" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1492675517" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 28.02.2022 Christian Raileanu is no longer the man. editor, no new name confirmed-->
+                                        <!--sc1 07.02.2019 add nad email confirmed at http://kamikazeonline.ro/contact-revista-kamikaze/-->
+                                        <!--sc1 07.02.2019 role group confirmed at https://www.facebook.com/cristian.raileanu.9-->
+                                        <org-entry-head>
+                                             <org-entry-name>KamiKaze</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bucharest 1, Str. Neajlovului 5</verbatim-address>
+                                             </address>
+                                             <email>office@kamikazeonline.ro</email>
+                                             <internet>kamikazeonline.ro</internet>
+                                        </address-block>
+                                        <found-date>2010</found-date>
+                                        <content-note style="NORMAL">satirical</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632792" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632791" slsdocid="60763" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.424" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <data-protection date-added="02.05.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Korunk</org-entry-name>
+                                             <alt-name>Our Time</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>400304 jud. Cluj, Cluj-Napoca, Str. Gen. Eremia Grigorescu 52</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(264) 375035</telephone>
+                                             <email>korunk@gmail.com</email>
+                                             <internet>korunk.org</internet>
+                                        </address-block>
+                                        <found-date>1926</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">social review</content-note>
+                                        <content-note style="NORMAL">in Hungarian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gyöngy</forename>
+                                                       <surname>Kovács Kiss</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632720" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632719" slsdocid="60776" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.410" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Magazin Istoric</org-entry-name>
+                                             <alt-name>Historical Magazine</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>050711 Bucharest 13, Septembrie 13</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3126877</telephone>
+                                             <email>mistoric@gmail.com</email>
+                                             <internet>www.magazinistoric.ro</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">review of historical culture</content-note>
+                                        <role-group>
+                                             <role>Chief Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dorin</forename>
+                                                       <surname>Matei</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>circ. 12,000 (2022)</stats>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4140940" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4140939" slsdocid="60784" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.402" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Monitorul Oficial</org-entry-name>
+                                             <alt-name>The Official Gazette</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>012329 Bucharest, Str. Parcului 65</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3185110</telephone>
+                                             <fax>(21) 3185109</fax>
+                                             <email>ramo@ramo.ro</email>
+                                             <internet>www.monitoruloficial.ro</internet>
+                                        </address-block>
+                                        <found-date>1832, re-established in 1991</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">official govt publication</content-note>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Costescu</forename>
+                                                       <surname>Adriana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632798" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632797" slsdocid="60762" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.425" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Napsugár</org-entry-name>
+                                             <alt-name>Sun Ray</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>400462 jud. Cluj, Constantin Brãncuşi 202/101, POB 137</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(264) 418001</telephone>
+                                             <email>naps.sziv@napsugar.ro</email>
+                                             <internet>www.napsugar.ro</internet>
+                                        </address-block>
+                                        <found-date>1956</found-date>
+                                        <content-note style="NORMAL">monthly; illustrated literary magazine for children aged 7-12 years</content-note>
+                                        <content-note style="NORMAL">in Hun­garian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Noemi</forename>
+                                                       <surname>Laszlo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <stats>circ. 10,000 (2021)</stats>
+                                        <!--TP 12.06.2013 editors name and circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632816" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632815" slsdocid="60758" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.431" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Orizont</org-entry-name>
+                                             <alt-name>Horizon</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>300085 jud. Timiş, Timişoara, Piaţa St Gheorghe 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(256) 294893</telephone>
+                                             <email>revorizont@gmail.com</email>
+                                             <internet>www.revistaorizont.ro</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">review of the Fundation Romãnia Literară (Writers’ Union) (Timişoara br.)</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mircea</forename>
+                                                       <surname>Mihăieş</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632759" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632758" slsdocid="60772" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.414" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Revista Romãnă de Statistică</org-entry-name>
+                                             <alt-name>Romanian Statistical Review</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>050706 Bucharest, Bd. Libertăţii 16</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3171110</telephone>
+                                             <email>rrs@insse.ro</email>
+                                             <internet>www.revistadestatistica.ro</internet>
+                                        </address-block>
+                                        <found-date>1952</found-date>
+                                        <frequency>quarterly</frequency>
+                                        <content-note style="NORMAL">organ of Romanian National Institute of Statistics</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bogdan</forename>
+                                                       <surname>Drăghia</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2632762" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632761" slsdocid="60771" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.415" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <!--MR 28.02.2022 Tele, fax and stats not confirmed-->
+                                        <!--SC 13.07.2016 CHanged as per reply. Accroding to ownweb, Ionela Stanciu referred to as editor along with tow other people. -->
+                                        <!--sc1 07.02.2019 tel fax and emial npt confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Romãnia Literară</org-entry-name>
+                                             <alt-name>Literary Romania</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010071 Bucharest, Calea Victoriei 133, Sector 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2127986</telephone>
+                                             <fax>(21) 2127981</fax>
+                                             <email>revistaromanialiterara@gmail.com</email>
+                                             <internet>romanialiterara.com</internet>
+                                        </address-block>
+                                        <found-date>1968</found-date>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">literary, artistic and political magazine</content-note>
+                                        <content-note style="NORMAL">publ. by the Fundation Romãnia Literară (Writers’ Union)</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicolae</forename>
+                                                       <surname>Manolescu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriel</forename>
+                                                       <surname>Chifu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5835614" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5835613" slsdocid="60799" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.383" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DISTRICT NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Timişoara</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>307105 jud. Timiş, Timişoara, Chevereşu Mare 108</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(736) 342861</telephone>
+                                             <email>ziarultimisoara@gmail.com</email>
+                                             <internet>www.ziarultimisoara.ro</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <frequency>weekly</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vasile</forename>
+                                                       <surname>Tomoiaga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7956853" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              <org-entryref id="SL2632784" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2632783" slsdocid="60764" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.422" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Vãnătorul şi Pescarul Romãn</org-entry-name>
+                                             <alt-name>The Romanian Hunter and Angler</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>020882 Bucharest 2, Calea Moşilor 128</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 3133363</telephone>
+                                             <email>revistavpr@yahoo.com</email>
+                                             <internet>agvps.ro</internet>
+                                        </address-block>
+                                        <found-date>1948</found-date>
+                                        <frequency>monthly review</frequency>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alin-Codru</forename>
+                                                       <surname>Manu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="RO.DIR.435" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL3270582" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3270581" slsdocid="60754" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.436" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Agerpres</org-entry-name>
+                                             <alt-name>Agenţia Romãnă de Presă</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>013701 Bucharest 1, Piaţa Presei Libere 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2076110</telephone>
+                                             <fax>(21) 3170707</fax>
+                                             <email>office@agerpres.ro</email>
+                                             <internet>agerpres.ro</internet>
+                                        </address-block>
+                                        <found-date>1889</found-date>
+                                        <content-note style="NORMAL">renamed as Rompress in 1989, and as above in 2008</content-note>
+                                        <content-note style="NORMAL">news and photo services</content-note>
+                                        <content-note style="NORMAL">in English and Hungarian</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Claudia Victoria</forename>
+                                                       <surname>Nicolae</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL719478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="719477" slsdocid="719460" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1069343656" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <!--MR 28.02.2022 Ditto-->
+                                        <!--sc1 08.02.2019 editorial dir not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mediafax</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010442 Bucharest 1, Str. Gheorghe Polizu 58-60</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(31) 8256410</telephone>
+                                             <fax>(31) 8256430</fax>
+                                             <email>vanzari@mediafax.ro</email>
+                                             <internet>www.mediafax.ro</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">general and business news</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cristian</forename>
+                                                       <surname>Dimitriu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriel</forename>
+                                                       <surname>Negreanu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

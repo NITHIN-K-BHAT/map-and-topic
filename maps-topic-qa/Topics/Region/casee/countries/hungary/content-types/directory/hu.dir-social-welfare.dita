@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52228" sllink="SLSDOCRF" sllinkid="52227" slsdocid="51481" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="HU.DIR.723" id-root="hu.dir" iso="hu" sect-type="social-welfare" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                    <heading>Social Welfare</heading>
+                    <p id="HU.DIR.724">Hungary’s national insurance scheme is based largely on non-state contributions. The Health Insurance Act, passed in 1992, made health insurance obligatory.</p>
+                    <p id="HU.DIR.725">There is a guaranteed minimum wage. Both men and women are usually entitled to receive retirement pensions at the age of 65 years. Unemployment benefit was introduced in January 1989. Sickness benefits are provided by social insurance. Most medical consultation and treatment is free, although there are charges towards the cost of medicines and medical appliances. Social insurance also covers maternity benefits (women are entitled to 24 weeks’ paid maternity leave), invalidity pensions, widows’ pensions and orphans' allowances.</p>
+                    <p>In April 2020, in response to the COVID-19 pandemic, the establishment of an Anti-Epidemic Protection Fund and an Economy Protection Fund, was announced. These sought to protect employment, by subsidizing wages, providing investment to support job creation, providing support for priority sectors and providing subsidized lending to businesses. In addition, pensioners were to receive an additional weekly payment each February during 2021-24.</p>
+                    <dir-section id="HU.DIR.729" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>National Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL7443662" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7443661" slsdocid="1094732" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.1100099607" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>National Centre for Public Health and Pharmacy</org-entry-name>
+                                             <alt-name>Nemzeti Népegészségügyi és Gyógyszerészeti Központ</alt-name>
+                                             <abbr>NNGYK</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1097 Budapest, Albert Flórián út 2-6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 476-1110</telephone>
+                                             <email>tisztifoorvos@nnk.gov.hu</email>
+                                             <internet>www.nnk.gov.hu</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">fmrly known as National Centre for Public Health (Nemzeti Népegészségügyi Központ)</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2023 after merger of National Public Health Centre (NNK) and the National Institute of Pharmacy and Nutrition (OGYÉI)</content-note>
+                                        <role-group>
+                                             <role>Chief Medical Officer</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Cecília</forename>
+                                                       <surname>Müller</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL53022" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53021" slsdocid="51599" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.735" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL AGENCIES">
+                                        <!--sc1 12.06.2018 as per website Zsolt Kiss is the acting Dir- gen. http://www.neak.gov.hu/felso_menu/rolunk/intezmeny_vezetosege/foigazgato-->
+                                        <!--Sc 18.06.2020 contact confirmed at http://www.oep.hu/felso_menu/rolunk/kozerdeku_adatok/tevekenysegre_mukodesre_vonatkozo_adatok/a_szerv_feladata_alaptevekenysege_es_hatarkore/en_a_szerv_alaptevekenyege_feladata_es_hatarkore role group not confirmed-->
+                                        <data-protection date-added="21.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>National Health Insurance Fund</org-entry-name>
+                                             <alt-name>Nemzeti Egészségbiztosítási Alapkezelő</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1139 Budapest, Váci u. 73/
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 350-2001</telephone>
+                                             <fax>(1) 298-2403</fax>
+                                             <email>neak@neak.gov.hu</email>
+                                             <internet>www.neak.gov.hu</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <content-note style="NORMAL">operates the health insurance system, participates in the preparation of laws concerning health insurance</content-note>
+                                        <content-note style="NORMAL">assesses, controls and finances the payment of benefits</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zsolt</forename>
+                                                       <surname>Kiss</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1094621" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1094620" slsdocid="1094614" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.1100095606" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Agencies">
+                                        <!--Sc 06.06.2022 tel add and dir gen at https://www.onyf.hu/en/central-administration-of-national-pension-insurance/impress.html email not confirmed-->
+                                        <!--sc1 12.06.2018 fax confirmed at http://www.allamkincstar.gov.hu/hu/elerhetosegek/call-center/-->
+                                        <!--sc1 12.06.2018 role group confirmed at https://nyugdijbiztositas.tcs.allamkincstar.gov.hu/en/central-administration-of-national-pension-insurance.html-->
+                                        <!--Sc 18.06.2002 email and fax not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>National Pension Insurance Central Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1081 Budapest, Fiumei u. 19
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 270-8000</telephone>
+                                             <email>onyf@onyf.allamkincstar.gov.hu</email>
+                                             <internet>www.onyf.hu</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>József</forename>
+                                                       <surname>Mészáros</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7443663" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="HU.DIR.736" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>Health and Welfare Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL53024" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53023" slsdocid="51597" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.7377" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HEALTH AND WELFARE ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Foundation for the Development of Democratic Rights</org-entry-name>
+                                             <alt-name>Demokratikus Jogok Fejleszteseert Alapitvany</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1052 Budapest, Apáczai Csere János u. 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N"> (1) 411-0410</telephone>
+                                             <email>info@demnet.org.hu</email>
+                                             <internet>www.demnet.org.hu</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">independent non-governmental org. supporting global development co-operation and equality</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eva</forename>
+                                                       <surname> Bördős</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL53026" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53025" slsdocid="51596" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.738" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HEALTH AND WELFARE ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Hungarian Helsinki Committee</org-entry-name>
+                                             <alt-name>Magyar Helsinki Bizottság </alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1074 Budapest, Dohány u. 20/2/9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(1) 321-4323</telephone>
+                                             <email>helsinki@helsinki.hu</email>
+                                             <internet>helsinki.hu</internet>
+                                        </address-block>
+                                        <found-date>1989</found-date>
+                                        <content-note style="NORMAL">civil rights org.; assistance to refugees from Ukraine</content-note>
+                                        <role-group>
+                                             <role>Co-Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Márta</forename>
+                                                       <surname>Padavi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Co-Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>András</forename>
+                                                       <surname>Kádár</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL53030" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53029" slsdocid="51594" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.740" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HEALTH AND WELFARE ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Hungarian Red Cross</org-entry-name>
+                                             <alt-name>Magyar Vöröskereszt</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1051 Budapest, Arany János u. 31</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 374-1300</telephone>
+                                             <email>sajto@voroskereszt.hu</email>
+                                             <internet>voroskereszt.hu</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Fodor</forename>
+                                                       <surname>Antal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>István</forename>
+                                                       <surname>Kardos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2373493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2373492" slsdocid="2373490" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.1215017951" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Health and Welfare Organizations">
+                                        <!--sc1 12.06.2108 fax and role group confirmed at https://karitasz.hu/kapcsolat/orszagos-kozpont-->
+                                        <org-entry-head>
+                                             <org-entry-name>Karitász—Katolikus Caritas Hungarica</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1115 Budapest, Bartók Béla u. 104</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 372-0910</telephone>
+                                             <fax>(1) 372-0914</fax>
+                                             <email>office@caritas.org.hu</email>
+                                             <internet>www.karitasz.hu</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">Catholic welfare org.</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Antal</forename>
+                                                       <surname>Spányi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL53036" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53035" slsdocid="51591" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.743" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HEALTH AND WELFARE ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Menedék—Hungarian Association for Migrants</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1081 Budapest, Népszínház u. 16</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 322-1502</telephone>
+                                             <email>menedek@menedek.hu</email>
+                                             <internet>menedek.hu</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">social services, integration of migrant children, inclusion, training and policy</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>András</forename>
+                                                       <surname>Kováts</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL53040" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="53039" slsdocid="51588" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="HU.DIR.745" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Social Welfare" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HEALTH AND WELFARE ORGANIZATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>SOS Children’s Villages Association</org-entry-name>
+                                             <alt-name>SOS Alapítvány</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1095 Budapest, Boráros tér. 4, POB 838</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 301-3160</telephone>
+                                             <email>adomanyinfo@sos.hu</email>
+                                             <internet>www.sos.hu</internet>
+                                        </address-block>
+                                        <found-date>1986</found-date>
+                                        <content-note style="NORMAL">three children’s villages in Battonya, Kecskemét, Köszeg and four youth facilities</content-note>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gergely</forename>
+                                                       <surname>Kiss</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

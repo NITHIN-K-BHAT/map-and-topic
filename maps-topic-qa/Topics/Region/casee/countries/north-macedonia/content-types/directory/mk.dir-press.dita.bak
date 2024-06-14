@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL184548" sllink="SLSDOCRF" sllinkid="184547" slsdocid="177248" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="MK.DIR.132" id-root="mk.dir" iso="mk" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>The Press</heading>
+                    <!--DH http://www.org.mk/dir/dir.aspx?cat=ma (in Cyrillic) seems to be a good overview of press, with links to websites? (accessed 21.07.04) still seems to be updated April 2010, although selection is limited, but still probably worth checking-->
+                    <dir-section id="MK.DIR.134" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL7906342" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7906341" slsdocid="7906323" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1645430997" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Koha</org-entry-name>
+                                             <alt-name>Time</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, bul. Goce Delçev 11</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3179904</telephone>
+                                             <fax>(2) 3118060</fax>
+                                             <email>koha@koha.com.mk</email>
+                                             <internet>www.koha.mk</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">in Macedonian and Albanian</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vedat</forename>
+                                                       <surname>Memedaliu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL200766" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200765" slsdocid="177280" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.139" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--sb 24.04.2015 address in reply is... 16-ta Makedonska brigada br.18...ownweb has Vasil Gjorgov 37s-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nova Makedonija</org-entry-name>
+                                             <alt-name>New Macedonia</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. Yurii Gagarin 15</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5511711</telephone>
+                                             <email>nm@novamakedonija.com.mk</email>
+                                             <internet>www.novamakedonija.com.mk</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ratko</forename>
+                                                       <surname>Lazarevski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marjan</forename>
+                                                       <surname>Veelevski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7906345" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7906344" slsdocid="7906300" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1645429053" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Skopje Diem</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Metodija Shatorov Sharlo 30</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2)3171451</telephone>
+                                             <email>dawndiem@gmail.com</email>
+                                             <internet>skopjediem.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">in English</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bojan</forename>
+                                                       <surname>Stojanovikj</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7061849" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061848" slsdocid="177281" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.138" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <org-entry-head>
+                                             <org-entry-name>Sloboden Pechat</org-entry-name>
+                                             <alt-name>Free Press</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Skopje, Kej 13 Noemvri</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5511763</telephone>
+                                             <email>isprati@pecat.mk</email>
+                                             <internet>www.slobodenpecat.mk</internet>
+                                        </address-block>
+                                        <found-date>2013</found-date>
+                                        <content-note style="NORMAL">centre-left</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Sasho</forename>
+                                                       <surname>Ordanoski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL200768" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200767" slsdocid="177279" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.140" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY NEWSPAPERS">
+                                        <!--MR 15.02.2022 Address and tele not confirmed-->
+                                        <!--sc1 22.02.2019 add and emailconfiemd at https://b-m.facebook.com/newspaperVecer/?__tn__=C-R-->
+                                        <org-entry-head>
+                                             <org-entry-name>Večer</org-entry-name>
+                                             <alt-name>The Evening</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. 5 132</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(7) 8300800</telephone>
+                                             <email>home@vecer.mk</email>
+                                             <internet>vecer.mk</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <frequency>5 a week; evening</frequency>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivona</forename>
+                                                       <surname>Talevska</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 07.06.2013 circ fig not updated-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.141" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL200772" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200771" slsdocid="177276" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.143" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--www.fokus.com.mk under construction-->
+                                        <!--MR 15.02.2020 No info on website, email and role not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Fokus</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. Vasil Glavinov 14-1/13</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(23) 222848</telephone>
+                                             <email>marketing.fokus@yahoo.com</email>
+                                             <internet>fokus.mk</internet>
+                                        </address-block>
+                                        <frequency>weekly</frequency>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zoran</forename>
+                                                       <surname>Dimitrovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7061856" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061855" slsdocid="177274" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.145" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Kapital</org-entry-name>
+                                             <alt-name>Capital</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, bul. VMRO 7, Bldg 1/1/6/31</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3298110</telephone>
+                                             <email>kapital@kapital.com.mk</email>
+                                             <internet>www.kapital.mk</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Igor</forename>
+                                                       <surname>Petrovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7906339" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7906338" slsdocid="7906334" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1645431676" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Republika</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, bul. Ilinden 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3299999</telephone>
+                                             <email>republika@republika.mk</email>
+                                             <internet>republika.mk</internet>
+                                        </address-block>
+                                        <found-date>2012</found-date>
+                                        <content-note style="NORMAL">weekly</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Biljana</forename>
+                                                       <surname>Babić</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.149" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL200784" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200783" slsdocid="177558" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.150" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <data-protection date-added="04.05.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Macedonian Information Agency</org-entry-name>
+                                             <alt-name>Makedonska Informativna Agencija</alt-name>
+                                             <abbr>MIA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, ul. Plostad Presveta Bogorodica 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2461600</telephone>
+                                             <email>mia@mia.mk</email>
+                                             <internet>mia.mk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">news service in Macedonian, Albanian and English</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir and Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dragan</forename>
+                                                       <surname>Antonovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3252054" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3252053" slsdocid="3252033" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.1296543545" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Macedonian Information Centre</org-entry-name>
+                                             <alt-name>Makedonski Informativen Centar</alt-name>
+                                             <abbr>MIC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Naum Naumovski Borce 73</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(2) 3117876</telephone>
+                                             <email>contact@micnews.com.mk</email>
+                                             <internet>micnews.com.mk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">English</content-note>
+                                        <content-note style="NORMAL">independent</content-note>
+                                        <role-group>
+                                             <role>Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dragan</forename>
+                                                       <surname>Antonov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL200786" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200785" slsdocid="177557" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.151" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <!--sc1 22.02.2019 role group not confirmer=d-->
+                                        <data-protection date-added="03.05.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Makfax</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1000 Skopje, 11 Oktomvri 33
+                      <sc>a</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(78) 499783</telephone>
+                                             <email>redakcija@makfax.com.mk</email>
+                                             <internet>makfax.com.mk</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">inde­pendent</content-note>
+                                        <content-note style="NORMAL">provides daily regional news service</content-note>
+                                        <content-note style="NORMAL">in Macedonian, Albanian and English</content-note>
+                                        <role-group>
+                                             <role>Editors</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bojan</forename>
+                                                       <surname>Efremov</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Veronika</forename>
+                                                       <surname>Koceva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="MK.DIR.152" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Press Association</heading>
+                         <org-list>
+                              <org-entryref id="SL200788" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200787" slsdocid="177555" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="MK.DIR.153" id-root="mk.dir" iso="mk" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Journalists’ Association of Macedonia</org-entry-name>
+                                             <abbr>ZNM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Skopje, Gradski zid 13</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 3298139</telephone>
+                                             <email>contact@znm.org.mk</email>
+                                             <internet>znm.org.mk</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mladen</forename>
+                                                       <surname>Cadikovski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

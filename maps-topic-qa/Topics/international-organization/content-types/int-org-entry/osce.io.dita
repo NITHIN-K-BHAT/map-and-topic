@@ -1,0 +1,1663 @@
+<?xml version="1.0"?>
+<int-org-entry id="OSCE.IO" id-root="osce.io" iso="osce.io" original-filename="gans24ai.txt" print-style="PGWIDTH" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee eerca"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <int-org-entry-head>
+          <int-org-name-group type="MAIN">
+               <org-entry-name>Organization for Security and Co-operation in Europe</org-entry-name>
+               <abbr>OSCE</abbr>
+          </int-org-name-group>
+     </int-org-entry-head>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb">International Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="edio">Major Non-UN Organizations</alt-heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="casee eerca">Regional Organizations</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb edio casee eerca">Organization for Security and Co-operation in Europe</alt-heading>
+     <int-org-block>
+          <address-block>
+               <address type="POSTAL">
+                    <verbatim-address>Wallnerstr. 6, 1010 Vienna, Austria</verbatim-address>
+               </address>
+               <telephone alsofax="N">(1) 514-36-0</telephone>
+               <fax>(1) 514-36-96</fax>
+               <email>info@osce.org</email>
+               <internet>www.osce.org</internet>
+          </address-block>
+          <p>The OSCE was established in 1972 as the Conference on Security and Co-operation in Europe (CSCE), providing a multilateral forum for dialogue and negotiation. The areas of competence of the CSCE were expanded by the Charter of Paris for a New Europe (1990), which transformed the CSCE from an ad hoc forum into an organization with permanent institutions, and the Helsinki Document 1992. In December 1994 the summit conference adopted the new name of OSCE, in order to reflect the organization's changing political role and strengthened secretariat.</p>
+          <int-org-section id="OSCE.IO.EERCA.131" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Participating States</heading>
+               <table-block-simple id="OSCE.IO.EERCA.132" type="OTHER">
+                    <table pgwide="NO" style="WITHOUT-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="6.7cm" />
+                              <colspec colwidth="6.7cm" />
+                              <colspec colwidth="6.6cm" />
+                              <tbody>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Albania</entry>
+                                        <entry style="NO-DOT-LEADER">Greece</entry>
+                                        <entry style="NO-DOT-LEADER">Poland</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Andorra</entry>
+                                        <entry style="NO-DOT-LEADER">Hungary</entry>
+                                        <entry style="NO-DOT-LEADER">Portugal</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Armenia</entry>
+                                        <entry style="NO-DOT-LEADER">Iceland</entry>
+                                        <entry style="NO-DOT-LEADER">Romania</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Austria</entry>
+                                        <entry style="NO-DOT-LEADER">Ireland</entry>
+                                        <entry style="NO-DOT-LEADER">Russian Federation</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Azerbaijan</entry>
+                                        <entry style="NO-DOT-LEADER">Italy</entry>
+                                        <entry style="NO-DOT-LEADER">San Marino</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belarus</entry>
+                                        <entry style="NO-DOT-LEADER">Kazakhstan</entry>
+                                        <entry style="NO-DOT-LEADER">Serbia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Belgium</entry>
+                                        <entry style="NO-DOT-LEADER">Kyrgyzstan</entry>
+                                        <entry style="NO-DOT-LEADER">Slovakia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bosnia and Herzegovina</entry>
+                                        <entry style="NO-DOT-LEADER">Latvia</entry>
+                                        <entry style="NO-DOT-LEADER">Slovenia</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Bulgaria</entry>
+                                        <entry style="NO-DOT-LEADER">Liechtenstein</entry>
+                                        <entry style="NO-DOT-LEADER">Spain</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Canada</entry>
+                                        <entry style="NO-DOT-LEADER">Lithuania</entry>
+                                        <entry style="NO-DOT-LEADER">Sweden</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Croatia</entry>
+                                        <entry style="NO-DOT-LEADER">Luxembourg</entry>
+                                        <entry style="NO-DOT-LEADER">Switzerland</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Cyprus</entry>
+                                        <entry style="NO-DOT-LEADER">Malta</entry>
+                                        <entry style="NO-DOT-LEADER">Tajikistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Czech Republic</entry>
+                                        <entry style="NO-DOT-LEADER">Moldova</entry>
+                                        <entry style="NO-DOT-LEADER">Türkiye (Turkey)</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Denmark</entry>
+                                        <entry style="NO-DOT-LEADER">Monaco</entry>
+                                        <entry style="NO-DOT-LEADER">Turkmenistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Estonia</entry>
+                                        <entry style="NO-DOT-LEADER">Mongolia</entry>
+                                        <entry style="NO-DOT-LEADER">Ukraine</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Finland</entry>
+                                        <entry style="NO-DOT-LEADER">Montenegro</entry>
+                                        <entry style="NO-DOT-LEADER">United Kingdom</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">France</entry>
+                                        <entry style="NO-DOT-LEADER">Netherlands</entry>
+                                        <entry style="NO-DOT-LEADER">USA</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Georgia</entry>
+                                        <entry style="NO-DOT-LEADER">North Macedonia</entry>
+                                        <entry style="NO-DOT-LEADER">Uzbekistan</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="NO-DOT-LEADER">Germany</entry>
+                                        <entry style="NO-DOT-LEADER">Norway</entry>
+                                        <entry style="NO-DOT-LEADER">Vatican City (Holy See)</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+               </table-block-simple>
+          </int-org-section>
+     </int-org-block>
+     <int-org-section id="OSCE.IO.EERCA.133" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Organization</heading>
+          <heading-note>April 2024</heading-note>
+          <int-org-section id="OSCE.IO.EERCA.134" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Summit Conference</heading>
+               <p>Heads of state or of government of OSCE participating states convene periodically to set priorities and the political orienta­tion of the organization. The seventh summit conference was convened, in Astana, Kazakhstan, in December 2010.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.135" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Ministerial Council</heading>
+               <p>The Ministerial Council (formerly the Council of Foreign Ministers) comprises ministers responsible for foreign affairs of member states. It is the central decision-making and governing body of the OSCE and meets every year in which no summit conference is held. The 30th Ministerial Council meeting was convened in Skopje, North Macedonia, in November-December 2023.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.137" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Permanent Council</heading>
+               <p>The Council, which is based in Vienna, Austria, is responsible for day-to-day operational tasks. Members of the Council, comprising the permanent representatives of member states to the OSCE, convene weekly. The Council is the regular body for political consultation and decision making, and may be convened for emergency purposes.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.138" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Forum for Security Co-operation </heading>
+               <p id="OSCE.IO.EERCA.67">The Forum for Security Co-operation (FSC), comprising representatives of delegations of member states, meets weekly in Vienna to negotiate and consult on measures aimed at strengthening security and stability throughout Europe. Its main objectives are negotiations on arms control, disarmament, and confidence- and security-building measures (CSBMs); regular consultations and intensive co-operation on matters related to security; and the further reduction of the risks of conflict. The FSC is also responsible for the implementation of CSBMs; the preparation of seminars on military doctrine; the holding of annual implementation assessment meetings; and the provision of a forum for the discussion and clarification of information exchanged under agreed CSBMs.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.139" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Chairperson-in-Office </heading>
+               <p>The OSCE Chairmanship is held by alternate member states, as designated by the Ministerial Council, for a one-year term. The Chairperson-in-Office (CiO) is the minister responsible for foreign affairs of the state holding the Chairmanship and is vested with overall responsibility for executive action. The CiO is supported by a troika of the preceding and incoming Chairpersons, and also by ad hoc steering groups, and by special or personal representatives mandated to address specific issues, crises or conflicts.</p>
+               <dir-list>
+                    <dir-entry id="OSCE.IO.EERCA.69" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Chairperson-in-Office (2024)</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Ian</forename>
+                                        <surname>Borg</surname>
+                                   </person-name>
+                                   <person-note>Malta</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.140" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Secretariat</heading>
+               <p>The Secretariat comprises the following principal elements: the Conflict Prevention Centre; the Transnational Threats Department (comprising an Action against Terrorism Unit, Strategic Police Matters Unit, and Border Security and Management Unit); the Office of the Special Representative and Co-ordinator for Combating Trafficking in Human Beings; the Office of the Co-ordinator of OSCE Economic and Environmental Activities; the Gender Equality Section; the Training Section; the External Co-operation Section; a Department of Human Resources; and the Department of Management and Finance, responsible for technical and administrative support activities. The OSCE maintains an office in Prague, Czech Republic (Czechia), which assists with documentation and information activities.</p>
+               <p>The Secretary-General is appointed by the Ministerial Council for a three-year term of office. The Secretary-General is the representative of the CiO and is responsible for the management of OSCE structures and operations.</p>
+               <dir-list>
+                    <!--~ Azerbaijan and Tajikistan blocked the reappointment of the Desir as RFoM, Turkey and Tajikistan blocked Gisladottir as ODIHR DIr-->
+                    <dir-entry id="OSCE.IO.EERCA.72" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Secretary-General</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Helga Maria</forename>
+                                        <surname>Schmid</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                                   <person-note>until 3 Sept. 2024</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Co-ordinator of Activities to Address Transnational Threats</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Alena</forename>
+                                        <surname>Kupchyna</surname>
+                                   </person-name>
+                                   <person-note>Belarus</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <!--Co-ordinator of OSCE Economic and Environmental Activities-->
+                    <dir-entry id="OSCE.IO.EERCA.73.1" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Director of Conflict Prevention Centre</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Tuula</forename>
+                                        <surname>Yrjölä</surname>
+                                   </person-name>
+                                   <person-note>Finland</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="edio">
+                         <dir-entry-name>Senior Adviser on Gender Issues</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Lara</forename>
+                                        <surname>Scarpitta</surname>
+                                   </person-name>
+                                   <person-note>Italy</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="OSCE.IO.EERCA.73.2" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                         <dir-entry-name>Special Representative and Co-ordinator for Combating Trafficking in Human Beings</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Kari</forename>
+                                        <surname>Johnstone</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+                    <dir-entry id="OSCE.IO.EERCA.73.4" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="eerca">
+                         <dir-entry-name>Special Representative for the South Caucasus</dir-entry-name>
+                         <person-group>
+                              <person>
+                                   <person-name>
+                                        <forename>Viorel</forename>
+                                        <surname>Moşanu</surname>
+                                   </person-name>
+                                   <person-note>Romania</person-note>
+                              </person>
+                         </person-group>
+                    </dir-entry>
+               </dir-list>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="OSCE.IO.100" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>OSCE Specialized Bodies</heading>
+          <org-list>
+               <org-entry id="OSCE.EERCA.77.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Office of the OSCE High Commissioner on National Minorities (HCNM)</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Prinsessegracht 22, 2514 AP The Hague, Netherlands</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(70) 3125500</telephone>
+                         <fax>(70) 3635910</fax>
+                         <email>hcnm@hcnm.org</email>
+                         <internet>www.osce.org/hcnm</internet>
+                    </address-block>
+                    <found-date>1992</found-date>
+                    <content-note style="NORMAL"> the High Commissioner is tasked with identifying ethnic tensions that have the potential to develop into conflict, thereby endangering peace, stability or relations between OSCE participating states, and to promote their early resolution; the High Commissioner—appointed by the Ministerial Council, on the recommendation of the Senior Council, for a 3-year term—provides strictly confidential reports to the OSCE CiO</content-note>
+                    <content-note style="NORMAL">in June 2023 launched, with the Council of Europe, an online collection of National Minority Standards</content-note>
+                    <content-note style="NORMAL">also in that month, concluded a Memorandum of Understanding with the Office of the UN High Commissioner for Refugees aimed at strengthening co-operation</content-note>
+                    <role-group>
+                         <role>High Commissioner</role>
+                         <person>
+                              <person-name>
+                                   <forename>Kairat</forename>
+                                   <surname>Abdrakhmanov</surname>
+                              </person-name>
+                              <person-note>Kazakhstan</person-note>
+                              <person-note>until 3 Sept. 2024</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OSCE.IO.EERCA.81.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>OSCE Office for Democratic Institutions and Human Rights </org-entry-name>
+                         <abbr>ODIHR</abbr>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>ul. Miodowa 10, 00-251 Warsaw, Poland</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(22) 520-06-00</telephone>
+                         <fax>(22) 520-06-05</fax>
+                         <email>office@odihr.pl</email>
+                         <internet>www.osce.org/odihr</internet>
+                    </address-block>
+                    <found-date>1999</found-date>
+                    <content-note style="NORMAL">ODIHR is responsible for pro­moting human rights, democracy and the rule of law</content-note>
+                    <content-note style="NORMAL">it provides a framework for the exchange of information on and the promotion of democracy building, respect for human rights and elections within OSCE states; co-ordinates the moni­toring of elections (deploying observation teams at the request of member states); and provides expertise and training on constitutional and legal matters.</content-note>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Matteo</forename>
+                                   <surname>Mecacci</surname>
+                              </person-name>
+                              <person-note>Italy</person-note>
+                              <person-note>until 3 Sept. 2024</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OSCE.IO.EERCA.85.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Office of the OSCE Representative on Freedom of the Media</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>Wallnerstr. 6, 1010 Vienna, Austria</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(1) 514-36-6800</telephone>
+                         <fax>(1) 514-36-6802</fax>
+                         <email>pm-fom@osce.org</email>
+                         <internet>www.osce.org/fom</internet>
+                    </address-block>
+                    <found-date>1997</found-date>
+                    <content-note style="NORMAL">aims to strengthen the implementation of OSCE commitments regarding free, independent and pluralistic media</content-note>
+                    <role-group>
+                         <role>Representative</role>
+                         <person>
+                              <person-name>
+                                   <forename>Teresa</forename>
+                                   <surname>Ribeiro</surname>
+                              </person-name>
+                              <person-note>Portugal</person-note>
+                         </person>
+                    </role-group>
+                    <role-group>
+                         <role>Dir</role>
+                         <person>
+                              <person-name>
+                                   <forename>Jürgen</forename>
+                                   <surname>Heissel</surname>
+                              </person-name>
+                              <person-note>Austria</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry id="OSCE.IO.EERCA.90.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>OSCE Parliamentary Assembly</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>(Secretariat) Tordenskjoldsgade 1, 1055 Copenhagen K, Denmark</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">33-37-80-40</telephone>
+                         <fax>33-37-80-30</fax>
+                         <email>osce@oscepa.dk</email>
+                         <internet>www.oscepa.org</internet>
+                    </address-block>
+                    <found-date>1991; inaugural session held in July 1992, in Budapest, Hungary</found-date>
+                    <content-note style="NORMAL">composed of 323 mems from 56 parliaments; comprises a Standing Committee, a Bureau and three General Cttees, supported by the Secretariat in Copenhagen; meets annually (2024: in Bucharest, Romania, in late June-early July)</content-note>
+                    <role-group>
+                         <role>Pres.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Pia</forename>
+                                   <surname>Kauma</surname>
+                              </person-name>
+                              <person-note>Finland</person-note>
+                         </person>
+                    </role-group>
+                    <role-group>
+                         <role>Sec.-Gen.</role>
+                         <person>
+                              <person-name>
+                                   <forename>Roberto</forename>
+                                   <surname>Montella</surname>
+                              </person-name>
+                              <person-note>Italy</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <!--Montella mandate renewed vii.19 Internal Oversight Management and Finance-->
+          </org-list>
+     </int-org-section>
+     <int-org-section id="OSCE.IO.EERCA.141" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>OSCE Related Bodies</heading>
+          <org-list>
+               <org-entry id="OSCE.IO.COURT.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>OSCE Court of Conciliation and Arbitration</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>23 ave de France, 1202 Geneva, Switzerland</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">227580025</telephone>
+                         <fax>227582510</fax>
+                         <email>info@oscecourt.org</email>
+                         <internet>www.osce.org/cca</internet>
+                    </address-block>
+                    <content-note style="NORMAL">an OSCE Convention on Conciliation and Arbitration, providing for the establishment of the Court, was concluded in 1992 and entered into effect in December 1994; the inaugural meeting of the Court was convened in May 1995; OSCE states party to the Convention may submit a dispute to the Court for settlement by the Arbitral Tribunal or the Conciliation Commission</content-note>
+                    <role-group>
+                         <role>Pres.</role>
+                         <person>
+                              <person-name>
+                                   <title>Prof.</title>
+                                   <forename>Emmanuel</forename>
+                                   <surname>Decaux</surname>
+                              </person-name>
+                              <person-note>France</person-note>
+                         </person>
+                    </role-group>
+               </org-entry>
+               <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Joint Consultative Group </org-entry-name>
+                         <abbr>JCG</abbr>
+                    </org-entry-head>
+                    <content-note style="NORMAL">the states parties to the Treaty on Conventional Armed Forces in Europe (CFE), which was concluded within the CSCE framework in 1990, est. the JCG, which met in Vienna, Austria, to address questions relating to compliance with the Treaty; enhancement of the effectiveness of the Treaty; technical aspects of the Treaty's implementation; and disputes arising out of its implementation</content-note>
+                    <content-note style="NORMAL">Russia suspended implementation of the CFE in 2007; in November 2011 NATO CFE allies determined to cease implementing certain CFE obligations with regard to Russia, in view of Russia’s continuing unilateral suspension of its obligations under the Treaty; however, they continued to implement the CFE with regard to Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Moldova and Ukraine (rendering it probable that Belarus was sharing relevant information with Russia); Russia withdrew from the JCG in March 2015, and withdrew fully from the Treaty on 7 November 2023; consequently, the NATO CFE allies determined at that time to suspend operation of the Treaty (including meetings of the JCG) `for as long as necessary’</content-note>
+               </org-entry>
+               <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                    <org-entry-head>
+                         <org-entry-name>Open Skies Consultative Commission</org-entry-name>
+                    </org-entry-head>
+                    <content-note style="NORMAL">promotes implementation of the Treaty on Open Skies, which was signed by members of NATO and the former members of the Warsaw Pact (with Russia, Belarus, Ukraine and Georgia taking the place of the dissolved Union of Soviet Socialist Republics) in March 1992 and entered into force in 2002</content-note>
+                    <content-note style="NORMAL">under the accord, unarmed aerial reconnaissance missions by one country over another are permitted, subject to regulation.</content-note>
+                    <content-note style="NORMAL"> meetings of the Commission are serviced by the OSCE Secretariat</content-note>
+                    <content-note style="NORMAL">in September 2018 Russian officials stated that the USA had—in breach of the Treaty’s provisions—refused to give Russian aircraft permission to fly over US territory; at the beginning of Oct. it was reported that the USA had reversed its stance and had agreed to certify Russian aircraft; on 22 November 2020 the USA withdrew from the Treaty, having alleged repeated violations of its provisions by Russia. In May 2021 the new US Administration of Joe Biden informed Russia that it would not rejoin; on 2 June the Russian Duma (parliamentary assembly) passed legislation that provided for Russia’s withdrawal from the Treaty</content-note>
+               </org-entry>
+               <!--~ apparently mainly used as a show of cooperation, given that satellite technology has taken over from taking photos from planes-->
+          </org-list>
+     </int-org-section>
+     <int-org-section id="OSCE.IO.EERCA.144" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+          <heading>Activities</heading>
+          <p>The OSCE has developed commitments in the following three security `dimensions’: politico-military (covering arms control, cybercrime, terrorism, conflict prevention and resolution, and military and police reform); economic and environmental (covering money-laundering, economies, energy, entrepreneurship, environment and good governance); and human (covering elections, freedom of the media and freedom of expression, human rights, minority issues, Roma and Sinti affairs, rule of law and tolerance). Cross-cutting transnational challenges include climate change; radicalization, terrorism and violent extremism; and organized crime, cybercrime and trafficking in arms, illicit drugs, and human beings.</p>
+          <p>In December 1994 the summit conference redesignated the CSCE as the Organization for Security and Co-operation in Europe and endorsed the role of the organization as the primary instrument for early warning, conflict prevention and crisis management in the region.</p>
+          <p>In December 2010 OSCE heads of state and of government, meeting in Kazakhstan, adopted the Astana Commemorative Declaration: Towards a Security Community, which reaffirmed the core principles and commitments of the OSCE. The Declaration asserted that commitments in the three security dimensions—i.e. politico-military, economic and environmental, and human—are matters of direct and legitimate concern to all participating states.</p>
+          <!--25th www.osce.org/event/mc_2018-->
+          <int-org-section id="IO-OSCE.001" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Politico-Military Dimension</heading>
+               <p usage="edio casee">In June 1991 the first meeting of the Council of Foreign Ministers (renamed in 1994 as the Ministerial Council), held in Berlin adopted a mechanism for consultation and co-operation in the case of emergency situations, to be implemented by the Council of Senior Officials (CSO; subsequently renamed the Senior Council, which was dissolved in 2006, with all functions transferred to the Permanent Council). A separate mechanism regarding the prevention of the outbreak of conflict was also adopted, whereby a country can demand an explanation of `unusual military activity' in a neighbouring country.</p>
+               <p usage="edio casee">These mechanisms were utilized in July 1991 in relation to the armed conflict in Yugoslavia between the Republic of Croatia and the Yugoslav Government. In August a meeting of the CSO resolved to reinforce the CSCE's mission in Yugoslavia and in September the CSO agreed to impose an embargo on the export of armaments to Yugoslavia. In October the CSO determined to establish an observer mission to monitor the observance of human rights in Yugoslavia.</p>
+               <p usage="edio">
+        In January 1992 the Council of Foreign Ministers agreed to alter the Conference's rule of decision making by consensus in order to allow the CSO to take appropriate action against a participating state `in cases of clear and gross violation of CSCE commitments'. This development was precipitated by the conflict in Yugoslavia, where the Yugoslav Government was held responsible by the majority of CSCE states for the continuation of hostilities, and, consequently, suspended from the grouping. The meeting also agreed that the CSCE should undertake fact-finding and conciliation missions to areas of tension. The meeting of heads of state and of government, held in Helsinki, Finland, in July, adopted the Helsinki Document, in which participating states defined the terms of future CSCE peacekeeping activities. Conforming broadly to UN practice, operations would be undertaken only with the full consent of the parties involved in any conflict and only if an effective ceasefire were in place. The CSCE may request the use of the military resources of the 
+        <xr pageref="N" ref="NATO.IO">North Atlantic Treaty Organization</xr>
+         (NATO), the Commonwealth of Independent States (CIS), the European Union (EU) or other international bodies. The Helsinki Document declared the CSCE a `regional arrangement' in the sense of Chapter VIII of the UN's Charter, which states that such a grouping should attempt to resolve a conflict in the region before referring it to the Security Council. The December 1994 summit conference, convened in Budapest, Hungary, adopted a Code of Conduct on Politico-Military Aspects of Security, which set out principles to guide the role of the armed forces in democratic societies. In December 1996 the summit conference convened in Lisbon, Portugal, adopted the Lisbon Declaration on a Common and Comprehensive Security Model for Europe for the 21st Century, committing all parties to pursuing measures to ensure regional security.
+      </p>
+               <p>The Treaty on Conventional Armed Forces in Europe (CFE), which had been negotiated within the framework of the CSCE, was signed in November 1990 by the member states of NATO and of the Warsaw Pact. The Treaty limits non-nuclear air and ground armaments in the signatory countries. The summit conference that was held in Lisbon, in December 1996 agreed to adapt the CFE Treaty, in order to further arms reduction negotiations on a national and territorial basis.</p>
+               <p>In November 1999 OSCE heads of state and of government, convened in İstanbul, Türkiye (Turkey), signed a Charter for European Security, which aimed to strengthen co-operation with other organizations and institutions concerned with international security and to formalize existing norms regarding the observance of human rights. The Charter focused on measures to improve the oper­ational capabilities of the OSCE in early warning, conflict prevention, crisis management and post-conflict rehabilitation. Accordingly, a Rapid Expert Assistance and Co-operation Teams (REACT) programme became operational in April 2001. The 1999 summit meeting also adopted a revised Vienna Document on confidence- and security-building measures and a Platform for Co-operative Security as a framework for co-operation with other organizations and institutions concerned with maintaining security in the OSCE area.</p>
+               <p>During OSCE’s November 1999 İstanbul summit the finalized Adapted CFE Treaty was signed, providing for a stricter system of limitations and increased transparency. A series of agreements or Commitments approved by the 1999 summit required Russia to withdraw forces from and reduce levels of military equipment in Georgia and Moldova, a process to be monitored by NATO. The Adapted Treaty was ratified by Belarus in 2000, by Kazakhstan in 2003, and by Russia in 2004. The Allied states, however, postponed ratification of the Adapted CFE Treaty pending Russia’s fulfilment of the 1999 Commitments. In December 2007, in view of the conditions that the NATO Allies had imposed in relation to their ratification of the Adapted CFE Treaty, the Russian Government suspended its obligations under the original CFE Treaty. In November 2011, in response to Russia’s continuing suspension of the CFE Treaty, NATO Allies also suspended certain of their obligations under the Treaty. Russia fully suspended participation in the CFE meetings framework in March 2015.</p>
+               <p>In December 2016 the Ministerial Council adopted a Declaration on efforts to counter Small Arms and Light Weapons (SALW) and stockpiles of conventional armaments and the need for ongoing and increased collaborative activities in that field. At that time OSCE projects had contributed to the destruction of an estimated 50,000 weapons and 18,000 metric tons of conventional ammunition. In December 2018 the Council adopted a Declaration on OSCE Efforts in the Field of Norms and Best Practices on SALW and Stockpiles of Conventional Ammunition.</p>
+               <p>In December 2001 the Ministerial Council, meeting in Romania, approved the Bucharest Plan of Action outlining the organization's contribution to countering terrorism. A Personal Representative for Terrorism was appointed by the CiO in January 2002. In December the Ministerial Council issued an OSCE Charter on Preventing Terrorism, which called upon member states to work together to counter, investigate and prosecute terrorist acts. The Charter also acknowledged the links between terrorism, organized crime and trafficking in human beings. </p>
+               <p>In December 2011 the Ministerial Council, convened in Vilnius, Lithuania, determined to establish a Transnational Threats Department, incorporating an Action against Terrorism Unit, within the Secretariat to co-ordinate and strengthen the organization’s capacity with regard to terrorism, violent extremism and cyber- and border security.</p>
+               <p>The 22nd Ministerial Council meeting, held in December 2015, adopted a declaration on preventing and countering violent extremism and radicalization that lead to terrorism, and in the following December the Ministerial Council adopted a declaration on strengthening OSCE terrorism prevention efforts. In May 2018 the OSCE helped to organize, with the Government of Tajikistan, the EU and the UN, an inaugural High-level International Conference on Countering Terrorism and Preventing Violent Extremism, in Dushanbe, Tajikistan (henceforth known as the Dushanbe Process). Within the framework of the Process a conference was convened in October 2022 on the theme `International and Regional Border Security and Management Cooperation to Counter Terrorism and Prevent the Movement of Terrorists’.</p>
+               <p usage="edio ewyb eerca">Since 2003 an Annual Security Review Conference has been convened as a forum for high-level consideration of current security challenges and means of addressing them. The 2023 edition, held in June, addressed the theme `Restoring peace and security, engaging in dialogue and rebuilding trust—For the people’.</p>
+               <p>During 2011 the Vienna Document 2011 (VDOC11) was formulated, with a focus on increasing openness and transparency relating to military activities, including exercises, conducted inside the OSCE's `zone of application’ (comprising all Europe and parts of Central Asia, including territory, air space, and surrounding sea areas). OSCE’s Conflict Prevention Centre facilitates the exchange of military information between member states within the VDOC11 framework and serves as the focal point for the systematic collection, collation, analysis and assessment of conflict early warning signals. The Centre also facilitates negotiation, mediation, and other conflict prevention and resolution efforts and supports post-conflict rehabilitation, in close co-operation with OSCE’s field missions. The Centre supports the OSCE Forum for Security Co-operation.</p>
+               <p>A Vienna-based OSCE Police Academies Network (PAN) was launched in June 2018.</p>
+               <!--The OSCE CiO and Secretary-General have condemned terrorist attacks committed in member states, including ...-->
+          </int-org-section>
+          <int-org-section id="IO-OSCE.002" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Economic and Environmental Dimension</heading>
+               <p>In 1993 the first annual OSCE Economic Forum was convened to focus on the transition to and development of free market economies as an essential aspect of democracy building. In November 1997 the position of Co-ordinator of OSCE Economic and Environmental Activities was created. The annual Forum was renamed as the Economic and Environment Forum in May 2007 to incor­por­ate consideration of environmental security matters. The Concluding Meeting of the 2022 Forum process (which had followed a longstanding three-meeting format) was held in Prague, in September. Introducing a new format, a 2023 Conference on the Economic and Environmental Dimension of the OSCE, organized in June of that year, in Struga, North Macedonia (`Struga Conference’), focused on: good governance and anti-corruption; energy security and co-operation in addressing challenges caused by climate change; and connectivity through transport and trade facilitation. In October OSCE helped to organize the 6th Vienna Energy Security Dialogue, themed `Looking Ahead: Shaping the Post-Crises Global Energy Markets’.</p>
+               <!--~ 2018 - new OSCE commitments related to issues where the concern of all participating states is converging, such as those stemming from increasingly digital economies. July 2012 - Monaco Declaration-->
+               <p>In December 2021 the Ministerial Conference adopted a resolution on collectively addressing the challenges arising from climate change. An OSCE High-level Conference on Climate Change was convened, in Vienna, in July 2023.</p>
+               <p usage="edio casee eerca">The OSCE, with the UN Environment Programme and other agencies, is a partner in the Environment and Security Initiative (ENVSEC), which was established in 2003 to assess and address environmental challenges that might pose security risks in South-Eastern Europe, Eastern Europe, the Southern Caucasus, and Central Asia.</p>
+               <p usage="casee eerca">Since 2002 the OSCE, in co-operation with the Secretariat of the Aarhus Convention, at the UN Economic Commission for Europe (UNECE), has supported the establishment of Aarhus Centres and Public Environmental Information Centres in member states, through its field offices and through the Office of the Co-ordinator of OSCE Economic and Environmental Activities. An Aarhus Clearinghouse collates information on legislation and practices relevant to the public's right to access environmental data and to participate in decision making on environmental matters.</p>
+               <p usage="eerca">In August 2022 the Office of the Co-ordinator of OSCE Economic and Environmental Activities staged a workshop aimed at advancing digital transformation at the municipal and regional levels in Ukraine.</p>
+          </int-org-section>
+          <int-org-section id="IO-OSCE.003" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Human Dimension</heading>
+               <p>The organization’s `Human Dimension Mechanism’, a tool for protecting human rights in member states, comprises two parts. Through the Vienna Mechanism (established in 1989) member states may raise questions relating to the situation in other OSCE States. Through the Moscow Mechanism (established in 1991) participating states may establish ad hoc missions of independent experts to conduct investigations of alleged human rights abuses in a member states and to support the resolution of any specific human dimension issue. The Moscow Mechanism may be invoked without organization-wide consensus and independently of the OSCE Chairmanship and other institutions, at the behest of one member state if supported by at least nine other member states. By March 2024 it had been invoked on 15 occasions.</p>
+               <p>ODIHR serves as the secretariat for the annual Human Dimension Conference (2023: Warsaw, in October), which provides a forum for government officials, experts and representatives of civil society to address issues of human rights and democracy. Supplementary Human Dimension Meetings may also be convened to debate specific topics. In 2023 Supplementary Meetings were held in March (to discuss the role of media freedom as a central pillar of regional security), in April (focused on combating torture and other grave breaches of international humanitarian law), and in June (to address the role of civil society organizations in promoting tolerance).</p>
+               <!--~ HDIM paused 2020-->
+               <p usage="edio casee">ODIHR is mandated to advise and support member states in integrating Roma and Sinti ethnic minorities, to address emerg­ing challenges confronting those communities, and to support capacity building activities (for example in the areas of education and civil engagement). An OSCE Action Plan on Improving the Situation of Roma and Sinti within the OSCE Area was endorsed by the Ministerial Council in December 2003. Status reports on the implementation of the Action Plan have been issued at five-yearly intervals. In August 2020, on the occasion of the 45th anniversary of the adoption of the Helsinki Final Act, ODIHR called for education on and remembrance of the genocide of up to 500,000 Roma and Sinti people perpetrated by the Nazi regime and its collaborators.</p>
+               <p usage="casee edio eerca">In June 2003 and April 2004 the OSCE organized two conferences that addressed anti-Semitism. The second conference issued the Berlin Declaration on Combating Anti-Semitism, which listed concrete measures—such as promoting education on the Holocaust—that were aimed at countering religious hatred.</p>
+               <p>In December 2003 the Ministerial Council adopted an Action Plan to Combat Trafficking in Human Beings, and approved the appointment of a Special Representative on Combating Trafficking in Human Beings, mandated to raise awareness of the issues and to ensure that member governments comply with international procedures and conventions. An Alliance against Trafficking in Persons was established under OSCE auspices in July 2004, with the aim of consolidating co-operation among international and non-governmental organizations. In December 2011 the Ministerial Council adopted a declaration on combating all forms of human trafficking. In December 2018 the 25th Ministerial Council adopted a decision on strengthening efforts to prevent and combat child trafficking, including of unaccompanied minors. </p>
+               <p-alternates default="EWYB" type="ALTERNATES">
+                    <p usage="ewyb edio">ODIHR’s agenda in the first half of 2024 covered the deployment of teams of election observers to monitor a presidential election in Finland (in January); an early presidential election in Azerbaijan (in February); local elections in Türkiye, presidential elections in Ukraine, Slovakia and Russia, as well as an early parliamentary election in Portugal (in March); local elections in the United Kingdom, and presidential polls in North Macedonia and Lithuania (in May); and a presidential poll in Iceland, local elections in Ireland, elections to the European Parliament, and legislative elections in Mongolia and Croatia (in June).</p>
+                    <p usage="casee">ODIHR’s agenda in the first half of 2024 covered the deployment of teams of election observers to monitor a presidential poll in Slovakia (in March); presidential elections in North Macedonia and Lithuania (in May); and a legislative election in Croatia and elections to the European Parliament (in June).</p>
+                    <p usage="eerca">ODIHR’s agenda in the first half of 2024 covered the deployment of teams of election observers to monitor an early presidential election in Azerbaijan (in February); and presidential elections in Ukraine and Russia (in March).</p>
+               </p-alternates>
+               <p>
+        In January 2015 ODIHR issued a 
+        <publ-name>Handbook on the Observation of Campaign Finance</publ-name>
+        , addressing the assessment of legal frameworks underpinning electoral campaign finance, as well as, 
+        <i>inter alia,</i>
+         requirements relating to disclosure, oversight, and limits on contributions and expenditure.
+      </p>
+               <p usage="ewyb edio eerca">From February 2022 the ODIHR Director expressed extreme concern at the human impact of Russia’s military operations against Ukraine. He demanded the safe passage and international protection of all civilians attempting to flee the conflict. In February 2024 ODIHR urged the Russian authorities to launch an immediate investigation into the circumstances surrounding the recent death in detention of the opposition figure Aleksei Navalnyi.</p>
+               <p>In July 2021, citing the importance of the 2018 Decision on the Safety of Journalists, the OSCE RFoM stated profound concern at reports of the use, by states and third parties, of surveillance software against media workers’ communication devices. The RFoM and counterparts from the UN, Organization of American States and African Union have issued several joint declarations, including on Freedom of Expression and Elections in the Digital Age (in April 2020), on Politicians and Public Officials and Freedom of Expression (in October 2021), on Freedom of Expression and Gender Justice (in May 2022), and on Media Freedom and Democracy (in May 2023).</p>
+               <p usage="edio ewyb eerca">In recent years the OSCE RFoM has condemned mounting cases of judicial persecution of journalists in Russia, including the imposition against political dissenters of criminal charges related to the `dissemination of false information about the Russian armed forces’ (for example, in March 2024 she deplored the imprisonment of RusNews journalist Roman Ivanov on such charges). In January 2023 she condemned the Russian authorities’ ban on the news portal Meduza, and stated concern over a series of other bans on Russian language investigative news portals in that country, and the continued stigmatization of many media outlets and journalists there as `foreign agents’. In March 2024 the RFoM stated grave concern over the detention of 14 employees of the independent Azerbaijani media outlet `Toplum TV’. </p>
+               <!--~ Crimea, Ukraine OSCE training courses-->
+               <p usage="casee">At the beginning of April 2020 the OSCE Parliamentary Assembly characterized as `dangerous’, and as undermining democracy, the approval by the Hungarian legislature (on 30 March) of emergency powers enabling the Government to rule by decree.</p>
+               <p usage="edio eerca">In late August 2021 delegations from the OSCE Parliamentary Assembly and from relevant OSCE field offices met to address the impact on Central Asia of the recent Taliban takeover in Afghanistan. Challenges that were discussed included refugee outflows, border security, transnational crime, radicalization, and human rights—including the rights of women, girls, and ethnic and religious minorities.</p>
+          </int-org-section>
+          <int-org-section id="IO-OSCE.005" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF">
+               <heading>Co-operation</heading>
+               <p>The OSCE maintains regular formal dialogue and co-operation with certain nominated countries. Australia, Japan, the Republic of Korea, Mongolia and Thailand form the OSCE Asian Partners for Co-operation Group, while the Mediterranean Partners for Co-operation Group comprises Algeria, Egypt, Israel, Jordan, Morocco and Tunisia. Regular consultations are held with these countries in order to discuss security issues of common concern. The December 2011 Ministerial Conference adopted a decision on Partners for Co-operation, which commended the voluntary reform processes ongoing in some Mediterranean partner countries; reaffirmed the OSCE’s readiness, through its executive structures, when requested, to assist the Partners for Co-operation in their voluntary implementation of OSCE norms, principles and commitments; decided to enhance the Partnership for Co-operation by broadening dialogue, intensifying political consultations, strengthening practical co-operation and further sharing best practices, according to the needs and priorities identified by the Partners; and determined to strengthen regular high-level dialogue with the Partners. An OSCE-Mediterranean Conference and OSCE-Asian Conference are convened annually.</p>
+               <p usage="edio">A separate OSCE-Japan Conference has also been convened periodically.</p>
+               <p usage="edio">In October 2004 the OSCE deployed a team of observers to monitor the presidential election in Afghanistan, representing the organization's first election mission in a partner country.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.CASEE.136" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="casee ewyb edio">
+               <heading>Field Operations in Central and South-Eastern Europe</heading>
+               <org-list>
+                    <org-entry id="OSCE.IO.CASEE.118" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission in Kosovo</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Pristina, Abdyl Frashëri 37</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(38) 240100</telephone>
+                              <fax>(38) 240711</fax>
+                              <email>press.omik@osce.org</email>
+                              <internet>www.osce.org/kosovo</internet>
+                         </address-block>
+                         <found-date>July 1999 as an integral component of an international operation, led by the UN, with specific responsibility for democracy and institution building</found-date>
+                         <content-note style="NORMAL">succeeded the former OSCE Kosovo Verification Mission, established in 1999 to monitor compliance with the terms of a ceasefire between Serbian authorities and ethnic Albanian separatists in the formerly autonomous province of Kosovo and Metohija</content-note>
+                         <content-note style="NORMAL">has regional centres: in Mitrovica/Mitrovice, Pejë/Peć, Prizren, Gjilan/Gnjilane, and Prishtinë/Priština, as well as 38 municipal teams throughout Kosovo</content-note>
+                         <content-note style="NORMAL">focuses on human and community rights, good governance and improving public safety standards</content-note>
+                         <content-note style="NORMAL">helped to establish and/or administer a police training school and inspectorate, an Institute for Civil Administration, the Department for Democratic Governance and Civil Society, the Office of the Ombudsperson, a Kosovo Centre for Public Safety Education and Development and a Press Council</content-note>
+                         <content-note style="NORMAL">has provided voter registration and other electoral assistance, and support for the induction of members elected to the Kosovo Assembly</content-note>
+                         <content-note style="NORMAL">from Feb. 2008, when the Kosovo Government issued a unilateral declaration of independence, the Mission aimed to support the country’s new institutions, and monitor their work for compliance with human rights standards</content-note>
+                         <content-note style="NORMAL">following the reconfiguration of the UN operation in Kosovo, and reduction of its field presence, the Mission assumed greater responsibility for monitoring and reporting on the security situation and compliance with human rights standards</content-note>
+                         <content-note style="NORMAL">it reports periodically on the status of voluntary returns to Kosovo</content-note>
+                         <content-note style="NORMAL">in Jan. 2020 the Mission organized a comprehensive overview of the situation of Ashkali, Egyptian and Roma communities in 24 Kosovo municipalities, collating statistical data relating to employment, education, access to health care, participation in decision making, infrastructure, and return and repatriation</content-note>
+                         <content-note style="NORMAL">a report on the protection of Kosovo’s cultural heritage was released in July 2022</content-note>
+                         <content-note style="NORMAL">in June 2023 the OSCE CiO urged a de-escalation of violent unrest in northern Kosovo, clashes between Kosovan Serb protesters and the Kosovan police and NATO-led Kosovo Peace Implementation Force (KFOR) having erupted in late May, when Kosovan Albanian officials who had been elected in April in Serbian-boycotted municipal polls had attempted to take office; the CiO called on Serbia to grant immediate access to and promptly to release three detained Kosovan police officers who had reportedly crossed illegally into Serbia, and for the resumption by stakeholders in Kosovo of a longstanding EU-facilitated dialogue process</content-note>
+                         <content-note style="NORMAL">in Feb. 2024 issued a report that addressed the capacity of the Mitrovicë/Mitrovica Basic Court and Basic Prosecution Office to administer justice, in view of the mass resignation in Nov. 2022 of Kosovo Serb judges, prosecutors and administrative staff</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Michael</forename>
+                                        <surname>Davenport</surname>
+                                   </person-name>
+                                   <person-note>UK</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.CASEE.116" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission to Bosnia and Herzegovina</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>71000 Sarajevo, Fra Andjela Zvizdovica 1</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(33) 952100</telephone>
+                              <fax>(33) 442479</fax>
+                              <email>press.ba@osce.org</email>
+                              <internet>www.osce.org/mission-to-bosnia-and-herzegovina</internet>
+                         </address-block>
+                         <found-date>Dec. 1995</found-date>
+                         <content-note style="NORMAL">established to support the objectives of the peace accords for the former Yugoslavia, in particular to oversee the process of democratization</content-note>
+                         <content-note style="NORMAL">the Mission's responsibility for organizing elections in the country ended in Nov. 2001 when a permanent Election Commission was inaugurated, to which the Mission was to provide support</content-note>
+                         <content-note style="NORMAL">other key areas of Mission activity are the promotion of democratic values, monitoring and promoting respect for human rights, strengthening the legal system, assisting with the creation of a modernized, non-discriminatory education system and establishing democratic control over the armed forces</content-note>
+                         <content-note style="NORMAL">in Sept. 2004 the agreement on confidence- and security-building measures, mandated under the Dayton peace accords, was suspended in acknowledgement of the country's extensive political reforms and in Dec. the Mission transferred its co-chairmanship of the country's Defence Reform Commission (DRC) to the new NATO headquarters in Sarajevo, although representatives of the Mission continued to be involved in work of the DRC</content-note>
+                         <content-note style="NORMAL">launched in Feb. 2014 an interactive internet-based War Crimes Case Map</content-note>
+                         <content-note style="NORMAL">in Dec. 2014 the Bosnia and Herzegovina authorities assumed full responsibility for local arms control and stability</content-note>
+                         <content-note style="NORMAL">in March 2023 the Head of the Mission and the OSCE RoFM jtly stated concern over a decision by the Republika Srpska authorities to reinstate the criminal offence of defamation, deeming it to undermine an already fragile media freedom environment</content-note>
+                         <content-note style="NORMAL">in Feb. 2024, with the EU and other partners, called on the authorities in Bosnia and Herzegovina to act swiftly to prevent the collapse of the country’s Public Broadcasting System (PBS)—reported to be on the brink of insolvency owing to financial mismanagement and political interference</content-note>
+                         <content-note style="NORMAL">the Mission has 9 permanent field offices, as well as 5 temporary premises</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Brian</forename>
+                                        <surname>Aggeler</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.CASEE.1607061705" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission to Montenegro</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>81000 Podgorica, Bul. Svetog Petra Cetinjskog bb</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(81) 401401</telephone>
+                              <fax>(81) 406431</fax>
+                              <email>omim@osce.org</email>
+                              <internet>www.osce.org/montenegro</internet>
+                         </address-block>
+                         <found-date>June 2006</found-date>
+                         <content-note style="NORMAL">supported in 2012 the implementation of legislation governing free access to information and a new criminal procedure code, and assisted the government with the preparation of a border management strategy</content-note>
+                         <content-note style="NORMAL">the Mission concluded, in April 2013, an agreement with the Montenegro Government on strengthening OSCE mechanisms of support relating to the promotion of human and minority rights</content-note>
+                         <content-note style="NORMAL">the Mission supported the devt of a three-year action plan for a gender responsive parliament, which was introduced in Jan. 2022 by the Montenegro legislature</content-note>
+                         <content-note style="NORMAL">in Nov. 2023 the Mission conducted a seminar on means of investigating and reporting on gender-based violence</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Dominique</forename>
+                                        <surname>Waag</surname>
+                                   </person-name>
+                                   <person-note>France</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.CASEE.120" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission to Serbia</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>11070 Belgrade, Španskih boraca 1</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(11) 3606100</telephone>
+                              <fax>(11) 3606119</fax>
+                              <email>ppiu-serbia@osce.org</email>
+                              <internet>www.osce.org/serbia</internet>
+                         </address-block>
+                         <found-date>Jan. 2001 as the OSCE Mission to the Federal Republic of Yugoslavia (FRY, renamed the OSCE Mission to Serbia and Montenegro in 2003 and divided into two separate Missions in June 2006)</found-date>
+                         <content-note style="NORMAL">the initial mandate of the Mission was to assist in the areas of democracy and protection of human rights and in the restructuring and training of law enforcement agencies and the judiciary, to provide advice to govt authorities with regard to reform of the media, and, in close co-operation with the UN High Commissioner for Refugees, to facilitate the return of refugees to and from neighbouring countries as well as within the FRY</content-note>
+                         <content-note style="NORMAL">supports the activities of the Citizen’s Protector/Ombudsman, the Commissioner for the Protection of Equality and the Judicial Training Academy</content-note>
+                         <content-note style="NORMAL">in Dec. 2014 the Serbian authorities assumed full responsibility for local arms control and stability</content-note>
+                         <content-note style="NORMAL">in March 2024 organized a training event on promoting the responsible use of information and communication technologies</content-note>
+                         <content-note style="NORMAL">maintains an office in Bujanovac, southern Serbia, and a training facility in Novi Pazar</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Jan</forename>
+                                        <surname>Braathu</surname>
+                                   </person-name>
+                                   <person-note>Norway</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.CASEE.119" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission to Skopje</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>MK-1000 Skopje, Blvd 8 Septemvri no. 16</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 3234000</telephone>
+                              <fax>(2) 3234234</fax>
+                              <email>info-mk@osce.org</email>
+                              <internet>www.osce.org/skopje</internet>
+                         </address-block>
+                         <found-date>Sept. 1992</found-date>
+                         <content-note style="NORMAL">the Mission’s initial mandate included overseeing the border region to help to prevent the conflict in the former Yugoslavia from destabilizing the then former Yugolav republic of Macedonia (now North Macedonia), monitoring human rights and promoting the devt of democratic institutions, including an independent media</content-note>
+                         <content-note style="NORMAL">supports implementation of the Ohrid Framework Agreement, signed in Aug. 2001, through the deployment of international confidence-building monitors and police advisers, the recruitment and training of police cadets, and measures to strengthen local self-government</content-note>
+                         <content-note style="NORMAL">since 2002 the Mission has supported the Office of the Ombudsman</content-note>
+                         <content-note style="NORMAL">in Oct. 2023 helped to organize a national training course on gender-responsive policing of violence against women and girls</content-note>
+                         <content-note style="NORMAL">the Mission and ODIHR co-organized a Regional Gender and Security Conference in March 2024</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Kilian</forename>
+                                        <surname>Wahl</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.CASEE.115" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Presence in Albania</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Mak Albania Hotel, 1st Floor, Sheshi `Italia’, Tirana, Albania</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(4) 2240001</telephone>
+                              <email>pm-al@osce.org</email>
+                              <internet>www.osce.org/presence-in-albania</internet>
+                         </address-block>
+                         <found-date>1997</found-date>
+                         <content-note style="NORMAL">established to help to restore political and civil stability</content-note>
+                         <content-note style="NORMAL">from March 1998 the Presence was also mandated to monitor the country's borders with the Kosovan region of southern Serbia and to prevent any spillover effects from the escalating crisis</content-note>
+                         <content-note style="NORMAL">in accordance with an updated mandate, approved in Dec. 2003, the Presence provides advice and support to the Albanian Government regarding democratization, the rule of law, the media, human rights, anti-trafficking, weapons collection, election preparation and monitoring, and the devt of civil society; it supports an Economics and Environment Unit and an Elections Unit, to facilitate the process of electoral reform, including the modernization of the civil registration system</content-note>
+                         <content-note style="NORMAL">in March 2024 the Presence organized a training course on environmental crimes</content-note>
+                         <role-group>
+                              <role>Acting Head of Presence</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Clarisse</forename>
+                                        <surname>Pásztory</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <p usage="casee">In January 2012 the OSCE closed its Office in Zagreb, which had been established in January 2008, replacing a former OSCE Mission to Croatia.</p>
+          </int-org-section>
+          <int-org-section id="OSCE.IO.EERCA.145" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="eerca ewyb edio">
+               <heading>Situations in Eastern Europe and Central Asia</heading>
+               <p-group>
+                    <heading>Belarus</heading>
+                    <p usage="eerca">On 31 March 2011 the OSCE Office in Minsk closed, following a decision by the authorities in Belarus not to extend its mandate. The Office had opened in January 2003, as a successor to an OSCE Advisory and Monitoring Group, tasked with promoting institution-building, consolidating the rule of law, strengthening relations with civil society and assisting the Government of Belarus in developing economic and environmental activities. An OSCE observation mission dispatched to monitor legislative elections held in Belarus in September 2012 found that the elections had not been administered in an impartial manner. A team was dispatched in August 2016 to monitor legislative elections that were held in that country in early September.</p>
+                    <p usage="ewyb edio eerca">
+          Following the re-election in Belarus of President
+          
+           Alyaksandr Lukashenka in August 2020, the OSCE CiO expressed concern at the alleged use of force used against people protesting the outcome, as well as mass detentions and the obstruction of the activities of journalists. In September 17 OSCE member states invoked the Moscow Mechanism to examine the alleged commission of human rights abuses before, during and after the election: a report consequently issued in November found `massive and systematic’ violations of human rights by the Belarusian security forces, and that the election had been neither free nor fair. In May 2021 the OSCE CiO condemned the forced diversion by the Belarusian authorities of international passenger flight FR4978 to that country’s capital, Minsk, and the removal from the aircraft and arrest of a Belarusian journalist, Raman Pratasyevich, who had played a prominent role in covering the mass protests against Lukashenko. The CiO called for his immediate release, and for the Belarusian Government to respect human rights and independence of the media, and to provide an immediate explanation for their actions. Shortly before this incident the OSCE RFoM had issued a statement that deplored the imprisonment of several journalists and the `deeply disturbing’ treatment of media workers in Belarus. In August the RFoM deplored a recent decision by the Belarus Supreme Court to dissolve the Belarusian Association of Journalists (BAJ), which had hitherto independently represented media workers in that country, and had been raided and accused of violating legislation governing public associations. In March 2023 the RFoM condemned a recent decision by the Belarusian authorities to designate the BAJ as an `extremist formation’. Later in that month she deplored—as part of a wide-scale systematic pattern of persecution of journalists and of independent opinion in Belarus—terms of imprisonment issued by a court in Minsk against the Director-General and Editor-in-Chief of the Belarusian media portal TUT.BY, who had been convicted on charges of tax evasion. At that time 36 media workers remained detained in Belarus. Meanwhile, in that month OSCE/ODIHR stated deep concern over the imprisonment of four members of the Belarusian human rights organization Viasna (the outcome of the latest of a series of cases brought against human rights defenders in that country). The Moscow Mechanism was invoked, again, in that month by 38 member states to consider `threats to the fulfilment of the provisions of the human dimension posed by human rights violations and abuses’ in Belarus. In January 2024 ODIHR stated profound concern at a decision by the Belarusian authorities not to invite OSCE observers to monitor the parliamentary elections that were held in that country on 25 February. Just prior to the elections ODIHR issued a statement deploring the Belarusian authorities’ criminalization of human rights defenders, and stating grave concern at the continuing arrests of people who had participated in peaceful demonstrations in 2020-21, or who had engaged with anti-government social media content. The Belarusian authorities’ definition of `extremist activity’ was deemed to be poorly conceived.
+        </p>
+               </p-group>
+               <p-group>
+                    <heading usage="edio eerca">Chechnya</heading>
+                    <p usage="edio eerca">In late August 2018 16 OSCE member states (including Canada, France, Germany, the United Kingdom and the USA) informed the OSCE Permanent Council of a letter that they had sent to Russia’s delegation to the OSCE requesting information concerning credible reports of human rights violations and abuses perpetrated in Chechnya since January 2017. In November 2018 the delegations from the 16 countries stated concern at Russia’s response to the letter. Deeming Russia to be either unwilling or unable to address the reported abuses, and—finding this to be contributing to a climate of impunity in Chechnya, in contravention of the OSCE’s human dimension goals—they independently invoked the 1993 Moscow Mechanism (q.v.) to establish a team of experts to address these concerns. In December 2018 the Mechanism’s rapporteur presented a report and series of recommendations to the Permanent Council concerning the situation in Chechnya.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio eerca">Georgia</heading>
+                    <p usage="edio eerca">An OSCE Mission to Georgia was established in 1992 to work towards a political settlement between disputing factions within the country. The Mission’s mandate was expanded to include monitoring Georgia’s borders with Chechnya (in December 1999), Ingushetia (in December 2001), and Dagestan (January 2003). In August 2008 intensive fighting broke out when Georgian forces entered South Ossetia and attempted to seize control of its capital, Tskhinvali. The resulting counter-attack by Ossetian troops, supported by additional Russian land and air forces, contributed to extensive civilian casualties, population displacement and damage to the region’s infrastructure. The OSCE participated in diplomatic efforts to secure a ceasefire and expanded the Mission to Georgia by 100 unarmed military monitoring officers. The Mission to Georgia was terminated upon the expiry of its mandate on 31 December 2008, owing to Russia's insistence that it could only be continued with a new mandate excluding any arrangement sustaining Georgia’s territorial claims on South Ossetia and Abkhazia, and Georgia's opposition to this. In February 2009, however, the OSCE Permanent Council agreed to extend, until 30 June, the mandate of the OSCE unarmed monitors in Georgia. During 2011-13 the OSCE and the UN Development Programme undertook a joint ammunition demilitarization and community security programme in Georgia. In October 2012 an OSCE/ODIHR election observation team observed legislative elections held in Georgia. The elections were found to have significantly consolidated democracy, although the team considered the campaigning environment to have been tense and not to have focused sufficiently on concrete political programmes. Some instances of intimidation of party activists and supporters were reported. OSCE/ODIHR deployed an election observation mission to monitor a presidential election held in Georgia in October 2013.</p>
+                    <p usage="ewyb edio eerca">The Special Representative of the OSCE CiO for the South Caucasus co-chairs, with the EU and the UN, the Geneva International Discussions on Georgia, which have been held regularly since late 2008. The 58th session of the Discussions was held in July 2023. Jointly, with the head of the EU Monitoring Mission in Georgia, the Special Representative also co-facilitates meetings of the Ergneti Incident Prevention and Response Mechanism (IPRM). The 117th IPRM meeting, convened in February 2024, in Ergneti (a village near the `Occupation Line’ bordering the Tskhinvali region), addressed the local security situation, urged the release of detainees, and called for full freedom of movement along the boundary line. Regular technical meetings are also held, in particular focusing on irrigation.</p>
+               </p-group>
+               <p-group>
+                    <heading usage="ewyb edio eerca">Ukraine</heading>
+                    <p usage="ewyb edio eerca">In March 2014 the OSCE Permanent Council determined immediately to deploy an OSCE Special Monitoring Mission (SMM) to Ukraine, tasked with gathering information on human rights, assessing the security situation, and fostering dialogue following the Russian invasion and subsequent annexation of Crimea. The inaugural meeting of a Trilateral Contact Group (TCG), comprising senior representatives from the OSCE, Ukraine and Russia, was held in early June to discuss the implementation of a peace plan for eastern Ukraine that had been proposed by a newly elected Ukrainian President. In late July the Permanent Council decided to deploy an OSCE Observer Mission at the Russian Checkpoints Gukovo and Donetsk, on the Russia-Ukraine border, as a confidence-building measure to help to reduce tensions during the ongoing crisis. The CiO welcomed the adoption on 5 September, in Minsk, Belarus, by the Ukrainian and Russian Governments, and opposition militia, of a protocol on respecting a ceasefire, and on initiating a political process aimed at resolving the crisis. The Minsk Protocol, which had been formulated by the TCG on the basis of the peace plan proposed in June, comprised a 12-point roadmap towards resolving the conflict, in accordance with which OSCE’s SMM was to supervise the ceasefire, internal dialogue was to be pursued by the parties to the conflict, and Ukraine was to legislate for a decentralization of power and for the introduction of provisional local arrangements for Donetsk and Luhansk, and was also to organize local elections there promptly. From early January 2015, in violation of the ceasefire agreed under the Minsk Protocol, separatist forces in Donetsk and Luhansk initiated a new offensive against government-controlled territory. In February the TCG, meeting in Minsk, under OSCE auspices, approved a Package of Measures for the Implementation of the Minsk Agreements, referred to as Minsk II, aimed at revitalizing the ceasefire. Working groups on security, economic, humanitarian and political issues were established under the auspices of the TCG, in accordance with a provision of the Package of Measures. In June, in response to continuing violence, the CiO urged all parties to abide by the Minsk Agreements and to negotiate a political resolution to the situation through the TCG and its working groups. In September the TCG finalized an Addendum to the February Package of Measures, providing for the withdrawal to a distance of 15 km for tanks, mortars and artillery pieces.</p>
+                    <p>During 2016 an impasse in the Minsk process prevailed, as the Ukrainian authorities deplored continuing action in eastern regions by pro-Russia militia, and Russia accused Ukraine of stalling the implementation of political reforms. In July the Special Representative of the OSCE CiO in Ukraine and the SMM’s Chief Monitor both stated that measures needed to be taken by all sides in eastern Ukraine to ensure full respect for the ceasefire, and to spare civilians from violence. The Chief Monitor observed at that time that the SMM’s capacity to monitor and verify the withdrawal of weaponry, as mandated by the Minsk documents, was being compromised. Interference with and the destruction of the Mission’s unmanned aerial vehicles was noted. In December 2017 the OSCE CiO welcomed a large-scale exchange of detainees in eastern Ukraine between the Ukrainian authorities and Donetsk and Luhansk separatists (the self-identified Donetsk and Luhansk `People's Republics’).</p>
+                    <p>In late November 2018 the Special Representative of the CiO in Ukraine and the Chief Monitor of the SMM jointly stated concern over escalating tensions in the Kerch Strait (linking Crimea to Russia). They urged Russia and Ukraine to exercise restraint and to resolve disputes through political and diplomatic channels. In late April 2019, in response to the election of Volodymyr Zelensky to the Ukrainian presidency at OSCE/ODIHR-monitored elections held in March-April, the OSCE Secretary-General urged new momentum in the implementation of the Minsk Agreements. In early March a prisoner swap was agreed under the auspices of the TCG. In mid-April the CiO and OSCE Secretary-General welcomed the mutual release and exchange of prisoners in eastern Ukraine. In late July 2020 the CiO welcomed an agreement reached by the TCG on the implementation of additional Measures to Strengthen the Ceasefire in eastern Ukraine. At the end that month, however, the OSCE Parliamentary Assembly President stated deep concern over reports of continuing violations of the ceasefire in the Donetsk region. The SMM’s mandate was extended at the end of March 2021 until 31 March 2022. The mandate of the OSCE Observer Mission at the Russian Checkpoints Gukovo and Donetsk was, however, terminated on 30 September 2021—its further extension having been prevented by the Russian authorities (which were accused by Ukraine of aiming to prevent observation of an ongoing build-up of Russian forces at the Russia-Ukraine border). In early 2022 the SMM reported that during 2021 it had recorded 93,902 ceasefire violations, 1,133 explosions, 1,892 incidents relating to the presence of weapons in violation of withdrawal lines, and 852 restrictions on movement.</p>
+                    <p>On 21 February 2022 the OSCE CiO, Secretary-General, and the President and Secretary-General of the organization’s Parliamentary Assembly issued a joint statement in which they strongly condemned a decision by Russia—in contravention of the Minsk Agreements—to recognize the self-identified `People’s Republics’ of Donetsk and Luhansk as independent. They noted that this represented a breach of international law and of fundamental OSCE principles. At that time the Group of Seven (G7) member states issued a statement supporting the continuing implementation of the Minsk Agreements and the activities of the SMM—which by that time was reportedly recording several hundred ceasefire violations each day. On 22 February the Russian President Vladimir Putin ordered that Russian troops should enter the disputed territories. On 24 February Russia launched a full-scale invasion of Ukraine. In a joint statement the OSCE CiO and Secretary-General condemned Russia’s military action and urged its immediate cessation. In mid-March the OSCE CiO and the Secretary-General strongly condemned ongoing Russian violence against civilian areas across Ukraine, including the recent bombing of a theatre where several hundred civilians had been sheltering in the port city of Mariupol. On 3 March, after consultations with Ukraine, 45 OSCE member states had invoked the Moscow Mechanism (q.v.) to address the human rights and humanitarian impacts of the invasion. Accordingly, in mid-April a three-member mission (that had been appointed in mid-March) presented to the OSCE Permanent Council a report which found clear patterns demonstrating that the Russian forces had violated international law, as well as strong indications that crimes against humanity had been committed. The Moscow Mechanism was invoked again in June in connection with the Russia-Ukraine conflict, and in late July to establish an expert mission to assess, in the context of Russia’s OSCE human dimension commitments, that country’s legal and administrative practices.</p>
+                    <p>From late March 2022 the OSCE CiO visited Moldova, Georgia, Armenia and Azerbaijan, to discuss ongoing security challenges, and means of advancing co-operation, against the backdrop of Russia’s ongoing aggression against Ukraine. On 31 March the OSCE CiO and Secretary-General observed with regret the expiry of the mandate of the SMM, stating that the position of Russia had prevented the achievement by the Permanent Council of consensus on its renewal; the Mission’s mandated operations ceased from 1 April, although some administrative activities (with regard to maintaining the security of mission assets and personnel) continued. In late April the OSCE CiO and the Secretary-General called for the immediate release of four Ukrainian SMM members who had been detained in Donetsk and Luhansk. Soon afterwards the OSCE CiO and the Secretary-General jointly announced the initiation of the process of fully closing down the SMM. Russia also prevented the extension of the mandate of the Office of the OSCE Project Co-ordinator in Ukraine; this was terminated on 30 June. In July the Acting Head of the Mission reiterated calls for the release of SMM members who remained detained in non-government controlled areas of Donetsk and Luhansk. At the end of September the OSCE CiO, Secretary-General and Parliamentary Assembly President collectively denounced the illegal annexation by Russia of occupied Ukrainian territory. The 2022 meeting of the OSCE Ministerial Council, held in early December, focused on the immense security, energy and humanitarian challenges resulting from Russia’s ongoing war against Ukraine.</p>
+                    <p>On 30 March 2023 the Moscow Mechanism was invoked to address `the Deportation of Children amidst Human Rights Violations and Humanitarian Impacts of Russia’s War of Aggression against Ukraine’. In May the Mechanism issued a series of recommendations to Russia and Ukraine, as well as to other states and to international organizations, focused on the safe reunification with their parents, relatives and rightful legal guardians of all Ukrainian children who had been forcibly removed by Russia. ODIHR’s Director reported in July 2023 that `deeply worrying’ credible evidence had been collected by the Office relating to human rights violations perpetrated during the ongoing conflict, including documented cases of summary executions, torture, and sexual-based violence. Reports of killings and ill-treatment of prisoners of war by both sides had been filed, and the Russian forces were reported to be routinely placing explosive weapons with wide area impacts in densely populated districts, causing numerous civilian casualties.</p>
+                    <p>The ministers responsible for foreign affairs of Estonia, Latvia and Lithuania refused to participate in the OSCE’s 30th Ministerial Council, in November-December 2023, to protest the participation of their Russian counterpart, Sergei Lavrov. Meanwhile, Russia and Belarus rejected Estonia’s chairmanship of the OSCE during 2024 (this was assumed by Malta).</p>
+                    <p>In February 2024 45 OSCE member states invoked the Moscow Mechanism once again, to address Russia’s `arbitrary deprivation of liberty of Ukrainian civilians’.</p>
+               </p-group>
+               <org-list>
+                    <org-entry id="OSCE.IO.EERCA.128" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Centre in Aşgabat</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>744005 Aşgabat, Türkmenbaşi Şaýoly 15, Turkmenistan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(12) 94-60-92</telephone>
+                              <fax>(12) 94-60-41</fax>
+                              <email>info_tm@osce.org</email>
+                              <internet>www.osce.org/ashgabat</internet>
+                         </address-block>
+                         <found-date>Jan. 1999 (following a decision of the Permanent Council, in July 1998, to establish a permanent presence in the country)</found-date>
+                         <content-note style="NORMAL">works to support greater collaboration between the authorities and the OSCE and the implementation of OSCE principles, to facilitate contacts with other local and international institutions and orgs working in the region, and to assist in arranging regional seminars and events, as well as visits by OSCE personnel</content-note>
+                         <content-note style="NORMAL">a training course on transport corridor management during emergencies was organized in July 2022</content-note>
+                         <content-note style="NORMAL">in Nov. 2023 convened a regional workshop that addressed gender aspects of border and security management</content-note>
+                         <role-group>
+                              <role>Head of Centre</role>
+                              <person>
+                                   <person-name>
+                                        <forename>John S.</forename>
+                                        <surname>MacGregor</surname>
+                                   </person-name>
+                                   <person-note>Canada</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.EERCA.118" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Mission to Moldova</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>2009 Chişinău, str. Alexei Mateevici 75</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(22) 88-78-02</telephone>
+                              <fax>(22) 22-34-96</fax>
+                              <email>moldova@osce.org</email>
+                              <internet>www.osce.org/moldova</internet>
+                         </address-block>
+                         <found-date>Feb. 1993</found-date>
+                         <content-note style="NORMAL">aims to assist conflicting parties in that country to pursue negotiations on a political settlement for the Transnistrian region, as well as to observe the military situation in the region and to provide advice on issues of human and minority rights, democratization and the repatriation of refugees</content-note>
+                         <content-note style="NORMAL">the Mission's mandate was expanded in Dec. 1999 to ensure the full removal and destruction of Russian ammunition and armaments and to co-ordinate financial and technical assistance for the withdrawal of foreign troops and the destruction of weapons</content-note>
+                         <content-note style="NORMAL">in Jan. 2007 representatives of the OSCE, Russia and Ukraine met, with observers from the EU and the USA (i.e. the so-called 5+2 negotiation format), to consider the future of the settlement process and invited chief negotiators from the Moldovan and Transnistrian authorities to initiate mediated discussions in the following month</content-note>
+                         <content-note style="NORMAL">in Sept. 2011 an agreement was concluded to restart official talks between the political leaders within the 5+2 framework, which were then initiated, at a meeting in Vilnius, in Nov.; meetings were then held regularly until mid-2014; in Feb. 2014, in Vienna, a protocol was concluded permitting freedom of movement for permanent residents of Transnistria possessing (non-Moldovan) foreign passports</content-note>
+                         <content-note style="NORMAL">following a two-year suspension, the 5+2 negotiations process resumed in June 2016, in Berlin</content-note>
+                         <content-note style="NORMAL">a conf. on confidence-building measures relating to the process was convened in that month, in Bad Reichenhall, Germany</content-note>
+                         <content-note style="NORMAL">in July 2019 participants in a round of 5+2 negotiations committed to advancing the process through engagement in jt expert working groups (incl. one concerned with the protection of natural resources in the Dniester River basin) and through regular 1+1 meetings of the chief negotiators; agreement was still to be achieved on criminal cases and freedom of movement and on telecommunications</content-note>
+                         <content-note style="NORMAL">in Jan. 2021 the OSCE Special Representative welcomed a recent Transnistrian decision to remove COVID-19-related checkpoints (which he hoped would alleviate local tensions), and stated that he was encouraging both sides to advance leadership by women in the settlement process</content-note>
+                         <content-note style="NORMAL">in Dec. the OSCE Ministerial Council encouraged the stakeholders to develop jt proposals on further confidence-building measures, and to intensify dialogue regarding the protection of human rights and fundamental freedoms</content-note>
+                         <content-note style="NORMAL">in March 2022, in view of Russia’s invasion of Ukraine (neighbouring Transnistria), both the OSCE Secretary-General and CiO visited Moldova</content-note>
+                         <content-note style="NORMAL">from late April a series of attacks were reported against Tiraspol airport and other targets in Transnistria</content-note>
+                         <content-note style="NORMAL">at the end of April, during a jt visit to Moldova by the Special Representative and the Special Envoy of the OSCE CiO, the CiO’s strong support for the peaceful resolution of ongoing challenges through dialogue was emphasized; all parties were urged to remain calm, exercise restraint and avoid escalating tensions</content-note>
+                         <content-note style="NORMAL">in Feb. 2023, during a visit to Moldova, the OSCE CiO commended ongoing local support to Ukrainian refugees</content-note>
+                         <content-note style="NORMAL">the OSCE CiO welcomed a chief negotiators’ (1+1 format) meeting held in June, in Bendery (facilitated by the Head of Mission), which gave consideration to human rights, freedom of movement, vehicle registration, the importation to medical equipment to Transdniestria, and access to farmlands in Dubăsari; observers of the 5+2 format also participated</content-note>
+                         <content-note style="NORMAL">in Oct. the mission organized a multi-agency workshop that addressed the cross-border recovery and repatriation of criminal assets</content-note>
+                         <content-note style="NORMAL">Mission offices opened in Tiraspol, in 1995, and in Bendery, in 2003, on (respectively) the eastern and western banks of the Dniester River</content-note>
+                         <role-group>
+                              <role>Head of Mission</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Kelly</forename>
+                                        <surname>Keiderling</surname>
+                                   </person-name>
+                                   <person-note>USA</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <!--March 2014 - head of the Transnistrian parliament asked for Transnistria join the Russian Federation Political dimension to langs used for place names-->
+                    <org-entry id="OSCE.IO.EERCA.129" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Programme Office in Bishkek</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>720001 Bishkek, 6 Ryskulov St, Kyrgyzstan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(312) 61-24-45</telephone>
+                              <fax>(312) 61-24-40</fax>
+                              <email>Bishkek@osce.org</email>
+                              <internet>www.osce.org/bishkek</internet>
+                         </address-block>
+                         <found-date>May 2017 (superseding the fmr OSCE Centre in Bishkek, f. Jan. 1999)</found-date>
+                         <content-note style="NORMAL">tasked with developing, implementing and reporting on programmatic activities across the OSCE’s economic and environmental, politico-military, and human dimensions</content-note>
+                         <content-note style="NORMAL">supports the OSCE Academy in Bishkek, which was inaugurated in Dec. 2002 as a regional centre for training, research and dialogue, in particular in security-related issues (the Academy has, since 2008, hosted an annual regional security seminar)</content-note>
+                         <content-note style="NORMAL">organizes an annual Consultative Mechanism on dialogue, in two phases (in 2024 the first phase was convened in Feb.)</content-note>
+                         <content-note style="NORMAL">in late Feb.-early March staged a training course on combatting the illicit trafficking of small arms and light weapons, conventional ammunition and explosives at the national border</content-note>
+                         <role-group>
+                              <role>Head of Office</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Alexey</forename>
+                                        <surname>Rogov</surname>
+                                   </person-name>
+                                   <person-note>Russia</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.EERCA.119" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Programme Office in Dushanbe</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                734012 Dushanbe, Ave Ahmadi Donish 18
+                <sc>a</sc>
+                , Tajikistan
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(372) 26-50-14</telephone>
+                              <fax>(372) 26-50-19</fax>
+                              <email>POiD@osce.org</email>
+                              <internet>www.osce.org/programme-office-in-dushanbe</internet>
+                         </address-block>
+                         <found-date>July 2017, succeeding the OSCE Office in Tajikistan (f. 2008, and in turn the successor of the OSCE Centre in Dushanbe); mandated to implement programmatic activities across the OSCE’s economic and environmental, human, and politico-military dimensions</found-date>
+                         <content-note style="NORMAL">a Task Force Meeting, comprising OSCE officials, and representatives of the Tajik Government and civil society, convenes annually to consider the strategic partnership between the OSCE and Tajikistan</content-note>
+                         <content-note style="NORMAL">in May 2009 an OSCE Border Management Staff College (BMSC) was established in Dushanbe to train border security managers and to promote co-operation between OSCE mem. states and partner countries; BMSC online learning courses are available</content-note>
+                         <content-note style="NORMAL">in early 2024 the Office organized an explosive ordnance disposal course</content-note>
+                         <content-note style="NORMAL">maintains field offices in Garm, Khujand, Kulyab, Kurgan-Tyube and Shaartuz</content-note>
+                         <role-group>
+                              <role>Head of Office</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Valeriu</forename>
+                                        <surname>Chiveri</surname>
+                                   </person-name>
+                                   <person-note>Moldova</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.EERCA.127" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Programme Office in Astana</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>010000 Astana, Beibitshilik 10, Kazakhstan</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(7172) 58-00-70</telephone>
+                              <fax>(7172) 32-83-04</fax>
+                              <email>poia@osce.org</email>
+                              <internet>www.osce.org/programme-office-in-astana</internet>
+                         </address-block>
+                         <found-date>June 2007 (as the OSCE Centre in Astana), as successor to an OSCE Centre in AlmatI, Kazakhstan (f. Jan. 1999); present name adopted in March 2019</found-date>
+                         <content-note style="NORMAL">mandated to support greater co-operation between the authorities and the OSCE, as well as the implementation of OSCE principles, to facilitate contact with other local and international institutions and orgs working in the region, to assist in arranging regional seminars, events and visits by OSCE personnel, and to support the Government of Kazakhstan, for example by training officials and raising awareness of OSCE activities</content-note>
+                         <content-note style="NORMAL">in June 2023 helped to organize a training course on cryptocurrencies and `darknet’ investigations</content-note>
+                         <content-note style="NORMAL">conducted a workshop in early 2024 on digital rights and on dialogue facilitation between civil society organizations and state officials</content-note>
+                         <role-group>
+                              <role>Head of Centre</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Volker</forename>
+                                        <surname>Frobarth</surname>
+                                   </person-name>
+                                   <person-note>Germany</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.EERCA.1607061746" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>OSCE Project Co-ordinator in Uzbekistan</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>100128 Tashkent, Zulfiyaxonim ko`ch 121</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(71) 140-04-70</telephone>
+                              <fax>(71) 140-04-68</fax>
+                              <email>osce-pcuz@osce.org</email>
+                              <internet>www.osce.org/uzbekistan</internet>
+                         </address-block>
+                         <found-date>July 2006</found-date>
+                         <content-note style="NORMAL">works to assist the Government to uphold security and stability, to strengthen socioeconomic devt and protection of the environment, and to implement other OSCE principles</content-note>
+                         <content-note style="NORMAL">in Feb. 2011 the Project Co-ordinator supported the Uzbek authorities with implementing improvements to the national passport system</content-note>
+                         <content-note style="NORMAL">the Project Co-ordinator has supported the Uzbek authorities with aligning national legislation on private property protection with international standards and best practices, and with the devt of an open data system</content-note>
+                         <content-note style="NORMAL">in Feb. 2024 helped to organize a training course on international human rights standards</content-note>
+                         <role-group>
+                              <role>Project Co-ordinator</role>
+                              <person>
+                                   <person-name>
+                                        <title>Dr</title>
+                                        <forename>Pierre</forename>
+                                        <surname>von Arx</surname>
+                                   </person-name>
+                                   <person-note>Switzerland</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+                    <org-entry id="OSCE.IO.EERCA.121" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                         <org-entry-head>
+                              <org-entry-name>Personal Representative of the OSCE CiO on the Conflict Dealt with by the OSCE Minsk Conference (Nagornyi Karabakh)</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Schwarzenbergplatz 16, 1010 Vienna, Austria</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(1) 501-82-555</telephone>
+                              <fax>(1) 501-82-509</fax>
+                              <email>secretariat-osce.vienne-dfra@diplomatie.gouv.fr</email>
+                              <internet>www.osce.org/mg</internet>
+                         </address-block>
+                         <content-note style="NORMAL">appointed in Aug. 1995 to represent the CiO in the 11-nation Minsk Process concerned with the conflict between Armenia and Azerbaijan in relation to the Nagornyi Karabakh region (which is internationally recognized as part of Azerbaijan, but had a majority ethnic Armenian population; in 1991, supported by Armenia, the region declared independence from Azerbaijan, as the `Republic of Artsakh’)</content-note>
+                         <content-note style="NORMAL">in Nov. 2007 the permanent Co-Chairs of the Minsk Group (representing France, the Russian Fed. and the USA) presented a Document of Basic Principles for the Peaceful Settlement of the Nagornyi Karabakh Conflict, which became the basis of subsequent discussions with both sides</content-note>
+                         <content-note style="NORMAL">a summit meeting held in mid-May 2016, in Vienna, between the Co-Chairs of the Minsk Group and the Presidents of Armenia and of Azerbaijan, reiterated commitment to the ceasefire and to the resolution of the conflict by peaceful means, and—to reduce the risk of outbreaks of violence—agreed to finalize the establishment of an OSCE investigative mechanism</content-note>
+                         <content-note style="NORMAL">in the following month Armenia, Azerbaijan and Russia agreed that additional international observers should be drafted to the Office of the Personal Representative of the OSCE CiO</content-note>
+                         <content-note style="NORMAL">at the end of March 2020 the Co-Chairs rejected the legitimacy of a `general election’ in Nagornyi Karabakh (the first round of which was held on 31 March), stating that the territory was not a sovereign state</content-note>
+                         <content-note style="NORMAL">in July, in view of mounting violence at the Armenia-Azerbaijan border, the CiO urged an immediate ceasefire</content-note>
+                         <content-note style="NORMAL">a restoration of relative stability along the border from mid-July was welcomed later in that month by the Co-Chairs, who urged both sides to prepare for serious negotiations, without preconditions, on finding a comprehensive solution to the conflict</content-note>
+                         <content-note style="NORMAL">in late Sept., however, violent border clashes resumed, resulting in significant civilian casualties; the CiO called for the urgent de-escalation of the violence, and stressed his support for the Co-Chairs’ efforts to facilitate dialogue</content-note>
+                         <content-note style="NORMAL">on 1 Oct. the heads of state of the Minsk Group component countries urged an immediate unconditional ceasefire</content-note>
+                         <content-note style="NORMAL">a Russian-mediated ceasefire that formally entered into effect on 10 Oct. was soon violated; on 8 Nov., having made significant advances during a sustained offensive, Azerbaijani forces captured the strategically positioned town of Shusha (Shushi), close to the capital, Stepanakert/Khankendi</content-note>
+                         <content-note style="NORMAL">in accordance with a Russian-mediated peace accord which entered into effect on 10 Nov., and was supported by Russian peacekeepers, Azerbaijan was to retain control of the territory that it had recently won, and Armenia agreed to withdraw from certain adjacent areas</content-note>
+                         <content-note style="NORMAL">the Co-Chairs welcomed in Sept. 2021 the first meeting for two years (held in New York, USA, on the sidelines of the UN General Assembly) between the mins responsible for foreign affairs of the two countries; in early Nov. the Co-Chairs mediated further contact between the two sides, in Paris, France</content-note>
+                         <content-note style="NORMAL">in mid-Nov., however, the Co-Chairs stated deep concern over a recent renewal of violent incidents in the region, including along the Armenia-Azerbaijan border, and once again called on all sides to de-escalate tensions</content-note>
+                         <content-note style="NORMAL">in Jan. 2022 Azerbaijan rejected further engagement by the Minsk Group on the Karabakh situation, and from Feb. Russia’s invasion of Ukraine prompted a split in the Group’s permanent membership</content-note>
+                         <content-note style="NORMAL">in Aug. the Personal Representative of the CiO led a mission to monitor the border ceasefire</content-note>
+                         <content-note style="NORMAL">in response to a significant escalation of conflict in mid-Sept., reportedly resulting in more than 100 Armenian and 50 Azerbaijani troop fatalities, and several civilian deaths, the OSCE CiO and Sec.-Gen. jointly called for an immediate de-escalation</content-note>
+                         <content-note style="NORMAL">in Dec., in violation of the Oct. 2020 ceasefire agreement, Azerbaijanis initiated a blockade of the strategic Lachin corridor, linking Armenia and Nagornyi Karabakh, which prompted a deterioration of humanitarian conditions in Nagornyi Karabakh</content-note>
+                         <content-note style="NORMAL">presidential elections organized in the territory in early Sept. 2023 were not recognized internationally</content-note>
+                         <content-note style="NORMAL">on 19 Sept. Azerbaijan launched a major military offensive (framed as an anti-terrorist operation) aimed at disarming and forcing the removal of Armenian troops positioned in Nagornyi Karabakh (the Armenian authorities denied deploying its military there); on 20 Sept., at which time Azerbaijan claimed a `complete surrender’ by Armenian combatants, a ceasefire was declared; more than 200 Karabakh Armenians were reported to have been killed during the operation</content-note>
+                         <content-note style="NORMAL">the OSCE CiO held separate meetings at that time with the ministers resp. for foreign affairs of Armenia and Azerbaijan, and emphasized that the use of force was not acceptable</content-note>
+                         <content-note style="NORMAL">the disarmament of Karabakh Armenian combatants was subsequently organized</content-note>
+                         <content-note style="NORMAL">the Azerbaijani authorities declared that the rights of local ethnic Armenians would be upheld; nevertheless very significant flight into Armenia was reported, and by the end of Sept. nearly 100,500 of the 120,000-strong Karabakh Armenian population had arrived in Azerbaijan</content-note>
+                         <content-note style="NORMAL">the Nagorno-Karabakh leadership signed a decree in Sept. stipulating that the entity would be dissolved on 1 Jan. 2024</content-note>
+                         <role-group>
+                              <role>Personal Rep.</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Andrzej</forename>
+                                        <surname>Kasprzyk</surname>
+                                   </person-name>
+                                   <person-note>Poland</person-note>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-list>
+               <!--high level planning group-->
+               <p usage="edio eerca">The activities of the OSCE Project Co-ordinator in Baku (Azerbaijan)—which commenced in 1999—were terminated in July 2015. The OSCE Office in Yerevan (Armenia)—also established in 1999—was closed in August 2017. An OSCE Observer Mission at the Russian Checkpoints Gukovo and Donetsk was operational from July 2014-September 2021. The OSCE Special Monitoring Mission in Ukraine was active during March 2014-March 2022, and the Office of the OSCE Project Co-ordinator in Ukraine during June 1999-June 2022.</p>
+          </int-org-section>
+     </int-org-section>
+     <int-org-section id="OSCE.IO.EERCA.146" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee eerca">
+          <heading>Finance</heading>
+          <p>All activities of the institutions, negotiations, ad hoc meetings and missions are financed by contributions from member states. The unified budget for 2021 amounted to €138.2m.; of this, €77.8m. was allocated to field operations. Agreement was not reached on unified budgets for 2022 or 2023—therefore, a mechanism involving provisional allotments based on the 2021 budget was used in those years.</p>
+          <p>Consensus on concluding the final unified budget for 2022 was stalled throughout that year.</p>
+     </int-org-section>
+     <int-org-section id="OSCE.IO.EERCA.147" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee eerca">
+          <heading>Publications</heading>
+          <publ-list>
+               <publ-entry>
+                    <publ-name>Annual Report</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Democracy and Human Rights in the OSCE: Annual Report of the ODIHR</publ-name>
+               </publ-entry>
+               <publ-entry>
+                    <publ-name>Security Community</publ-name>
+                    <content-note style="NORMAL">online</content-note>
+               </publ-entry>
+          </publ-list>
+          <p id="OSCE.IO.4321">Reports, handbooks, manuals, factsheets on OSCE missions, institutions and other structures are published regularly.</p>
+     </int-org-section>
+     <int-org-section id="WB02061.IO.TXT.274" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>Summary of the Final Act of the Helsinki Conference on Security and Co-operation in Europe</heading>
+          <heading-note>1 August 1975</heading-note>
+          <legal-block>
+               <gen-list>
+                    <item>
+                         <p id="WB02061.IO.TXT.123">Note: The substantive articles relating to defence and security in Europe are contained in the first part of the Final Act. Other chapters incorporate provisions relating to Co-operation in the field of economics, science and technology, and the environment, Questions relating to security and co-operation in the Mediterranean, and Co-operation in humanitarian and other fields (including human contacts, information, culture and education).</p>
+                    </item>
+                    <item>
+                         <p id="WB02061.IO.TXT.124">Motivated by the political will, in the interest of peoples, to improve and intensify their relations and to contribute in Europe to peace, security, justice and co-operation as well as to rapprochement among themselves and with the other States of the world;</p>
+                    </item>
+                    <item>
+                         <p id="WB02061.IO.TXT.125">Determined, in consequence, to give full effect to the results of the Conference and to assure, among their States and throughout Europe, the benefits deriving from those results and thus to broaden, deepen and make continuing and lasting the process of détente;</p>
+                    </item>
+                    <item>
+                         <p id="WB02061.IO.TXT.126">The High Representatives of the participating States have solemnly adopted the following:</p>
+                    </item>
+               </gen-list>
+               <legal-block>
+                    <heading>QUESTIONS RELATING TO SECURITY IN EUROPE</heading>
+                    <gen-list>
+                         <item>
+                              <p id="WB02061.IO.TXT.127">The States participating in the Conference on Security and Co-operation in Europe</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.128">Reaffirming their objective of promoting better relations among themselves and ensuring conditions in which their people can live in true and lasting peace free from any threat to or attempt against their security;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.129">Convinced of the need to exert efforts to make détente both a continuing and an increasingly viable and comprehensive process, universal in scope, and that the implementation of the results of the Conference on Security and Co-operation in Europe will be a major contribution to this process;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.130">Considering that solidarity among peoples, as well as the common purpose of the participating States in achieving the aims as set forth by the Conference on Security and Co-operation in Europe, should lead to the development of better and closer relations among them in all fields and thus to overcoming the confrontation stemming from the character of their past relations, and to better mutual understanding;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.131">Mindful of their common history and recognizing that the existence of elements common to their traditions and values can assist them in developing their relations, and desiring to search, fully taking into account the individuality and diversity of their positions and views, for possibilities of joining their efforts with a view to overcoming distrust and increasing confidence, solving the problems that separate them and co-operating in the interest of mankind;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.132">Recognizing the indivisibility of security in Europe as well as their common interest in the development of co-operation throughout Europe and among selves and expressing their intention to pursue efforts accordingly;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.133">Recognizing the close link between peace and security in Europe and in the world as a whole and conscious of the need for each of them to make its contribution to the strengthening of world peace and security and to the promotion of fundamental rights, economic and social progress and well-being for all peoples;</p>
+                         </item>
+                         <item>
+                              <p id="WB02061.IO.TXT.134">Have adopted the following:</p>
+                         </item>
+                    </gen-list>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.276">
+                                        <b>1. (a) Declaration on Principles Guiding Relations between Participating States</b>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.135">The participating States</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.136">Reaffirming their commitment to peace, security and justice and the continuing development of friendly relations and ­co-operation;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.137">Declare their determination to respect and put into practice, each of them in its relations with all other participating States, irrespective of their political, economic or social systems as well as of their size, geographical location or level of economic development, the following principles, which all are of primary significance, guiding their mutual relations:</p>
+                              </item>
+                         </gen-list>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.277">
+                                             <i>I. Sovereign equality, respect for the rights inherent in sovereignty.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.138">The participating States will respect each other's sovereign equality and individuality as well as all the rights inherent in and encompassed by its sovereignty, including in particular the right of every State to juridical equality, to territorial integrity and to freedom and political independence. They will also respect each other's right freely to choose and develop its political, social, economic and cultural systems as well as its right to determine its laws and regulations.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.139">Within the framework of international law, all the participating States have equal rights and duties. They will respect each other's right to define and conduct as it wishes its relations with other States in accordance with international law and in the spirit of the present Declaration. They consider that their frontiers can be changed, in accordance with international law, by peaceful means and by agreement. They also have the right to belong or not to belong to international organizations, to be or not to be a party to bilateral or multilateral treaties including the right to be or not to be a party to treaties of alliance; they also have the right to neutrality.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.278">
+                                             <i>II. Refraining from the threat or use of force. </i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.140">The participating States will refrain in their mutual relations, as well as in their international relations in general, from the threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the purposes of the United Nations and with the present Declaration. No consideration may be invoked to serve to warrant resort to the threat or use of force in contravention of this principle.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.141">Accordingly, the participating States will refrain from any acts constituting a threat of force or direct or indirect use of force against another participating State.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.142">Likewise they will refrain from any manifestation of force for the purpose of inducing another participating State to renounce the full exercise of its sovereign right. Likewise they will also refrain in their mutual relations from any act of reprisal by force.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.143">No such threat or use of force will be employed as a means of settling disputes, or questions likely to give rise to disputes, between them.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.279">
+                                             <i>III. Inviolability of frontiers.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.144">The participating States regard as inviolable all one another's frontiers as well as the frontiers of all States in Europe and therefore they will refrain now and in the future from assaulting these frontiers.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.145">Accordingly, they will also refrain from any demand for, or act of, seizure and usurpation of part or all of the territory of any participating State.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.280">
+                                             <i>IV. Territorial integrity of States.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.146">The participating States will respect the territorial integrity of each of the participating States.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.147">Accordingly, they will refrain from any action inconsistent with the purposes and principles of the Charter of the United Nations against the territorial integrity, political independence or the unity of any participating State, and in particular from any such action constituting a threat or use of force.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.148">The participating States will likewise refrain from making each other's territory the object of military occupation or other direct or indirect measures of force in contravention of international law, or the object of acquisition by means of such measures or the threat of them. No such occupation or acquisition will be recognized as legal.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.281">
+                                             <i>V. Peaceful settlement of disputes.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.149">The participating States will settle disputes among them by peaceful means in such a manner as not to endanger international peace and security, and justice.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.150">They will endeavour in good faith and a spirit of co-operation to reach a rapid and equitable solution on the basis of international law.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.151">For this purpose they will use such means as negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement or other peaceful means of their own choice including any settlement procedure agreed to in advance of disputes to which they are parties.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.152">In the event of failure to reach a solution by any of the above peaceful means, the parties to a dispute will continue to seek a mutually agreed way to settle the dispute peacefully.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.153">Participating States, parties to a dispute among them, as well as other participating States, will refrain from any action which might aggravate the situation to such a degree as to endanger the maintenance of international peace and security and thereby make a peaceful settlement of the dispute more difficult.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.282">
+                                             <i>VI. Non-intervention in internal affairs.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.154">The participating States will refrain from any intervention, direct or indirect, individual or collective, in the internal or external affairs falling within the domestic jurisdiction of another participating State, regardless of their mutual relations.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.155">They will accordingly refrain from any form of armed intervention or threat of such intervention against another participating State.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.156">They will likewise in all circumstances refrain from any other act of military, or of political, economic or other coercion designed to subordinate to their own interest the exercise by another participating State of the rights inherent in its sovereignty and thus to secure advantages of any kind.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.157">
+                  Accordingly, they will, 
+                  <i>inter alia</i>
+                  , refrain from direct or indirect assistance to terrorist activities, or to subversive or other activities directed towards the violent overthrow of the regime of another participating State.
+                </p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.283">
+                                             <i>VII. Respect for human rights and fundamental freedoms, including the freedom of thought, conscience, religion or belief. </i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.158">The participating States will respect human rights and fundamental freedoms, including the freedom of thought, conscience, religion or belief, for all without distinction as to race, sex, language or religion.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.159">They will promote and encourage the effective exercise of civil, political, economic, social, cultural and other rights and freedoms all of which derive from the inherent dignity of the human person and are essential for his free and full development.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.160">Within this framework the participating States will recognize and respect the freedom of the individual to profess and practice, alone or in community with others, religion or belief acting in accordance with the dictates of his own conscience.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.161">The participating States on whose territory national minorities exist will respect the right of persons belonging to such minorities to equality before the law, will afford them the full opportunity for the actual enjoyment of human rights and fundamental freedoms and will, in this manner, protect their legitimate interests in this sphere.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.162">The participating States recognize the universal significance of human rights and fundamental freedoms, respect for which is an essential factor for the peace, justice and well-being necessary to ensure the development of friendly relations and co-operation among themselves as among all States.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.163">They will constantly respect these rights and freedoms in their mutual relations and will endeavour jointly and separately, including in co-operation with the United Nations, to promote universal and effective respect for them.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.164">They confirm the right of the individual to know and act upon his rights and duties in this field.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.165">
+                  In the field of human rights and fundamental freedoms, the participating State will act in conformity with the purposes and principles of the Charter of the United Nations and with the Universal Declaration of Human Rights. They will also fulfil their obligations as set forth in the international declarations and agreements in this field, including, 
+                  <i>inter alia</i>
+                  , the International Covenants on Human Rights, by which they may be bound.
+                </p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.284">
+                                             <i>VIII. Equal rights and self-determination of peoples.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.166">The participating States will respect the equal rights of peoples and their right to self-determination, acting at all times in conformity with the purposes and principles of the Charter of the United Nations and with the relevant norms of international law, including those relating to territorial integrity of states.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.167">By virtue of the principle of equal rights and self-determination of peoples, all peoples always have the right, in full freedom, to determine, when and as they wish, their internal and external political status, without external interference, and to pursue as they wish their political, economic, social and cultural development.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.168">The participating States reaffirm the universal significance of respect for and effective exercise of equal rights and self-determination of peoples for the development of friendly relations among themselves as among all States; they also recall the importance of the elimination of any form of violation of this principle.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.285">
+                                             <i>IX. Co-operation among States.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.169">The participating States will develop their co-operation with one another and with all States in all fields in accordance with the purposes and principles of the Charter of the United Nations. In developing their co-operation the participating States will place special emphasis on the fields as set forth within the framework of the Conference on Security and Co-operation in Europe, with each of them making its contribution in conditions of full equality.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.170">
+                  They will endeavour, in developing their co-operation as equals, to promote mutual understanding and confidence, friendly and good-neighbourly relations among themselves, international peace, security and justice. They will equally endeavour, in developing their co-operation, to improve the well-being of peoples and contribute to the fulfilment of their aspirations through, 
+                  <i> inter alia</i>
+                  , the benefits resulting from increased mutual knowledge and from progress and achievement in the economic, scientific, technological, social, cultural and humanitarian fields. They will take steps to promote conditions favourable to making these benefits available to all; they will take into account the interest of all in the narrowing of differences in the levels of economic development, and in particular the interest of developing countries throughout the world.
+                </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.171">They confirm that governments, institutions, organizations and persons have a relevant and positive role to play in contributing toward the achievement of these aims of their co-operation.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.172">They will strive, in increasing their co-operation as set forth above, to develop closer relations among themselves on an improved and more enduring basis for the benefit of peoples.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.286">
+                                             <i>X. Fulfilment in good faith of obligations under international law.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.173">The participating States will fulfil in good faith their obligations under international law, both those obligations arising from the generally recognized principles and rules of international law and those obligations arising from treaties or other agreements, in conformity with international law, to which they are parties.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.174">In exercising their sovereign rights, including the right to determine their laws and regulations, they will conform, with their legal obligations under international law; they will furthermore pay due regard to and implement the provisions in the Final Act of the Conference on Security and Co-operation in Europe.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.175">The participating States confirm that in the event of a conflict between the obligations of the members of the United Nations under the Charter of the United Nations and their obligations under any treaty or other international agreement, their obligations under the Charter will prevail, in accordance with Article 103 of the Charter of the United Nations.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.176">All the principles set forth above are of primary significance and, accordingly, they will be equally and unreservedly applied, each of them being interpreted taking into account the others.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.177">The participating States express their determination fully to respect and apply these principles, as set forth in the present Declaration, in all aspects, to their mutual relations and co-operation in order to ensure to each participating State the benefits resulting from the respect and application of these principles by all.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.178">The participating States, paying due regard to the principles above and, in particular, to the first sentence of the tenth principle, `Fulfilment in good faith of obligations under international law', note that the present Declaration does not affect their rights and obligations, nor the corresponding treaties and other agreements and arrangements.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.179">The participating States express the conviction that respect for these principles will encourage the development of normal and friendly relations and the progress of co-operation among them in all fields. They also express the conviction that respect for these principles will encourage the development of political contacts among them which in time would contribute to better mutual understanding of their positions and views.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.180">The participating States declare their intention to conduct their relations with all other States in the spirit of the principles contained in the present Declaration.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.287">
+                                        <b>1. (b) Matters related to giving effect to certain of the above Principles</b>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.181">(i) The participating States:</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.182">Reaffirming that they will respect and give effect to refraining from the threat or use of force and convinced of the necessity to make it an effective norm of international life;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.183">
+                Declare that they are resolved to respect and carry out, in their relations with one another, 
+                <i>inter alia</i>
+                , the following provisions which are in conformity with the Declaration on Principles Guiding Relations between Participating States:
+              </p>
+                              </item>
+                              <item>
+                                   <gen-list>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.184">To give effect and expression, by all the ways and forms which they consider appropriate, to the duty to refrain from the threat or use of force in their relations with one another.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.185">To refrain from any use of armed forces inconsistent with the purposes and principles of the Charter of the United Nations and the provisions of the Declaration on Principles Guiding Relations between Participating States, against another participating State, in particular from invasion of or attack on its territory.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.186">To refrain from any manifestation of force for the purpose of inducing another participating State to renounce the full exercise of its sovereign rights.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.187">To refrain from any act of economic coercion designed to subordinate to their own interest the exercise by another participating State of the rights inherent in its sovereignty and thus to secure advantages of any kind.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.188">To take effective measures which by their scope and by their nature constitute steps towards the ultimate achievement of general and complete disarmament under strict and effective international control.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.189">To promote, by all means which each of them considers appropriate, a climate of confidence and respect among peoples consonant with their duty to refrain from propaganda for wars of aggression or for any threat or use of force inconsistent with the purposes of the United Nations and with the Declaration on Principles Guiding Relations between Participating States, against another participating State.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.190">To make every effort to settle exclusively by peaceful means any dispute between them, the continuance of which is likely to endanger the maintenance of international peace and security in Europe, and to seek, first of all, a solution through the peaceful means set forth in Article 33 of the United Nations Charter.</p>
+                                        </item>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.191">To refrain from any action which could hinder the peaceful settlement of disputes between the participating States.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.192">(ii) The participating States:</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.193">Reaffirming their determination to settle their disputes as set forth in the Principle of Peaceful Settlement of Disputes;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.194">Convinced that the peaceful settlement of disputes is a complement to refraining from the threat or use of force, both being essential though not exclusive factors for the maintenance and consolidation of peace and security;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.195">Desiring to reinforce and to improve the methods at their disposal for the peaceful settlement of disputes;</p>
+                                   <gen-list>
+                                        <label>1. </label>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.196">Are resolved to pursue the examination and elaboration of a generally acceptable method for the peaceful settlement of disputes aimed at complementing existing methods, and to continue to this end to work upon the `Draft Convention on a European System for the Peaceful Settlement of Disputes' submitted by Switzerland during the second stage of the Conference on Security and Co-operation in Europe, as well as other proposals relating to it and directed towards the elaboration of such a method.</p>
+                                        </item>
+                                        <label>2. </label>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.197">Decide that, on the invitation of Switzerland, a meeting of experts of all the participating States will be convoked in order to fulfil the mandate described in paragraph 1 above within the framework and under the procedures of the follow-up to the Conference laid down in the chapter `Follow-up to the Conference'.</p>
+                                        </item>
+                                        <label>3. </label>
+                                        <item>
+                                             <p id="WB02061.IO.TXT.198">This meeting of experts will take place after the meeting of the representatives appointed by the Ministers of Foreign Affairs of the participating States, scheduled according to the chapter `Follow-up to the Conference' for 1977; the results of the work of this meeting of experts will be submitted to Governments.</p>
+                                        </item>
+                                   </gen-list>
+                              </item>
+                         </gen-list>
+                    </legal-block>
+                    <legal-block>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.288">
+                                        <b>2. Document on confidence-building measures and certain aspects of security and disarmament</b>
+                                   </p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.199">The participating States:</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.200">Desirous of eliminating the causes of tension that may exist among them and thus of contributing to the strengthening of peace and security in the world;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.201">Determined to strengthen confidence among them and thus to contribute to increasing stability and security in Europe;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.202">Determined further to refrain in their mutual relations, as well as in their international relations in general, from the threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the purposes of the United Nations and with the Declaration on Principles Guiding Relations between Participating States as adopted in this Final Act;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.203">Recognizing the need to contribute to reducing the dangers of armed conflict and of misunderstanding or miscalculation of military activities which could give rise to apprehension, particularly in a situation where the participating States lack clear and timely information about the nature of such activities;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.204">Taking into account considerations relevant to efforts aimed at lessening tension and promoting disarmament;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.205">Recognizing that the exchange of observers by invitation at military manoeuvres will help to promote contacts and mutual understanding;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.206">Having studied the question of prior notification of major military movements in the context of confidence-building;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.207">Recognizing that there are other ways in which individual States can contribute further to their common objectives;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.208">Convinced of the political importance of prior notification of major military manoeuvres for the promotion of mutual understanding and the strengthening of confidence, stability and security;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.209">Accepting the responsibility of each of them to promote these objectives and to implement this measure, in accordance with the accepted criteria and modalities, as essentials for the realization of these objectives;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.210">Recognizing that this measure deriving from political decision rests upon a voluntary basis;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.211">Have adopted the following:</p>
+                              </item>
+                         </gen-list>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.289">
+                                             <i>I. Prior notification of major military manoeuvres. </i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.212">They will notify their major military manoeuvres to all other participating States through usual diplomatic channels in accordance with the following provisions:</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.213">Notification will be given of major military manoeuvres exceeding a total of 25,000 troops, independently or combined with any possible air or naval components (in this context the word `troops' includes amphibious and airborne troops). In the case of independent manoeuvres of amphibious or airborne troops, or of combined manoeuvres involving them, these troops will be included in this total. Furthermore, in the case of combined manoeuvres which do not reach the above total but which involve land forces together with significant numbers of either amphibious or airborne troops, or both, notification can also be given.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.214">Notification will be given of major military manoeuvres which take place on the territory, in Europe, of any participating State as well as, if applicable, in the adjoining sea area and air space.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.215">In the case of a participating State whose territory extends beyond Europe, prior notification need be given only of manoeuvres which take place in an area within 250km from its frontier facing or shared with any other European participating State, the participating State need not, however, give notification in cases in which that area is also contiguous to the participating State's frontier facing or shared with a non-European non-participating State.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.216">Notification will be given 21 days or more in advance of the start of the manoeuvre or in the case of a manoeuvre arranged at shorter notice at the earliest possible opportunity prior to its starting date.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.217">Notification will contain information of the designation, if any, the general purpose of and the States involved in the manoeuvre, the type or types and numerical strength of the forces engaged, the area and estimated time-frame of its conduct. The participating States will also, if possible, provide additional relevant information, particularly that related to the components of the forces engaged and the period of involvement of these form.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.218">Prior notification of other military manoeuvres.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.219">The participating States recognize that they can contribute further to strengthening confidence and increasing security and stability, and to this end may also notify smaller-scale military manoeuvres to other participating States, with special regard for those near the area of such manoeuvres.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.220">To the same end, the participating States also recognize that they may notify other military manoeuvres conducted by them.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.221">Exchange of observers.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.222">The participating States will invite other participating States, voluntarily and on a bilateral basis, in a spirit of reciprocity and goodwill towards all participating States, to send observers to attend military manoeuvres.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.223">The inviting State will determine in each case the number of observers, the procedures and conditions of their participation, and give other information which it may consider useful. It will provide appropriate facilities and hospitality.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.224">The invitation will be given as far ahead as is conveniently possible through usual diplomatic channels.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.225">Prior notification of major military movements.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.226">In accordance with the Final Recommendations of the Helsinki Consultations the participating States studied the question of prior-notification of major military movements as a measure to strengthen confidence.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.227">Accordingly, the participating States recognize that they may, at their own discretion and with a view to contributing to confidence-building, notify their major military movements.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.228">In the same spirit, further consideration will be given by the States participating in the Conference on Security and Co-operation in Europe to the question of prior notification of major military movements, bearing in mind, in particular, the experience gained by the implementation of the measures which are set forth in this document.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.229">Other confidence-building measures.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.230">The participating States recognize that there are other means by which their common objectives can be promoted.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.231">In particular, they will, with due regard to reciprocity and with a view to better mutual understanding, promote exchanges by invitation among their military delegations.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.232">In order to make a fuller contribution to their common objective of confidence-building, the participating States, when conducting their military activities in the area covered by the provisions for the prior notification of major military manoeuvres, will duly take into account and respect this objective.</p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.233">They also recognize that the experience gained by the implementation of the provisions set forth above, together with further efforts, could lead to developing and enlarging measures aimed at strengthening confidence.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.290">
+                                             <i>II. Questions relating to disarmament.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.234">The participating States recognize the interest of all of them in efforts aimed at lessening military confrontation and promoting disarmament which are designed to complement political détente in Europe and to strengthen their security. They are convinced of the necessity to take effective measures in these fields which by their scope and by their nature constitute steps towards the ultimate achievement of general and complete disarmament under strict and effective international control, and which should result in strengthening peace and security throughout the world.</p>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                         <legal-block>
+                              <gen-list>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.291">
+                                             <i>III. General considerations.</i>
+                                        </p>
+                                   </item>
+                                   <item>
+                                        <p id="WB02061.IO.TXT.235">Having considered the views expressed on various subjects related to the strengthening of security in Europe through joint efforts aimed at promoting détente and disarmament, the participating States, when engaged in such efforts, will, in this context, proceed, in particular, from the following essential considerations:</p>
+                                   </item>
+                                   <item>
+                                        <gen-list>
+                                             <item>
+                                                  <p id="WB02061.IO.TXT.236">The complementary nature of the political and military aspects of security;</p>
+                                             </item>
+                                             <item>
+                                                  <p id="WB02061.IO.TXT.237">The interrelation between the security of each participating State and security in Europe as a whole and the relationship which exists, in the broader context of world security, between security in Europe and security in the Mediterranean area;</p>
+                                             </item>
+                                             <item>
+                                                  <p id="WB02061.IO.TXT.238">Respect for the security interests of all States participating in the Conference on Security and Co-operation in Europe inherent in their sovereign equality;</p>
+                                             </item>
+                                             <item>
+                                                  <p id="WB02061.IO.TXT.239">The importance that participants in negotiating fora see to it that information about relevant developments, progress and results is provided on an appropriate basis to other States participating in the Conference on Security and Co-operation in Europe and, in return, the justified interest of any of those States in having their views considered.</p>
+                                             </item>
+                                        </gen-list>
+                                   </item>
+                              </gen-list>
+                         </legal-block>
+                    </legal-block>
+               </legal-block>
+          </legal-block>
+     </int-org-section>
+     <int-org-section id="WB02061.IO.TXT.292" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="edio">
+          <heading>Lisbon Declaration on a Common and Comprehensive Security Model for Europe for the Twenty-first Century</heading>
+          <heading-note>3 December 1996</heading-note>
+          <legal-block>
+               <gen-list>
+                    <label>1.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.240">We, the Heads of State or Government of the States participating in the OSCE and meeting in Lisbon, believe that history has offered us an unprecedented opportunity. Freedom, democracy and co-operation among our nations and peoples are now the foundation for our common security. We are determined to learn from the tragedies of the past and to translate our vision of a co-operative future into reality by creating a common security space free of dividing lines in which all States are equal partners.</p>
+                    </item>
+                    <label>2.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.241">We face serious challenges, but we face them together. They concern the security and sovereignty of States as well as the stability of our societies. Human rights are not fully respected in all OSCE States. Ethnic tension, aggressive nationalism, violations of the rights of persons belonging to national minorities, as well as serious difficulties of economic transition, can threaten stability and may also spread to other States. Terrorism, organized crime, drug and arms trafficking, uncontrolled migration and environmental damage are of increasing concern to the entire OSCE community.</p>
+                    </item>
+                    <label>3.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.242">Drawing strength from our diversity, we shall meet these challenges together, through the OSCE and in partnership with other international organizations. Our approach is one of co-operative security based on democracy, respect for human rights, fundamental freedoms and the rule of law, market economy and social justice. It excludes any quest for domination. It implies mutual confidence and the peaceful settlement of disputes.</p>
+                    </item>
+                    <label>4.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.243">The OSCE plays a central role in achieving our goal of a common security space. Its fundamental elements—the comprehensiveness and indivisibility of security and the allegiance to shared values, commitments and norms of behaviour—inspire our vision of empowering governments and individuals to build a better and more secure future.</p>
+                    </item>
+                    <label>5.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.244">We recognize that, within the OSCE, States are accountable to their citizens and responsible to each other for their implementation of OSCE commitments.</p>
+                    </item>
+                    <label>6.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.245">We jointly commit ourselves:</p>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.246">to act in solidarity to promote full implementation of the principles and commitments of the OSCE enshrined in the Helsinki Final Act, the Charter of Paris and other CSCE/OSCE documents;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.247">to consult promptly—in conformity with our OSCE responsibilities and making full use of the OSCE's procedures and instruments—with a participating State whose security is threatened and to consider jointly actions that may have to be undertaken in defence of our common values;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.248">not to support participating States that threaten or use force in violation of international law against the territorial integrity or political independence of any participating State;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.249">to attach importance to security concerns of all participating States irrespective of whether they belong to military structures or arrangements.</p>
+                              </item>
+                         </gen-list>
+                    </item>
+                    <label>7.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.250">We reaffirm the inherent right of each and every participating State to be free to choose or change its security arrangements, including treaties of alliance, as they evolve. Each participating State will respect the rights of all others in this regard. They will not strengthen their security at the expense of the security of other States. Within the OSCE, no State, organization or grouping can have any superior responsibility for maintaining peace and stability in the OSCE region, or regard any part of the OSCE region as its sphere of influence.</p>
+                    </item>
+                    <label>8.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.251">We shall ensure that the presence of foreign troops on the territory of a participating State is in conformity with international law, the freely expressed consent of the host State, or a relevant decision of the United Nations Security Council.</p>
+                    </item>
+                    <label>9.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.252">We are committed to transparency in our actions and in our relations with one another. All our States participating in security arrangements will take into consideration that such arrangements should be of a public nature, predictable and open, and should correspond to the needs of individual and collective security. These arrangements must not infringe upon the sovereign rights of other States and will take into account their legitimate se­curity concerns.</p>
+                         <p id="WB02061.IO.TXT.253">We may use the OSCE as a repository for declarations and agreements in regard to our security arrangements.</p>
+                    </item>
+                    <label>10.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.254">Based on these foundations, our task now is to enhance our co-operation for the future. To this end:</p>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.255">We encourage bilateral or regional initiatives aimed at developing relations of good neighbourliness and co-operation. In this context, the OSCE could explore a menu of confidence- and security-building measures in support of regional security processes. We shall continue to follow the implementation of the Pact on Stability in Europe. Regional round tables can be a useful means of preventive diplomacy.</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.256">As an important contribution to security we reaffirm our deter­mination to fully respect and implement all our commitments relating to the rights of persons belonging to national minorities. We reaffirm our will to co-operate fully with the High Commissioner on National Minorities. We are ready to respond to a request by any participating State seeking solutions to minority issues on its territory.</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.257">We value our co-operation with regions adjacent to the OSCE region, giving particular attention to the Mediterranean area.</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.258">We commit ourselves to the continuation of the arms control process as a central security issue in the OSCE region.</p>
+                              </item>
+                         </gen-list>
+                         <p id="WB02061.IO.TXT.259">The further strengthening of stability through conventional arms control will be decisive for future European security. We reaffirm the importance of the CFE Treaty and welcome the decision of the CFE States Parties to adapt it to a changing security environment in Europe so as to contribute to common and indivisible security.</p>
+                         <p id="WB02061.IO.TXT.260">We welcome the decisions on the `Framework for Arms Control' and on the `Development of the Agenda of the Forum for Security Co-operation' adopted by the Forum for Security Co-operation. We are determined to make further efforts in this Forum in order to jointly address common security concerns of participating States and to pursue the OSCE's comprehensive and co-operative concept of indivisible security.</p>
+                         <p id="WB02061.IO.TXT.261">In this context, we reaffirm that we shall maintain only such military capabilities as are commensurate with individual or collective legitimate security needs, taking into account rights and obligations under international law. We shall determine our military capabilities on the basis of national democratic procedures, in a transparent manner, bearing in mind the legitimate security concerns of other States as well as the need to contribute to international security and stability.</p>
+                         <p id="WB02061.IO.TXT.262">We reaffirm that European security requires the widest co-operation and co-ordination among participating States and European and transatlantic organizations. The OSCE is the inclusive and comprehensive organization for consultation, decision-making and co-operation in its region and a regional arrangement under Chapter VIII of the United Nations Charter. As such it is particularly well suited as a forum to enhance co-operation and complementarity among such organizations and institutions. The OSCE will act in partnership with them, in order to respond effectively to threats and challenges in its area.</p>
+                         <p id="WB02061.IO.TXT.263">In exceptional circumstances the participating States may jointly decide to refer a matter to the United Nations Security Council on behalf of the OSCE whenever, in their judgement, action by the Security Council may be required under the relevant provision of Chapter VII of the Charter of the United Nations.</p>
+                         <p id="WB02061.IO.TXT.264">The OSCE will strengthen co-operation with other security organizations which are transparent and predictable in their actions, whose members individually and collectively adhere to OSCE principles and commitments, and whose membership is based on open and voluntary commitments.</p>
+                    </item>
+                    <label>11.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.265">Our work on the Security Model is well under way and will actively continue. We instruct our representatives to work energetically on the Security Model and invite the Chairperson-in-Office to report to the next Ministerial Council in Copenhagen. The agenda for their work will include the following:</p>
+                         <gen-list>
+                              <item>
+                                   <p id="WB02061.IO.TXT.266">continuing review of the observance of OSCE principles and implementation of commitments to ensure progress toward the goals of the OSCE and towards the work outlined in this agenda;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.267">enhancing instruments of joint co-operative action within the OSCE framework in the event of non-compliance with the OSCE commitments by a participating State;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.268">defining in a Platform for Co-operative Security modalities for co-operation between the OSCE and other security organizations as set out above;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.269">based on the experience of OSCE instruments for preventive diplomacy and conflict prevention, refining the existing tools and developing additional ones in order to encourage participating States to make greater use of the OSCE in advancing their security;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.270">enhancing co-operation among participating States to develop further the concepts and principles included in this Declaration and to improve our ability to meet specific risks and challenges to security;</p>
+                              </item>
+                              <item>
+                                   <p id="WB02061.IO.TXT.271">recommending any new commitments, structures or arrangements within the OSCE framework which would reinforce security and stability in Europe.</p>
+                              </item>
+                         </gen-list>
+                         <p id="WB02061.IO.TXT.272">Drawing on this work, remaining committed to the Helsinki Final Act and recalling the Charter of Paris, we will consider developing a Charter on European Security which can serve the needs of our peoples in the new century.</p>
+                    </item>
+                    <label>12.</label>
+                    <item>
+                         <p id="WB02061.IO.TXT.273">Our goal is to transform our search for greater security into a mutual effort to achieve the aspirations and improve the lives of all our citizens. This quest, grounded in pragmatic achievements as well as ideals, will draw on the flexible and dynamic nature of the OSCE and its central role in ensuring security and stability.</p>
+                    </item>
+               </gen-list>
+          </legal-block>
+     </int-org-section>
+</int-org-entry>

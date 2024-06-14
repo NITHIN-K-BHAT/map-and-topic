@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL52172" sllink="SLSDOCRF" sllinkid="52171" slsdocid="51116" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AL.DIR.227" id-root="al.dir" iso="al" sect-type="broadcasting-comms" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Broadcasting and Communications</heading>
+                    <dir-section id="AL.DIR.228" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Telecommunications</heading>
+                         <!--TP 26.02.2014 The operators list below is still up to date.-->
+                         <!--TP 06.07.2011 ENTRY TO BE CREATED? for Autoriteti i Komunikimeve Elektronike dhe Postare -AKEP (ELECTRONIC AND POSTAL COMMUNICATIONS AUTHORITY) www.akep.al-->
+                         <org-list>
+                              <org-entryref id="SL4002326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4002325" slsdocid="4002219" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1363932263" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <!--MR 14.12.2021 Gentian no longer the CEO, new name could not be confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Abissnet</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Ismail Qemali 18, Kati 2, 1019 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 4300001</telephone>
+                                             <fax>(4) 2256002</fax>
+                                             <email>info@abissnet.al</email>
+                                             <internet>www.abissnet.al</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">fixed-line telephone communications and internet services</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL52666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52665" slsdocid="51369" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.231" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Albtelecom</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Muhedin Llagami, Kompleksi Sq. 21,, 1000 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2200123</telephone>
+                                             <email>social@albtelecom.al</email>
+                                             <internet>www.albtelecom.al</internet>
+                                        </address-block>
+                                        <ownership>80.3% owned by 4iG (Hungary), 13.8% by the Ministry of Finance and the Economy and 2.5% by the national postal service, Posta Shqiptare</ownership>
+                                        <content-note style="NORMAL">telecommunications operator (mobile and landline) and a leading provider of fixed line internet services</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bilgen</forename>
+                                                       <surname>Aldan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7525098" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7525097" slsdocid="51370" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.230" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>One Telecommunications Sh.a.</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rruga Vangjel Noti, 1031 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2275300</telephone>
+                                             <email>contact_us@telekom.com.al</email>
+                                             <internet>www.one.al</internet>
+                                        </address-block>
+                                        <found-date>1996 as Albanian Mobile Communications</found-date>
+                                        <content-note style="NORMAL">name changed to Telekom Albania in 2015, and as above in 2020</content-note>
+                                        <content-note style="NORMAL">operates mobile telephone network</content-note>
+                                        <content-note style="NORMAL">acquired by 4iG (registered in Hungary) in 2022</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Péter</forename>
+                                                       <surname>Fekete</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emil</forename>
+                                                       <surname>Georgakiev</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7525099" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" slsdocty="org-entry org-entrydtd" />
+                              <org-entryref id="SL1458608" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458607" slsdocid="1439861" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AL.DIR.1132070494" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="BROADCASTING AND COMMUNICATIONS" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <org-entry-head>
+                                             <org-entry-name>Vodafone Albania</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Autostrada Tiranë-Durrës, Rruga Pavarësia 61, Kashar, 1025 Tirana</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 2283072</telephone>
+                                             <fax>(4) 2283331</fax>
+                                             <email>nakontaktoni@vodafone.com</email>
+                                             <internet>www.vodafone.al</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">mobile telecommunications</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Katia</forename>
+                                                       <surname>Stathaki</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AL.DIR.232" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                         <heading>Broadcasting</heading>
+                         <dir-section id="AL.DIR.234" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL52668" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52667" slsdocid="51367" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.235" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Audiovisual Media Authority</org-entry-name>
+                                                  <abbr>AMA</abbr>
+                                                  <alt-name>Autoriteti i Mediave Audiovizive</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Papa Gjon Pali II, 15, 1010 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2233006</telephone>
+                                                  <email>info@ama.gov.al</email>
+                                                  <internet>ama.gov.al</internet>
+                                             </address-block>
+                                             <found-date>2007, replacing Nat. Council of Radio and Television</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Armela</forename>
+                                                            <surname>Krasniqi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AL.DIR.236" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Radio</heading>
+                              <org-list>
+                                   <org-entryref id="SL52670" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52669" slsdocid="51365" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.237" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Radio Televizioni Shqiptar</org-entry-name>
+                                                  <abbr>RTSH</abbr>
+                                                  <alt-name>Albanian Radio and Television</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Ismail Qemali 11, 1019 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2223911</telephone>
+                                                  <email>contact@rtsh.al</email>
+                                                  <internet>www.rtsh.al</internet>
+                                             </address-block>
+                                             <found-date>1938 as Radio Tirana</found-date>
+                                             <content-note style="NORMAL">public service broadcaster</content-note>
+                                             <content-note style="NORMAL">operates 11 radio channels, incl. news, music, youth broadcasting, international, children’s and local; radio stations also accessible via internet and mobile telephone apps</content-note>
+                                             <content-note style="NORMAL">mainly funded by a licence fee, but partly state-funded, and also receives funds from commercial advertising</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alfred</forename>
+                                                            <surname>Peza</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL52676" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52675" slsdocid="51362" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.240" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <!--MR 14.12.2021 Ditto-->
+                                             <!--NS 13.12.2016 sb 19.02.2015 role group not confirmed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Top Albania Radio</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Sheshi Italia 1, Arena Centre, 1001 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2247492</telephone>
+                                                  <fax>(4) 2247493</fax>
+                                                  <email>contact@topalbaniaradio.com</email>
+                                                  <internet>www.topalbaniaradio.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dorjana</forename>
+                                                            <surname>Lato</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <!--sb 21.06.2011 role group not confirmed-->
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AL.DIR.241" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                              <heading>Television</heading>
+                              <org-list>
+                                   <org-entryref id="SL52678" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52677" slsdocid="51361" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.242" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <!--MR 14.12.2021 Why two separate entries for same company? IG: It may looks a bit illogical, but the entry under Radio gives all the radio-specific info and the one under TV the TV-specific info. There might be a better way of doing it though!-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Radio Televizioni Shqiptar</org-entry-name>
+                                                  <abbr>RTSH</abbr>
+                                                  <alt-name>Albanian Radio and Television</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Ismail Qemali 11, 1019 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2223911</telephone>
+                                                  <email>contact@rtsh.al</email>
+                                                  <internet>www.rtsh.al</internet>
+                                             </address-block>
+                                             <found-date>1938 as radio broadcaster; television broadcaster from 1960</found-date>
+                                             <content-note style="NORMAL">public service broadcaster</content-note>
+                                             <content-note style="NORMAL">operates both digital and satellite television services, and there are several local television channels in addition to those providing general domestic and international programming</content-note>
+                                             <content-note style="NORMAL">mainly funded by a licence fee, but partly state-funded, and also receives funds from commercial advertising</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alfred</forename>
+                                                            <surname>Peza</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir of Television</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vena</forename>
+                                                            <surname>Isak</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1458616" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1458615" slsdocid="1438834" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1131715769" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <data-protection date-added="12.01.2016" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Top Channel TV</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga 17 Nentori 20, Mezez Koder, Komuna Kashar, 1010 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2253177</telephone>
+                                                  <fax>(4) 2253178</fax>
+                                                  <email>info@top-channel.tv</email>
+                                                  <internet>www.top-channel.tv</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vjollca</forename>
+                                                            <surname>Hoxha</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4597705" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4597704" slsdocid="1287759" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AL.DIR.1118233901" id-root="al.dir" iso="al" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television">
+                                             <!--MR 14.12.2021 Not sure about role group-->
+                                             <org-entry-head>
+                                                  <org-entry-name>TV Klan</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rruga Aleksander Moisiu 97, Ish-Kinostudio, 1005 Tirana</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(4) 2347821</telephone>
+                                                  <fax>(4) 2347808</fax>
+                                                  <email>info@tvklan.al</email>
+                                                  <internet>tvklan.al</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Aleksander</forename>
+                                                            <surname>Frangaj</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

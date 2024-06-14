@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2188753" sllink="SLSDOCRF" sllinkid="2188752" slsdocid="2188744" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="KS.DIR.016" id-root="ks.dir" iso="ks" sect-type="transport" section="Transport" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee ewyb">
+                    <heading>Transport</heading>
+                    <dir-section id="KS.DIR.11982318141" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Railways</heading>
+                         <p>A new motorway, which links Prishtina with the North Macedonian capital, Skopje, opened fully in 2019.</p>
+                         <org-list>
+                              <org-entryref id="SL2188749" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2188748" slsdocid="1933052" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1176803258" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Railways">
+                                        <data-protection date-added="15.06.2021" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Hekurudhat e Kosovës Trainkos Sh.A</org-entry-name>
+                                             <alt-name>Kosovo Railways Trainkos</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>12000 Fushë Kosovë, Sheshi i Lirisë</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 534814</telephone>
+                                             <email>info@trainkos.com</email>
+                                             <internet>www.trainkos.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">jt-stock co</content-note>
+                                        <content-note style="NORMAL">operates railway services within Kosovo and international services to Skopje, North Macedonia</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agron</forename>
+                                                       <surname>Statovci</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <!--TP 11.04.2014 details could not be updated; http://www.trainkos.com/ is one of the two branches of Kosovo Raiways-->
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="KS.DIR.11982319401" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Civil Aviation</heading>
+                         <p>There is an international airport at Prishtina.</p>
+                         <org-list>
+                              <org-entryref id="SL6255109" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6255108" slsdocid="2592731" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="KS.DIR.1237915997" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation">
+                                        <!--MR 14.12.2023 https://www.flyksa.com/en/kontakti-->
+                                        <!--sc 24.03.2020 email confirmed st https://good.co/company/eurokoha-kosova-airlines-->
+                                        <org-entry-head>
+                                             <org-entry-name>Kosova Airlines</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Vellusha e Poshtme 17</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 220200</telephone>
+                                             <fax>(38) 249186</fax>
+                                             <email>info@kosovaairlines.com</email>
+                                             <internet>www.flyksabook.com</internet>
+                                        </address-block>
+                                        <found-date>2003</found-date>
+                                        <content-note style="NORMAL">flights between Kosovo, North Macedonia and Albania and various cities in central and western Europe</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

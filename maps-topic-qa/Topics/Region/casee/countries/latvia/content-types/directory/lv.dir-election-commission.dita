@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1603026" sllink="SLSDOCRF" sllinkid="1603025" slsdocid="1498349" slsdocty="dir-section dir-sectiondtd"  xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="LV.DIR.1140626417" id-root="lv.dir" iso="lv" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                    <!--MR 22.07.2021 headline content checked-->
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1498357" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1498356" slsdocid="1498315" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="LV.DIR.1140625896" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entry">
+                                   <data-protection date-added="26.06.2020" ticked-box="N" />
+                                   <org-entry-head>
+                                        <org-entry-name>Central Election Commission</org-entry-name>
+                                        <alt-name>Centrālā Vēlēšanu Komisija</alt-name>
+                                        <abbr>CVK</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Smilšu iela 4, Rīga 1050</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">6732-2688</telephone>
+                                        <fax>6732-5251</fax>
+                                        <email>cvk@cvk.lv</email>
+                                        <internet>www.cvk.lv</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Kristīne</forename>
+                                                  <surname>Saulīte</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3020258" sllink="SLSDOCRF" sllinkid="3020257" slsdocid="60341" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="RO.DIR.703" id-root="ro.dir" iso="ro" sect-type="education" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb casee">
+                    <heading>Education</heading>
+                    <p id="RO.DIR.704">In 2019/20 enrolment at pre-primary schools was equivalent to 94.9% of children in the relevant age-group. In 2020/22 the enrolment ratio for primary education included 90.4% of children (males 90.5%; females 90.3%) in the relevant age-group. In the same year enrolment in secondary education was equivalent to 86.2% of children (males 86.0%; females 86.4%). In 2021, according to the United Nations Educational, Scientific and Cultural Organization, government spending on education was equivalent to 8.1% of total government expenditure.</p>
+                    <!--TP 22.04.2014 pre-school-figure remain the same-->
+                    <!--TP 25.04.2013 very much different from the UNESCO figures: http://stats.uis.unesco.org/unesco/TableViewer/document.aspx?ReportId=121&IF_Language=eng&BR_Country=6420-->
+                    <dir-section id="RO.DIR.707" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="casee">
+                         <heading>National Agency</heading>
+                         <org-list>
+                              <org-entryref id="SL3084819" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3084818" slsdocid="3084781" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="RO.DIR.1279085567" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Education" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Agency">
+                                        <org-entry-head>
+                                             <org-entry-name>National Centre for Recognition and Equivalence of Diplomas</org-entry-name>
+                                             <alt-name>Centrul Naţional de Recunoaştere şi Echivalare a Diplomelor</alt-name>
+                                             <abbr>CNRED</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010176 Bucharest 1, Str. Spiru Haret 12</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 4055659</telephone>
+                                             <fax>(21) 3178517</fax>
+                                             <email>cnred@edu.gov.ro</email>
+                                             <internet>cnred.edu.ro</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <content-note style="NORMAL">organ of Ministry of Education; implementation of national educational directives; academic recognition of studies abroad by Romanian citizens</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gianina</forename>
+                                                       <surname>Chirazi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+     

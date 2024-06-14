@@ -31,5 +31,5 @@ jobs:
           for file in $(find maps-topic-qa/Topics/Region -type f); do
             country=$(echo "$file" | cut -d'/' -f4)
             filename=$(basename "$file")
-            aws s3 cp "$file" "s3://oxygen.xml/maps-topic-qa/Topics/Region/$country/region_${filename}"
+            aws s3 cp "$file" "s3://oxygen.xml/maps-topic-qa/Topics/Region/$country/${filename}"
           done

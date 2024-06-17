@@ -1,4 +1,4 @@
-name: Upload Region Files to S3
+name: Upload Files to S3
 
 on:
   push:
@@ -26,7 +26,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y awscli
  
-      - name: Upload Region Files to S3 with Prefixed Filenames
+      - name: Upload Files 
         run: |
           for file in $(find maps-topic-qa/Topics/Region -type f); do
             country=$(echo "$file" | cut -d'/' -f4)
